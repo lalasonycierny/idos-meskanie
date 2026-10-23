@@ -1250,3 +1250,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-23 15:25:09;2026-10-23;15;Friday;mešká 15-29 minút;10;6.06 %;6
 2026-10-23 15:25:09;2026-10-23;15;Friday;mešká 30-59 minút;4;2.42 %;2
 2026-10-23 15:25:09;2026-10-23;15;Friday;mešká 60 a viac minút;3;1.82 %;1
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 621 TATRAN;Považská Bystrica;mešká 25 min.;25
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 618 TATRAN;Výh. Paludza;mešká 3 min.;3
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 614 TATRAN;Výh. Nivy;mešká 9 min.;9
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 620 TATRAN;Výh. Gánovce;mešká 16 min.;16
+2026-10-23 15:35:33;2026-10-23;15;Friday;Os 8102smer Štrbské Pleso;Štrbské Plesoteraz;+ 589 minút= 9 hod, 49 min.;1129
+2026-10-23 15:35:33;2026-10-23;15;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 114 minút= 1 hod, 54 min.;174
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 613 TATRANsmer Košice;Spišské Vlachyprešiel stanicou pred 4 min.;+ 69 minút= 1 hod, 9 min.;129
+2026-10-23 15:35:33;2026-10-23;15;Friday;RJ 1043 REGIOJETsmer Bratislava hlavná stanica;Veľké Leváreprešiel stanicou pred 4 min.;+ 45 minút;45
+2026-10-23 15:35:33;2026-10-23;15;Friday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Palárikovoprešiel stanicou pred 6 min.;+ 38 minút;38
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 619 TATRANsmer Košice;Turanyprešiel stanicou pred 3 min.;+ 36 minút;36
+2026-10-23 15:35:33;2026-10-23;15;Friday;Os 3121smer Trenčín;Výh. Nivyprešiel stanicou pred 3 min.;+ 28 minút;28
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 621 TATRANsmer Košice;Považská Bystricaprišiel pred 3 min.;+ 25 minút;25
+2026-10-23 15:35:33;2026-10-23;15;Friday;REx 1873smer Nové Zámky;Galantaodišiel pred 3 min.;+ 20 minút;20
+2026-10-23 15:35:33;2026-10-23;15;Friday;Os 7818smer Svit;Výh. Gánovceprešiel stanicou pred 7 min.;+ 18 minút;18
+2026-10-23 15:35:33;2026-10-23;15;Friday;R 963 ZAKARPATIAsmer Košice;Slanecprešiel stanicou pred 5 min.;+ 17 minút;17
+2026-10-23 15:35:33;2026-10-23;15;Friday;Ex 620 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou teraz;+ 16 minút;16
+2026-10-23 15:35:33;2026-10-23;15;Friday;Os 3123smer Trenčín;Papradodišiel pred 7 min.;+ 15 minút;15
+2026-10-23 15:35:33;2026-10-23;15;Friday;mešká do 5 minút;100;65.36 %;65
+2026-10-23 15:35:33;2026-10-23;15;Friday;mešká 5-14 minút;40;26.14 %;26
+2026-10-23 15:35:33;2026-10-23;15;Friday;mešká 15-29 minút;7;4.58 %;4
+2026-10-23 15:35:33;2026-10-23;15;Friday;mešká 30-59 minút;3;1.96 %;1
+2026-10-23 15:35:33;2026-10-23;15;Friday;mešká 60 a viac minút;3;1.96 %;1
