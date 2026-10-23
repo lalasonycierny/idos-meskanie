@@ -3,26 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meškanie vlakov na Slovensku</title>
+    <title>Meškanie vlakov na Slovensku - Štatistiky a História</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f4f4f9; color: #333; }
+        body { font-family: Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background-color: #f4f4f9; color: #333; }
         h1, h2 { color: #d9534f; }
         .card { background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        pre { background: #eee; padding: 10px; border-radius: 4px; font-size: 16px; white-space: pre-wrap; }
+        pre { background: #eee; padding: 15px; border-radius: 4px; font-size: 16px; white-space: pre-wrap; }
         img { width: 100%; height: auto; border-radius: 4px; margin-top: 10px; }
-        .footer { text-align: center; font-size: 12px; color: #77px; margin-top: 30px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .footer { text-align: center; font-size: 12px; color: #777; margin-top: 30px; }
     </style>
 </head>
 <body>
     <h1>🚂 Meškanie vlakov na Slovensku</h1>
-    <p>Automaticky aktualizovaný prehľad meškaní vlakov.</p>
+    <p>Detailná analýza, história a štatistiky meškaní vlakov zbierané v reálnom čase.</p>
 
     <div class="card">
-        <h2>📊 Aktuálne štatistiky</h2>
-        <pre>BLESKOVÁ ŠTATISTIKA MEŠKANÍ
-Celkový počet zaznamenaných dát: 172
-Priemerné meškanie na Slovensku: 29.90 min.
+        <h2>📊 Súhrnné štatistiky</h2>
+        <pre>KOMPLETNÁ ŠTATISTIKA MEŠKANÍ VLAKOV
+Celkový počet zaznamenaných meraní: 201
+Priemerné meškanie: 29.73 min.
+Maximálne zaznamenané meškanie: 226 min.
 </pre>
+    </div>
+
+    <div class="card">
+        <h2>🚆 Top 5 vlakov s najvyšším meškaním</h2>
+        <table>
+            <tr><th>Vlak</th><th>Priemerné meškanie (min)</th></tr>
+            <tr><td>Os 8102smer Štrbské Pleso</td><td>206.62</td></tr><tr><td>RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.</td><td>62.88</td></tr><tr><td>Os 5307smer Trenčín</td><td>57.62</td></tr><tr><td>mešká do 5 minút</td><td>56.50</td></tr><tr><td>EN 443 SLOVAKIAsmer Humenné</td><td>46.33</td></tr>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>📈 Historický vývoj meškania v čase</h2>
+        <img src="grafy/3_historicky_vyvoj.png" alt="Historický vývoj">
+    </div>
+
+    <div class="card">
+        <h2>📅 Meškanie podľa dní v týždni</h2>
+        <img src="grafy/4_dni_v_tyzdni.png" alt="Dni v týždni">
     </div>
 
     <div class="card">
@@ -31,12 +53,12 @@ Priemerné meškanie na Slovensku: 29.90 min.
     </div>
 
     <div class="card">
-        <h2>📈 Vývoj meškania počas dňa</h2>
+        <h2>⏰ Vývoj meškania počas dňa</h2>
         <img src="grafy/2_meskanie_pocas_dna.png" alt="Meškanie počas dňa">
     </div>
 
     <div class="footer">
-        Posledná aktualizácia: 2026-10-23 09:27:42
+        Posledná aktualizácia: 2026-10-23 09:31:32
     </div>
 </body>
 </html>
