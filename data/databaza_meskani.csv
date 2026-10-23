@@ -316,3 +316,34 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-23 09:50:52;2026-10-23;9;Friday;mešká 15-29 minút;13;9.92 %;9
 2026-10-23 09:50:52;2026-10-23;9;Friday;mešká 30-59 minút;4;3.05 %;3
 2026-10-23 09:50:52;2026-10-23;9;Friday;mešká 60 a viac minút;2;1.53 %;1
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 610 TATRAN;Spišské Vlachy;mešká 15 min.;15
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 8102smer Štrbské Pleso;Štrbské Plesoteraz;+ 255 minút= 4 hod, 15 min.;495
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 5307smer Trenčín;Trenčínteraz;+ 106 minút= 1 hod, 46 min.;166
+2026-10-23 10:01:23;2026-10-23;10;Friday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Tvrdošovceprešiel stanicou pred 5 min.;+ 44 minút;44
+2026-10-23 10:01:23;2026-10-23;10;Friday;R 961smer Košice;Čierna nad Tisouteraz;+ 43 minút;43
+2026-10-23 10:01:23;2026-10-23;10;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouteraz;+ 38 minút;38
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 613 TATRANsmer Košice;Bratislava-Račaprešiel stanicou teraz;+ 34 minút;34
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 600 TATRANsmer Bratislava hlavná stanica;Bratislava-Račateraz;+ 26 minút;26
+2026-10-23 10:01:23;2026-10-23;10;Friday;R 913 GEMERANsmer Košice;Gemerská Hôrkaprešiel stanicou pred 2 min.;+ 26 minút;26
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 9111smer Humenné;Čierne nad Topľouteraz;+ 24 minút;24
+2026-10-23 10:01:23;2026-10-23;10;Friday;REx 1949smer Košice;Košiceprišiel pred 8 min.;v cieli+ 23 minút;23
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Dolný Hričovodišiel teraz;+ 21 minút;21
+2026-10-23 10:01:23;2026-10-23;10;Friday;R 831 URPÍNsmer Banská Bystrica;Banská Bystricaprišiel pred 11 min.;v cieli+ 21 minút;21
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 8509smer Čierna nad Tisou;Slanecteraz;+ 20 minút;20
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 7809smer Košice;Košiceprišiel pred 8 min.;v cieli+ 19 minút;19
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Výh. Horná Stredaprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 7509smer Prievidza;Handlováodišiel pred 5 min.;+ 19 minút;19
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 7806smer Svit;Výh. Gánovceprešiel stanicou pred 11 min.;+ 18 minút;18
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 3011smer Trnava;Bratislava-Račateraz;+ 17 minút;17
+2026-10-23 10:01:23;2026-10-23;10;Friday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Zohorprešiel stanicou pred 7 min.;+ 16 minút;16
+2026-10-23 10:01:23;2026-10-23;10;Friday;Ex 610 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyodišiel pred 5 min.;+ 15 minút;15
+2026-10-23 10:01:23;2026-10-23;10;Friday;Os 7512smer Vrútky;Chrenovecpred 3 min.;+ 15 minút;15
+2026-10-23 10:01:23;2026-10-23;10;Friday;mešká do 5 minút;69;53.49 %;53
+2026-10-23 10:01:23;2026-10-23;10;Friday;mešká 5-14 minút;39;30.23 %;30
+2026-10-23 10:01:23;2026-10-23;10;Friday;mešká 15-29 minút;15;11.63 %;11
+2026-10-23 10:01:23;2026-10-23;10;Friday;mešká 30-59 minút;4;3.10 %;3
+2026-10-23 10:01:23;2026-10-23;10;Friday;mešká 60 a viac minút;2;1.55 %;1
