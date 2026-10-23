@@ -1,0 +1,49 @@
+Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_Minuty
+2026-10-23 08:57:12;2026-10-23;8;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-10-23 08:57:12;2026-10-23;8;Friday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-10-23 08:57:12;2026-10-23;8;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-23 08:57:12;2026-10-23;8;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-23 08:57:12;2026-10-23;8;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-23 08:57:12;2026-10-23;8;Friday;Os 8102smer Štrbské Pleso;Štrbské Plesoteraz;+ 191 minút= 3 hod, 11 min.;191
+2026-10-23 08:57:12;2026-10-23;8;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouteraz;+ 64 minút= 1 hod, 4 min.;64
+2026-10-23 08:57:12;2026-10-23;8;Friday;EN 443 SLOVAKIAsmer Humenné;Košiceteraz;+ 44 minút;44
+2026-10-23 08:57:12;2026-10-23;8;Friday;Os 5307smer Trenčín;Trenčínteraz;+ 42 minút;42
+2026-10-23 08:57:12;2026-10-23;8;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Výh. Paludzaprešiel stanicou pred 2 min.;+ 31 minút;31
+2026-10-23 08:57:12;2026-10-23;8;Friday;EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih;Devínska Nová Vesodišiel pred 12 min.;+ 31 minút;31
+2026-10-23 08:57:12;2026-10-23;8;Friday;Os 3107smer Trenčín;Trenčínprišiel pred 12 min.;v cieli+ 27 minút;27
+2026-10-23 08:57:12;2026-10-23;8;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Výh. Váhprešiel stanicou pred 5 min.;+ 25 minút;25
+2026-10-23 08:57:12;2026-10-23;8;Friday;Os 8107smer Poprad-Tatry TEŽ;Poprad-Tatry TEŽprišiel pred 4 min.;v cieli+ 25 minút;25
+2026-10-23 08:57:12;2026-10-23;8;Friday;REx 1865smer Nové Zámky;Trnovec nad Váhomodišiel pred 5 min.;+ 24 minút;24
+2026-10-23 08:57:12;2026-10-23;8;Friday;Os 3109smer Trenčín;Vaďovceodišiel pred 7 min.;+ 21 minút;21
+2026-10-23 08:57:12;2026-10-23;8;Friday;Os 5506smer Topoľčany;Topoľčanyprišiel pred 10 min.;v cieli+ 21 minút;21
+2026-10-23 08:57:12;2026-10-23;8;Friday;Os 8506smer Prešov;Drienovská Nová Vesodišiel pred 5 min.;+ 20 minút;20
+2026-10-23 08:57:12;2026-10-23;8;Friday;Os 7807smer Košice;Košiceprišiel pred 4 min.;v cieli+ 18 minút;18
+2026-10-23 08:57:12;2026-10-23;8;Friday;mešká do 5 minút;83;58.04 %;58
+2026-10-23 08:57:12;2026-10-23;8;Friday;mešká 5-14 minút;46;32.17 %;32
+2026-10-23 08:57:12;2026-10-23;8;Friday;mešká 15-29 minút;8;5.59 %;5
+2026-10-23 08:57:12;2026-10-23;8;Friday;mešká 30-59 minút;4;2.80 %;2
+2026-10-23 08:57:12;2026-10-23;8;Friday;mešká 60 a viac minút;2;1.40 %;1
+2026-10-23 08:59:52;2026-10-23;8;Friday;Ex 610 TATRAN;Košice;mešká 3 min.;3
+2026-10-23 08:59:52;2026-10-23;8;Friday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-10-23 08:59:52;2026-10-23;8;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-23 08:59:52;2026-10-23;8;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-23 08:59:52;2026-10-23;8;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-23 08:59:52;2026-10-23;8;Friday;Os 8102smer Štrbské Pleso;Štrbské Plesoteraz;+ 194 minút= 3 hod, 14 min.;194
+2026-10-23 08:59:52;2026-10-23;8;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouteraz;+ 67 minút= 1 hod, 7 min.;67
+2026-10-23 08:59:52;2026-10-23;8;Friday;EN 443 SLOVAKIAsmer Humenné;Košiceteraz;+ 47 minút;47
+2026-10-23 08:59:52;2026-10-23;8;Friday;Os 5307smer Trenčín;Trenčínteraz;+ 45 minút;45
+2026-10-23 08:59:52;2026-10-23;8;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Výh. Paludzaprešiel stanicou pred 4 min.;+ 31 minút;31
+2026-10-23 08:59:52;2026-10-23;8;Friday;EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih;Devínska Nová Vesodišiel pred 14 min.;+ 31 minút;31
+2026-10-23 08:59:52;2026-10-23;8;Friday;Os 8107smer Poprad-Tatry TEŽ;Poprad-Tatry TEŽprišiel pred 6 min.;v cieli+ 25 minút;25
+2026-10-23 08:59:52;2026-10-23;8;Friday;REx 1865smer Nové Zámky;Trnovec nad Váhomodišiel pred 8 min.;+ 24 minút;24
+2026-10-23 08:59:52;2026-10-23;8;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Žilinaodišiel teraz;+ 23 minút;23
+2026-10-23 08:59:52;2026-10-23;8;Friday;Os 3109smer Trenčín;Vaďovceodišiel pred 9 min.;+ 21 minút;21
+2026-10-23 08:59:52;2026-10-23;8;Friday;Os 5506smer Topoľčany;Topoľčanyprišiel pred 13 min.;v cieli+ 21 minút;21
+2026-10-23 08:59:52;2026-10-23;8;Friday;Os 8506smer Prešov;Drienovská Nová Vesodišiel pred 8 min.;+ 20 minút;20
+2026-10-23 08:59:52;2026-10-23;8;Friday;Os 7807smer Košice;Košiceprišiel pred 6 min.;v cieli+ 18 minút;18
+2026-10-23 08:59:52;2026-10-23;8;Friday;Os 7808smer Spišské Vlachy;Kysakteraz;+ 15 minút;15
+2026-10-23 08:59:52;2026-10-23;8;Friday;mešká do 5 minút;84;58.74 %;58
+2026-10-23 08:59:52;2026-10-23;8;Friday;mešká 5-14 minút;45;31.47 %;31
+2026-10-23 08:59:52;2026-10-23;8;Friday;mešká 15-29 minút;8;5.59 %;5
+2026-10-23 08:59:52;2026-10-23;8;Friday;mešká 30-59 minút;4;2.80 %;2
+2026-10-23 08:59:52;2026-10-23;8;Friday;mešká 60 a viac minút;2;1.40 %;1
