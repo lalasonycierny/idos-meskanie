@@ -1,64 +1,1309 @@
 <!DOCTYPE html>
-<html lang="sk">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meškanie vlakov na Slovensku - Štatistiky a História</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background-color: #f4f4f9; color: #333; }
-        h1, h2 { color: #d9534f; }
-        .card { background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        pre { background: #eee; padding: 15px; border-radius: 4px; font-size: 16px; white-space: pre-wrap; }
-        img { width: 100%; height: auto; border-radius: 4px; margin-top: 10px; }
-        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
-        .footer { text-align: center; font-size: 12px; color: #777; margin-top: 30px; }
-    </style>
-</head>
-<body>
-    <h1>🚂 Meškanie vlakov na Slovensku</h1>
-    <p>Detailná analýza, história a štatistiky meškaní vlakov zbierané v reálnom čase.</p>
+<html lang='sk'><head><meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>Meškanie vlakov na Slovensku – Štatistiky a História</title>
+<style>
+body{font-family:Arial,sans-serif;max-width:1100px;margin:0 auto;padding:20px;background:#f4f4f9;color:#333}
+h1,h2{color:#d9534f} h2{margin-top:0}
+.card{background:#fff;padding:20px;margin-bottom:20px;border-radius:8px;box-shadow:0 2px 4px rgba(0,0,0,.1);overflow-x:auto}
+.kpi{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px}
+.kpi div{background:#fafafa;border-left:4px solid #d9534f;padding:10px 12px;border-radius:4px}
+.kpi b{display:block;font-size:20px;color:#222} .kpi span{font-size:12px;color:#777}
+img{width:100%;height:auto;border-radius:4px;margin-top:10px}
+table.tbl{width:100%;border-collapse:collapse;margin-top:10px;font-size:13px}
+table.tbl th,table.tbl td{border:1px solid #ddd;padding:6px 8px;text-align:right}
+table.tbl th:first-child,table.tbl td:first-child{text-align:left}
+table.tbl th{background:#f2f2f2} table.tbl tr:nth-child(even){background:#fafafa}
+ul.zistenia li{margin:5px 0}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px} @media(max-width:800px){.grid2{grid-template-columns:1fr}}
+.footer{text-align:center;font-size:12px;color:#777;margin-top:30px}
+</style></head><body>
+<h1>🚂 Meškanie vlakov na Slovensku</h1>
+<p>Obdobie dát: 23.10.2026 08:57 – 23.10.2026 09:35</p>
+<div class="card"><h2>📊 Súhrnné štatistiky</h2><div class='kpi'><div><b>230</b><span>Meraní celkom</span></div><div><b>9</b><span>Snímok stránky</span></div><div><b>1 z 1</b><span>Dní s dátami</span></div><div><b>41</b><span>Unikátnych vlakov</span></div><div><b>124</b><span>Unikátnych staníc</span></div><div><b>30.67 min</b><span>Priemerné meškanie</span></div><div><b>20.0 min</b><span>Medián</span></div><div><b>57.1 min</b><span>P90</span></div><div><b>79.5 min</b><span>P95</span></div><div><b>219.1 min</b><span>P99</span></div><div><b>410 min</b><span>Maximum</span></div><div><b>100.0 %</b><span>Podiel meškajúcich (>0)</span></div><div><b>79.1 %</b><span>Meškanie nad 5 min</span></div><div><b>62.6 %</b><span>Meškanie nad 15 min</span></div><div><b>8.26 %</b><span>Meškanie nad 60 min</span></div><div><b>46.28 min</b><span>Smerodajná odchýlka</span></div></div></div>
 
-    <div class="card">
-        <h2>📊 Súhrnné štatistiky</h2>
-        <pre>KOMPLETNÁ ŠTATISTIKA MEŠKANÍ VLAKOV
-Celkový počet zaznamenaných meraní: 201
-Priemerné meškanie: 29.73 min.
-Maximálne zaznamenané meškanie: 226 min.
-</pre>
-    </div>
+<div class="card"><h2>🔎 Hlavné zistenia a dlhodobé trendy</h2><ul class='zistenia'><li>Najhoršia hodina: 9:00 (priemer 30.94 min)</li><li>Najlepšia hodina: 8:00 (priemer 29.67 min)</li><li>Najhorší deň v týždni: Piatok (30.67 min)</li><li>Najlepší deň v týždni: Piatok (30.67 min)</li><li>Najhorší deň: 2026-10-23 (30.67 min)</li><li>Najlepší deň: 2026-10-23 (30.67 min)</li><li>Korelácia hodina dňa ↔ meškanie: +0.01</li><li>Top 10 % staníc (12) tvorí 58.2 % všetkých minút meškania</li></ul></div>
 
-    <div class="card">
-        <h2>🚆 Top 5 vlakov s najvyšším meškaním</h2>
-        <table>
-            <tr><th>Vlak</th><th>Priemerné meškanie (min)</th></tr>
-            <tr><td>Os 8102smer Štrbské Pleso</td><td>206.62</td></tr><tr><td>RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.</td><td>62.88</td></tr><tr><td>Os 5307smer Trenčín</td><td>57.62</td></tr><tr><td>mešká do 5 minút</td><td>56.50</td></tr><tr><td>EN 443 SLOVAKIAsmer Humenné</td><td>46.33</td></tr>
-        </table>
-    </div>
+<div class="card"><h2>📈 Historický vývoj (denný, 7- a 30-dňový priemer, trend)</h2><img src="grafy/03_historicky_vyvoj.png" alt="Historický vývoj"></div>
 
-    <div class="card">
-        <h2>📈 Historický vývoj meškania v čase</h2>
-        <img src="grafy/3_historicky_vyvoj.png" alt="Historický vývoj">
-    </div>
+<div class="card"><h2>📆 Mesačný a týždenný vývoj</h2><img src="grafy/08_mesacny_vyvoj.png" alt="Mesačný vývoj"><img src="grafy/09_tyzdenny_vyvoj.png" alt="Týždenný vývoj"><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Priemer</th>
+      <th>Median</th>
+      <th>P90</th>
+      <th>Max</th>
+      <th>Std</th>
+      <th>Meskaju_pct</th>
+      <th>Nad5_pct</th>
+      <th>Nad15_pct</th>
+      <th>Nad60_pct</th>
+    </tr>
+    <tr>
+      <th>Mesiac</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2026-10</th>
+      <td>230</td>
+      <td>30.67</td>
+      <td>20.00</td>
+      <td>57.10</td>
+      <td>410</td>
+      <td>46.28</td>
+      <td>100.00</td>
+      <td>79.13</td>
+      <td>62.61</td>
+      <td>8.26</td>
+    </tr>
+  </tbody>
+</table></div>
 
-    <div class="card">
-        <h2>📅 Meškanie podľa dní v týždni</h2>
-        <img src="grafy/4_dni_v_tyzdni.png" alt="Dni v týždni">
-    </div>
+<div class="card"><h2>✅ Podiel vlakov včas / s meškaním v čase</h2><img src="grafy/12_podiel_vlakov_vcas.png" alt="Podiel včas"></div>
 
-    <div class="card">
-        <h2>🛑 Top 10 staníc s najvyšším priemerným meškaním</h2>
-        <img src="grafy/1_kriticke_stanice.png" alt="Kritické stanice">
-    </div>
+<div class="card"><h2>📅 Podľa dní v týždni</h2><img src="grafy/04_dni_v_tyzdni.png" alt="Dni v týždni"><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Priemer</th>
+      <th>Median</th>
+      <th>P90</th>
+      <th>Max</th>
+      <th>Std</th>
+      <th>Meskaju_pct</th>
+      <th>Nad5_pct</th>
+      <th>Nad15_pct</th>
+      <th>Nad60_pct</th>
+    </tr>
+    <tr>
+      <th>Den</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Piatok</th>
+      <td>230</td>
+      <td>30.67</td>
+      <td>20.00</td>
+      <td>57.10</td>
+      <td>410</td>
+      <td>46.28</td>
+      <td>100.00</td>
+      <td>79.13</td>
+      <td>62.61</td>
+      <td>8.26</td>
+    </tr>
+  </tbody>
+</table><img src="grafy/15_vikend_vs_pracovny.png" alt="Víkend vs pracovný deň"></div>
 
-    <div class="card">
-        <h2>⏰ Vývoj meškania počas dňa</h2>
-        <img src="grafy/2_meskanie_pocas_dna.png" alt="Meškanie počas dňa">
-    </div>
+<div class="card"><h2>⏰ Počas dňa</h2><img src="grafy/02_meskanie_pocas_dna.png" alt="Počas dňa"><img src="grafy/11_boxplot_hodiny.png" alt="Boxplot"><img src="grafy/19_cast_dna.png" alt="Časť dňa"><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Priemer</th>
+      <th>Median</th>
+      <th>P90</th>
+      <th>Max</th>
+      <th>Std</th>
+      <th>Meskaju_pct</th>
+      <th>Nad5_pct</th>
+      <th>Nad15_pct</th>
+      <th>Nad60_pct</th>
+    </tr>
+    <tr>
+      <th>Cast_dna</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Ranná špička (6–9)</th>
+      <td>230</td>
+      <td>30.67</td>
+      <td>20.00</td>
+      <td>57.10</td>
+      <td>410</td>
+      <td>46.28</td>
+      <td>100.00</td>
+      <td>79.13</td>
+      <td>62.61</td>
+      <td>8.26</td>
+    </tr>
+  </tbody>
+</table></div>
 
-    <div class="footer">
-        Posledná aktualizácia: 2026-10-23 09:31:32
-    </div>
-</body>
-</html>
+<div class="card"><h2>🔥 Heatmapa deň × hodina</h2><img src="grafy/05_heatmapa_den_hodina.png" alt="Heatmapa"></div>
+
+<div class="card"><h2>📉 Rozdelenie meškaní</h2><img src="grafy/06_rozdelenie_meskani.png" alt="Histogram"><img src="grafy/07_kategorie_zavaznosti.png" alt="Kategórie"><img src="grafy/14_ecdf.png" alt="ECDF"><div class='grid2'><div><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Percentil</th>
+      <th>Minuty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>P25</td>
+      <td>6.00</td>
+    </tr>
+    <tr>
+      <td>P50</td>
+      <td>20.00</td>
+    </tr>
+    <tr>
+      <td>P75</td>
+      <td>30.75</td>
+    </tr>
+    <tr>
+      <td>P90</td>
+      <td>57.10</td>
+    </tr>
+    <tr>
+      <td>P95</td>
+      <td>79.55</td>
+    </tr>
+    <tr>
+      <td>P99</td>
+      <td>219.10</td>
+    </tr>
+    <tr>
+      <td>P99.9</td>
+      <td>367.86</td>
+    </tr>
+  </tbody>
+</table></div><div><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Podiel_%</th>
+    </tr>
+    <tr>
+      <th>Kategoria</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Včas (0)</th>
+      <td>0</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>1–5 min</th>
+      <td>48</td>
+      <td>20.87</td>
+    </tr>
+    <tr>
+      <th>6–15 min</th>
+      <td>38</td>
+      <td>16.52</td>
+    </tr>
+    <tr>
+      <th>16–30 min</th>
+      <td>86</td>
+      <td>37.39</td>
+    </tr>
+    <tr>
+      <th>31–60 min</th>
+      <td>39</td>
+      <td>16.96</td>
+    </tr>
+    <tr>
+      <th>60+ min</th>
+      <td>19</td>
+      <td>8.26</td>
+    </tr>
+  </tbody>
+</table></div></div></div>
+
+<div class="card"><h2>🛑 Najproblematickejšie stanice</h2><img src="grafy/01_kriticke_stanice.png" alt="Kritické stanice"><img src="grafy/17_stanice_podiel_nad15.png" alt="Podiel nad 15"><h3>Top 25 podľa priemeru</h3><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Priemer</th>
+      <th>Median</th>
+      <th>P90</th>
+      <th>Max</th>
+      <th>Std</th>
+      <th>Meskaju_pct</th>
+      <th>Nad5_pct</th>
+      <th>Nad15_pct</th>
+      <th>Nad60_pct</th>
+    </tr>
+    <tr>
+      <th>Stanica_Poloha</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Štrbské Plesoteraz</th>
+      <td>9</td>
+      <td>229.22</td>
+      <td>207.00</td>
+      <td>262.80</td>
+      <td>410</td>
+      <td>68.87</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+    </tr>
+    <tr>
+      <th>Trenčínteraz</th>
+      <td>9</td>
+      <td>66.89</td>
+      <td>58.00</td>
+      <td>89.80</td>
+      <td>141</td>
+      <td>30.33</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>44.44</td>
+    </tr>
+    <tr>
+      <th>Čierna nad Tisouteraz</th>
+      <td>8</td>
+      <td>61.38</td>
+      <td>67.50</td>
+      <td>81.50</td>
+      <td>85</td>
+      <td>24.39</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>75.00</td>
+    </tr>
+    <tr>
+      <th>Košiceteraz</th>
+      <td>8</td>
+      <td>29.75</td>
+      <td>23.50</td>
+      <td>47.30</td>
+      <td>48</td>
+      <td>14.06</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>87.50</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Bratislava hlavná stanica</th>
+      <td>28</td>
+      <td>7.04</td>
+      <td>6.00</td>
+      <td>12.00</td>
+      <td>12</td>
+      <td>3.75</td>
+      <td>100.00</td>
+      <td>67.86</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Košice</th>
+      <td>11</td>
+      <td>4.64</td>
+      <td>5.00</td>
+      <td>5.00</td>
+      <td>5</td>
+      <td>0.81</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>6</td>
+      <td>2.00</td>
+      <td>2.00</td>
+      <td>2.00</td>
+      <td>2</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>8</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+  </tbody>
+</table><h3>Najspoľahlivejšie stanice</h3><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Priemer</th>
+      <th>Median</th>
+      <th>P90</th>
+      <th>Max</th>
+      <th>Std</th>
+      <th>Meskaju_pct</th>
+      <th>Nad5_pct</th>
+      <th>Nad15_pct</th>
+      <th>Nad60_pct</th>
+    </tr>
+    <tr>
+      <th>Stanica_Poloha</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2</th>
+      <td>8</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1.00</td>
+      <td>1</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>6</td>
+      <td>2.00</td>
+      <td>2.00</td>
+      <td>2.00</td>
+      <td>2</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Košice</th>
+      <td>11</td>
+      <td>4.64</td>
+      <td>5.00</td>
+      <td>5.00</td>
+      <td>5</td>
+      <td>0.81</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Bratislava hlavná stanica</th>
+      <td>28</td>
+      <td>7.04</td>
+      <td>6.00</td>
+      <td>12.00</td>
+      <td>12</td>
+      <td>3.75</td>
+      <td>100.00</td>
+      <td>67.86</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Košiceteraz</th>
+      <td>8</td>
+      <td>29.75</td>
+      <td>23.50</td>
+      <td>47.30</td>
+      <td>48</td>
+      <td>14.06</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>87.50</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Čierna nad Tisouteraz</th>
+      <td>8</td>
+      <td>61.38</td>
+      <td>67.50</td>
+      <td>81.50</td>
+      <td>85</td>
+      <td>24.39</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>75.00</td>
+    </tr>
+    <tr>
+      <th>Trenčínteraz</th>
+      <td>9</td>
+      <td>66.89</td>
+      <td>58.00</td>
+      <td>89.80</td>
+      <td>141</td>
+      <td>30.33</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>44.44</td>
+    </tr>
+    <tr>
+      <th>Štrbské Plesoteraz</th>
+      <td>9</td>
+      <td>229.22</td>
+      <td>207.00</td>
+      <td>262.80</td>
+      <td>410</td>
+      <td>68.87</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+    </tr>
+  </tbody>
+</table></div>
+
+<div class="card"><h2>🚆 Vlaky</h2><img src="grafy/18_top_vlaky.png" alt="Top vlaky"><h3>Najhoršie vlaky</h3><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Priemer</th>
+      <th>Median</th>
+      <th>P90</th>
+      <th>Max</th>
+      <th>Std</th>
+      <th>Meskaju_pct</th>
+      <th>Nad5_pct</th>
+      <th>Nad15_pct</th>
+      <th>Nad60_pct</th>
+    </tr>
+    <tr>
+      <th>Vlak</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Os 8102smer Štrbské Pleso</th>
+      <td>9</td>
+      <td>229.22</td>
+      <td>207.00</td>
+      <td>262.80</td>
+      <td>410</td>
+      <td>68.87</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+    </tr>
+    <tr>
+      <th>Os 5307smer Trenčín</th>
+      <td>9</td>
+      <td>66.89</td>
+      <td>58.00</td>
+      <td>89.80</td>
+      <td>141</td>
+      <td>30.33</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>44.44</td>
+    </tr>
+    <tr>
+      <th>RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.</th>
+      <td>9</td>
+      <td>59.22</td>
+      <td>67.00</td>
+      <td>81.00</td>
+      <td>85</td>
+      <td>22.94</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>66.67</td>
+    </tr>
+    <tr>
+      <th>mešká do 5 minút</th>
+      <td>9</td>
+      <td>56.11</td>
+      <td>56.00</td>
+      <td>58.20</td>
+      <td>59</td>
+      <td>1.90</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona</th>
+      <td>5</td>
+      <td>43.00</td>
+      <td>44.00</td>
+      <td>44.00</td>
+      <td>44</td>
+      <td>2.24</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih</th>
+      <td>8</td>
+      <td>34.75</td>
+      <td>34.50</td>
+      <td>38.30</td>
+      <td>39</td>
+      <td>2.92</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>mešká 5-14 minút</th>
+      <td>9</td>
+      <td>31.56</td>
+      <td>32.00</td>
+      <td>33.00</td>
+      <td>33</td>
+      <td>1.33</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 604 TATRANsmer Bratislava hlavná stanica</th>
+      <td>9</td>
+      <td>29.56</td>
+      <td>30.00</td>
+      <td>31.00</td>
+      <td>31</td>
+      <td>1.33</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>REx 1865smer Nové Zámky</th>
+      <td>8</td>
+      <td>27.50</td>
+      <td>29.00</td>
+      <td>30.00</td>
+      <td>30</td>
+      <td>2.93</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 502 KRIVÁŇsmer Bratislava hlavná stanica</th>
+      <td>9</td>
+      <td>25.33</td>
+      <td>26.00</td>
+      <td>26.00</td>
+      <td>26</td>
+      <td>1.12</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>R 913 GEMERANsmer Košice</th>
+      <td>6</td>
+      <td>22.50</td>
+      <td>24.00</td>
+      <td>28.00</td>
+      <td>28</td>
+      <td>6.02</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>83.33</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Os 3109smer Trenčín</th>
+      <td>9</td>
+      <td>21.00</td>
+      <td>21.00</td>
+      <td>22.20</td>
+      <td>23</td>
+      <td>1.32</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Os 8506smer Prešov</th>
+      <td>5</td>
+      <td>20.00</td>
+      <td>20.00</td>
+      <td>20.00</td>
+      <td>20</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Os 9111smer Humenné</th>
+      <td>6</td>
+      <td>19.50</td>
+      <td>21.00</td>
+      <td>22.50</td>
+      <td>24</td>
+      <td>3.67</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>66.67</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>R 831 URPÍNsmer Banská Bystrica</th>
+      <td>6</td>
+      <td>17.33</td>
+      <td>17.50</td>
+      <td>18.50</td>
+      <td>19</td>
+      <td>1.21</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 614 TATRAN</th>
+      <td>9</td>
+      <td>12.00</td>
+      <td>12.00</td>
+      <td>12.00</td>
+      <td>12</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>mešká 15-29 minút</th>
+      <td>9</td>
+      <td>6.78</td>
+      <td>6.00</td>
+      <td>10.00</td>
+      <td>10</td>
+      <td>2.22</td>
+      <td>100.00</td>
+      <td>55.56</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 618 TATRAN</th>
+      <td>9</td>
+      <td>6.00</td>
+      <td>6.00</td>
+      <td>6.00</td>
+      <td>6</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 621 TATRAN</th>
+      <td>9</td>
+      <td>5.00</td>
+      <td>5.00</td>
+      <td>5.00</td>
+      <td>5</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 620 TATRAN</th>
+      <td>9</td>
+      <td>3.00</td>
+      <td>3.00</td>
+      <td>3.00</td>
+      <td>3</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+  </tbody>
+</table><h3>Najspoľahlivejšie vlaky</h3><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Priemer</th>
+      <th>Median</th>
+      <th>P90</th>
+      <th>Max</th>
+      <th>Std</th>
+      <th>Meskaju_pct</th>
+      <th>Nad5_pct</th>
+      <th>Nad15_pct</th>
+      <th>Nad60_pct</th>
+    </tr>
+    <tr>
+      <th>Vlak</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>mešká 60 a viac minút</th>
+      <td>9</td>
+      <td>1.11</td>
+      <td>1.00</td>
+      <td>1.20</td>
+      <td>2</td>
+      <td>0.33</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>mešká 30-59 minút</th>
+      <td>9</td>
+      <td>2.11</td>
+      <td>2.00</td>
+      <td>2.20</td>
+      <td>3</td>
+      <td>0.33</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 620 TATRAN</th>
+      <td>9</td>
+      <td>3.00</td>
+      <td>3.00</td>
+      <td>3.00</td>
+      <td>3</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 621 TATRAN</th>
+      <td>9</td>
+      <td>5.00</td>
+      <td>5.00</td>
+      <td>5.00</td>
+      <td>5</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 610 TATRAN</th>
+      <td>9</td>
+      <td>2.89</td>
+      <td>3.00</td>
+      <td>4.00</td>
+      <td>8</td>
+      <td>2.15</td>
+      <td>100.00</td>
+      <td>11.11</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>mešká 15-29 minút</th>
+      <td>9</td>
+      <td>6.78</td>
+      <td>6.00</td>
+      <td>10.00</td>
+      <td>10</td>
+      <td>2.22</td>
+      <td>100.00</td>
+      <td>55.56</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 618 TATRAN</th>
+      <td>9</td>
+      <td>6.00</td>
+      <td>6.00</td>
+      <td>6.00</td>
+      <td>6</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 614 TATRAN</th>
+      <td>9</td>
+      <td>12.00</td>
+      <td>12.00</td>
+      <td>12.00</td>
+      <td>12</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>R 831 URPÍNsmer Banská Bystrica</th>
+      <td>6</td>
+      <td>17.33</td>
+      <td>17.50</td>
+      <td>18.50</td>
+      <td>19</td>
+      <td>1.21</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Os 9111smer Humenné</th>
+      <td>6</td>
+      <td>19.50</td>
+      <td>21.00</td>
+      <td>22.50</td>
+      <td>24</td>
+      <td>3.67</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>66.67</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Os 8506smer Prešov</th>
+      <td>5</td>
+      <td>20.00</td>
+      <td>20.00</td>
+      <td>20.00</td>
+      <td>20</td>
+      <td>0.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Os 3109smer Trenčín</th>
+      <td>9</td>
+      <td>21.00</td>
+      <td>21.00</td>
+      <td>22.20</td>
+      <td>23</td>
+      <td>1.32</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>R 913 GEMERANsmer Košice</th>
+      <td>6</td>
+      <td>22.50</td>
+      <td>24.00</td>
+      <td>28.00</td>
+      <td>28</td>
+      <td>6.02</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>83.33</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>Ex 502 KRIVÁŇsmer Bratislava hlavná stanica</th>
+      <td>9</td>
+      <td>25.33</td>
+      <td>26.00</td>
+      <td>26.00</td>
+      <td>26</td>
+      <td>1.12</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>REx 1865smer Nové Zámky</th>
+      <td>8</td>
+      <td>27.50</td>
+      <td>29.00</td>
+      <td>30.00</td>
+      <td>30</td>
+      <td>2.93</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+  </tbody>
+</table></div>
+
+<div class="card"><h2>🏷️ Typy vlakov</h2><img src="grafy/10_typy_vlakov.png" alt="Typy vlakov"><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Zaznamov</th>
+      <th>Priemer</th>
+      <th>Median</th>
+      <th>P90</th>
+      <th>Max</th>
+      <th>Std</th>
+      <th>Meskaju_pct</th>
+      <th>Nad5_pct</th>
+      <th>Nad15_pct</th>
+      <th>Nad60_pct</th>
+    </tr>
+    <tr>
+      <th>Typ_vlaku</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>RJ</th>
+      <td>9</td>
+      <td>59.22</td>
+      <td>67.00</td>
+      <td>81.00</td>
+      <td>85</td>
+      <td>22.94</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>66.67</td>
+    </tr>
+    <tr>
+      <th>OS</th>
+      <td>62</td>
+      <td>56.65</td>
+      <td>21.00</td>
+      <td>194.90</td>
+      <td>410</td>
+      <td>78.54</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>83.87</td>
+      <td>20.97</td>
+    </tr>
+    <tr>
+      <th>RA</th>
+      <td>5</td>
+      <td>43.00</td>
+      <td>44.00</td>
+      <td>44.00</td>
+      <td>44</td>
+      <td>2.24</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>EC</th>
+      <td>9</td>
+      <td>33.22</td>
+      <td>34.00</td>
+      <td>38.20</td>
+      <td>39</td>
+      <td>5.33</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>REX</th>
+      <td>11</td>
+      <td>25.18</td>
+      <td>24.00</td>
+      <td>30.00</td>
+      <td>30</td>
+      <td>5.00</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>90.91</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>MEŠKÁ</th>
+      <td>45</td>
+      <td>19.53</td>
+      <td>6.00</td>
+      <td>55.60</td>
+      <td>59</td>
+      <td>21.68</td>
+      <td>100.00</td>
+      <td>51.11</td>
+      <td>40.00</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>R</th>
+      <td>17</td>
+      <td>19.00</td>
+      <td>17.00</td>
+      <td>27.40</td>
+      <td>28</td>
+      <td>4.37</td>
+      <td>100.00</td>
+      <td>100.00</td>
+      <td>94.12</td>
+      <td>0.00</td>
+    </tr>
+    <tr>
+      <th>EX</th>
+      <td>69</td>
+      <td>12.72</td>
+      <td>6.00</td>
+      <td>28.00</td>
+      <td>31</td>
+      <td>10.34</td>
+      <td>100.00</td>
+      <td>62.32</td>
+      <td>31.88</td>
+      <td>0.00</td>
+    </tr>
+  </tbody>
+</table></div>
+
+<div class="card"><h2>🏆 Rekordné meškania</h2><table class="dataframe tbl">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Timestamp</th>
+      <th>Vlak</th>
+      <th>Stanica_Poloha</th>
+      <th>Meskanie_Text</th>
+      <th>Meskanie_Minuty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2026-10-23 09:35</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 230 minút= 3 hod, 50 min.</td>
+      <td>410</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:31</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 226 minút= 3 hod, 46 min.</td>
+      <td>226</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:27</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 222 minút= 3 hod, 42 min.</td>
+      <td>222</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:17</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 212 minút= 3 hod, 32 min.</td>
+      <td>212</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:12</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 207 minút= 3 hod, 27 min.</td>
+      <td>207</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:12</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 206 minút= 3 hod, 26 min.</td>
+      <td>206</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:00</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 195 minút= 3 hod, 15 min.</td>
+      <td>195</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 08:59</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 194 minút= 3 hod, 14 min.</td>
+      <td>194</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 08:57</td>
+      <td>Os 8102smer Štrbské Pleso</td>
+      <td>Štrbské Plesoteraz</td>
+      <td>+ 191 minút= 3 hod, 11 min.</td>
+      <td>191</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:35</td>
+      <td>Os 5307smer Trenčín</td>
+      <td>Trenčínteraz</td>
+      <td>+ 81 minút= 1 hod, 21 min.</td>
+      <td>141</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:17</td>
+      <td>RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.</td>
+      <td>Čierna nad Tisouteraz</td>
+      <td>+ 85 minút= 1 hod, 25 min.</td>
+      <td>85</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:12</td>
+      <td>RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.</td>
+      <td>Čierna nad Tisouteraz</td>
+      <td>+ 80 minút= 1 hod, 20 min.</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:12</td>
+      <td>RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.</td>
+      <td>Čierna nad Tisouteraz</td>
+      <td>+ 79 minút= 1 hod, 19 min.</td>
+      <td>79</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:31</td>
+      <td>Os 5307smer Trenčín</td>
+      <td>Trenčínteraz</td>
+      <td>+ 77 minút= 1 hod, 17 min.</td>
+      <td>77</td>
+    </tr>
+    <tr>
+      <td>2026-10-23 09:27</td>
+      <td>Os 5307smer Trenčín</td>
+      <td>Trenčínteraz</td>
+      <td>+ 73 minút= 1 hod, 13 min.</td>
+      <td>73</td>
+    </tr>
+  </tbody>
+</table></div>
+
+<div class="card"><h2>🕒 Posledných 48 hodín</h2><img src="grafy/16_poslednych_48h.png" alt="Posledných 48h"></div>
+
+<div class="card"><h2>🗂️ Pokrytie dát</h2><img src="grafy/13_pokrytie_dat.png" alt="Pokrytie"></div>
+
+<div class="card"><h2>⬇️ Dáta na stiahnutie</h2><ul><li><a href='data/databaza_meskani.csv'>Surové dáta</a></li><li><a href='data/denne_agregaty.csv'>Denné agregáty</a></li><li><a href='statistiky/prehlad.txt'>Textový prehľad</a></li><li>Ďalšie tabuľky: priečinok <code>statistiky/</code> (CSV)</li></ul></div>
+
+<div class='footer'>Posledná aktualizácia: 2026-10-23 09:36:18</div>
+</body></html>
