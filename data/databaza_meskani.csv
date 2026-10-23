@@ -1392,3 +1392,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-23 16:17:15;2026-10-23;16;Friday;mešká 15-29 minút;16;9.36 %;9
 2026-10-23 16:17:15;2026-10-23;16;Friday;mešká 30-59 minút;5;2.92 %;2
 2026-10-23 16:17:15;2026-10-23;16;Friday;mešká 60 a viac minút;3;1.75 %;1
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 621 TATRAN;Kraľovany;mešká 23 min.;23
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 618 TATRAN;Výh. Váh;mešká 5 min.;5
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 614 TATRAN;Šenkvice;mešká 7 min.;7
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 620 TATRAN;Liptovský Hrádok;mešká 15 min.;15
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 8102smer Štrbské Pleso;Štrbské Plesoteraz;+ 642 minút= 10 hod, 42 min.;1242
+2026-10-23 16:27:43;2026-10-23;16;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 167 minút= 2 hod, 47 min.;287
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 613 TATRANsmer Košice;Košicepred 14 min.;v cieli+ 69 minút= 1 hod, 9 min.;129
+2026-10-23 16:27:43;2026-10-23;16;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 52 minút;52
+2026-10-23 16:27:43;2026-10-23;16;Friday;RJ 1043 REGIOJETsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 11 min.;v cieli+ 48 minút;48
+2026-10-23 16:27:43;2026-10-23;16;Friday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.pred 11 min.;v cieli+ 40 minút;40
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 619 TATRANsmer Košice;Liptovský Mikulášodišiel pred 7 min.;+ 37 minút;37
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 1344smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 14 min.;v cieli+ 28 minút;28
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 616 TATRANsmer Bratislava hlavná stanica;Púchovodišiel pred 2 min.;+ 26 minút;26
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 3123smer Trenčín;Trenčianske Bohuslaviceodišiel pred 6 min.;+ 25 minút;25
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 1349smer Rusovce št. hr. - Rajka;Rusovceodišiel pred 3 min.;+ 24 minút;24
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 621 TATRANsmer Košice;Kraľovanyodišiel teraz;+ 23 minút;23
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 3122smer Myjava;Myjavaprišiel pred 8 min.;v cieli+ 21 minút;21
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 3125smer Trenčín;Myjavaodišiel pred 4 min.;+ 20 minút;20
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 7567smer Horná Štubňa obec;Horná Štubňa obecprišiel pred 11 min.;v cieli+ 19 minút;19
+2026-10-23 16:27:43;2026-10-23;16;Friday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava hlavná stanicaodišiel pred 2 min.;+ 19 minút;19
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 1346smer Bratislava-Petržalka;Rusovcepred 2 min.;+ 17 minút;17
+2026-10-23 16:27:43;2026-10-23;16;Friday;RJ 1003 REGIOJETsmer Košice;Spišské Vlachyprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 2022smer Kúty;Zohorodišiel pred 4 min.;+ 16 minút;16
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 622 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel pred 7 min.;+ 16 minút;16
+2026-10-23 16:27:43;2026-10-23;16;Friday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Poprad-Tatryodišiel teraz;+ 15 minút;15
+2026-10-23 16:27:43;2026-10-23;16;Friday;Ex 620 TATRANsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou teraz;+ 15 minút;15
+2026-10-23 16:27:43;2026-10-23;16;Friday;REx 1925smer Humenné;Krásna nad Hornádomprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-10-23 16:27:43;2026-10-23;16;Friday;Os 7566smer Vrútky;Diviakyodišiel teraz;+ 15 minút;15
+2026-10-23 16:27:43;2026-10-23;16;Friday;mešká do 5 minút;113;63.84 %;63
+2026-10-23 16:27:43;2026-10-23;16;Friday;mešká 5-14 minút;40;22.60 %;22
+2026-10-23 16:27:43;2026-10-23;16;Friday;mešká 15-29 minút;17;9.60 %;9
+2026-10-23 16:27:43;2026-10-23;16;Friday;mešká 30-59 minút;4;2.26 %;2
+2026-10-23 16:27:43;2026-10-23;16;Friday;mešká 60 a viac minút;3;1.69 %;1
