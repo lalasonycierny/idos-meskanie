@@ -2778,3 +2778,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 01:31:47;2026-10-24;1;Saturday;mešká 15-29 minút;1;10.00 %;10
 2026-10-24 01:31:47;2026-10-24;1;Saturday;mešká 30-59 minút;1;10.00 %;10
 2026-10-24 01:31:47;2026-10-24;1;Saturday;mešká 60 a viac minút;5;50.00 %;50
+2026-10-24 01:42:15;2026-10-24;1;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-24 01:42:15;2026-10-24;1;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 43 min.;43
+2026-10-24 01:42:15;2026-10-24;1;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-10-24 01:42:15;2026-10-24;1;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-24 01:42:15;2026-10-24;1;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 26 min.;26
+2026-10-24 01:42:15;2026-10-24;1;Saturday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 10 min.;+ 711 minút= 11 hod, 51 min.;1371
+2026-10-24 01:42:15;2026-10-24;1;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 606 minút= 10 hod, 6 min.;1206
+2026-10-24 01:42:15;2026-10-24;1;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 481 minút= 8 hod, 1 min.;961
+2026-10-24 01:42:15;2026-10-24;1;Saturday;Os 10035smer Trenčianska Teplá;Odb. Močiarprešiel stanicou pred 5 min.;+ 211 minút= 3 hod, 31 min.;391
+2026-10-24 01:42:15;2026-10-24;1;Saturday;Os 7236smer Banská Bystrica;Banská Bystricateraz;+ 134 minút= 2 hod, 14 min.;254
+2026-10-24 01:42:15;2026-10-24;1;Saturday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Krásno nad Kysucouprešiel stanicou pred 9 min.;+ 32 minút;32
+2026-10-24 01:42:15;2026-10-24;1;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Svitprešiel stanicou pred 4 min.;+ 28 minút;28
+2026-10-24 01:42:15;2026-10-24;1;Saturday;mešká do 5 minút;2;20.00 %;20
+2026-10-24 01:42:15;2026-10-24;1;Saturday;mešká 5-14 minút;1;10.00 %;10
+2026-10-24 01:42:15;2026-10-24;1;Saturday;mešká 15-29 minút;1;10.00 %;10
+2026-10-24 01:42:15;2026-10-24;1;Saturday;mešká 30-59 minút;1;10.00 %;10
+2026-10-24 01:42:15;2026-10-24;1;Saturday;mešká 60 a viac minút;5;50.00 %;50
