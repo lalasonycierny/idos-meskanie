@@ -460,3 +460,40 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-23 10:32:38;2026-10-23;10;Friday;mešká 15-29 minút;20;15.75 %;15
 2026-10-23 10:32:38;2026-10-23;10;Friday;mešká 30-59 minút;3;2.36 %;2
 2026-10-23 10:32:38;2026-10-23;10;Friday;mešká 60 a viac minút;3;2.36 %;2
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 610 TATRAN;Výh. Gánovce;mešká 17 min.;17
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 8102smer Štrbské Pleso;Štrbské Plesoteraz;+ 297 minút= 4 hod, 57 min.;537
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 5307smer Trenčín;Trenčínteraz;+ 148 minút= 2 hod, 28 min.;268
+2026-10-23 10:43:00;2026-10-23;10;Friday;R 961smer Košice;Čierna nad Tisouteraz;+ 85 minút= 1 hod, 25 min.;145
+2026-10-23 10:43:00;2026-10-23;10;Friday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Odb. Močiarprešiel stanicou pred 2 min.;+ 48 minút;48
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 613 TATRANsmer Košice;Brestovanyprešiel stanicou teraz;+ 46 minút;46
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 9111smer Humenné;Strážskeodišiel pred 3 min.;+ 29 minút;29
+2026-10-23 10:43:00;2026-10-23;10;Friday;R 913 GEMERANsmer Košice;Turňa nad Bodvouodišiel pred 2 min.;+ 28 minút;28
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 7810smer Svit;Krompachyodišiel teraz;+ 26 minút;26
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 8509smer Čierna nad Tisou;Slovenské Nové Mestoodišiel pred 6 min.;+ 24 minút;24
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 7844smer Liptovský Mikuláš;Kráľova Lehotaodišiel teraz;+ 23 minút;23
+2026-10-23 10:43:00;2026-10-23;10;Friday;REx 1868smer Bratislava hlavná stanica;Bratislava-Vajnoryprešiel stanicou pred 3 min.;+ 23 minút;23
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Trenčínodišiel teraz;+ 23 minút;23
+2026-10-23 10:43:00;2026-10-23;10;Friday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bernolákovoprešiel stanicou pred 2 min.;+ 22 minút;22
+2026-10-23 10:43:00;2026-10-23;10;Friday;R 912 GEMERANsmer Zvolen osobná stanica;Vígľašprešiel stanicou teraz;+ 21 minút;21
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 7845smer Svit;Svitprišiel pred 3 min.;v cieli+ 21 minút;21
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 8913smer Medzilaborce mesto;Humennéteraz;+ 21 minút;21
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 3113smer Trenčín;Poriadieodišiel pred 11 min.;+ 21 minút;21
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Šenkviceodišiel pred 2 min.;+ 19 minút;19
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 3011smer Trnava;Trnavaprišiel teraz;v cieli+ 19 minút;19
+2026-10-23 10:43:00;2026-10-23;10;Friday;R 10713 POVAŽANsmer Žilina;Cíferodišiel pred 2 min.;+ 18 minút;18
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 7512smer Vrútky;Handlovápred 7 min.;+ 18 minút;18
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 7811smer Košice;Kostoľany nad Hornádomodišiel teraz;+ 18 minút;18
+2026-10-23 10:43:00;2026-10-23;10;Friday;Ex 610 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 7 min.;+ 17 minút;17
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 9112smer Prešov;Čierne nad Topľouteraz;+ 17 minút;17
+2026-10-23 10:43:00;2026-10-23;10;Friday;SC 241 PENDOLINO KOŠIČANsmer Košice;Kysucké Nové Mestoprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-10-23 10:43:00;2026-10-23;10;Friday;Os 2010smer Kúty;Malackyprišiel pred 2 min.;+ 15 minút;15
+2026-10-23 10:43:00;2026-10-23;10;Friday;R 10710 POVAŽANsmer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 11 min.;v cieli+ 15 minút;15
+2026-10-23 10:43:00;2026-10-23;10;Friday;mešká do 5 minút;77;58.78 %;58
+2026-10-23 10:43:00;2026-10-23;10;Friday;mešká 5-14 minút;27;20.61 %;20
+2026-10-23 10:43:00;2026-10-23;10;Friday;mešká 15-29 minút;22;16.79 %;16
+2026-10-23 10:43:00;2026-10-23;10;Friday;mešká 30-59 minút;2;1.53 %;1
+2026-10-23 10:43:00;2026-10-23;10;Friday;mešká 60 a viac minút;3;2.29 %;2
