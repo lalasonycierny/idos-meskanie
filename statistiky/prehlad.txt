@@ -1,33 +1,33 @@
 KOMPLETNÁ ŠTATISTIKA MEŠKANÍ VLAKOV
-Obdobie: 2026-10-23 08:57 – 2026-10-23 22:02
+Obdobie: 2026-10-23 08:57 – 2026-10-23 22:12
 
 === ZÁKLADNÉ ČÍSLA ===
-Meraní celkom: 2 297
-Snímok stránky: 82
+Meraní celkom: 2 324
+Snímok stránky: 83
 Dní s dátami: 1 z 1
-Unikátnych vlakov: 184
-Unikátnych staníc: 987
-Priemerné meškanie: 79.77 min
+Unikátnych vlakov: 185
+Unikátnych staníc: 995
+Priemerné meškanie: 80.91 min
 Medián: 20.0 min
 P90: 122.0 min
-P95: 428.0 min
-P99: 1456.4 min
-Maximum: 1936 min
-Podiel meškajúcich (>0): 99.0 %
-Meškanie nad 5 min: 86.3 %
+P95: 480.0 min
+P99: 1463.7 min
+Maximum: 1947 min
+Podiel meškajúcich (>0): 99.1 %
+Meškanie nad 5 min: 86.4 %
 Meškanie nad 15 min: 69.4 %
-Meškanie nad 60 min: 13.06 %
-Smerodajná odchýlka: 235.58 min
+Meškanie nad 60 min: 13.17 %
+Smerodajná odchýlka: 238.79 min
 
 === ZISTENIA A TRENDY ===
 • Najhoršia hodina: 21:00 (priemer 182.50 min)
 • Najlepšia hodina: 8:00 (priemer 29.67 min)
-• Najhorší deň v týždni: Piatok (79.77 min)
-• Najlepší deň v týždni: Piatok (79.77 min)
-• Najhorší deň: 2026-10-23 (79.77 min)
-• Najlepší deň: 2026-10-23 (79.77 min)
+• Najhorší deň v týždni: Piatok (80.91 min)
+• Najlepší deň v týždni: Piatok (80.91 min)
+• Najhorší deň: 2026-10-23 (80.91 min)
+• Najlepší deň: 2026-10-23 (80.91 min)
 • Korelácia hodina dňa ↔ meškanie: +0.18
-• Top 10 % staníc (98) tvorí 83.5 % všetkých minút meškania
+• Top 10 % staníc (99) tvorí 83.7 % všetkých minút meškania
 
 === PERCENTILY ===
 Percentil  Minuty
@@ -35,19 +35,19 @@ Percentil  Minuty
       P50   20.00
       P75   34.00
       P90  122.00
-      P95  428.00
-      P99 1456.40
-    P99.9 1852.74
+      P95  480.00
+      P99 1463.70
+    P99.9 1903.39
 
 === ROZDELENIE PODĽA ZÁVAŽNOSTI ===
            Zaznamov  Podiel_%
 Kategoria                    
-Včas (0)         22      0.96
-1–5 min         292     12.71
-6–15 min        388     16.89
-16–30 min       947     41.23
-31–60 min       348     15.15
-60+ min         300     13.06
+Včas (0)         22      0.95
+1–5 min         294     12.65
+6–15 min        395     17.00
+16–30 min       957     41.18
+31–60 min       350     15.06
+60+ min         306     13.17
 
 === PODĽA HODINY ===
         Zaznamov  Priemer  Median    P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
@@ -66,12 +66,12 @@ Hodina
 19           147   139.38    20.0  437.4  1691  343.51       100.00     87.76      70.75      20.41
 20           161   149.98    23.0  522.0  1814  364.15       100.00     91.30      70.81      21.74
 21           127   182.50    25.0  648.4  1926  407.91       100.00     90.55      71.65      25.98
-22            26   182.38    23.5  623.5  1936  432.81       100.00     92.31      65.38      23.08
+22            53   180.06    24.0  699.2  1947  426.72       100.00     92.45      66.04      22.64
 
 === PODĽA DŇA V TÝŽDNI ===
         Zaznamov  Priemer  Median    P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Den                                                                                                
-Piatok      2297    79.77    20.0  122.0  1936  235.58        99.04     86.33      69.44      13.06
+Piatok      2324    80.91    20.0  122.0  1947  238.79        99.05      86.4      69.41      13.17
 
 === PODĽA ČASTI DŇA ===
                                Zaznamov  Priemer  Median    P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
@@ -79,27 +79,28 @@ Cast_dna
 Ranná špička (6–9)                  317    32.86    20.0   55.4   485   57.75       100.00     80.44      63.09       7.89
 Dopoludnie/popoludnie (10–15)      1012    54.00    19.0   58.0  1211  156.47        98.72     84.88      68.38       9.39
 Popoludňajšia špička (16–19)        654   101.07    21.0  168.2  1691  278.57        98.62     89.14      73.55      16.21
-Večer (20–23)                       314   165.82    24.0  610.0  1936  387.29       100.00     91.08      70.70      23.57
+Večer (20–23)                       341   166.77    24.0  613.0  1947  390.09       100.00     91.20      70.38      23.46
 
 === PODĽA TYPU VLAKU ===
            Zaznamov  Priemer  Median    P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Typ_vlaku                                                                                             
-EC              171   261.70   153.0  655.0   981  271.54       100.00    100.00      97.66      55.56
-OS              547   182.96    21.0  766.0  1936  422.60       100.00    100.00      89.03      17.73
-RJ               96    38.50    26.0   67.5   240   37.27       100.00    100.00      95.83      12.50
+EC              175   268.79   154.0  725.6   992  277.74       100.00    100.00      97.71      56.00
+OS              551   185.27    21.0  772.0  1947  427.89       100.00    100.00      88.93      17.79
+RJ               97    38.29    26.0   67.4   240   37.14       100.00    100.00      95.88      12.37
 R               134    34.84    25.0   49.0   166   30.32       100.00    100.00      91.79       6.72
-RA               91    30.07    23.0   46.0   122   18.57       100.00    100.00      92.31       2.20
-EX              777    22.94    17.0   43.0   129   24.47        98.33     84.04      55.21       3.99
-REX              48    21.04    20.0   29.0    38    5.30       100.00    100.00      85.42       0.00
-MEŠKÁ           410    19.47     8.0   65.0    77   23.97        97.80     53.66      37.32      13.17
+EN                5    33.80    44.0   47.6    48   17.22       100.00    100.00      60.00       0.00
+RA               92    30.01    23.0   45.9   122   18.47       100.00    100.00      92.39       2.17
+EX              787    23.06    17.0   43.0   129   24.59        98.35     84.24      55.40       4.07
+REX              49    21.08    20.0   29.0    38    5.25       100.00    100.00      85.71       0.00
+MEŠKÁ           415    19.47     8.0   65.0    77   23.97        97.83     53.73      37.11      13.25
 SC               19    17.95    17.0   21.0    25    2.70       100.00    100.00      84.21       0.00
 
 === TOP 25 NAJHORŠÍCH STANÍC ===
                                              Zaznamov  Priemer  Median     P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Stanica_Poloha                                                                                                                           
-Štrbské Plesoteraz                                 82  1068.07  1093.5  1731.9  1936  513.35        100.0    100.00     100.00     100.00
-Barcateraz                                         72   406.92   378.0   841.0   981  275.42        100.0    100.00     100.00      87.50
-Košiceteraz                                        50   280.60   250.5   635.0   746  245.49        100.0    100.00      96.00      64.00
+Štrbské Plesoteraz                                 83  1078.66  1099.0  1789.0  1947  519.25        100.0    100.00     100.00     100.00
+Barcateraz                                         74   416.24   383.0   855.0   992  280.24        100.0    100.00     100.00      87.84
+Košiceteraz                                        51   289.94   256.0   644.0   757  252.01        100.0    100.00      96.08      64.71
 Trenčínteraz                                       17   127.29   141.0   251.4   268   77.79        100.0    100.00     100.00      70.59
 Čierna nad Tisouteraz                              45    77.87    55.0   153.2   240   55.76        100.0    100.00      97.78      46.67
 115                                                 5    70.80    70.0    73.0    73    2.17        100.0    100.00     100.00     100.00
@@ -114,7 +115,7 @@ Výh. Plevník-Drienovéprešiel stanicou teraz         6    25.83    24.5    34
 Poprad-Tatryteraz                                   5    25.00    19.0    40.0    52   15.31        100.0    100.00      80.00       0.00
 Ľubochňaprešiel stanicou teraz                      5    24.60    21.0    33.8    37    8.38        100.0    100.00     100.00       0.00
 Štúrovoteraz                                        8    24.12    20.5    40.5    44   11.29        100.0    100.00      62.50       0.00
-Spišské Vlachyteraz                                 5    23.80    18.0    36.8    48   13.61        100.0    100.00     100.00       0.00
+Spišské Vlachyteraz                                 6    23.67    19.0    35.5    48   12.18        100.0    100.00     100.00       0.00
 Markušovce                                          6    23.67    23.5    41.0    44   15.65        100.0     83.33      66.67       0.00
 34                                                  6    22.00    22.0    24.5    25    2.28        100.0    100.00     100.00       0.00
 Poriadieodišiel teraz                               6    19.33    19.0    24.0    27    4.46        100.0    100.00      66.67       0.00
@@ -126,21 +127,21 @@ Výh. Gánovceprešiel stanicou teraz                  5    17.60    18.0    19.
 === TOP 20 NAJHORŠÍCH VLAKOV ===
                                                        Zaznamov  Priemer  Median     P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Vlak                                                                                                                                               
-Os 8102smer Štrbské Pleso                                    82  1068.07  1093.5  1731.9  1936  513.35        100.0     100.0     100.00     100.00
-EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti             47   493.19   501.0   873.0   981  287.81        100.0     100.0     100.00      91.49
-EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti             36   378.33   383.0   649.5   746  221.87        100.0     100.0     100.00      88.89
-EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti             24   253.46   261.0   459.0   501  150.68        100.0     100.0     100.00      83.33
+Os 8102smer Štrbské Pleso                                    83  1078.66  1099.0  1789.0  1947  519.25        100.0     100.0     100.00     100.00
+EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti             48   503.58   506.0   882.3   992  293.69        100.0     100.0     100.00      91.67
+EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti             37   388.57   388.0   683.4   757  227.46        100.0     100.0     100.00      89.19
+EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti             25   263.80   266.0   486.6   512  156.31        100.0     100.0     100.00      84.00
 Os 5307smer Trenčín                                          17   127.29   141.0   251.4   268   77.79        100.0     100.0     100.00      70.59
-Ex 651 TATRANsmer Vrútky                                     15   101.47   123.0   127.0   129   40.59        100.0     100.0     100.00      73.33
+Ex 651 TATRANsmer Vrútky                                     16   102.62   122.5   127.0   129   39.49        100.0     100.0     100.00      75.00
 Ex 613 TATRANsmer Košice                                     40    84.50    90.0   129.0   129   41.37        100.0     100.0      97.50      50.00
 RJ 1223 REGIOJETsmer Košice                                  23    69.22    42.0   157.0   240   61.42        100.0     100.0      95.65      26.09
-mešká do 5 minút                                             82    64.01    65.0    73.0    77    7.09        100.0     100.0     100.00      65.85
+mešká do 5 minút                                             83    64.05    65.0    73.0    77    7.06        100.0     100.0     100.00      66.27
 R 963 ZAKARPATIAsmer Košice                                   9    63.56    40.0   134.2   143   53.01        100.0     100.0     100.00      33.33
 R 961smer Košice                                             22    60.05    38.5   144.0   166   48.46        100.0     100.0     100.00      22.73
 R 965 ZAKARPATIAsmer Košice                                   5    56.40    44.0    97.0   125   40.04        100.0     100.0     100.00      20.00
 ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona            21    54.24    45.0    59.0   122   22.74        100.0     100.0     100.00       9.52
 RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.                14    50.79    40.0    79.7    85   21.68        100.0     100.0     100.00      42.86
-Ex 624 TATRANsmer Bratislava hlavná stanica                  31    45.35    45.0    54.0    56    6.16        100.0     100.0     100.00       0.00
+Ex 624 TATRANsmer Bratislava hlavná stanica                  32    45.06    44.0    54.0    56    6.28        100.0     100.0     100.00       0.00
 RJ 1043 REGIOJETsmer Bratislava hlavná stanica                9    43.67    45.0    48.0    48    4.50        100.0     100.0     100.00       0.00
 R 916 GEMERANsmer Zvolen osobná stanica                      20    43.20    43.5    49.0    50    4.70        100.0     100.0     100.00       0.00
 EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati        20    42.30    43.0    49.5    54    6.51        100.0     100.0     100.00       0.00
@@ -149,6 +150,7 @@ EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih             11    35.64    3
 
 === NAJVÄČŠIE ZAZNAMENANÉ MEŠKANIA ===
        Timestamp                      Vlak     Stanica_Poloha                Meskanie_Text  Meskanie_Minuty
+2026-10-23 22:12 Os 8102smer Štrbské Pleso Štrbské Plesoteraz + 987 minút= 16 hod, 27 min.             1947
 2026-10-23 22:02 Os 8102smer Štrbské Pleso Štrbské Plesoteraz + 976 minút= 16 hod, 16 min.             1936
 2026-10-23 21:51 Os 8102smer Štrbské Pleso Štrbské Plesoteraz  + 966 minút= 16 hod, 6 min.             1926
 2026-10-23 21:41 Os 8102smer Štrbské Pleso Štrbské Plesoteraz + 956 minút= 15 hod, 56 min.             1856
@@ -163,4 +165,3 @@ EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih             11    35.64    3
 2026-10-23 20:06 Os 8102smer Štrbské Pleso Štrbské Plesoteraz + 861 minút= 14 hod, 21 min.             1701
 2026-10-23 19:56 Os 8102smer Štrbské Pleso Štrbské Plesoteraz + 851 minút= 14 hod, 11 min.             1691
 2026-10-23 19:46 Os 8102smer Štrbské Pleso Štrbské Plesoteraz  + 840 minút= 14 hod, 0 min.             1680
-2026-10-23 19:35 Os 8102smer Štrbské Pleso Štrbské Plesoteraz + 830 minút= 13 hod, 50 min.             1610
