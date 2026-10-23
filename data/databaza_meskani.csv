@@ -1676,3 +1676,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-23 17:51:12;2026-10-23;17;Friday;mešká 15-29 minút;14;8.59 %;8
 2026-10-23 17:51:12;2026-10-23;17;Friday;mešká 30-59 minút;5;3.07 %;3
 2026-10-23 17:51:12;2026-10-23;17;Friday;mešká 60 a viac minút;3;1.84 %;1
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 621 TATRAN;Poprad-Tatry;mešká 29 min.;29
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 618 TATRAN;Brestovany;ide načas;0
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 620 TATRAN;Výh. Plevník-Drienové;mešká 18 min.;18
+2026-10-23 18:01:38;2026-10-23;18;Friday;Os 8102smer Štrbské Pleso;Štrbské Plesoteraz;+ 736 minút= 12 hod, 16 min.;1456
+2026-10-23 18:01:38;2026-10-23;18;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 261 minút= 4 hod, 21 min.;501
+2026-10-23 18:01:38;2026-10-23;18;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 146 minút= 2 hod, 26 min.;266
+2026-10-23 18:01:38;2026-10-23;18;Friday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 68 minút= 1 hod, 8 min.;128
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 619 TATRANsmer Košice;Spišské Vlachyteraz;+ 48 minút;48
+2026-10-23 18:01:38;2026-10-23;18;Friday;EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava hlavná stanicaodišiel teraz;+ 42 minút;42
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 624 TATRANsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou pred 6 min.;+ 41 minút;41
+2026-10-23 18:01:38;2026-10-23;18;Friday;Os 3127smer Trenčín;Stará Turáodišiel pred 7 min.;+ 32 minút;32
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 621 TATRANsmer Košice;Poprad-Tatryodišiel teraz;+ 29 minút;29
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 616 TATRANsmer Bratislava hlavná stanica;Bratislava-Račaprišiel pred 2 min.;+ 27 minút;27
+2026-10-23 18:01:38;2026-10-23;18;Friday;RJ 1050 REGIOJETsmer Kúty št. hr. - Praha-Malešice;Kúty št. hr.prišiel pred 5 min.;v cieli+ 26 minút;26
+2026-10-23 18:01:38;2026-10-23;18;Friday;Os 7822smer Svit;Svitprišiel pred 10 min.;v cieli+ 22 minút;22
+2026-10-23 18:01:38;2026-10-23;18;Friday;Os 7827smer Košice;Spišské Vlachyodišiel teraz;+ 22 minút;22
+2026-10-23 18:01:38;2026-10-23;18;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 21 minút;21
+2026-10-23 18:01:38;2026-10-23;18;Friday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Vrútkyodišiel teraz;+ 20 minút;20
+2026-10-23 18:01:38;2026-10-23;18;Friday;Os 2027smer Bratislava hlavná stanica;Bratislava-Lamačodišiel pred 7 min.;+ 20 minút;20
+2026-10-23 18:01:38;2026-10-23;18;Friday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.prišiel pred 7 min.;v cieli+ 18 minút;18
+2026-10-23 18:01:38;2026-10-23;18;Friday;Ex 620 TATRANsmer Bratislava hlavná stanica;Výh. Plevník-Drienovéprešiel stanicou teraz;+ 18 minút;18
+2026-10-23 18:01:38;2026-10-23;18;Friday;REx 1877smer Nové Zámky;Palárikovoodišiel pred 2 min.;+ 18 minút;18
+2026-10-23 18:01:38;2026-10-23;18;Friday;R 839 URPÍNsmer Banská Bystrica;Banská Bystricaprišiel pred 13 min.;v cieli+ 18 minút;18
+2026-10-23 18:01:38;2026-10-23;18;Friday;R 921 GEMERANsmer Košice;Slavec jaskyňaprešiel stanicou pred 3 min.;+ 16 minút;16
+2026-10-23 18:01:38;2026-10-23;18;Friday;Os 3126smer Myjava;Stará Turáodišiel pred 7 min.;+ 15 minút;15
+2026-10-23 18:01:38;2026-10-23;18;Friday;Os 3129smer Trenčín;Myjavapred 6 min.;+ 15 minút;15
+2026-10-23 18:01:38;2026-10-23;18;Friday;Os 8526smer Prešov;Košiceprišiel pred 2 min.;+ 15 minút;15
+2026-10-23 18:01:38;2026-10-23;18;Friday;mešká do 5 minút;113;67.66 %;67
+2026-10-23 18:01:38;2026-10-23;18;Friday;mešká 5-14 minút;30;17.96 %;17
+2026-10-23 18:01:38;2026-10-23;18;Friday;mešká 15-29 minút;16;9.58 %;9
+2026-10-23 18:01:38;2026-10-23;18;Friday;mešká 30-59 minút;4;2.40 %;2
+2026-10-23 18:01:38;2026-10-23;18;Friday;mešká 60 a viac minút;4;2.40 %;2
