@@ -1358,3 +1358,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-23 16:06:49;2026-10-23;16;Friday;mešká 15-29 minút;13;7.47 %;7
 2026-10-23 16:06:49;2026-10-23;16;Friday;mešká 30-59 minút;4;2.30 %;2
 2026-10-23 16:06:49;2026-10-23;16;Friday;mešká 60 a viac minút;3;1.72 %;1
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 621 TATRAN;Vrútky nákladná stanica;mešká 24 min.;24
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 618 TATRAN;Vrútky;mešká 8 min.;8
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 614 TATRAN;Trnava nákladná stanica;mešká 6 min.;6
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 620 TATRAN;Štrba;mešká 16 min.;16
+2026-10-23 16:17:15;2026-10-23;16;Friday;Os 8102smer Štrbské Pleso;Štrbské Plesoteraz;+ 631 minút= 10 hod, 31 min.;1231
+2026-10-23 16:17:15;2026-10-23;16;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 156 minút= 2 hod, 36 min.;276
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 613 TATRANsmer Košice;Košicepred 4 min.;v cieli+ 69 minút= 1 hod, 9 min.;129
+2026-10-23 16:17:15;2026-10-23;16;Friday;RJ 1043 REGIOJETsmer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;v cieli+ 48 minút;48
+2026-10-23 16:17:15;2026-10-23;16;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 41 minút;41
+2026-10-23 16:17:15;2026-10-23;16;Friday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.teraz;v cieli+ 40 minút;40
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 619 TATRANsmer Košice;Výh. Paludzaprešiel stanicou pred 3 min.;+ 38 minút;38
+2026-10-23 16:17:15;2026-10-23;16;Friday;EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati;Kútypred 5 min.;+ 36 minút;36
+2026-10-23 16:17:15;2026-10-23;16;Friday;Os 1344smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 4 min.;v cieli+ 28 minút;28
+2026-10-23 16:17:15;2026-10-23;16;Friday;Os 1349smer Rusovce št. hr. - Rajka;Bratislava-Petržalkaodišiel pred 2 min.;+ 24 minút;24
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 621 TATRANsmer Košice;Vrútky nákladná stanicaprešiel stanicou teraz;+ 24 minút;24
+2026-10-23 16:17:15;2026-10-23;16;Friday;Os 3123smer Trenčín;Nové Mesto nad Váhompred 2 min.;+ 24 minút;24
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 616 TATRANsmer Bratislava hlavná stanica;Považská Bystricaodišiel pred 4 min.;+ 22 minút;22
+2026-10-23 16:17:15;2026-10-23;16;Friday;Os 3122smer Myjava;Poriadieodišiel pred 6 min.;+ 21 minút;21
+2026-10-23 16:17:15;2026-10-23;16;Friday;Os 2020smer Kúty;Kútyprišiel pred 7 min.;v cieli+ 21 minút;21
+2026-10-23 16:17:15;2026-10-23;16;Friday;RJ 1003 REGIOJETsmer Košice;Markušovceprešiel stanicou pred 4 min.;+ 20 minút;20
+2026-10-23 16:17:15;2026-10-23;16;Friday;Os 7567smer Horná Štubňa obec;Horná Štubňa obecprišiel teraz;v cieli+ 19 minút;19
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 622 TATRANsmer Bratislava hlavná stanica;Markušovceprešiel stanicou pred 5 min.;+ 19 minút;19
+2026-10-23 16:17:15;2026-10-23;16;Friday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Výh. Gánovceprešiel stanicou teraz;+ 19 minút;19
+2026-10-23 16:17:15;2026-10-23;16;Friday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava-Lamačprešiel stanicou pred 4 min.;+ 18 minút;18
+2026-10-23 16:17:15;2026-10-23;16;Friday;Os 2022smer Kúty;Devínska Nová Vesodišiel pred 5 min.;+ 18 minút;18
+2026-10-23 16:17:15;2026-10-23;16;Friday;REx 1873smer Nové Zámky;Nové Zámkyprišiel pred 11 min.;v cieli+ 17 minút;17
+2026-10-23 16:17:15;2026-10-23;16;Friday;Ex 620 TATRANsmer Bratislava hlavná stanica;Štrbapred 7 min.;+ 16 minút;16
+2026-10-23 16:17:15;2026-10-23;16;Friday;REx 1925smer Humenné;Košiceteraz;+ 15 minút;15
+2026-10-23 16:17:15;2026-10-23;16;Friday;mešká do 5 minút;105;61.40 %;61
+2026-10-23 16:17:15;2026-10-23;16;Friday;mešká 5-14 minút;42;24.56 %;24
+2026-10-23 16:17:15;2026-10-23;16;Friday;mešká 15-29 minút;16;9.36 %;9
+2026-10-23 16:17:15;2026-10-23;16;Friday;mešká 30-59 minút;5;2.92 %;2
+2026-10-23 16:17:15;2026-10-23;16;Friday;mešká 60 a viac minút;3;1.75 %;1
