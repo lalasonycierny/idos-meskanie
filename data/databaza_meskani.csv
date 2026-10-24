@@ -4362,3 +4362,18 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 17:07:22;2026-10-24;17;Saturday;mešká 15-29 minút;4;3.25 %;3
 2026-10-24 17:07:22;2026-10-24;17;Saturday;mešká 30-59 minút;1;0.81 %;0
 2026-10-24 17:07:22;2026-10-24;17;Saturday;mešká 60 a viac minút;0;0.00 %;0
+2026-10-24 17:17:51;2026-10-24;17;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-10-24 17:17:51;2026-10-24;17;Saturday;Ex 621 TATRAN;Východná;mešká 11 min.;11
+2026-10-24 17:17:51;2026-10-24;17;Saturday;Ex 618 TATRAN;Trenčín;ide načas;0
+2026-10-24 17:17:51;2026-10-24;17;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 15 min.;15
+2026-10-24 17:17:51;2026-10-24;17;Saturday;Ex 620 TATRAN;Vrútky;ide načas;0
+2026-10-24 17:17:51;2026-10-24;17;Saturday;Os 6123smer Zvolen osobná stanica;Zvolen osobná stanicateraz;+ 63 minút= 1 hod, 3 min.;123
+2026-10-24 17:17:51;2026-10-24;17;Saturday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Liptovský Mikulášprišiel teraz;+ 26 minút;26
+2026-10-24 17:17:51;2026-10-24;17;Saturday;RJ 1003 REGIOJETsmer Košice;Košiceprišiel pred 9 min.;v cieli+ 16 minút;16
+2026-10-24 17:17:51;2026-10-24;17;Saturday;Os 3125smer Trenčín;Výh. Nivyprešiel stanicou teraz;+ 15 minút;15
+2026-10-24 17:17:51;2026-10-24;17;Saturday;Os 7827smer Košice;Vydrníkodišiel pred 6 min.;+ 15 minút;15
+2026-10-24 17:17:51;2026-10-24;17;Saturday;mešká do 5 minút;95;77.87 %;77
+2026-10-24 17:17:51;2026-10-24;17;Saturday;mešká 5-14 minút;22;18.03 %;18
+2026-10-24 17:17:51;2026-10-24;17;Saturday;mešká 15-29 minút;4;3.28 %;3
+2026-10-24 17:17:51;2026-10-24;17;Saturday;mešká 30-59 minút;0;0.00 %;0
+2026-10-24 17:17:51;2026-10-24;17;Saturday;mešká 60 a viac minút;1;0.82 %;0
