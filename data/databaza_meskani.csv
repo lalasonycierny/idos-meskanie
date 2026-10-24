@@ -2811,3 +2811,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 01:52:39;2026-10-24;1;Saturday;mešká 15-29 minút;1;11.11 %;11
 2026-10-24 01:52:39;2026-10-24;1;Saturday;mešká 30-59 minút;1;11.11 %;11
 2026-10-24 01:52:39;2026-10-24;1;Saturday;mešká 60 a viac minút;4;44.44 %;44
+2026-10-24 02:03:05;2026-10-24;2;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-24 02:03:05;2026-10-24;2;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 43 min.;43
+2026-10-24 02:03:05;2026-10-24;2;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-10-24 02:03:05;2026-10-24;2;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-24 02:03:05;2026-10-24;2;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 26 min.;26
+2026-10-24 02:03:05;2026-10-24;2;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 627 minút= 10 hod, 27 min.;1227
+2026-10-24 02:03:05;2026-10-24;2;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 502 minút= 8 hod, 22 min.;982
+2026-10-24 02:03:05;2026-10-24;2;Saturday;Os 10035smer Trenčianska Teplá;Galantaprešiel stanicou teraz;+ 214 minút= 3 hod, 34 min.;394
+2026-10-24 02:03:05;2026-10-24;2;Saturday;Os 7236smer Banská Bystrica;Banská Bystricapred 2 min.;+ 153 minút= 2 hod, 33 min.;273
+2026-10-24 02:03:05;2026-10-24;2;Saturday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Čadca št. hr.pred 10 min.;v cieli+ 31 minút;31
+2026-10-24 02:03:05;2026-10-24;2;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Východnáprešiel stanicou pred 5 min.;+ 25 minút;25
+2026-10-24 02:03:05;2026-10-24;2;Saturday;mešká do 5 minút;1;12.50 %;12
+2026-10-24 02:03:05;2026-10-24;2;Saturday;mešká 5-14 minút;1;12.50 %;12
+2026-10-24 02:03:05;2026-10-24;2;Saturday;mešká 15-29 minút;1;12.50 %;12
+2026-10-24 02:03:05;2026-10-24;2;Saturday;mešká 30-59 minút;1;12.50 %;12
+2026-10-24 02:03:05;2026-10-24;2;Saturday;mešká 60 a viac minút;4;50.00 %;50
