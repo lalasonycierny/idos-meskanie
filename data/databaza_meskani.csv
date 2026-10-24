@@ -3403,3 +3403,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 09:22:19;2026-10-24;9;Saturday;mešká 15-29 minút;5;4.10 %;4
 2026-10-24 09:22:19;2026-10-24;9;Saturday;mešká 30-59 minút;2;1.64 %;1
 2026-10-24 09:22:19;2026-10-24;9;Saturday;mešká 60 a viac minút;2;1.64 %;1
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Ex 610 TATRAN;Margecany;mešká 1 min.;1
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 43 min.;43
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 26 min.;26
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Os 3207smer Púchov;Púchovteraz;+ 124 minút= 2 hod, 4 min.;244
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Os 6107smer Zvolen osobná stanica;Zvolen osobná stanicateraz;+ 78 minút= 1 hod, 18 min.;138
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Os 3110smer Myjava;Trenčín-Zlatovceprišiel teraz;+ 46 minút;46
+2026-10-24 09:32:45;2026-10-24;9;Saturday;REx 1783smer Margecany;Podbrezováprišiel teraz;+ 31 minút;31
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Os 3109smer Trenčín;Trenčianske Bohuslaviceodišiel pred 5 min.;+ 30 minút;30
+2026-10-24 09:32:45;2026-10-24;9;Saturday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisoupred 5 min.;+ 26 minút;26
+2026-10-24 09:32:45;2026-10-24;9;Saturday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Tvrdošovceprešiel stanicou teraz;+ 19 minút;19
+2026-10-24 09:32:45;2026-10-24;9;Saturday;R 745 BOJNICEsmer Prievidza;Bratislava-Račaprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-10-24 09:32:45;2026-10-24;9;Saturday;R 961smer Košice;Čierna nad Tisouteraz;+ 15 minút;15
+2026-10-24 09:32:45;2026-10-24;9;Saturday;Os 2011smer Bratislava hlavná stanica;Zohorodišiel pred 11 min.;+ 15 minút;15
+2026-10-24 09:32:45;2026-10-24;9;Saturday;mešká do 5 minút;78;66.67 %;66
+2026-10-24 09:32:45;2026-10-24;9;Saturday;mešká 5-14 minút;29;24.79 %;24
+2026-10-24 09:32:45;2026-10-24;9;Saturday;mešká 15-29 minút;5;4.27 %;4
+2026-10-24 09:32:45;2026-10-24;9;Saturday;mešká 30-59 minút;3;2.56 %;2
+2026-10-24 09:32:45;2026-10-24;9;Saturday;mešká 60 a viac minút;2;1.71 %;1
