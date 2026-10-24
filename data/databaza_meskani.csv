@@ -4819,3 +4819,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 21:30:23;2026-10-24;21;Saturday;mešká 15-29 minút;5;5.05 %;5
 2026-10-24 21:30:23;2026-10-24;21;Saturday;mešká 30-59 minút;2;2.02 %;2
 2026-10-24 21:30:23;2026-10-24;21;Saturday;mešká 60 a viac minút;4;4.04 %;4
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 21 min.;21
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 15 min.;15
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-10-24 21:40:49;2026-10-24;21;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 240 minút= 4 hod, 0 min.;480
+2026-10-24 21:40:49;2026-10-24;21;Saturday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Devínska Nová Vesprešiel stanicou pred 2 min.;+ 109 minút= 1 hod, 49 min.;169
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Os 4433smer Skalité;Skalitéteraz;+ 70 minút= 1 hod, 10 min.;130
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Ladceprišiel teraz;+ 39 minút;39
+2026-10-24 21:40:49;2026-10-24;21;Saturday;REx 1764smer Poprad-Tatry;Košiceteraz;+ 33 minút;33
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 628 TATRANsmer Bratislava hlavná stanica;Vrútkyprišiel pred 2 min.;+ 32 minút;32
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Os 7830smer Svit;Poprad-Tatryodišiel teraz;+ 21 minút;21
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 624 TATRANsmer Bratislava hlavná stanica;Šenkviceodišiel pred 2 min.;+ 18 minút;18
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Ex 642 TATRANsmer Žilina;Výh. Gánovceprešiel stanicou pred 4 min.;+ 18 minút;18
+2026-10-24 21:40:49;2026-10-24;21;Saturday;Os 7835smer Košice;Spišská Nová Vesodišiel pred 13 min.;+ 15 minút;15
+2026-10-24 21:40:49;2026-10-24;21;Saturday;mešká do 5 minút;81;75.70 %;75
+2026-10-24 21:40:49;2026-10-24;21;Saturday;mešká 5-14 minút;16;14.95 %;14
+2026-10-24 21:40:49;2026-10-24;21;Saturday;mešká 15-29 minút;4;3.74 %;3
+2026-10-24 21:40:49;2026-10-24;21;Saturday;mešká 30-59 minút;3;2.80 %;2
+2026-10-24 21:40:49;2026-10-24;21;Saturday;mešká 60 a viac minút;3;2.80 %;2
