@@ -4488,3 +4488,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 18:31:06;2026-10-24;18;Saturday;mešká 15-29 minút;5;4.17 %;4
 2026-10-24 18:31:06;2026-10-24;18;Saturday;mešká 30-59 minút;1;0.83 %;0
 2026-10-24 18:31:06;2026-10-24;18;Saturday;mešká 60 a viac minút;2;1.67 %;1
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Ex 621 TATRAN;Krompachy;mešká 19 min.;19
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Ex 618 TATRAN;Bratislava-Rača;mešká 6 min.;6
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 15 min.;15
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Ex 620 TATRAN;Výh. Potvorice;mešká 2 min.;2
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Os 3227smer Púchov;Púchovteraz;+ 73 minút= 1 hod, 13 min.;133
+2026-10-24 18:41:35;2026-10-24;18;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 61 minút= 1 hod, 1 min.;121
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Spišské Vlachyteraz;+ 27 minút;27
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Os 3129smer Trenčín;Papradodišiel pred 4 min.;+ 21 minút;21
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Ex 621 TATRANsmer Košice;Krompachyprešiel stanicou pred 4 min.;+ 19 minút;19
+2026-10-24 18:41:35;2026-10-24;18;Saturday;Os 7826smer Svit;Spišské Vlachyteraz;+ 18 minút;18
+2026-10-24 18:41:35;2026-10-24;18;Saturday;mešká do 5 minút;100;80.00 %;80
+2026-10-24 18:41:35;2026-10-24;18;Saturday;mešká 5-14 minút;19;15.20 %;15
+2026-10-24 18:41:35;2026-10-24;18;Saturday;mešká 15-29 minút;4;3.20 %;3
+2026-10-24 18:41:35;2026-10-24;18;Saturday;mešká 30-59 minút;0;0.00 %;0
+2026-10-24 18:41:35;2026-10-24;18;Saturday;mešká 60 a viac minút;2;1.60 %;1
