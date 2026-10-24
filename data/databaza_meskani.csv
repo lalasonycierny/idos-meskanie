@@ -3313,3 +3313,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 08:30:03;2026-10-24;8;Saturday;mešká 15-29 minút;6;5.08 %;5
 2026-10-24 08:30:03;2026-10-24;8;Saturday;mešká 30-59 minút;0;0.00 %;0
 2026-10-24 08:30:03;2026-10-24;8;Saturday;mešká 60 a viac minút;1;0.85 %;0
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 43 min.;43
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 26 min.;26
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Os 3207smer Púchov;Púchovteraz;+ 71 minút= 1 hod, 11 min.;131
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Os 7282smer Banská Bystrica;Banská Bystricaprišiel teraz;v cieli+ 28 minút;28
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Os 6107smer Zvolen osobná stanica;Zvolen osobná stanicateraz;+ 26 minút;26
+2026-10-24 08:40:31;2026-10-24;8;Saturday;R 10705 POVAŽANsmer Žilina;Dolný Hričovprešiel stanicou pred 2 min.;+ 24 minút;24
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Os 3109smer Trenčín;Papradodišiel teraz;+ 22 minút;22
+2026-10-24 08:40:31;2026-10-24;8;Saturday;Ex 611 TATRANsmer Košice;Odb. Vinohradyprešiel stanicou teraz;+ 15 minút;15
+2026-10-24 08:40:31;2026-10-24;8;Saturday;REx 1781smer Margecany;Telgártprešiel stanicou pred 12 min.;+ 15 minút;15
+2026-10-24 08:40:31;2026-10-24;8;Saturday;mešká do 5 minút;92;73.02 %;73
+2026-10-24 08:40:31;2026-10-24;8;Saturday;mešká 5-14 minút;27;21.43 %;21
+2026-10-24 08:40:31;2026-10-24;8;Saturday;mešká 15-29 minút;6;4.76 %;4
+2026-10-24 08:40:31;2026-10-24;8;Saturday;mešká 30-59 minút;0;0.00 %;0
+2026-10-24 08:40:31;2026-10-24;8;Saturday;mešká 60 a viac minút;1;0.79 %;0
