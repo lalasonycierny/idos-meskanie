@@ -4520,3 +4520,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 18:52:01;2026-10-24;18;Saturday;mešká 15-29 minút;4;3.23 %;3
 2026-10-24 18:52:01;2026-10-24;18;Saturday;mešká 30-59 minút;0;0.00 %;0
 2026-10-24 18:52:01;2026-10-24;18;Saturday;mešká 60 a viac minút;2;1.61 %;1
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Ex 621 TATRAN;Kysak;mešká 20 min.;20
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 15 min.;15
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Ex 620 TATRAN;Brestovany;mešká 1 min.;1
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Os 3227smer Púchov;Púchovteraz;+ 93 minút= 1 hod, 33 min.;153
+2026-10-24 19:02:30;2026-10-24;19;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 81 minút= 1 hod, 21 min.;141
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Markušovceprešiel stanicou pred 6 min.;+ 34 minút;34
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Os 7826smer Svit;Spišské Vlachyodišiel pred 4 min.;+ 34 minút;34
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Os 3129smer Trenčín;Vaďovceodišiel pred 9 min.;+ 23 minút;23
+2026-10-24 19:02:30;2026-10-24;19;Saturday;EC 1253 LEO EXPRESSsmer Prešov;Markušovceteraz;+ 22 minút;22
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Os 6126smer Horná Štubňa;Horná Štubňateraz;+ 21 minút;21
+2026-10-24 19:02:30;2026-10-24;19;Saturday;Ex 621 TATRANsmer Košice;Kysakodišiel teraz;+ 20 minút;20
+2026-10-24 19:02:30;2026-10-24;19;Saturday;mešká do 5 minút;96;76.80 %;76
+2026-10-24 19:02:30;2026-10-24;19;Saturday;mešká 5-14 minút;21;16.80 %;16
+2026-10-24 19:02:30;2026-10-24;19;Saturday;mešká 15-29 minút;4;3.20 %;3
+2026-10-24 19:02:30;2026-10-24;19;Saturday;mešká 30-59 minút;2;1.60 %;1
+2026-10-24 19:02:30;2026-10-24;19;Saturday;mešká 60 a viac minút;2;1.60 %;1
