@@ -3750,3 +3750,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 12:00:43;2026-10-24;12;Saturday;mešká 15-29 minút;7;5.51 %;5
 2026-10-24 12:00:43;2026-10-24;12;Saturday;mešká 30-59 minút;3;2.36 %;2
 2026-10-24 12:00:43;2026-10-24;12;Saturday;mešká 60 a viac minút;2;1.57 %;1
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Ex 610 TATRAN;Vrútky;mešká 4 min.;4
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 43 min.;43
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Ex 614 TATRAN;Spišská Nová Ves;mešká 6 min.;6
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 26 min.;26
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Os 3207smer Púchov;Púchovteraz;+ 282 minút= 4 hod, 42 min.;522
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Os 3113smer Trenčín;Výh. Nivyprešiel stanicou teraz;+ 68 minút= 1 hod, 8 min.;128
+2026-10-24 12:11:24;2026-10-24;12;Saturday;REx 1783smer Margecany;Nálepkovoodišiel pred 7 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-10-24 12:11:24;2026-10-24;12;Saturday;REx 1784smer Banská Bystrica;Margecanypred 4 min.;+ 50 minút;50
+2026-10-24 12:11:24;2026-10-24;12;Saturday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Šaľaprešiel stanicou pred 2 min.;+ 48 minút;48
+2026-10-24 12:11:24;2026-10-24;12;Saturday;R 961smer Košice;Streda nad Bodrogomprešiel stanicou teraz;+ 46 minút;46
+2026-10-24 12:11:24;2026-10-24;12;Saturday;R 745 BOJNICEsmer Prievidza;Zemianske Kostoľanyodišiel pred 4 min.;+ 31 minút;31
+2026-10-24 12:11:24;2026-10-24;12;Saturday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.prišiel pred 11 min.;v cieli+ 23 minút;23
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Os 4715smer Galanta;Sládkovičovoodišiel teraz;+ 19 minút;19
+2026-10-24 12:11:24;2026-10-24;12;Saturday;R 837 URPÍNsmer Banská Bystrica;Bratislava-Nové Mestoteraz;+ 18 minút;18
+2026-10-24 12:11:24;2026-10-24;12;Saturday;Os 2414smer Skalica na Slovensku;Kútyteraz;+ 15 minút;15
+2026-10-24 12:11:24;2026-10-24;12;Saturday;REx 2514smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 15 minút;15
+2026-10-24 12:11:24;2026-10-24;12;Saturday;mešká do 5 minút;93;67.88 %;67
+2026-10-24 12:11:24;2026-10-24;12;Saturday;mešká 5-14 minút;32;23.36 %;23
+2026-10-24 12:11:24;2026-10-24;12;Saturday;mešká 15-29 minút;5;3.65 %;3
+2026-10-24 12:11:24;2026-10-24;12;Saturday;mešká 30-59 minút;4;2.92 %;2
+2026-10-24 12:11:24;2026-10-24;12;Saturday;mešká 60 a viac minút;3;2.19 %;2
