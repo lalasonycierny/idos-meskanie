@@ -4470,3 +4470,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 18:20:39;2026-10-24;18;Saturday;mešká 15-29 minút;6;5.00 %;5
 2026-10-24 18:20:39;2026-10-24;18;Saturday;mešká 30-59 minút;2;1.67 %;1
 2026-10-24 18:20:39;2026-10-24;18;Saturday;mešká 60 a viac minút;1;0.83 %;0
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Ex 621 TATRAN;Markušovce;mešká 17 min.;17
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Ex 618 TATRAN;Výh. Svätý Jur;mešká 1 min.;1
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 15 min.;15
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Ex 620 TATRAN;Výh. Nivy;mešká 5 min.;5
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Os 6123smer Zvolen osobná stanica;Zvolen osobná stanicapred 12 min.;+ 125 minút= 2 hod, 5 min.;245
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Os 3227smer Púchov;Púchovteraz;+ 62 minút= 1 hod, 2 min.;122
+2026-10-24 18:31:06;2026-10-24;18;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 50 minút;50
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Os 3129smer Trenčín;Poriadieodišiel teraz;+ 20 minút;20
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Os 3126smer Myjava;Myjavaprišiel pred 11 min.;v cieli+ 18 minút;18
+2026-10-24 18:31:06;2026-10-24;18;Saturday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Kysucké Nové Mestoprešiel stanicou teraz;+ 17 minút;17
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Spišské Vlachyteraz;+ 17 minút;17
+2026-10-24 18:31:06;2026-10-24;18;Saturday;Ex 621 TATRANsmer Košice;Markušovceprešiel stanicou pred 6 min.;+ 17 minút;17
+2026-10-24 18:31:06;2026-10-24;18;Saturday;mešká do 5 minút;93;77.50 %;77
+2026-10-24 18:31:06;2026-10-24;18;Saturday;mešká 5-14 minút;19;15.83 %;15
+2026-10-24 18:31:06;2026-10-24;18;Saturday;mešká 15-29 minút;5;4.17 %;4
+2026-10-24 18:31:06;2026-10-24;18;Saturday;mešká 30-59 minút;1;0.83 %;0
+2026-10-24 18:31:06;2026-10-24;18;Saturday;mešká 60 a viac minút;2;1.67 %;1
