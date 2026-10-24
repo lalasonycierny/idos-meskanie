@@ -3348,3 +3348,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 08:50:57;2026-10-24;8;Saturday;mešká 15-29 minút;5;4.10 %;4
 2026-10-24 08:50:57;2026-10-24;8;Saturday;mešká 30-59 minút;2;1.64 %;1
 2026-10-24 08:50:57;2026-10-24;8;Saturday;mešká 60 a viac minút;1;0.82 %;0
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Ex 610 TATRAN;Košice;mešká 3 min.;3
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 43 min.;43
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 26 min.;26
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Os 3207smer Púchov;Púchovteraz;+ 93 minút= 1 hod, 33 min.;153
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Os 6107smer Zvolen osobná stanica;Zvolen osobná stanicateraz;+ 48 minút;48
+2026-10-24 09:01:25;2026-10-24;9;Saturday;REx 1783smer Margecany;Banská Bystricaodišiel pred 11 min.;+ 31 minút;31
+2026-10-24 09:01:25;2026-10-24;9;Saturday;R 10705 POVAŽANsmer Žilina;Žilinaprišiel pred 13 min.;v cieli+ 25 minút;25
+2026-10-24 09:01:25;2026-10-24;9;Saturday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Mužlaprešiel stanicou teraz;+ 19 minút;19
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Os 3110smer Myjava;Trenčínpred 9 min.;+ 19 minút;19
+2026-10-24 09:01:25;2026-10-24;9;Saturday;REx 1781smer Margecany;Mlynkyodišiel pred 6 min.;+ 16 minút;16
+2026-10-24 09:01:25;2026-10-24;9;Saturday;Ex 611 TATRANsmer Košice;Cíferprešiel stanicou pred 3 min.;+ 15 minút;15
+2026-10-24 09:01:25;2026-10-24;9;Saturday;mešká do 5 minút;91;73.39 %;73
+2026-10-24 09:01:25;2026-10-24;9;Saturday;mešká 5-14 minút;25;20.16 %;20
+2026-10-24 09:01:25;2026-10-24;9;Saturday;mešká 15-29 minút;5;4.03 %;4
+2026-10-24 09:01:25;2026-10-24;9;Saturday;mešká 30-59 minút;2;1.61 %;1
+2026-10-24 09:01:25;2026-10-24;9;Saturday;mešká 60 a viac minút;1;0.81 %;0
