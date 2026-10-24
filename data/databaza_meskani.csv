@@ -4434,3 +4434,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 17:59:41;2026-10-24;17;Saturday;mešká 15-29 minút;4;3.42 %;3
 2026-10-24 17:59:41;2026-10-24;17;Saturday;mešká 30-59 minút;1;0.85 %;0
 2026-10-24 17:59:41;2026-10-24;17;Saturday;mešká 60 a viac minút;1;0.85 %;0
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Ex 621 TATRAN;Spišská Nová Ves;mešká 2 min.;2
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Ex 618 TATRAN;Trnava nákladná stanica;ide načas;0
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 15 min.;15
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Ex 620 TATRAN;Ladce;mešká 5 min.;5
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Os 6123smer Zvolen osobná stanica;Zvolen osobná stanicateraz;+ 116 minút= 1 hod, 56 min.;176
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Os 3227smer Púchov;Púchovteraz;+ 42 minút;42
+2026-10-24 18:10:10;2026-10-24;18;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 30 minút;30
+2026-10-24 18:10:10;2026-10-24;18;Saturday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Potok odb.prešiel stanicou teraz;+ 22 minút;22
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Os 2414smer Skalica na Slovensku;Skalica na Slovenskupred 3 min.;+ 19 minút;19
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Os 3126smer Myjava;Poriadieodišiel pred 2 min.;+ 17 minút;17
+2026-10-24 18:10:10;2026-10-24;18;Saturday;Os 3129smer Trenčín;Myjavapred 3 min.;+ 15 minút;15
+2026-10-24 18:10:10;2026-10-24;18;Saturday;mešká do 5 minút;93;73.81 %;73
+2026-10-24 18:10:10;2026-10-24;18;Saturday;mešká 5-14 minút;26;20.63 %;20
+2026-10-24 18:10:10;2026-10-24;18;Saturday;mešká 15-29 minút;4;3.17 %;3
+2026-10-24 18:10:10;2026-10-24;18;Saturday;mešká 30-59 minút;2;1.59 %;1
+2026-10-24 18:10:10;2026-10-24;18;Saturday;mešká 60 a viac minút;1;0.79 %;0
