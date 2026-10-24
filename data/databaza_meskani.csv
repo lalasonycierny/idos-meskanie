@@ -3791,3 +3791,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 12:21:52;2026-10-24;12;Saturday;mešká 15-29 minút;3;2.44 %;2
 2026-10-24 12:21:52;2026-10-24;12;Saturday;mešká 30-59 minút;4;3.25 %;3
 2026-10-24 12:21:52;2026-10-24;12;Saturday;mešká 60 a viac minút;2;1.63 %;1
+2026-10-24 12:32:34;2026-10-24;12;Saturday;Ex 610 TATRAN;Žilina;ide načas;0
+2026-10-24 12:32:34;2026-10-24;12;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 43 min.;43
+2026-10-24 12:32:34;2026-10-24;12;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-10-24 12:32:34;2026-10-24;12;Saturday;Ex 614 TATRAN;Vydrník;mešká 8 min.;8
+2026-10-24 12:32:34;2026-10-24;12;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 26 min.;26
+2026-10-24 12:32:34;2026-10-24;12;Saturday;Os 3113smer Trenčín;Trenčínpred 11 min.;v cieli+ 65 minút= 1 hod, 5 min.;125
+2026-10-24 12:32:34;2026-10-24;12;Saturday;REx 1783smer Margecany;Prakovceodišiel pred 5 min.;+ 56 minút;56
+2026-10-24 12:32:34;2026-10-24;12;Saturday;R 961smer Košice;Kuzmiceprešiel stanicou teraz;+ 50 minút;50
+2026-10-24 12:32:34;2026-10-24;12;Saturday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Senecprešiel stanicou teraz;+ 50 minút;50
+2026-10-24 12:32:34;2026-10-24;12;Saturday;Os 5417smer Trenčianska Teplá;Trenčianska Tepláteraz;+ 36 minút;36
+2026-10-24 12:32:34;2026-10-24;12;Saturday;R 745 BOJNICEsmer Prievidza;Prievidzapred 9 min.;v cieli+ 31 minút;31
+2026-10-24 12:32:34;2026-10-24;12;Saturday;R 837 URPÍNsmer Banská Bystrica;Bratislava-Vajnoryprešiel stanicou pred 3 min.;+ 25 minút;25
+2026-10-24 12:32:34;2026-10-24;12;Saturday;Os 2414smer Skalica na Slovensku;Kútypred 2 min.;+ 15 minút;15
+2026-10-24 12:32:34;2026-10-24;12;Saturday;mešká do 5 minút;89;73.55 %;73
+2026-10-24 12:32:34;2026-10-24;12;Saturday;mešká 5-14 minút;24;19.83 %;19
+2026-10-24 12:32:34;2026-10-24;12;Saturday;mešká 15-29 minút;2;1.65 %;1
+2026-10-24 12:32:34;2026-10-24;12;Saturday;mešká 30-59 minút;5;4.13 %;4
+2026-10-24 12:32:34;2026-10-24;12;Saturday;mešká 60 a viac minút;1;0.83 %;0
