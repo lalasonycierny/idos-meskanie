@@ -3967,3 +3967,35 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 13:47:18;2026-10-24;13;Saturday;mešká 15-29 minút;13;10.32 %;10
 2026-10-24 13:47:18;2026-10-24;13;Saturday;mešká 30-59 minút;6;4.76 %;4
 2026-10-24 13:47:18;2026-10-24;13;Saturday;mešká 60 a viac minút;1;0.79 %;0
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Ex 610 TATRAN;Brestovany;ide načas;0
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Ex 621 TATRAN;Výh. Svätý Jur;mešká 28 min.;28
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Ex 618 TATRAN;Spišské Vlachy;mešká 16 min.;16
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Ex 614 TATRAN;Ružomberok;mešká 11 min.;11
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Ex 620 TATRAN;Košice;ide načas;0
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 5417smer Trenčianska Teplá;Trenčianska Tepláteraz;+ 121 minút= 2 hod, 1 min.;241
+2026-10-24 13:58:03;2026-10-24;13;Saturday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 58 minút;58
+2026-10-24 13:58:03;2026-10-24;13;Saturday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Kúty št. hr.pred 11 min.;v cieli+ 47 minút;47
+2026-10-24 13:58:03;2026-10-24;13;Saturday;R 10719 POVAŽANsmer Púchov;Šenkviceodišiel pred 2 min.;+ 43 minút;43
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 7819smer Košice;Krompachyodišiel pred 4 min.;+ 34 minút;34
+2026-10-24 13:58:03;2026-10-24;13;Saturday;R 10716 POVAŽANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 6 min.;v cieli+ 34 minút;34
+2026-10-24 13:58:03;2026-10-24;13;Saturday;REx 1784smer Banská Bystrica;Hnilecodišiel pred 2 min.;+ 31 minút;31
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 3243smer Púchov;Púchovteraz;+ 29 minút;29
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Ex 621 TATRANsmer Košice;Výh. Svätý Jurprešiel stanicou teraz;+ 28 minút;28
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 3117smer Trenčín;Trenčínprišiel pred 13 min.;v cieli+ 27 minút;27
+2026-10-24 13:58:03;2026-10-24;13;Saturday;R 837 URPÍNsmer Banská Bystrica;Kalná nad Hronomprešiel stanicou pred 3 min.;+ 23 minút;23
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 2019smer Bratislava hlavná stanica;Bratislava-Lamačodišiel pred 6 min.;+ 21 minút;21
+2026-10-24 13:58:03;2026-10-24;13;Saturday;REx 1782smer Banská Bystrica;Dubováodišiel pred 2 min.;+ 19 minút;19
+2026-10-24 13:58:03;2026-10-24;13;Saturday;REx 1785smer Margecany;Prakovceodišiel pred 9 min.;+ 17 minút;17
+2026-10-24 13:58:03;2026-10-24;13;Saturday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 17 minút;17
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 3118smer Myjava;Vaďovceodišiel pred 8 min.;+ 17 minút;17
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 4719smer Galanta;Senecodišiel pred 5 min.;+ 16 minút;16
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 7814smer Svit;Svitprišiel pred 8 min.;v cieli+ 16 minút;16
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Ex 618 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyodišiel pred 5 min.;+ 16 minút;16
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 2414smer Skalica na Slovensku;Kútyteraz;+ 15 minút;15
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 2016smer Kúty;Veľké Leváreodišiel pred 9 min.;+ 15 minút;15
+2026-10-24 13:58:03;2026-10-24;13;Saturday;Os 4520smer Trnava;Galantapred 3 min.;+ 15 minút;15
+2026-10-24 13:58:03;2026-10-24;13;Saturday;mešká do 5 minút;88;69.84 %;69
+2026-10-24 13:58:03;2026-10-24;13;Saturday;mešká 5-14 minút;16;12.70 %;12
+2026-10-24 13:58:03;2026-10-24;13;Saturday;mešká 15-29 minút;15;11.90 %;11
+2026-10-24 13:58:03;2026-10-24;13;Saturday;mešká 30-59 minút;6;4.76 %;4
+2026-10-24 13:58:03;2026-10-24;13;Saturday;mešká 60 a viac minút;1;0.79 %;0
