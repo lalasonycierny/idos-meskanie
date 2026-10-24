@@ -3560,3 +3560,27 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-24 10:35:32;2026-10-24;10;Saturday;mešká 15-29 minút;8;6.61 %;6
 2026-10-24 10:35:32;2026-10-24;10;Saturday;mešká 30-59 minút;3;2.48 %;2
 2026-10-24 10:35:32;2026-10-24;10;Saturday;mešká 60 a viac minút;3;2.48 %;2
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Ex 610 TATRAN;Svit;mešká 1 min.;1
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 43 min.;43
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 26 min.;26
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Os 3207smer Púchov;Púchovteraz;+ 197 minút= 3 hod, 17 min.;377
+2026-10-24 10:45:57;2026-10-24;10;Saturday;R 961smer Košice;Čierna nad Tisouteraz;+ 88 minút= 1 hod, 28 min.;148
+2026-10-24 10:45:57;2026-10-24;10;Saturday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouodišiel pred 6 min.;+ 76 minút= 1 hod, 16 min.;136
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Os 3110smer Myjava;Poriadieteraz;+ 55 minút;55
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Os 3113smer Trenčín;Myjavateraz;+ 44 minút;44
+2026-10-24 10:45:57;2026-10-24;10;Saturday;REx 1783smer Margecany;Červená Skalapred 3 min.;+ 34 minút;34
+2026-10-24 10:45:57;2026-10-24;10;Saturday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Devínska Nová Vesodišiel teraz;+ 33 minút;33
+2026-10-24 10:45:57;2026-10-24;10;Saturday;R 745 BOJNICEsmer Prievidza;Alekšinceprešiel stanicou pred 2 min.;+ 26 minút;26
+2026-10-24 10:45:57;2026-10-24;10;Saturday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Senecodišiel teraz;+ 22 minút;22
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Os 9013smer Trebišov;Úporodišiel pred 3 min.;+ 22 minút;22
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Os 8509smer Čierna nad Tisou;Streda nad Bodrogomodišiel pred 2 min.;+ 20 minút;20
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Os 7810smer Svit;Spišské Vlachyodišiel pred 4 min.;+ 18 minút;18
+2026-10-24 10:45:57;2026-10-24;10;Saturday;Ex 505 KRIVÁŇsmer Košice;Výh. Ružínprešiel stanicou teraz;+ 17 minút;17
+2026-10-24 10:45:57;2026-10-24;10;Saturday;SC 241 PENDOLINO KOŠIČANsmer Košice;Kysucké Nové Mestoprešiel stanicou pred 5 min.;+ 17 minút;17
+2026-10-24 10:45:57;2026-10-24;10;Saturday;mešká do 5 minút;79;63.71 %;63
+2026-10-24 10:45:57;2026-10-24;10;Saturday;mešká 5-14 minút;31;25.00 %;25
+2026-10-24 10:45:57;2026-10-24;10;Saturday;mešká 15-29 minút;7;5.65 %;5
+2026-10-24 10:45:57;2026-10-24;10;Saturday;mešká 30-59 minút;4;3.23 %;3
+2026-10-24 10:45:57;2026-10-24;10;Saturday;mešká 60 a viac minút;3;2.42 %;2
