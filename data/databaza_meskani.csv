@@ -6106,3 +6106,27 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-25 10:51:33;2026-10-25;10;Sunday;mešká 15-29 minút;8;6.67 %;6
 2026-10-25 10:51:33;2026-10-25;10;Sunday;mešká 30-59 minút;4;3.33 %;3
 2026-10-25 10:51:33;2026-10-25;10;Sunday;mešká 60 a viac minút;1;0.83 %;0
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 610 TATRAN;Štrba;mešká 4 min.;4
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 21 min.;21
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 614 TATRAN;Košice;mešká 8 min.;8
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-10-25 11:02:07;2026-10-25;11;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 104 minút= 1 hod, 44 min.;164
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 612 TATRANsmer Bratislava hlavná stanica;Košiceteraz;+ 68 minút= 1 hod, 8 min.;128
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 607 TATRANsmer Košice;Poprad-Tatryprišiel teraz;+ 35 minút;35
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 613 TATRANsmer Košice;Výh. Nivyprešiel stanicou pred 2 min.;+ 30 minút;30
+2026-10-25 11:02:07;2026-10-25;11;Sunday;R 10712 POVAŽANsmer Bratislava hlavná stanica;Trnavaprišiel teraz;+ 30 minút;30
+2026-10-25 11:02:07;2026-10-25;11;Sunday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Šaľaprešiel stanicou teraz;+ 21 minút;21
+2026-10-25 11:02:07;2026-10-25;11;Sunday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Oslanyprešiel stanicou teraz;+ 21 minút;21
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Os 3113smer Trenčín;Čachticeodišiel teraz;+ 20 minút;20
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Os 7844smer Liptovský Mikuláš;Liptovský Mikulášprišiel pred 7 min.;v cieli+ 18 minút;18
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Os 8313smer Stará Ľubovňa;Poprad-Tatryteraz;+ 16 minút;16
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 608 TATRANsmer Bratislava hlavná stanica;Ružomberokodišiel pred 7 min.;+ 16 minút;16
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Os 7811smer Košice;Košiceprišiel pred 14 min.;v cieli+ 15 minút;15
+2026-10-25 11:02:07;2026-10-25;11;Sunday;R 962 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Košiceteraz;+ 15 minút;15
+2026-10-25 11:02:07;2026-10-25;11;Sunday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 12 min.;+ 15 minút;15
+2026-10-25 11:02:07;2026-10-25;11;Sunday;mešká do 5 minút;83;66.40 %;66
+2026-10-25 11:02:07;2026-10-25;11;Sunday;mešká 5-14 minút;28;22.40 %;22
+2026-10-25 11:02:07;2026-10-25;11;Sunday;mešká 15-29 minút;9;7.20 %;7
+2026-10-25 11:02:07;2026-10-25;11;Sunday;mešká 30-59 minút;3;2.40 %;2
+2026-10-25 11:02:07;2026-10-25;11;Sunday;mešká 60 a viac minút;2;1.60 %;1
