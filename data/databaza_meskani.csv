@@ -7674,3 +7674,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-25 20:24:58;2026-10-25;20;Sunday;mešká 15-29 minút;15;11.81 %;11
 2026-10-25 20:24:58;2026-10-25;20;Sunday;mešká 30-59 minút;6;4.72 %;4
 2026-10-25 20:24:58;2026-10-25;20;Sunday;mešká 60 a viac minút;5;3.94 %;3
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-10-25 20:35:42;2026-10-25;20;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 415 minút= 6 hod, 55 min.;775
+2026-10-25 20:35:42;2026-10-25;20;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 295 minút= 4 hod, 55 min.;535
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 3227smer Púchov;Púchovteraz;+ 187 minút= 3 hod, 7 min.;367
+2026-10-25 20:35:42;2026-10-25;20;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 175 minút= 2 hod, 55 min.;295
+2026-10-25 20:35:42;2026-10-25;20;Sunday;REx 1969smer Košice;Prešovteraz;+ 116 minút= 1 hod, 56 min.;176
+2026-10-25 20:35:42;2026-10-25;20;Sunday;REx 1971smer Košice;Prešovodišiel pred 6 min.;+ 45 minút;45
+2026-10-25 20:35:42;2026-10-25;20;Sunday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Zohorodišiel pred 14 min.;+ 43 minút;43
+2026-10-25 20:35:42;2026-10-25;20;Sunday;ra 270 METROPOLITANsmer Kúty št. hr. - Praha jih;Odb. Močiarprešiel stanicou pred 7 min.;+ 39 minút;39
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 651 TATRANsmer Vrútky;Brestovanyprešiel stanicou teraz;+ 39 minút;39
+2026-10-25 20:35:42;2026-10-25;20;Sunday;R 10729 POVAŽANsmer Žilina;Púchovodišiel pred 4 min.;+ 37 minút;37
+2026-10-25 20:35:42;2026-10-25;20;Sunday;REx 1968smer Lipany;Sabinovodišiel pred 9 min.;+ 35 minút;35
+2026-10-25 20:35:42;2026-10-25;20;Sunday;EC 221 VALAŠSKÝ EXPRESsmer Púchov;Lúky pod Makytoupred 6 min.;+ 32 minút;32
+2026-10-25 20:35:42;2026-10-25;20;Sunday;R 10733 POVAŽANsmer Púchov;Pezinokodišiel teraz;+ 29 minút;29
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 7529smer Prievidza;Prievidzaprišiel teraz;v cieli+ 24 minút;24
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 624 TATRANsmer Bratislava hlavná stanica;Dubnica nad Váhomprešiel stanicou teraz;+ 23 minút;23
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 7855smer Poprad-Tatry;Výh. Lučivnáprešiel stanicou teraz;+ 22 minút;22
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 628 TATRANsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou pred 4 min.;+ 21 minút;21
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 629 TATRANsmer Košice;Ľubochňaprešiel stanicou pred 5 min.;+ 21 minút;21
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Vrútkyprešiel stanicou teraz;+ 19 minút;19
+2026-10-25 20:35:42;2026-10-25;20;Sunday;REx 1970smer Lipany;Prešovteraz;+ 18 minút;18
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 7532smer Vrútky;Chrenovecodišiel pred 12 min.;+ 18 minút;18
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 7854smer Liptovský Mikuláš;Kráľova Lehotaodišiel teraz;+ 17 minút;17
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 4531smer Galanta;Galantaprišiel pred 14 min.;v cieli+ 17 minút;17
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Ex 653 TATRANsmer Vrútky;Bratislava hlavná stanicaodišiel teraz;+ 17 minút;17
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 3133smer Trenčín;Stará Turáodišiel teraz;+ 16 minút;16
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 4731smer Galanta;Šaľaodišiel teraz;+ 16 minút;16
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 5387smer Trenčín;Mníchova Lehotaodišiel pred 5 min.;+ 16 minút;16
+2026-10-25 20:35:42;2026-10-25;20;Sunday;R 10731 POVAŽANsmer Púchov;Trenčín-Zlatovceprešiel stanicou teraz;+ 15 minút;15
+2026-10-25 20:35:42;2026-10-25;20;Sunday;Os 2630smer Kúty;Jablonicaodišiel teraz;+ 15 minút;15
+2026-10-25 20:35:42;2026-10-25;20;Sunday;mešká do 5 minút;68;53.97 %;53
+2026-10-25 20:35:42;2026-10-25;20;Sunday;mešká 5-14 minút;29;23.02 %;23
+2026-10-25 20:35:42;2026-10-25;20;Sunday;mešká 15-29 minút;17;13.49 %;13
+2026-10-25 20:35:42;2026-10-25;20;Sunday;mešká 30-59 minút;7;5.56 %;5
+2026-10-25 20:35:42;2026-10-25;20;Sunday;mešká 60 a viac minút;5;3.97 %;3
