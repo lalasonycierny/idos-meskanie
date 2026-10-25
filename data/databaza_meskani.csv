@@ -6214,3 +6214,27 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-25 11:45:24;2026-10-25;11;Sunday;mešká 15-29 minút;8;6.72 %;6
 2026-10-25 11:45:24;2026-10-25;11;Sunday;mešká 30-59 minút;2;1.68 %;1
 2026-10-25 11:45:24;2026-10-25;11;Sunday;mešká 60 a viac minút;1;0.84 %;0
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 610 TATRAN;Kraľovany;mešká 1 min.;1
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 21 min.;21
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 614 TATRAN;Krompachy;mešká 21 min.;21
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 612 TATRANsmer Bratislava hlavná stanica;Markušovceprešiel stanicou teraz;+ 62 minút= 1 hod, 2 min.;122
+2026-10-25 11:56:08;2026-10-25;11;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 55 minút;55
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 607 TATRANsmer Košice;Markušovceteraz;+ 50 minút;50
+2026-10-25 11:56:08;2026-10-25;11;Sunday;R 10712 POVAŽANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 9 min.;v cieli+ 30 minút;30
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 613 TATRANsmer Košice;Žilinaprišiel pred 3 min.;+ 25 minút;25
+2026-10-25 11:56:08;2026-10-25;11;Sunday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Koniarovceprešiel stanicou pred 4 min.;+ 23 minút;23
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Os 7814smer Svit;Košiceodišiel pred 6 min.;+ 23 minút;23
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Os 8512smer Prešov;Drienovská Nová Vesodišiel pred 4 min.;+ 21 minút;21
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Ex 614 TATRANsmer Bratislava hlavná stanica;Krompachyprešiel stanicou pred 3 min.;+ 21 minút;21
+2026-10-25 11:56:08;2026-10-25;11;Sunday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovoodišiel pred 7 min.;+ 20 minút;20
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Os 3114smer Myjava;Stará Turáodišiel teraz;+ 17 minút;17
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Os 4715smer Galanta;Senecodišiel pred 3 min.;+ 17 minút;17
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Os 4815smer Komárno;Komárnoprišiel pred 9 min.;v cieli+ 16 minút;16
+2026-10-25 11:56:08;2026-10-25;11;Sunday;Os 4516smer Trnava;Galantateraz;+ 15 minút;15
+2026-10-25 11:56:08;2026-10-25;11;Sunday;mešká do 5 minút;94;73.44 %;73
+2026-10-25 11:56:08;2026-10-25;11;Sunday;mešká 5-14 minút;20;15.63 %;15
+2026-10-25 11:56:08;2026-10-25;11;Sunday;mešká 15-29 minút;10;7.81 %;7
+2026-10-25 11:56:08;2026-10-25;11;Sunday;mešká 30-59 minút;3;2.34 %;2
+2026-10-25 11:56:08;2026-10-25;11;Sunday;mešká 60 a viac minút;1;0.78 %;0
