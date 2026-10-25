@@ -7638,3 +7638,39 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-25 20:14:16;2026-10-25;20;Sunday;mešká 15-29 minút;18;13.53 %;13
 2026-10-25 20:14:16;2026-10-25;20;Sunday;mešká 30-59 minút;7;5.26 %;5
 2026-10-25 20:14:16;2026-10-25;20;Sunday;mešká 60 a viac minút;6;4.51 %;4
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-10-25 20:24:58;2026-10-25;20;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 404 minút= 6 hod, 44 min.;764
+2026-10-25 20:24:58;2026-10-25;20;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 284 minút= 4 hod, 44 min.;524
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 3227smer Púchov;Púchovteraz;+ 176 minút= 2 hod, 56 min.;296
+2026-10-25 20:24:58;2026-10-25;20;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 164 minút= 2 hod, 44 min.;284
+2026-10-25 20:24:58;2026-10-25;20;Sunday;REx 1969smer Košice;Prešovteraz;+ 105 minút= 1 hod, 45 min.;165
+2026-10-25 20:24:58;2026-10-25;20;Sunday;REx 1971smer Košice;Prešovteraz;+ 45 minút;45
+2026-10-25 20:24:58;2026-10-25;20;Sunday;REx 1968smer Lipany;Sabinovteraz;+ 44 minút;44
+2026-10-25 20:24:58;2026-10-25;20;Sunday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Zohorodišiel pred 3 min.;+ 43 minút;43
+2026-10-25 20:24:58;2026-10-25;20;Sunday;ra 270 METROPOLITANsmer Kúty št. hr. - Praha jih;Bernolákovoprešiel stanicou pred 2 min.;+ 39 minút;39
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 651 TATRANsmer Vrútky;Cíferprešiel stanicou pred 4 min.;+ 38 minút;38
+2026-10-25 20:24:58;2026-10-25;20;Sunday;R 10729 POVAŽANsmer Žilina;Ladceprešiel stanicou pred 3 min.;+ 34 minút;34
+2026-10-25 20:24:58;2026-10-25;20;Sunday;R 10733 POVAŽANsmer Púchov;Bratislava-Račaodišiel teraz;+ 29 minút;29
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 7529smer Prievidza;Chrenovecodišiel pred 3 min.;+ 25 minút;25
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 624 TATRANsmer Bratislava hlavná stanica;Púchovodišiel pred 2 min.;+ 23 minút;23
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 2028smer Kúty;Kútyprišiel pred 13 min.;v cieli+ 22 minút;22
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 7855smer Poprad-Tatry;Východnáodišiel pred 8 min.;+ 22 minút;22
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 628 TATRANsmer Bratislava hlavná stanica;Štrbapred 11 min.;+ 21 minút;21
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 629 TATRANsmer Košice;Kraľovanyodišiel teraz;+ 20 minút;20
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Kraľovanyprešiel stanicou teraz;+ 19 minút;19
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 7532smer Vrútky;Chrenovecodišiel teraz;+ 18 minút;18
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 4531smer Galanta;Galantaprišiel pred 3 min.;v cieli+ 17 minút;17
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 2033smer Bratislava hlavná stanica;Zohorprišiel pred 3 min.;+ 17 minút;17
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 2630smer Kúty;Smoleniceodišiel pred 7 min.;+ 16 minút;16
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 4731smer Galanta;Galantaodišiel teraz;+ 16 minút;16
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 3932smer Skalité;Varínodišiel teraz;+ 15 minút;15
+2026-10-25 20:24:58;2026-10-25;20;Sunday;Os 7854smer Liptovský Mikuláš;Štrbapred 7 min.;+ 15 minút;15
+2026-10-25 20:24:58;2026-10-25;20;Sunday;mešká do 5 minút;67;52.76 %;52
+2026-10-25 20:24:58;2026-10-25;20;Sunday;mešká 5-14 minút;34;26.77 %;26
+2026-10-25 20:24:58;2026-10-25;20;Sunday;mešká 15-29 minút;15;11.81 %;11
+2026-10-25 20:24:58;2026-10-25;20;Sunday;mešká 30-59 minút;6;4.72 %;4
+2026-10-25 20:24:58;2026-10-25;20;Sunday;mešká 60 a viac minút;5;3.94 %;3
