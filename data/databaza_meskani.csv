@@ -6923,3 +6923,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-25 16:31:58;2026-10-25;16;Sunday;mešká 15-29 minút;9;6.92 %;6
 2026-10-25 16:31:58;2026-10-25;16;Sunday;mešká 30-59 minút;3;2.31 %;2
 2026-10-25 16:31:58;2026-10-25;16;Sunday;mešká 60 a viac minút;2;1.54 %;1
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Ex 621 TATRAN;Liptovský Mikuláš;ide načas;0
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Ex 618 TATRAN;Potok odb.;mešká 23 min.;23
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Ex 614 TATRAN;Pezinok;mešká 18 min.;18
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Ex 620 TATRAN;Ružomberok;mešká 2 min.;2
+2026-10-25 16:42:30;2026-10-25;16;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 182 minút= 3 hod, 2 min.;362
+2026-10-25 16:42:30;2026-10-25;16;Sunday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Galantaprešiel stanicou pred 5 min.;+ 125 minút= 2 hod, 5 min.;245
+2026-10-25 16:42:30;2026-10-25;16;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 62 minút= 1 hod, 2 min.;122
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Ex 612 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;v cieli+ 56 minút;56
+2026-10-25 16:42:30;2026-10-25;16;Sunday;RJ 1050 REGIOJETsmer Kúty št. hr. - Praha-Malešice;Bratislava hlavná stanicapred 14 min.;+ 30 minút;30
+2026-10-25 16:42:30;2026-10-25;16;Sunday;EC 127 VALAŠSKÝ EXPRESsmer Púchov;Púchovpred 9 min.;+ 25 minút;25
+2026-10-25 16:42:30;2026-10-25;16;Sunday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bernolákovoprešiel stanicou teraz;+ 24 minút;24
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Ex 618 TATRANsmer Bratislava hlavná stanica;Potok odb.prešiel stanicou teraz;+ 23 minút;23
+2026-10-25 16:42:30;2026-10-25;16;Sunday;RJ 1003 REGIOJETsmer Košice;Margecanyprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Os 7822smer Svit;Spišské Vlachyteraz;+ 21 minút;21
+2026-10-25 16:42:30;2026-10-25;16;Sunday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Výh. Lučivnáprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Ex 614 TATRANsmer Bratislava hlavná stanica;Pezinokprišiel teraz;+ 18 minút;18
+2026-10-25 16:42:30;2026-10-25;16;Sunday;Os 7525smer Prievidza;Vrútkyodišiel pred 5 min.;+ 16 minút;16
+2026-10-25 16:42:30;2026-10-25;16;Sunday;mešká do 5 minút;99;74.44 %;74
+2026-10-25 16:42:30;2026-10-25;16;Sunday;mešká 5-14 minút;21;15.79 %;15
+2026-10-25 16:42:30;2026-10-25;16;Sunday;mešká 15-29 minút;8;6.02 %;6
+2026-10-25 16:42:30;2026-10-25;16;Sunday;mešká 30-59 minút;2;1.50 %;1
+2026-10-25 16:42:30;2026-10-25;16;Sunday;mešká 60 a viac minút;3;2.26 %;2
