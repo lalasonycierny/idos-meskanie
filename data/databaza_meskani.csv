@@ -8646,3 +8646,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 05:26:38;2026-10-26;5;Monday;mešká 15-29 minút;3;2.05 %;2
 2026-10-26 05:26:38;2026-10-26;5;Monday;mešká 30-59 minút;1;0.68 %;0
 2026-10-26 05:26:38;2026-10-26;5;Monday;mešká 60 a viac minút;1;0.68 %;0
+2026-10-26 05:37:17;2026-10-26;5;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-26 05:37:17;2026-10-26;5;Monday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-10-26 05:37:17;2026-10-26;5;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-10-26 05:37:17;2026-10-26;5;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-26 05:37:17;2026-10-26;5;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-10-26 05:37:17;2026-10-26;5;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 6 min.;+ 711 minút= 11 hod, 51 min.;1371
+2026-10-26 05:37:17;2026-10-26;5;Monday;RJ 1021 REGIOJETsmer Košice;Výh. Gánovceprešiel stanicou pred 3 min.;+ 50 minút;50
+2026-10-26 05:37:17;2026-10-26;5;Monday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Cíferprešiel stanicou pred 4 min.;+ 26 minút;26
+2026-10-26 05:37:17;2026-10-26;5;Monday;REx 1761smer Košice;Spišské Vlachyteraz;+ 25 minút;25
+2026-10-26 05:37:17;2026-10-26;5;Monday;Ex 600 TATRANsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou teraz;+ 22 minút;22
+2026-10-26 05:37:17;2026-10-26;5;Monday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Výh. Lučivnáprešiel stanicou teraz;+ 17 minút;17
+2026-10-26 05:37:17;2026-10-26;5;Monday;mešká do 5 minút;137;87.82 %;87
+2026-10-26 05:37:17;2026-10-26;5;Monday;mešká 5-14 minút;13;8.33 %;8
+2026-10-26 05:37:17;2026-10-26;5;Monday;mešká 15-29 minút;4;2.56 %;2
+2026-10-26 05:37:17;2026-10-26;5;Monday;mešká 30-59 minút;1;0.64 %;0
+2026-10-26 05:37:17;2026-10-26;5;Monday;mešká 60 a viac minút;1;0.64 %;0
