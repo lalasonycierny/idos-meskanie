@@ -8715,3 +8715,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 06:08:59;2026-10-26;6;Monday;mešká 15-29 minút;7;3.93 %;3
 2026-10-26 06:08:59;2026-10-26;6;Monday;mešká 30-59 minút;2;1.12 %;1
 2026-10-26 06:08:59;2026-10-26;6;Monday;mešká 60 a viac minút;0;0.00 %;0
+2026-10-26 07:00:59;2026-10-26;7;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-26 07:00:59;2026-10-26;7;Monday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-10-26 07:00:59;2026-10-26;7;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-10-26 07:00:59;2026-10-26;7;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-26 07:00:59;2026-10-26;7;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-10-26 07:00:59;2026-10-26;7;Monday;Os 6100smer Horná Štubňa;Horná Štubňateraz;+ 80 minút= 1 hod, 20 min.;140
+2026-10-26 07:00:59;2026-10-26;7;Monday;Os 3241smer Púchov;Púchovteraz;+ 74 minút= 1 hod, 14 min.;134
+2026-10-26 07:00:59;2026-10-26;7;Monday;Os 5502smer Topoľčany;Veľké Bieliceteraz;+ 59 minút;59
+2026-10-26 07:00:59;2026-10-26;7;Monday;RJ 1021 REGIOJETsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 2 min.;+ 48 minút;48
+2026-10-26 07:00:59;2026-10-26;7;Monday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Vrútkyprišiel pred 2 min.;+ 23 minút;23
+2026-10-26 07:00:59;2026-10-26;7;Monday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou pred 3 min.;+ 21 minút;21
+2026-10-26 07:00:59;2026-10-26;7;Monday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Šaľaprešiel stanicou teraz;+ 20 minút;20
+2026-10-26 07:00:59;2026-10-26;7;Monday;R 742 BOJNICEsmer Bratislava-Nové Mesto;Veľké Uherceteraz;+ 19 minút;19
+2026-10-26 07:00:59;2026-10-26;7;Monday;Os 3105smer Trenčín;Čachticeodišiel pred 2 min.;+ 18 minút;18
+2026-10-26 07:00:59;2026-10-26;7;Monday;Os 7802smer Svit;Markušovceodišiel pred 5 min.;+ 16 minút;16
+2026-10-26 07:00:59;2026-10-26;7;Monday;mešká do 5 minút;148;83.15 %;83
+2026-10-26 07:00:59;2026-10-26;7;Monday;mešká 5-14 minút;20;11.24 %;11
+2026-10-26 07:00:59;2026-10-26;7;Monday;mešká 15-29 minút;6;3.37 %;3
+2026-10-26 07:00:59;2026-10-26;7;Monday;mešká 30-59 minút;2;1.12 %;1
+2026-10-26 07:00:59;2026-10-26;7;Monday;mešká 60 a viac minút;2;1.12 %;1
