@@ -10950,3 +10950,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 21:37:11;2026-10-26;21;Monday;mešká 15-29 minút;12;10.91 %;10
 2026-10-26 21:37:11;2026-10-26;21;Monday;mešká 30-59 minút;9;8.18 %;8
 2026-10-26 21:37:11;2026-10-26;21;Monday;mešká 60 a viac minút;5;4.55 %;4
+2026-10-26 21:47:41;2026-10-26;21;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 35 min.;35
+2026-10-26 21:47:41;2026-10-26;21;Monday;Ex 621 TATRAN;Košice;v cieli meškal 50 min.;50
+2026-10-26 21:47:41;2026-10-26;21;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-10-26 21:47:41;2026-10-26;21;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-26 21:47:41;2026-10-26;21;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-10-26 21:47:41;2026-10-26;21;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 252 minút= 4 hod, 12 min.;492
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 2626smer Kúty;Kútyteraz;+ 170 minút= 2 hod, 50 min.;290
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 2031smer Bratislava hlavná stanica;Devínska Nová Vesodišiel pred 3 min.;+ 134 minút= 2 hod, 14 min.;254
+2026-10-26 21:47:41;2026-10-26;21;Monday;R 754 BOJNICEsmer Bratislava-Nové Mesto;Alekšinceprešiel stanicou teraz;+ 118 minút= 1 hod, 58 min.;178
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 2030smer Kúty;Sekuleodišiel teraz;+ 65 minút= 1 hod, 5 min.;125
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 4334smer Dunajská Streda;Dolný Štálodišiel pred 4 min.;+ 65 minút= 1 hod, 5 min.;125
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 4835smer Komárno;Nové Zámkyodišiel pred 2 min.;+ 43 minút;43
+2026-10-26 21:47:41;2026-10-26;21;Monday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Dvory nad Žitavouprešiel stanicou teraz;+ 43 minút;43
+2026-10-26 21:47:41;2026-10-26;21;Monday;ra 270 METROPOLITANsmer Kúty št. hr. - Praha jih;Kúty št. hr.pred 7 min.;v cieli+ 40 minút;40
+2026-10-26 21:47:41;2026-10-26;21;Monday;R 681 ZEMPLÍNsmer Humenné;Bratislava hlavná stanicapred 2 min.;+ 40 minút;40
+2026-10-26 21:47:41;2026-10-26;21;Monday;RJ 1045 REGIOJETsmer Žilina;Výh. Potvoriceprešiel stanicou teraz;+ 39 minút;39
+2026-10-26 21:47:41;2026-10-26;21;Monday;REx 1453smer Komárno;Dunajská Stredateraz;+ 37 minút;37
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 4935smer Štúrovo;Nové Zámkyodišiel pred 2 min.;+ 34 minút;34
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 3133smer Trenčín;Trenčín-Zlatovceodišiel teraz;+ 33 minút;33
+2026-10-26 21:47:41;2026-10-26;21;Monday;REx 2532smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 4 min.;v cieli+ 33 minút;33
+2026-10-26 21:47:41;2026-10-26;21;Monday;Ex 628 TATRANsmer Bratislava hlavná stanica;Potok odb.prešiel stanicou teraz;+ 29 minút;29
+2026-10-26 21:47:41;2026-10-26;21;Monday;R 755 BOJNICEsmer Prievidza;Veľké Bieliceodišiel pred 8 min.;+ 28 minút;28
+2026-10-26 21:47:41;2026-10-26;21;Monday;R 947 FATRANsmer Zvolen osobná stanica;Martinteraz;+ 28 minút;28
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 5034smer Nitra;Jelšovceodišiel teraz;+ 22 minút;22
+2026-10-26 21:47:41;2026-10-26;21;Monday;EC 145 OSTRAVANsmer Žilina;Budatín odb.prešiel stanicou pred 4 min.;+ 22 minút;22
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 7556smer Skalité;Budatín odb.prešiel stanicou pred 5 min.;+ 22 minút;22
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 7830smer Svit;Poprad-Tatryodišiel pred 6 min.;+ 20 minút;20
+2026-10-26 21:47:41;2026-10-26;21;Monday;Os 5134smer Nitra;Komjaticeodišiel pred 3 min.;+ 16 minút;16
+2026-10-26 21:47:41;2026-10-26;21;Monday;EN 476 METROPOLsmer Kúty št. hr. - Břeclav os.n.;Sládkovičovoprešiel stanicou teraz;+ 15 minút;15
+2026-10-26 21:47:41;2026-10-26;21;Monday;mešká do 5 minút;58;55.77 %;55
+2026-10-26 21:47:41;2026-10-26;21;Monday;mešká 5-14 minút;22;21.15 %;21
+2026-10-26 21:47:41;2026-10-26;21;Monday;mešká 15-29 minút;9;8.65 %;8
+2026-10-26 21:47:41;2026-10-26;21;Monday;mešká 30-59 minút;9;8.65 %;8
+2026-10-26 21:47:41;2026-10-26;21;Monday;mešká 60 a viac minút;6;5.77 %;5
