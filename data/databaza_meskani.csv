@@ -9602,3 +9602,30 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 14:02:08;2026-10-26;14;Monday;mešká 15-29 minút;12;7.64 %;7
 2026-10-26 14:02:08;2026-10-26;14;Monday;mešká 30-59 minút;3;1.91 %;1
 2026-10-26 14:02:08;2026-10-26;14;Monday;mešká 60 a viac minút;2;1.27 %;1
+2026-10-26 14:12:46;2026-10-26;14;Monday;Ex 610 TATRAN;Trnava nákladná stanica;ide načas;0
+2026-10-26 14:12:46;2026-10-26;14;Monday;Ex 621 TATRAN;Odb. Vinohrady;mešká 45 min.;45
+2026-10-26 14:12:46;2026-10-26;14;Monday;Ex 618 TATRAN;Spišská Nová Ves;mešká 11 min.;11
+2026-10-26 14:12:46;2026-10-26;14;Monday;Ex 614 TATRAN;Vrútky;ide načas;0
+2026-10-26 14:12:46;2026-10-26;14;Monday;Ex 620 TATRAN;Kysak;ide načas;0
+2026-10-26 14:12:46;2026-10-26;14;Monday;Os 4716smer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;+ 81 minút= 1 hod, 21 min.;141
+2026-10-26 14:12:46;2026-10-26;14;Monday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 73 minút= 1 hod, 13 min.;133
+2026-10-26 14:12:46;2026-10-26;14;Monday;R 747 BOJNICEsmer Prievidza;Veľké Bieliceodišiel pred 8 min.;+ 49 minút;49
+2026-10-26 14:12:46;2026-10-26;14;Monday;Ex 621 TATRANsmer Košice;Odb. Vinohradyprešiel stanicou teraz;+ 45 minút;45
+2026-10-26 14:12:46;2026-10-26;14;Monday;REx 1871smer Nové Zámky;Bratislava hlavná stanicateraz;+ 39 minút;39
+2026-10-26 14:12:46;2026-10-26;14;Monday;R 835 URPÍNsmer Banská Bystrica;Banská Bystricapred 6 min.;v cieli+ 37 minút;37
+2026-10-26 14:12:46;2026-10-26;14;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 32 minút;32
+2026-10-26 14:12:46;2026-10-26;14;Monday;Ex 608 TATRANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 5 min.;+ 32 minút;32
+2026-10-26 14:12:46;2026-10-26;14;Monday;Os 4718smer Bratislava hlavná stanica;Bratislava-Vajnoryteraz;+ 32 minút;32
+2026-10-26 14:12:46;2026-10-26;14;Monday;R 10721 POVAŽANsmer Žilina;Bratislava hlavná stanicateraz;+ 27 minút;27
+2026-10-26 14:12:46;2026-10-26;14;Monday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava-Vajnoryteraz;+ 25 minút;25
+2026-10-26 14:12:46;2026-10-26;14;Monday;Ex 619 TATRANsmer Košice;Ladceodišiel teraz;+ 19 minút;19
+2026-10-26 14:12:46;2026-10-26;14;Monday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Prievidzapred 14 min.;+ 19 minút;19
+2026-10-26 14:12:46;2026-10-26;14;Monday;REx 1872smer Bratislava hlavná stanica;Galantaodišiel pred 2 min.;+ 18 minút;18
+2026-10-26 14:12:46;2026-10-26;14;Monday;Os 6318 6318smer Lučenec;Výh. Holišaodišiel teraz;+ 18 minút;18
+2026-10-26 14:12:46;2026-10-26;14;Monday;R 916 GEMERANsmer Zvolen osobná stanica;Podrečanyodišiel teraz;+ 17 minút;17
+2026-10-26 14:12:46;2026-10-26;14;Monday;R 836 URPÍNsmer Bratislava-Nové Mesto;Bratislava-Vajnoryprešiel stanicou teraz;+ 15 minút;15
+2026-10-26 14:12:46;2026-10-26;14;Monday;mešká do 5 minút;115;70.12 %;70
+2026-10-26 14:12:46;2026-10-26;14;Monday;mešká 5-14 minút;32;19.51 %;19
+2026-10-26 14:12:46;2026-10-26;14;Monday;mešká 15-29 minút;8;4.88 %;4
+2026-10-26 14:12:46;2026-10-26;14;Monday;mešká 30-59 minút;7;4.27 %;4
+2026-10-26 14:12:46;2026-10-26;14;Monday;mešká 60 a viac minút;2;1.22 %;1
