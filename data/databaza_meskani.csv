@@ -10054,3 +10054,33 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 16:41:49;2026-10-26;16;Monday;mešká 15-29 minút;13;7.47 %;7
 2026-10-26 16:41:49;2026-10-26;16;Monday;mešká 30-59 minút;8;4.60 %;4
 2026-10-26 16:41:49;2026-10-26;16;Monday;mešká 60 a viac minút;2;1.15 %;1
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 35 min.;35
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 621 TATRAN;Ľubochňa;mešká 37 min.;37
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 618 TATRAN;Považská Bystrica;mešká 1 min.;1
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 614 TATRAN;Bratislava-Rača;mešká 17 min.;17
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 620 TATRAN;Ružomberok;mešká 10 min.;10
+2026-10-26 16:52:22;2026-10-26;16;Monday;R 871 ZÁMČANsmer Nové Zámky;Trnovec nad Váhomprešiel stanicou pred 3 min.;+ 69 minút= 1 hod, 9 min.;129
+2026-10-26 16:52:22;2026-10-26;16;Monday;R 10721 POVAŽANsmer Žilina;Ilavaodišiel teraz;+ 66 minút= 1 hod, 6 min.;126
+2026-10-26 16:52:22;2026-10-26;16;Monday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Rišňovceodišiel pred 4 min.;+ 56 minút;56
+2026-10-26 16:52:22;2026-10-26;16;Monday;Os 4723smer Galanta;Galantapred 2 min.;v cieli+ 53 minút;53
+2026-10-26 16:52:22;2026-10-26;16;Monday;Os 9025smer Trebišov;Michaľanyteraz;+ 49 minút;49
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 623 TATRANsmer Košice;Púchovodišiel pred 4 min.;+ 46 minút;46
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 525 KRIVÁŇsmer Košice;Piešťanyprišiel teraz;+ 42 minút;42
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 621 TATRANsmer Košice;Ľubochňaprešiel stanicou pred 5 min.;+ 37 minút;37
+2026-10-26 16:52:22;2026-10-26;16;Monday;Os 5323smer Trenčín;Trenčínteraz;+ 37 minút;37
+2026-10-26 16:52:22;2026-10-26;16;Monday;REx 1875smer Nové Zámky;Šaľaodišiel teraz;+ 30 minút;30
+2026-10-26 16:52:22;2026-10-26;16;Monday;R 10725 POVAŽANsmer Žilina;Cíferodišiel teraz;+ 30 minút;30
+2026-10-26 16:52:22;2026-10-26;16;Monday;Os 3123smer Trenčín;Trenčínprišiel pred 9 min.;v cieli+ 28 minút;28
+2026-10-26 16:52:22;2026-10-26;16;Monday;Os 3125smer Trenčín;Vaďovceodišiel teraz;+ 21 minút;21
+2026-10-26 16:52:22;2026-10-26;16;Monday;R 10723 POVAŽANsmer Púchov;Trenčianska Tepláprišiel pred 2 min.;+ 20 minút;20
+2026-10-26 16:52:22;2026-10-26;16;Monday;R 751 BOJNICEsmer Prievidza;Jelšovceprešiel stanicou pred 4 min.;+ 20 minút;20
+2026-10-26 16:52:22;2026-10-26;16;Monday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Galantaprešiel stanicou pred 2 min.;+ 18 minút;18
+2026-10-26 16:52:22;2026-10-26;16;Monday;Os 3023smer Trnava;Trnavaprišiel pred 10 min.;v cieli+ 18 minút;18
+2026-10-26 16:52:22;2026-10-26;16;Monday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Východnáprešiel stanicou teraz;+ 17 minút;17
+2026-10-26 16:52:22;2026-10-26;16;Monday;Ex 614 TATRANsmer Bratislava hlavná stanica;Bratislava-Račateraz;+ 17 minút;17
+2026-10-26 16:52:22;2026-10-26;16;Monday;REx 1878smer Bratislava hlavná stanica;Trnovec nad Váhomodišiel pred 3 min.;+ 17 minút;17
+2026-10-26 16:52:22;2026-10-26;16;Monday;mešká do 5 minút;112;67.88 %;67
+2026-10-26 16:52:22;2026-10-26;16;Monday;mešká 5-14 minút;33;20.00 %;20
+2026-10-26 16:52:22;2026-10-26;16;Monday;mešká 15-29 minút;9;5.45 %;5
+2026-10-26 16:52:22;2026-10-26;16;Monday;mešká 30-59 minút;9;5.45 %;5
+2026-10-26 16:52:22;2026-10-26;16;Monday;mešká 60 a viac minút;2;1.21 %;1
