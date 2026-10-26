@@ -11055,3 +11055,34 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 22:08:43;2026-10-26;22;Monday;mešká 15-29 minút;10;10.10 %;10
 2026-10-26 22:08:43;2026-10-26;22;Monday;mešká 30-59 minút;10;10.10 %;10
 2026-10-26 22:08:43;2026-10-26;22;Monday;mešká 60 a viac minút;5;5.05 %;5
+2026-10-26 22:19:16;2026-10-26;22;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 35 min.;35
+2026-10-26 22:19:16;2026-10-26;22;Monday;Ex 621 TATRAN;Košice;v cieli meškal 50 min.;50
+2026-10-26 22:19:16;2026-10-26;22;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-10-26 22:19:16;2026-10-26;22;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-26 22:19:16;2026-10-26;22;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-10-26 22:19:16;2026-10-26;22;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 284 minút= 4 hod, 44 min.;524
+2026-10-26 22:19:16;2026-10-26;22;Monday;Os 2626smer Kúty;Kútyteraz;+ 202 minút= 3 hod, 22 min.;382
+2026-10-26 22:19:16;2026-10-26;22;Monday;R 754 BOJNICEsmer Bratislava-Nové Mesto;Trnava nákladná stanicaprešiel stanicou teraz;+ 111 minút= 1 hod, 51 min.;171
+2026-10-26 22:19:16;2026-10-26;22;Monday;Os 2032smer Kúty;Bratislava hlavná stanicaodišiel pred 8 min.;+ 97 minút= 1 hod, 37 min.;157
+2026-10-26 22:19:16;2026-10-26;22;Monday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Malackyprešiel stanicou pred 2 min.;+ 51 minút;51
+2026-10-26 22:19:16;2026-10-26;22;Monday;Os 2635smer Trnava;Šajdíkove Humenceodišiel pred 4 min.;+ 49 minút;49
+2026-10-26 22:19:16;2026-10-26;22;Monday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.teraz;v cieli+ 42 minút;42
+2026-10-26 22:19:16;2026-10-26;22;Monday;Os 4835smer Komárno;Komárnopred 11 min.;v cieli+ 40 minút;40
+2026-10-26 22:19:16;2026-10-26;22;Monday;rj 167 railjet xpresssmer Bratislava hlavná stanica;Bratislava-Petržalkapred 12 min.;v cieli+ 37 minút;37
+2026-10-26 22:19:16;2026-10-26;22;Monday;RJ 1045 REGIOJETsmer Žilina;Ilavaprišiel teraz;+ 36 minút;36
+2026-10-26 22:19:16;2026-10-26;22;Monday;REx 1453smer Komárno;Veľký Mederodišiel teraz;+ 36 minút;36
+2026-10-26 22:19:16;2026-10-26;22;Monday;Os 4935smer Štúrovo;Mužlaodišiel teraz;+ 33 minút;33
+2026-10-26 22:19:16;2026-10-26;22;Monday;Ex 628 TATRANsmer Bratislava hlavná stanica;Považská Bystricaprišiel teraz;+ 30 minút;30
+2026-10-26 22:19:16;2026-10-26;22;Monday;R 755 BOJNICEsmer Prievidza;Prievidza nákladná stanicaprešiel stanicou teraz;+ 28 minút;28
+2026-10-26 22:19:16;2026-10-26;22;Monday;R 947 FATRANsmer Zvolen osobná stanica;Čremošnéprešiel stanicou teraz;+ 28 minút;28
+2026-10-26 22:19:16;2026-10-26;22;Monday;Os 4336smer Bratislava hlavná stanica;Kvetoslavovodišiel pred 3 min.;+ 25 minút;25
+2026-10-26 22:19:16;2026-10-26;22;Monday;REx 1818smer Trnava;Nitraodišiel pred 5 min.;+ 20 minút;20
+2026-10-26 22:19:16;2026-10-26;22;Monday;Os 3134smer Myjava;Myjavaprišiel teraz;v cieli+ 19 minút;19
+2026-10-26 22:19:16;2026-10-26;22;Monday;EN 476 METROPOLsmer Kúty št. hr. - Břeclav os.n.;Bratislava hlavná stanicaodišiel pred 3 min.;+ 17 minút;17
+2026-10-26 22:19:16;2026-10-26;22;Monday;Ex 642 TATRANsmer Žilina;Východnáprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-10-26 22:19:16;2026-10-26;22;Monday;Os 5134smer Nitra;Nitraprišiel pred 12 min.;v cieli+ 15 minút;15
+2026-10-26 22:19:16;2026-10-26;22;Monday;mešká do 5 minút;56;57.14 %;57
+2026-10-26 22:19:16;2026-10-26;22;Monday;mešká 5-14 minút;21;21.43 %;21
+2026-10-26 22:19:16;2026-10-26;22;Monday;mešká 15-29 minút;8;8.16 %;8
+2026-10-26 22:19:16;2026-10-26;22;Monday;mešká 30-59 minút;9;9.18 %;9
+2026-10-26 22:19:16;2026-10-26;22;Monday;mešká 60 a viac minút;4;4.08 %;4
