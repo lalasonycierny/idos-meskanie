@@ -8662,3 +8662,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 05:37:17;2026-10-26;5;Monday;mešká 15-29 minút;4;2.56 %;2
 2026-10-26 05:37:17;2026-10-26;5;Monday;mešká 30-59 minút;1;0.64 %;0
 2026-10-26 05:37:17;2026-10-26;5;Monday;mešká 60 a viac minút;1;0.64 %;0
+2026-10-26 05:47:55;2026-10-26;5;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-26 05:47:55;2026-10-26;5;Monday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-10-26 05:47:55;2026-10-26;5;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-10-26 05:47:55;2026-10-26;5;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-26 05:47:55;2026-10-26;5;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-10-26 05:47:55;2026-10-26;5;Monday;RJ 1021 REGIOJETsmer Košice;Vydrníkprešiel stanicou pred 8 min.;+ 53 minút;53
+2026-10-26 05:47:55;2026-10-26;5;Monday;REx 1761smer Košice;Krompachyodišiel teraz;+ 28 minút;28
+2026-10-26 05:47:55;2026-10-26;5;Monday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Výh. Svätý Jurprešiel stanicou pred 3 min.;+ 27 minút;27
+2026-10-26 05:47:55;2026-10-26;5;Monday;Ex 600 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 8 min.;+ 22 minút;22
+2026-10-26 05:47:55;2026-10-26;5;Monday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Štrbapred 4 min.;+ 17 minút;17
+2026-10-26 05:47:55;2026-10-26;5;Monday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Malackyprešiel stanicou pred 7 min.;+ 15 minút;15
+2026-10-26 05:47:55;2026-10-26;5;Monday;mešká do 5 minút;130;88.44 %;88
+2026-10-26 05:47:55;2026-10-26;5;Monday;mešká 5-14 minút;11;7.48 %;7
+2026-10-26 05:47:55;2026-10-26;5;Monday;mešká 15-29 minút;5;3.40 %;3
+2026-10-26 05:47:55;2026-10-26;5;Monday;mešká 30-59 minút;1;0.68 %;0
+2026-10-26 05:47:55;2026-10-26;5;Monday;mešká 60 a viac minút;0;0.00 %;0
