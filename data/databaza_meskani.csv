@@ -9953,3 +9953,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 16:10:09;2026-10-26;16;Monday;mešká 15-29 minút;11;6.21 %;6
 2026-10-26 16:10:09;2026-10-26;16;Monday;mešká 30-59 minút;7;3.95 %;3
 2026-10-26 16:10:09;2026-10-26;16;Monday;mešká 60 a viac minút;4;2.26 %;2
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 35 min.;35
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 621 TATRAN;Potok odb.;mešká 37 min.;37
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 618 TATRAN;Vrútky;mešká 4 min.;4
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 614 TATRAN;Šenkvice;ide načas;0
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 620 TATRAN;Kráľova Lehota;mešká 12 min.;12
+2026-10-26 16:20:44;2026-10-26;16;Monday;REx 1871smer Nové Zámky;Nové Zámkypred 10 min.;v cieli+ 83 minút= 1 hod, 23 min.;143
+2026-10-26 16:20:44;2026-10-26;16;Monday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Kúty št. hr.teraz;v cieli+ 80 minút= 1 hod, 20 min.;140
+2026-10-26 16:20:44;2026-10-26;16;Monday;R 871 ZÁMČANsmer Nové Zámky;Senecprešiel stanicou teraz;+ 70 minút= 1 hod, 10 min.;130
+2026-10-26 16:20:44;2026-10-26;16;Monday;R 10721 POVAŽANsmer Žilina;Nové Mesto nad Váhomteraz;+ 70 minút= 1 hod, 10 min.;130
+2026-10-26 16:20:44;2026-10-26;16;Monday;Os 4723smer Galanta;Bernolákovoteraz;+ 53 minút;53
+2026-10-26 16:20:44;2026-10-26;16;Monday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Koniarovceprešiel stanicou pred 4 min.;+ 47 minút;47
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 623 TATRANsmer Košice;Trenčínprišiel teraz;+ 45 minút;45
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 525 KRIVÁŇsmer Košice;Šenkviceodišiel teraz;+ 44 minút;44
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 621 TATRANsmer Košice;Potok odb.prešiel stanicou pred 4 min.;+ 37 minút;37
+2026-10-26 16:20:44;2026-10-26;16;Monday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.pred 7 min.;v cieli+ 37 minút;37
+2026-10-26 16:20:44;2026-10-26;16;Monday;REx 1873smer Nové Zámky;Nové Zámkyteraz;v cieli+ 32 minút;32
+2026-10-26 16:20:44;2026-10-26;16;Monday;Ex 612 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 9 min.;v cieli+ 26 minút;26
+2026-10-26 16:20:44;2026-10-26;16;Monday;R 10723 POVAŽANsmer Púchov;Piešťanyodišiel teraz;+ 25 minút;25
+2026-10-26 16:20:44;2026-10-26;16;Monday;R 10725 POVAŽANsmer Žilina;Bratislava-Račateraz;+ 25 minút;25
+2026-10-26 16:20:44;2026-10-26;16;Monday;Os 3123smer Trenčín;Trenčianske Bohuslaviceprišiel pred 3 min.;+ 22 minút;22
+2026-10-26 16:20:44;2026-10-26;16;Monday;Os 3023smer Trnava;Pezinokodišiel pred 2 min.;+ 21 minút;21
+2026-10-26 16:20:44;2026-10-26;16;Monday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Výh. Gánovceprešiel stanicou pred 4 min.;+ 19 minút;19
+2026-10-26 16:20:44;2026-10-26;16;Monday;R 751 BOJNICEsmer Prievidza;Leopoldovodišiel pred 6 min.;+ 19 minút;19
+2026-10-26 16:20:44;2026-10-26;16;Monday;REx 1875smer Nové Zámky;Senecodišiel pred 7 min.;+ 19 minút;19
+2026-10-26 16:20:44;2026-10-26;16;Monday;Os 4722smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 9 min.;v cieli+ 19 minút;19
+2026-10-26 16:20:44;2026-10-26;16;Monday;Os 5023smer Topoľčany;Ludaniceodišiel teraz;+ 18 minút;18
+2026-10-26 16:20:44;2026-10-26;16;Monday;Os 9025smer Trebišov;Michaľanyteraz;+ 18 minút;18
+2026-10-26 16:20:44;2026-10-26;16;Monday;REx 7791smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 10 min.;v cieli+ 17 minút;17
+2026-10-26 16:20:44;2026-10-26;16;Monday;R 10722 POVAŽANsmer Bratislava hlavná stanica;Bratislava-Račaprišiel pred 2 min.;+ 16 minút;16
+2026-10-26 16:20:44;2026-10-26;16;Monday;Os 5024smer Nitra;Ludaniceodišiel teraz;+ 16 minút;16
+2026-10-26 16:20:44;2026-10-26;16;Monday;mešká do 5 minút;114;64.41 %;64
+2026-10-26 16:20:44;2026-10-26;16;Monday;mešká 5-14 minút;38;21.47 %;21
+2026-10-26 16:20:44;2026-10-26;16;Monday;mešká 15-29 minút;14;7.91 %;7
+2026-10-26 16:20:44;2026-10-26;16;Monday;mešká 30-59 minút;7;3.95 %;3
+2026-10-26 16:20:44;2026-10-26;16;Monday;mešká 60 a viac minút;4;2.26 %;2
