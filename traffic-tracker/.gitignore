@@ -1,0 +1,5 @@
+site/
+stats/
+.env
+__pycache__/
+.venv/
