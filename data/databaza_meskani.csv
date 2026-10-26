@@ -10203,3 +10203,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 17:34:33;2026-10-26;17;Monday;mešká 15-29 minút;11;6.79 %;6
 2026-10-26 17:34:33;2026-10-26;17;Monday;mešká 30-59 minút;9;5.56 %;5
 2026-10-26 17:34:33;2026-10-26;17;Monday;mešká 60 a viac minút;3;1.85 %;1
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 35 min.;35
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 621 TATRAN;Štrba;mešká 32 min.;32
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 618 TATRAN;Piešťany;ide načas;0
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 620 TATRAN;Žilina predmestie;mešká 7 min.;7
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 5323smer Trenčín;Trenčínteraz;+ 91 minút= 1 hod, 31 min.;151
+2026-10-26 17:45:02;2026-10-26;17;Monday;R 751 BOJNICEsmer Prievidza;Ludaniceteraz;+ 67 minút= 1 hod, 7 min.;127
+2026-10-26 17:45:02;2026-10-26;17;Monday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Šenkviceprišiel teraz;+ 64 minút= 1 hod, 4 min.;124
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 5025smer Topoľčany;Ludaniceteraz;+ 45 minút;45
+2026-10-26 17:45:02;2026-10-26;17;Monday;R 753 BOJNICEsmer Prievidza;Bratislava-Nové Mestoteraz;+ 44 minút;44
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 525 KRIVÁŇsmer Košice;Výh. Plevník-Drienovéprešiel stanicou teraz;+ 37 minút;37
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 623 TATRANsmer Košice;Ľubochňaprešiel stanicou teraz;+ 36 minút;36
+2026-10-26 17:45:02;2026-10-26;17;Monday;R 10725 POVAŽANsmer Žilina;Nové Mesto nad Váhomteraz;+ 36 minút;36
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 621 TATRANsmer Košice;Štrbaprišiel pred 2 min.;+ 32 minút;32
+2026-10-26 17:45:02;2026-10-26;17;Monday;R 752 BOJNICEsmer Bratislava-Nové Mesto;Topoľčanyteraz;+ 30 minút;30
+2026-10-26 17:45:02;2026-10-26;17;Monday;REx 1880smer Bratislava hlavná stanica;Palárikovoodišiel pred 3 min.;+ 22 minút;22
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 7822smer Svit;Poprad-Tatryodišiel pred 4 min.;+ 19 minút;19
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 3125smer Trenčín;Trenčínprišiel pred 10 min.;v cieli+ 18 minút;18
+2026-10-26 17:45:02;2026-10-26;17;Monday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Kraľovanyodišiel teraz;+ 18 minút;18
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 619 TATRANsmer Košice;Margecanyodišiel pred 3 min.;+ 17 minút;17
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 3227smer Púchov;Púchovteraz;+ 17 minút;17
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 7827smer Košice;Markušovceodišiel pred 5 min.;+ 17 minút;17
+2026-10-26 17:45:02;2026-10-26;17;Monday;REx 1878smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel teraz;v cieli+ 17 minút;17
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 8325smer Stará Ľubovňa;Spišská Belá zastávkaprišiel teraz;+ 16 minút;16
+2026-10-26 17:45:02;2026-10-26;17;Monday;Ex 624 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 10 min.;+ 16 minút;16
+2026-10-26 17:45:02;2026-10-26;17;Monday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovoprišiel pred 4 min.;+ 16 minút;16
+2026-10-26 17:45:02;2026-10-26;17;Monday;RJ 1050 REGIOJETsmer Kúty št. hr. - Praha-Malešice;Kútyprešiel stanicou pred 4 min.;+ 15 minút;15
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 4927smer Štúrovo;Strekovodišiel teraz;+ 15 minút;15
+2026-10-26 17:45:02;2026-10-26;17;Monday;Os 5927smer Levice;Štúrovoteraz;+ 15 minút;15
+2026-10-26 17:45:02;2026-10-26;17;Monday;mešká do 5 minút;96;60.76 %;60
+2026-10-26 17:45:02;2026-10-26;17;Monday;mešká 5-14 minút;38;24.05 %;24
+2026-10-26 17:45:02;2026-10-26;17;Monday;mešká 15-29 minút;14;8.86 %;8
+2026-10-26 17:45:02;2026-10-26;17;Monday;mešká 30-59 minút;7;4.43 %;4
+2026-10-26 17:45:02;2026-10-26;17;Monday;mešká 60 a viac minút;3;1.90 %;1
