@@ -8274,3 +8274,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 00:49:24;2026-10-26;0;Monday;mešká 15-29 minút;1;7.14 %;7
 2026-10-26 00:49:24;2026-10-26;0;Monday;mešká 30-59 minút;1;7.14 %;7
 2026-10-26 00:49:24;2026-10-26;0;Monday;mešká 60 a viac minút;5;35.71 %;35
+2026-10-26 01:00:03;2026-10-26;1;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 3 min.;3
+2026-10-26 01:00:03;2026-10-26;1;Monday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-10-26 01:00:03;2026-10-26;1;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-10-26 01:00:03;2026-10-26;1;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 22 min.;22
+2026-10-26 01:00:03;2026-10-26;1;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-10-26 01:00:03;2026-10-26;1;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 679 minút= 11 hod, 19 min.;1339
+2026-10-26 01:00:03;2026-10-26;1;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 559 minút= 9 hod, 19 min.;1099
+2026-10-26 01:00:03;2026-10-26;1;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 439 minút= 7 hod, 19 min.;859
+2026-10-26 01:00:03;2026-10-26;1;Monday;Os 8336smer Poprad-Tatry;Matejovce pri Popradeodišiel pred 2 min.;+ 93 minút= 1 hod, 33 min.;153
+2026-10-26 01:00:03;2026-10-26;1;Monday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Kraľovanyprešiel stanicou teraz;+ 45 minút;45
+2026-10-26 01:00:03;2026-10-26;1;Monday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Markušovceprešiel stanicou pred 6 min.;+ 18 minút;18
+2026-10-26 01:00:03;2026-10-26;1;Monday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Ružomberokodišiel pred 5 min.;+ 17 minút;17
+2026-10-26 01:00:03;2026-10-26;1;Monday;mešká do 5 minút;1;8.33 %;8
+2026-10-26 01:00:03;2026-10-26;1;Monday;mešká 5-14 minút;4;33.33 %;33
+2026-10-26 01:00:03;2026-10-26;1;Monday;mešká 15-29 minút;2;16.67 %;16
+2026-10-26 01:00:03;2026-10-26;1;Monday;mešká 30-59 minút;1;8.33 %;8
+2026-10-26 01:00:03;2026-10-26;1;Monday;mešká 60 a viac minút;4;33.33 %;33
