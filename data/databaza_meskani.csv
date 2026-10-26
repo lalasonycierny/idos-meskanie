@@ -9733,3 +9733,29 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 14:56:03;2026-10-26;14;Monday;mešká 15-29 minút;6;3.66 %;3
 2026-10-26 14:56:03;2026-10-26;14;Monday;mešká 30-59 minút;5;3.05 %;3
 2026-10-26 14:56:03;2026-10-26;14;Monday;mešká 60 a viac minút;5;3.05 %;3
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 610 TATRAN;Bratislava-Rača;mešká 31 min.;31
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 621 TATRAN;Nové Mesto nad Váhom;mešká 44 min.;44
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 618 TATRAN;Štrba;mešká 8 min.;8
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 614 TATRAN;Ladce;ide načas;0
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 620 TATRAN;Markušovce;mešká 11 min.;11
+2026-10-26 15:06:35;2026-10-26;15;Monday;Os 4716smer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;+ 135 minút= 2 hod, 15 min.;255
+2026-10-26 15:06:35;2026-10-26;15;Monday;REx 1871smer Nové Zámky;Bernolákovoodišiel pred 3 min.;+ 74 minút= 1 hod, 14 min.;134
+2026-10-26 15:06:35;2026-10-26;15;Monday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava hlavná stanicaprišiel pred 5 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-10-26 15:06:35;2026-10-26;15;Monday;R 10718 POVAŽANsmer Bratislava hlavná stanica;Bratislava-Račateraz;+ 62 minút= 1 hod, 2 min.;122
+2026-10-26 15:06:35;2026-10-26;15;Monday;R 10721 POVAŽANsmer Žilina;Výh. Svätý Jurprešiel stanicou pred 4 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 621 TATRANsmer Košice;Nové Mesto nad Váhomteraz;+ 44 minút;44
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 623 TATRANsmer Košice;Bratislava hlavná stanicaodišiel pred 4 min.;+ 44 minút;44
+2026-10-26 15:06:35;2026-10-26;15;Monday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Prievidza nákladná stanicaprešiel stanicou pred 2 min.;+ 44 minút;44
+2026-10-26 15:06:35;2026-10-26;15;Monday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Senecodišiel pred 4 min.;+ 41 minút;41
+2026-10-26 15:06:35;2026-10-26;15;Monday;REx 1872smer Bratislava hlavná stanica;Bratislava-Vajnorypred 8 min.;v cieli+ 40 minút;40
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 610 TATRANsmer Bratislava hlavná stanica;Bratislava-Račaodišiel teraz;+ 31 minút;31
+2026-10-26 15:06:35;2026-10-26;15;Monday;Os 2018smer Kúty;Sekuleodišiel pred 2 min.;+ 22 minút;22
+2026-10-26 15:06:35;2026-10-26;15;Monday;R 10723 POVAŽANsmer Púchov;Bratislava hlavná stanicateraz;+ 20 minút;20
+2026-10-26 15:06:35;2026-10-26;15;Monday;Os 7818smer Svit;Markušovceodišiel pred 9 min.;+ 18 minút;18
+2026-10-26 15:06:35;2026-10-26;15;Monday;Os 3121smer Trenčín;Čachticeodišiel pred 6 min.;+ 17 minút;17
+2026-10-26 15:06:35;2026-10-26;15;Monday;Ex 619 TATRANsmer Košice;Vrútkyprišiel teraz;+ 15 minút;15
+2026-10-26 15:06:35;2026-10-26;15;Monday;mešká do 5 minút;122;72.19 %;72
+2026-10-26 15:06:35;2026-10-26;15;Monday;mešká 5-14 minút;31;18.34 %;18
+2026-10-26 15:06:35;2026-10-26;15;Monday;mešká 15-29 minút;5;2.96 %;2
+2026-10-26 15:06:35;2026-10-26;15;Monday;mešká 30-59 minút;6;3.55 %;3
+2026-10-26 15:06:35;2026-10-26;15;Monday;mešká 60 a viac minút;5;2.96 %;2
