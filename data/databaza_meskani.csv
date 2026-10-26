@@ -9682,3 +9682,28 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-26 14:34:39;2026-10-26;14;Monday;mešká 15-29 minút;5;3.03 %;3
 2026-10-26 14:34:39;2026-10-26;14;Monday;mešká 30-59 minút;9;5.45 %;5
 2026-10-26 14:34:39;2026-10-26;14;Monday;mešká 60 a viac minút;2;1.21 %;1
+2026-10-26 14:45:13;2026-10-26;14;Monday;Ex 610 TATRAN;Bratislava-Rača;mešká 11 min.;11
+2026-10-26 14:45:13;2026-10-26;14;Monday;Ex 621 TATRAN;Brestovany;mešká 45 min.;45
+2026-10-26 14:45:13;2026-10-26;14;Monday;Ex 618 TATRAN;Poprad-Tatry;mešká 6 min.;6
+2026-10-26 14:45:13;2026-10-26;14;Monday;Ex 614 TATRAN;Výh. Plevník-Drienové;ide načas;0
+2026-10-26 14:45:13;2026-10-26;14;Monday;Ex 620 TATRAN;Spišské Vlachy;mešká 10 min.;10
+2026-10-26 14:45:13;2026-10-26;14;Monday;Os 4716smer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;+ 114 minút= 1 hod, 54 min.;174
+2026-10-26 14:45:13;2026-10-26;14;Monday;REx 1871smer Nové Zámky;Bratislava hlavná stanicaodišiel teraz;+ 69 minút= 1 hod, 9 min.;129
+2026-10-26 14:45:13;2026-10-26;14;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 65 minút= 1 hod, 5 min.;125
+2026-10-26 14:45:13;2026-10-26;14;Monday;R 10721 POVAŽANsmer Žilina;Bratislava hlavná stanicateraz;+ 60 minút= 1 hod, 0 min.;120
+2026-10-26 14:45:13;2026-10-26;14;Monday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava-Vajnoryteraz;+ 58 minút;58
+2026-10-26 14:45:13;2026-10-26;14;Monday;R 747 BOJNICEsmer Prievidza;Prievidzapred 5 min.;v cieli+ 48 minút;48
+2026-10-26 14:45:13;2026-10-26;14;Monday;Ex 621 TATRANsmer Košice;Brestovanyprešiel stanicou pred 3 min.;+ 45 minút;45
+2026-10-26 14:45:13;2026-10-26;14;Monday;REx 1872smer Bratislava hlavná stanica;Senecodišiel pred 2 min.;+ 37 minút;37
+2026-10-26 14:45:13;2026-10-26;14;Monday;Ex 623 TATRANsmer Košice;Bratislava hlavná stanicateraz;+ 29 minút;29
+2026-10-26 14:45:13;2026-10-26;14;Monday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Prievidzateraz;+ 29 minút;29
+2026-10-26 14:45:13;2026-10-26;14;Monday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava hlavná stanicaodišiel pred 6 min.;+ 28 minút;28
+2026-10-26 14:45:13;2026-10-26;14;Monday;R 916 GEMERANsmer Zvolen osobná stanica;Výh. Slatinkaprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-10-26 14:45:13;2026-10-26;14;Monday;Ex 619 TATRANsmer Košice;Žilinaprišiel teraz;+ 16 minút;16
+2026-10-26 14:45:13;2026-10-26;14;Monday;Os 4718smer Bratislava hlavná stanica;Bratislava-Vajnoryprišiel teraz;v cieli+ 15 minút;15
+2026-10-26 14:45:13;2026-10-26;14;Monday;Os 7818smer Svit;Spišské Vlachyodišiel pred 5 min.;+ 15 minút;15
+2026-10-26 14:45:13;2026-10-26;14;Monday;mešká do 5 minút;111;71.15 %;71
+2026-10-26 14:45:13;2026-10-26;14;Monday;mešká 5-14 minút;30;19.23 %;19
+2026-10-26 14:45:13;2026-10-26;14;Monday;mešká 15-29 minút;7;4.49 %;4
+2026-10-26 14:45:13;2026-10-26;14;Monday;mešká 30-59 minút;4;2.56 %;2
+2026-10-26 14:45:13;2026-10-26;14;Monday;mešká 60 a viac minút;4;2.56 %;2
