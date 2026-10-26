@@ -1,4 +1,4 @@
 date,vehicle_type,samples,avg_delay_min,pct_on_time,pct_5plus
-2026-10-26,Autobusy,342,2.661,48.54,15.5
-2026-10-26,Tramvaje,110,1.8,52.73,10.91
-2026-10-26,Trolejbusy,104,1.721,52.88,9.62
+2026-10-26,Autobusy,19449,3.463,39.03,24.35
+2026-10-26,Tramvaje,6174,1.785,48.8,9.38
+2026-10-26,Trolejbusy,5817,2.604,45.04,20.17
