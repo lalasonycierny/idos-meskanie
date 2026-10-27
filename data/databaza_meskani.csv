@@ -13873,3 +13873,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-27 18:25:22;2026-10-27;18;Tuesday;mešká 15-29 minút;14;8.05 %;8
 2026-10-27 18:25:22;2026-10-27;18;Tuesday;mešká 30-59 minút;4;2.30 %;2
 2026-10-27 18:25:22;2026-10-27;18;Tuesday;mešká 60 a viac minút;7;4.02 %;4
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 17 min.;17
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Ex 621 TATRAN;Spišské Vlachy;mešká 15 min.;15
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Ex 618 TATRAN;Bratislava-Rača;ide načas;0
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Ex 620 TATRAN;Trenčianske Bohuslavice;ide načas;0
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 292 minút= 4 hod, 52 min.;532
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;R 839 URPÍNsmer Banská Bystrica;Kalná nad Hronomprešiel stanicou teraz;+ 181 minút= 3 hod, 1 min.;361
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 172 minút= 2 hod, 52 min.;292
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;EC 1219 LEO EXPRESSsmer Bratislava hlavná stanica;Kútyteraz;+ 113 minút= 1 hod, 53 min.;173
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;ra 274 METROPOLITANsmer Kúty št. hr. - Praha jih;Veľké Leváreprešiel stanicou pred 2 min.;+ 106 minút= 1 hod, 46 min.;166
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 99 minút= 1 hod, 39 min.;159
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;R 841 URPÍNsmer Banská Bystrica;Bešateraz;+ 78 minút= 1 hod, 18 min.;138
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;REx 1877smer Nové Zámky;Tvrdošovceodišiel teraz;+ 55 minút;55
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;ra 272 METROPOLITANsmer Kúty št. hr. - Praha jih;Senecprešiel stanicou teraz;+ 51 minút;51
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;REx 1879smer Nové Zámky;Bernolákovoodišiel pred 4 min.;+ 40 minút;40
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;R 840 URPÍNsmer Bratislava-Nové Mesto;Bratislava-Vajnoryprešiel stanicou teraz;+ 35 minút;35
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Os 5227smer Levice;Hulteraz;+ 26 minút;26
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Os 5927smer Levice;Pohronský Ruskovodišiel pred 3 min.;+ 24 minút;24
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Os 5926smer Štúrovo;Čataodišiel pred 8 min.;+ 23 minút;23
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;R 853 URPÍNsmer Levice;Hulodišiel pred 4 min.;+ 23 minút;23
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Os 3129smer Trenčín;Poriadieodišiel teraz;+ 22 minút;22
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;REx 1880smer Bratislava hlavná stanica;Bernolákovoodišiel pred 2 min.;+ 19 minút;19
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Os 3127smer Trenčín;Trenčín-Zlatovceprišiel pred 2 min.;+ 19 minút;19
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;EC 129 VALAŠSKÝ EXPRESsmer Púchov;Púchovpred 10 min.;+ 18 minút;18
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Spišské Vlachyodišiel pred 2 min.;+ 17 minút;17
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Os 7827smer Košice;Malá Lodinaodišiel pred 8 min.;+ 17 minút;17
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;EC 281 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava-Vajnoryprešiel stanicou pred 4 min.;+ 16 minút;16
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Os 4728smer Bratislava hlavná stanica;Sládkovičovoodišiel pred 6 min.;+ 16 minút;16
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;Ex 621 TATRANsmer Košice;Spišské Vlachyprešiel stanicou pred 4 min.;+ 15 minút;15
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;mešká do 5 minút;101;66.01 %;66
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;mešká 5-14 minút;28;18.30 %;18
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;mešká 15-29 minút;13;8.50 %;8
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;mešká 30-59 minút;4;2.61 %;2
+2026-10-27 18:32:58;2026-10-27;18;Tuesday;mešká 60 a viac minút;7;4.58 %;4
