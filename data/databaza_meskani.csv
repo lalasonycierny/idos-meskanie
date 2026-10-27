@@ -12644,3 +12644,50 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-27 14:43:25;2026-10-27;14;Tuesday;mešká 15-29 minút;9;5.56 %;5
 2026-10-27 14:43:25;2026-10-27;14;Tuesday;mešká 30-59 minút;2;1.23 %;1
 2026-10-27 14:43:25;2026-10-27;14;Tuesday;mešká 60 a viac minút;1;0.62 %;0
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Ex 610 TATRAN;Bratislava-Rača;mešká 16 min.;16
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Ex 621 TATRAN;Trenčín;mešká 17 min.;17
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Ex 618 TATRAN;Výh. Lučivná;mešká 3 min.;3
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Ex 614 TATRAN;Považská Bystrica;mešká 4 min.;4
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Ex 620 TATRAN;Spišské Vlachy;mešká 5 min.;5
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 72 minút= 1 hod, 12 min.;132
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Os 1342smer Bratislava-Nové Mesto;Rusovcepred 11 min.;+ 44 minút;44
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;REx 7737smer Bratislava-Petržalka;Bratislava-Petržalkapred 3 min.;+ 42 minút;42
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;EC 186 HORNÁDsmer Košice;Čaňateraz;+ 38 minút;38
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;R 916 GEMERANsmer Zvolen osobná stanica;Výh. Slatinkaprešiel stanicou teraz;+ 27 minút;27
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;REx 1872smer Bratislava hlavná stanica;Odb. Močiarprešiel stanicou pred 6 min.;+ 26 minút;26
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Os 4721smer Galanta;Bernolákovoodišiel teraz;+ 25 minút;25
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Os 3121smer Trenčín;Vaďovceodišiel teraz;+ 24 minút;24
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Os 3221smer Púchov;Púchovteraz;+ 24 minút;24
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;REx 1873smer Nové Zámky;Bratislava hlavná stanicateraz;+ 19 minút;19
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Os 2021smer Bratislava hlavná stanica;Zohorodišiel pred 4 min.;+ 18 minút;18
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Ex 621 TATRANsmer Košice;Trenčínprišiel teraz;+ 17 minút;17
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Bratislava-Račaodišiel pred 2 min.;+ 16 minút;16
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Galantaprešiel stanicou pred 5 min.;+ 15 minút;15
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;mešká do 5 minút;118;71.95 %;71
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;mešká 5-14 minút;32;19.51 %;19
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;mešká 15-29 minút;10;6.10 %;6
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;mešká 30-59 minút;3;1.83 %;1
+2026-10-27 14:52:57;2026-10-27;14;Tuesday;mešká 60 a viac minút;1;0.61 %;0
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Ex 610 TATRAN;Odb. Vinohrady;mešká 17 min.;17
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Ex 621 TATRAN;Trenčín;mešká 17 min.;17
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Ex 618 TATRAN;Výh. Lučivná;mešká 3 min.;3
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Ex 614 TATRAN;Považská Bystrica;mešká 4 min.;4
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Ex 620 TATRAN;Spišské Vlachy;mešká 5 min.;5
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 73 minút= 1 hod, 13 min.;133
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Os 1342smer Bratislava-Nové Mesto;Rusovcepred 11 min.;+ 44 minút;44
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;REx 7737smer Bratislava-Petržalka;Bratislava-Petržalkapred 4 min.;+ 42 minút;42
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;EC 186 HORNÁDsmer Košice;Čaňateraz;+ 39 minút;39
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;R 916 GEMERANsmer Zvolen osobná stanica;Výh. Slatinkaprešiel stanicou teraz;+ 27 minút;27
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;REx 1872smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel teraz;v cieli+ 26 minút;26
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Os 3221smer Púchov;Púchovteraz;+ 25 minút;25
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Os 4721smer Galanta;Bernolákovoodišiel teraz;+ 25 minút;25
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Os 3121smer Trenčín;Vaďovceodišiel teraz;+ 24 minút;24
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;REx 1873smer Nové Zámky;Bratislava hlavná stanicateraz;+ 20 minút;20
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Os 2021smer Bratislava hlavná stanica;Zohorodišiel pred 5 min.;+ 18 minút;18
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou teraz;+ 17 minút;17
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;Ex 621 TATRANsmer Košice;Trenčínprišiel teraz;+ 17 minút;17
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;mešká do 5 minút;113;70.63 %;70
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;mešká 5-14 minút;34;21.25 %;21
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;mešká 15-29 minút;9;5.63 %;5
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;mešká 30-59 minút;3;1.88 %;1
+2026-10-27 14:53:21;2026-10-27;14;Tuesday;mešká 60 a viac minút;1;0.63 %;0
