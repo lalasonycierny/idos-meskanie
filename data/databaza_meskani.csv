@@ -13470,3 +13470,34 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-27 17:22:58;2026-10-27;17;Tuesday;mešká 15-29 minút;9;5.45 %;5
 2026-10-27 17:22:58;2026-10-27;17;Tuesday;mešká 30-59 minút;3;1.82 %;1
 2026-10-27 17:22:58;2026-10-27;17;Tuesday;mešká 60 a viac minút;6;3.64 %;3
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 17 min.;17
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Ex 621 TATRAN;Poprad-Tatry;mešká 2 min.;2
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Ex 618 TATRAN;Trenčianske Bohuslavice;ide načas;0
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Ex 620 TATRAN;Žilina;ide načas;0
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 231 minút= 3 hod, 51 min.;411
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;R 839 URPÍNsmer Banská Bystrica;Podhájskateraz;+ 139 minút= 2 hod, 19 min.;259
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.teraz;v cieli+ 115 minút= 1 hod, 55 min.;175
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;R 838 URPÍNsmer Bratislava-Nové Mesto;Galantaprišiel teraz;+ 115 minút= 1 hod, 55 min.;175
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 111 minút= 1 hod, 51 min.;171
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;ra 274 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava hlavná stanicaprišiel teraz;+ 97 minút= 1 hod, 37 min.;157
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;ra 272 METROPOLITANsmer Kúty št. hr. - Praha jih;Mužlaprešiel stanicou teraz;+ 51 minút;51
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;R 841 URPÍNsmer Banská Bystrica;Nové Zámkyteraz;+ 48 minút;48
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 38 minút;38
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;REx 1877smer Nové Zámky;Senecodišiel teraz;+ 35 minút;35
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;REx 1878smer Bratislava hlavná stanica;Sládkovičovoodišiel pred 4 min.;+ 31 minút;31
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Nové Zámkyodišiel pred 2 min.;+ 30 minút;30
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;R 840 URPÍNsmer Bratislava-Nové Mesto;Nové Zámkyteraz;+ 25 minút;25
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Os 5222smer Nové Zámky;Nové Zámkyteraz;+ 25 minút;25
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Os 7822smer Svit;Výh. Gánovceprešiel stanicou teraz;+ 20 minút;20
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Os 4726smer Bratislava hlavná stanica;Sládkovičovoodišiel teraz;+ 20 minút;20
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Os 4927smer Štúrovo;Nové Zámkyteraz;+ 19 minút;19
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Os 3125smer Trenčín;Trenčín-Zlatovceprišiel teraz;+ 19 minút;19
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Ružomberokodišiel pred 5 min.;+ 16 minút;16
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;Ex 619 TATRANsmer Košice;Markušovceprešiel stanicou pred 9 min.;+ 16 minút;16
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;REx 1880smer Bratislava hlavná stanica;Nové Zámkyodišiel pred 6 min.;+ 15 minút;15
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;mešká do 5 minút;111;70.25 %;70
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;mešká 5-14 minút;26;16.46 %;16
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;mešká 15-29 minút;9;5.70 %;5
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;mešká 30-59 minút;6;3.80 %;3
+2026-10-27 17:32:15;2026-10-27;17;Tuesday;mešká 60 a viac minút;6;3.80 %;3
