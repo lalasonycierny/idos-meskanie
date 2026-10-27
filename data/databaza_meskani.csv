@@ -12383,3 +12383,24 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-27 13:33:07;2026-10-27;13;Tuesday;mešká 15-29 minút;8;6.02 %;6
 2026-10-27 13:33:07;2026-10-27;13;Tuesday;mešká 30-59 minút;3;2.26 %;2
 2026-10-27 13:33:07;2026-10-27;13;Tuesday;mešká 60 a viac minút;0;0.00 %;0
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Ex 610 TATRAN;Trenčín;mešká 17 min.;17
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Ex 621 TATRAN;Bratislava hlavná stanica;mešká 19 min.;19
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Ex 618 TATRAN;Krompachy;mešká 2 min.;2
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Ex 614 TATRAN;Liptovská Teplá;mešká 4 min.;4
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Os 4716smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 5 min.;v cieli+ 42 minút;42
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Kúty št. hr.pred 6 min.;v cieli+ 32 minút;32
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Os 3117smer Trenčín;Výh. Nivyprešiel stanicou pred 4 min.;+ 30 minút;30
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Os 4717smer Galanta;Galantaprišiel pred 13 min.;v cieli+ 28 minút;28
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Os 4718smer Bratislava hlavná stanica;Galantaodišiel pred 6 min.;+ 26 minút;26
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;R 916 GEMERANsmer Zvolen osobná stanica;Výh. Lúkaprešiel stanicou teraz;+ 26 minút;26
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Bratislava-Nové Mestoprišiel pred 11 min.;v cieli+ 25 minút;25
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Ex 621 TATRANsmer Košice;Bratislava hlavná stanicaodišiel pred 2 min.;+ 19 minút;19
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Trenčínodišiel teraz;+ 17 minút;17
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;REx 1872smer Bratislava hlavná stanica;Palárikovoodišiel pred 2 min.;+ 17 minút;17
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;Os 7819smer Košice;Krompachyodišiel pred 3 min.;+ 16 minút;16
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;mešká do 5 minút;99;67.81 %;67
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;mešká 5-14 minút;36;24.66 %;24
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;mešká 15-29 minút;8;5.48 %;5
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;mešká 30-59 minút;3;2.05 %;2
+2026-10-27 13:38:01;2026-10-27;13;Tuesday;mešká 60 a viac minút;0;0.00 %;0
