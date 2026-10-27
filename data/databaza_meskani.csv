@@ -13066,3 +13066,29 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-10-27 16:07:42;2026-10-27;16;Tuesday;mešká 15-29 minút;11;6.01 %;6
 2026-10-27 16:07:42;2026-10-27;16;Tuesday;mešká 30-59 minút;2;1.09 %;1
 2026-10-27 16:07:42;2026-10-27;16;Tuesday;mešká 60 a viac minút;5;2.73 %;2
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 17 min.;17
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Ex 621 TATRAN;Kraľovany;mešká 7 min.;7
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Ex 618 TATRAN;Vrútky;ide načas;0
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Ex 614 TATRAN;Trnava nákladná stanica;mešká 2 min.;2
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Ex 620 TATRAN;Kráľova Lehota;mešká 6 min.;6
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 152 minút= 2 hod, 32 min.;272
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Os 6118smer Horná Štubňa;Horná Štubňateraz;+ 92 minút= 1 hod, 32 min.;152
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Tvrdošovceteraz;+ 84 minút= 1 hod, 24 min.;144
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;ra 274 METROPOLITANsmer Kúty št. hr. - Praha jih;Nové Zámkyteraz;+ 69 minút= 1 hod, 9 min.;129
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;R 839 URPÍNsmer Banská Bystrica;Palárikovopred 5 min.;+ 58 minút;58
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 32 minút;32
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;REx 1876smer Bratislava hlavná stanica;Šaľaodišiel pred 8 min.;+ 26 minút;26
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Os 5724smer Levice;Zvolen osobná stanicapred 4 min.;+ 25 minút;25
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Os 4722smer Bratislava hlavná stanica;Odb. Močiarprešiel stanicou pred 2 min.;+ 24 minút;24
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Os 3123smer Trenčín;Nové Mesto nad Váhomteraz;+ 23 minút;23
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;RJ 1003 REGIOJETsmer Košice;Markušovceteraz;+ 20 minút;20
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;REx 1878smer Bratislava hlavná stanica;Nové Zámkyteraz;+ 20 minút;20
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Os 2020smer Kúty;Kútyprišiel pred 5 min.;v cieli+ 18 minút;18
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Os 3122smer Myjava;Poriadieodišiel pred 5 min.;+ 17 minút;17
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;Os 2023smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 10 min.;v cieli+ 16 minút;16
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;REx 7741smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 11 min.;v cieli+ 16 minút;16
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;mešká do 5 minút;129;72.47 %;72
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;mešká 5-14 minút;33;18.54 %;18
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;mešká 15-29 minút;10;5.62 %;5
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;mešká 30-59 minút;2;1.12 %;1
+2026-10-27 16:12:58;2026-10-27;16;Tuesday;mešká 60 a viac minút;4;2.25 %;2
