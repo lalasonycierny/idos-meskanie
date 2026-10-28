@@ -1,6 +1,6 @@
 # Štatistiky MHD Bratislava
 
-Automaticky generované 2026-10-28 07:10. Zdroj: kdejemhd.sk, zber každú minútu.
+Automaticky generované 2026-10-28 08:10. Zdroj: kdejemhd.sk, zber každú minútu.
 
 - Dní v štatistike: **1** (2026-10-26 až 2026-10-26)
 - Priemerné pokrytie zberom: **4 %** (100 % = zber každú minútu celý deň)
