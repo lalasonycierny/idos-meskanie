@@ -9,8 +9,6 @@ Nezávislý projekt, nie je súčasťou Dopravného podniku Bratislava.
 <!-- STATS:START -->
 ## Aktuálne štatistiky
 
-Posledných 7 dní: načas 42.1 %, meškanie 5 min a viac 20.6 %, v službe priemerne 561 vozidiel (31 440 meraní).
-
 Všetko: [stats/STATS.md](stats/STATS.md)
 <!-- STATS:END -->
 
