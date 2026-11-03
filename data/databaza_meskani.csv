@@ -18378,3 +18378,43 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-03 13:07:54;2026-11-03;13;Tuesday;mešká 15-29 minút;15;9.80 %;9
 2026-11-03 13:07:54;2026-11-03;13;Tuesday;mešká 30-59 minút;7;4.58 %;4
 2026-11-03 13:07:54;2026-11-03;13;Tuesday;mešká 60 a viac minút;6;3.92 %;3
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 610 TATRAN;Považská Bystrica;mešká 23 min.;23
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 7 min.;7
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 618 TATRAN;Kysak;mešká 11 min.;11
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 614 TATRAN;Kráľova Lehota;mešká 9 min.;9
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 9209smer Bardejov;Kapušany pri Prešoveteraz;+ 282 minút= 4 hod, 42 min.;522
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;REx 2508smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 262 minút= 4 hod, 22 min.;502
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;REx 1949smer Košice;Kysakteraz;+ 257 minút= 4 hod, 17 min.;497
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 9108smer Prešov;Kapušany pri Prešoveteraz;+ 257 minút= 4 hod, 17 min.;497
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;REx 7720smer Bratislava-Petržalka št. - Wien Hauptbahnhof (in Wbf;Bratislava-Petržalkateraz;+ 241 minút= 4 hod, 1 min.;481
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 9217smer Bardejov;Kapušany pri Prešoveteraz;+ 42 minút;42
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 8513smer Čierna nad Tisou;Veľký Horešodišiel pred 4 min.;+ 39 minút;39
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;R 10717 POVAŽANsmer Žilina;Leopoldovprišiel teraz;+ 37 minút;37
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 8816smer Košice;Barca St. 1prešiel stanicou teraz;+ 33 minút;33
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 7814smer Svit;Spišská Nová Vesteraz;+ 30 minút;30
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 3450smer Vrútky;Turanyodišiel pred 3 min.;+ 30 minút;30
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 3117smer Trenčín;Nové Mesto nad Váhomprišiel teraz;+ 29 minút;29
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 3916smer Skalité;Krásno nad Kysucouodišiel pred 5 min.;+ 29 minút;29
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 3417smer Liptovský Mikuláš;Ľubochňaodišiel pred 13 min.;+ 26 minút;26
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 3449smer Liptovský Hrádok;Liptovský Hrádokprišiel pred 14 min.;v cieli+ 23 minút;23
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Považská Bystricaodišiel pred 3 min.;+ 23 minút;23
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 613 TATRANsmer Košice;Kráľova Lehotaprešiel stanicou teraz;+ 22 minút;22
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;R 917 GEMERANsmer Košice;Jesenskéteraz;+ 21 minút;21
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Palárikovoprešiel stanicou pred 7 min.;+ 20 minút;20
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 619 TATRANsmer Košice;Brestovanyprešiel stanicou pred 2 min.;+ 20 minút;20
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 2616smer Kúty;Bolerázodišiel pred 6 min.;+ 20 minút;20
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 18 minút;18
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 7517smer Prievidza;Odb. Dolná Štubňaprešiel stanicou teraz;+ 18 minút;18
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;R 10718 POVAŽANsmer Bratislava hlavná stanica;Výh. Horná Stredaprešiel stanicou teraz;+ 17 minút;17
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 615 TATRANsmer Košice;Turanyprešiel stanicou pred 3 min.;+ 17 minút;17
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 612 TATRANsmer Bratislava hlavná stanica;Turanyprešiel stanicou teraz;+ 17 minút;17
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Ex 616 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesprišiel teraz;+ 16 minút;16
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 4719smer Galanta;Bratislava hlavná stanicapred 2 min.;+ 16 minút;16
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;R 962 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisoupred 8 min.;+ 15 minút;15
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;Os 4717smer Galanta;Galantaprišiel pred 6 min.;v cieli+ 15 minút;15
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;mešká do 5 minút;85;55.92 %;55
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;mešká 5-14 minút;37;24.34 %;24
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;mešká 15-29 minút;19;12.50 %;12
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;mešká 30-59 minút;6;3.95 %;3
+2026-11-03 13:17:53;2026-11-03;13;Tuesday;mešká 60 a viac minút;5;3.29 %;3
