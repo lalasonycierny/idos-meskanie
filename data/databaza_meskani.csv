@@ -20595,3 +20595,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-04 00:07:52;2026-11-04;0;Wednesday;mešká 15-29 minút;4;11.11 %;11
 2026-11-04 00:07:52;2026-11-04;0;Wednesday;mešká 30-59 minút;1;2.78 %;2
 2026-11-04 00:07:52;2026-11-04;0;Wednesday;mešká 60 a viac minút;8;22.22 %;22
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 38 min.;38
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Os 9209smer Bardejov;Kapušany pri Prešoveteraz;+ 942 minút= 15 hod, 42 min.;1842
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Os 9108smer Prešov;Kapušany pri Prešoveteraz;+ 917 minút= 15 hod, 17 min.;1817
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;REx 7720smer Bratislava-Petržalka št. - Wien Hauptbahnhof (in Wbf;Bratislava-Petržalkateraz;+ 901 minút= 15 hod, 1 min.;1801
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Os 9217smer Bardejov;Kapušany pri Prešoveteraz;+ 702 minút= 11 hod, 42 min.;1362
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 637 minút= 10 hod, 37 min.;1237
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 517 minút= 8 hod, 37 min.;997
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 397 minút= 6 hod, 37 min.;757
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Ex 628 TATRANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 6 min.;+ 36 minút;36
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Liptovská Tepláprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;Ex 631 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 13 min.;+ 17 minút;17
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;mešká do 5 minút;13;52.00 %;52
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;mešká 5-14 minút;2;8.00 %;8
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;mešká 15-29 minút;2;8.00 %;8
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;mešká 30-59 minút;1;4.00 %;4
+2026-11-04 00:17:52;2026-11-04;0;Wednesday;mešká 60 a viac minút;7;28.00 %;28
