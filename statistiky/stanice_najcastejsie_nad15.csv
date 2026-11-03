@@ -1,7 +1,6 @@
 ﻿Stanica_Poloha;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
 Žilinaprišiel teraz;8;25.38;23.0;38.6;40;9.66;100.0;100.0;100.0;0.0
-Trnovec nad Váhomodišiel teraz;5;44.0;20.0;94.6;143;55.38;100.0;100.0;100.0;20.0
-Trnovec nad Váhomprešiel stanicou pred 3 min.;5;74.4;48.0;130.2;131;51.77;100.0;100.0;100.0;40.0
+Kráľova Lehotaprešiel stanicou pred 3 min.;7;27.43;30.0;38.2;49;11.53;100.0;100.0;100.0;0.0
 Kráľova Lehotaodišiel teraz;7;39.0;23.0;72.0;135;42.63;100.0;100.0;100.0;14.29
 Trnovec nad Váhomprešiel stanicou pred 4 min.;6;100.5;32.0;250.5;256;116.43;100.0;100.0;100.0;33.33
 Trnovec nad Váhomprešiel stanicou teraz;11;57.36;23.0;170.0;256;79.45;100.0;100.0;100.0;18.18
@@ -14,3 +13,4 @@ Turanyprešiel stanicou teraz;13;29.0;29.0;40.6;45;10.36;100.0;100.0;100.0;0.0
 Kraľovanyprešiel stanicou teraz;5;29.8;27.0;39.4;45;9.55;100.0;100.0;100.0;0.0
 Senecodišiel pred 2 min.;6;34.67;36.0;48.5;53;13.52;100.0;100.0;100.0;0.0
 Tvrdošovceodišiel teraz;5;32.2;30.0;47.4;55;14.62;100.0;100.0;100.0;0.0
+Kraľovanyodišiel pred 2 min.;13;34.62;27.0;41.4;122;27.28;100.0;100.0;100.0;7.69
