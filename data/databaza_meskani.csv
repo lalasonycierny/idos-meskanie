@@ -18835,3 +18835,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-03 15:17:52;2026-11-03;15;Tuesday;mešká 15-29 minút;13;7.47 %;7
 2026-11-03 15:17:52;2026-11-03;15;Tuesday;mešká 30-59 minút;6;3.45 %;3
 2026-11-03 15:17:52;2026-11-03;15;Tuesday;mešká 60 a viac minút;5;2.87 %;2
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 621 TATRAN;Žilina;ide načas;0
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 618 TATRAN;Liptovský Hrádok;mešká 8 min.;8
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 614 TATRAN;Považská Bystrica;mešká 33 min.;33
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 620 TATRAN;Spišská Nová Ves;mešká 14 min.;14
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 9209smer Bardejov;Kapušany pri Prešoveteraz;+ 412 minút= 6 hod, 52 min.;772
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 9108smer Prešov;Kapušany pri Prešoveteraz;+ 387 minút= 6 hod, 27 min.;747
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;REx 7720smer Bratislava-Petržalka št. - Wien Hauptbahnhof (in Wbf;Bratislava-Petržalkateraz;+ 371 minút= 6 hod, 11 min.;731
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 9217smer Bardejov;Kapušany pri Prešoveteraz;+ 172 minút= 2 hod, 52 min.;292
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 107 minút= 1 hod, 47 min.;167
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 3221smer Púchov;Púchovteraz;+ 59 minút;59
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 3920smer Skalité;Kysucké Nové Mestoprišiel pred 2 min.;+ 56 minút;56
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 7823smer Košice;Vydrníkodišiel pred 6 min.;+ 56 minút;56
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 617 TATRANsmer Košice;Výh. Paludzaprešiel stanicou pred 2 min.;+ 48 minút;48
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 6 min.;v cieli+ 34 minút;34
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 614 TATRANsmer Bratislava hlavná stanica;Považská Bystricaodišiel pred 2 min.;+ 33 minút;33
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 3421smer Liptovský Mikuláš;Ružomberokodišiel pred 3 min.;+ 27 minút;27
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;R 10721 POVAŽANsmer Žilina;Výh. Potvoriceprešiel stanicou pred 2 min.;+ 24 minút;24
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 2620smer Kúty;Smolenicepred 4 min.;+ 22 minút;22
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 615 TATRANsmer Košice;Spišská Nová Vesodišiel pred 8 min.;+ 20 minút;20
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 2621smer Trnava;Bolerázodišiel teraz;+ 19 minút;19
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Ex 619 TATRANsmer Košice;Ľubochňaprešiel stanicou teraz;+ 18 minút;18
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 3120smer Myjava;Myjavaprišiel pred 11 min.;v cieli+ 18 minút;18
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 2618smer Kúty;Kútyprišiel pred 13 min.;v cieli+ 17 minút;17
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 3123smer Trenčín;Myjavaodišiel pred 7 min.;+ 17 minút;17
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;R 963 ZAKARPATIAsmer Košice;Výh. Slivník výh. č. 8prešiel stanicou pred 3 min.;+ 16 minút;16
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 2623smer Trnava;Kútyodišiel pred 7 min.;+ 16 minút;16
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;R 10722 POVAŽANsmer Bratislava hlavná stanica;Piešťanyodišiel pred 4 min.;+ 16 minút;16
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 7818smer Svit;Výh. Gánovceprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;Os 3121smer Trenčín;Trenčín-Zlatovceprišiel teraz;+ 15 minút;15
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;mešká do 5 minút;120;69.36 %;69
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;mešká 5-14 minút;28;16.18 %;16
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;mešká 15-29 minút;14;8.09 %;8
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;mešká 30-59 minút;6;3.47 %;3
+2026-11-03 15:27:52;2026-11-03;15;Tuesday;mešká 60 a viac minút;5;2.89 %;2
