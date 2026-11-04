@@ -22860,3 +22860,27 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-04 18:17:52;2026-11-04;18;Wednesday;mešká 15-29 minút;11;6.71 %;6
 2026-11-04 18:17:52;2026-11-04;18;Wednesday;mešká 30-59 minút;2;1.22 %;1
 2026-11-04 18:17:52;2026-11-04;18;Wednesday;mešká 60 a viac minút;3;1.83 %;1
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Ex 621 TATRAN;Spišská Nová Ves;mešká 20 min.;20
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Ex 618 TATRAN;Výh. Svätý Jur;ide načas;0
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Ex 620 TATRAN;Výh. Nivy;mešká 2 min.;2
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 287 minút= 4 hod, 47 min.;527
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 167 minút= 2 hod, 47 min.;287
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 94 minút= 1 hod, 34 min.;154
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 52 minút;52
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;REx 1877smer Nové Zámky;Nové Zámkyprišiel pred 11 min.;v cieli+ 28 minút;28
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;REx 2526smer Bratislava hlavná stanica;Bratislava-Lamačprešiel stanicou teraz;+ 24 minút;24
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Ex 619 TATRANsmer Košice;Košiceprišiel pred 11 min.;v cieli+ 22 minút;22
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Os 7827smer Košice;Výh. Ružínprešiel stanicou pred 3 min.;+ 22 minút;22
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Ex 621 TATRANsmer Košice;Spišská Nová Vesodišiel pred 9 min.;+ 20 minút;20
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Os 7852smer Liptovský Mikuláš;Východnáodišiel teraz;+ 17 minút;17
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Os 3126smer Myjava;Myjavaprišiel pred 11 min.;v cieli+ 17 minút;17
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Os 3129smer Trenčín;Myjavaodišiel pred 9 min.;+ 17 minút;17
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Ex 624 TATRANsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou teraz;+ 16 minút;16
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;Os 2626smer Kúty;Smolenicepred 12 min.;+ 15 minút;15
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;mešká do 5 minút;121;75.16 %;75
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;mešká 5-14 minút;26;16.15 %;16
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;mešká 15-29 minút;10;6.21 %;6
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;mešká 30-59 minút;1;0.62 %;0
+2026-11-04 18:27:52;2026-11-04;18;Wednesday;mešká 60 a viac minút;3;1.86 %;1
