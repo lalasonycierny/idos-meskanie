@@ -24226,3 +24226,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-05 06:07:53;2026-11-05;6;Thursday;mešká 15-29 minút;6;3.45 %;3
 2026-11-05 06:07:53;2026-11-05;6;Thursday;mešká 30-59 minút;0;0.00 %;0
 2026-11-05 06:07:53;2026-11-05;6;Thursday;mešká 60 a viac minút;1;0.57 %;0
+2026-11-05 06:17:53;2026-11-05;6;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-05 06:17:53;2026-11-05;6;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-05 06:17:53;2026-11-05;6;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-05 06:17:53;2026-11-05;6;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-05 06:17:53;2026-11-05;6;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-05 06:17:53;2026-11-05;6;Thursday;RJ 1021 REGIOJETsmer Košice;Markušovceprešiel stanicou pred 9 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-05 06:17:53;2026-11-05;6;Thursday;Os 3241smer Púchov;Púchovteraz;+ 31 minút;31
+2026-11-05 06:17:53;2026-11-05;6;Thursday;Ex 600 TATRANsmer Bratislava hlavná stanica;Štrbapred 2 min.;+ 24 minút;24
+2026-11-05 06:17:53;2026-11-05;6;Thursday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Liptovský Mikulášodišiel pred 2 min.;+ 22 minút;22
+2026-11-05 06:17:53;2026-11-05;6;Thursday;REx 1761smer Košice;Košiceprišiel pred 4 min.;v cieli+ 21 minút;21
+2026-11-05 06:17:53;2026-11-05;6;Thursday;Os 8502smer Prešov;Košiceodišiel teraz;+ 20 minút;20
+2026-11-05 06:17:53;2026-11-05;6;Thursday;mešká do 5 minút;135;79.41 %;79
+2026-11-05 06:17:53;2026-11-05;6;Thursday;mešká 5-14 minút;29;17.06 %;17
+2026-11-05 06:17:53;2026-11-05;6;Thursday;mešká 15-29 minút;4;2.35 %;2
+2026-11-05 06:17:53;2026-11-05;6;Thursday;mešká 30-59 minút;1;0.59 %;0
+2026-11-05 06:17:53;2026-11-05;6;Thursday;mešká 60 a viac minút;1;0.59 %;0
