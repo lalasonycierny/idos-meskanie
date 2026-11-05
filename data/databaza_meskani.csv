@@ -26805,3 +26805,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-05 21:57:52;2026-11-05;21;Thursday;mešká 15-29 minút;7;6.86 %;6
 2026-11-05 21:57:52;2026-11-05;21;Thursday;mešká 30-59 minút;9;8.82 %;8
 2026-11-05 21:57:52;2026-11-05;21;Thursday;mešká 60 a viac minút;11;10.78 %;10
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 13 min.;13
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 618 TATRAN;Trenčianske Bohuslavice;v cieli meškal 4 min.;4
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 12 min.;12
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 136 min.;136
+2026-11-05 22:07:51;2026-11-05;22;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-05 22:07:51;2026-11-05;22;Thursday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 387 minút= 6 hod, 27 min.;747
+2026-11-05 22:07:51;2026-11-05;22;Thursday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 272 minút= 4 hod, 32 min.;512
+2026-11-05 22:07:51;2026-11-05;22;Thursday;R 10730 POVAŽANsmer Bratislava hlavná stanica;Cíferodišiel pred 3 min.;+ 143 minút= 2 hod, 23 min.;263
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 620 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 6 min.;v cieli+ 136 minút= 2 hod, 16 min.;256
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 629 TATRANsmer Košice;Turanyprešiel stanicou teraz;+ 130 minút= 2 hod, 10 min.;250
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 622 TATRANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 13 min.;+ 80 minút= 1 hod, 20 min.;140
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 631 TATRANsmer Košice;Potok odb.prešiel stanicou pred 10 min.;+ 78 minút= 1 hod, 18 min.;138
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 651 TATRANsmer Vrútky;Púchovodišiel teraz;+ 66 minút= 1 hod, 6 min.;126
+2026-11-05 22:07:51;2026-11-05;22;Thursday;R 10734 POVAŽANsmer Bratislava hlavná stanica;Veľké Kostoľanyprešiel stanicou teraz;+ 55 minút;55
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Os 2635smer Trnava;Šaštín-Strážeodišiel pred 8 min.;+ 44 minút;44
+2026-11-05 22:07:51;2026-11-05;22;Thursday;R 10733 POVAŽANsmer Púchov;Trenčínodišiel teraz;+ 41 minút;41
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Os 3437smer Liptovský Mikuláš;Vrútkypred 11 min.;+ 40 minút;40
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 624 TATRANsmer Bratislava hlavná stanica;Výh. Svätý Jurprešiel stanicou pred 3 min.;+ 39 minút;39
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Os 3133smer Trenčín;Trenčínpred 13 min.;v cieli+ 38 minút;38
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Os 3134smer Myjava;Čachticeodišiel pred 9 min.;+ 33 minút;33
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Os 7830smer Svit;Svitpred 9 min.;v cieli+ 31 minút;31
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Os 7571smer Horná Štubňa;Vrútkypred 4 min.;+ 30 minút;30
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 640 TATRANsmer Žilina;Ružomberokteraz;+ 30 minút;30
+2026-11-05 22:07:51;2026-11-05;22;Thursday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Košicepred 14 min.;+ 30 minút;30
+2026-11-05 22:07:51;2026-11-05;22;Thursday;R 10735 POVAŽANsmer Trenčín;Brestovanyprešiel stanicou pred 3 min.;+ 29 minút;29
+2026-11-05 22:07:51;2026-11-05;22;Thursday;R 845 URPÍNsmer Banská Bystrica;Banská Bystricaprišiel pred 14 min.;v cieli+ 25 minút;25
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 642 TATRANsmer Žilina;Výh. Lučivnáprešiel stanicou teraz;+ 24 minút;24
+2026-11-05 22:07:51;2026-11-05;22;Thursday;R 965 ZAKARPATIAsmer Košice;Veľký Horešprešiel stanicou pred 6 min.;+ 23 minút;23
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Piešťanyodišiel teraz;+ 23 minút;23
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Os 5159smer Nitra;Trnavapred 5 min.;+ 20 minút;20
+2026-11-05 22:07:51;2026-11-05;22;Thursday;Os 3036smer Bratislava-Nové Mesto;Cíferodišiel teraz;+ 19 minút;19
+2026-11-05 22:07:51;2026-11-05;22;Thursday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Devínska Nová Vesprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-05 22:07:51;2026-11-05;22;Thursday;mešká do 5 minút;54;55.10 %;55
+2026-11-05 22:07:51;2026-11-05;22;Thursday;mešká 5-14 minút;16;16.33 %;16
+2026-11-05 22:07:51;2026-11-05;22;Thursday;mešká 15-29 minút;8;8.16 %;8
+2026-11-05 22:07:51;2026-11-05;22;Thursday;mešká 30-59 minút;11;11.22 %;11
+2026-11-05 22:07:51;2026-11-05;22;Thursday;mešká 60 a viac minút;9;9.18 %;9
