@@ -30996,3 +30996,31 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-06 23:27:52;2026-11-06;23;Friday;mešká 15-29 minút;9;12.33 %;12
 2026-11-06 23:27:52;2026-11-06;23;Friday;mešká 30-59 minút;7;9.59 %;9
 2026-11-06 23:27:52;2026-11-06;23;Friday;mešká 60 a viac minút;4;5.48 %;5
+2026-11-06 23:37:53;2026-11-06;23;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-06 23:37:53;2026-11-06;23;Friday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-06 23:37:53;2026-11-06;23;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-06 23:37:53;2026-11-06;23;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-06 23:37:53;2026-11-06;23;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-06 23:37:53;2026-11-06;23;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 597 minút= 9 hod, 57 min.;1137
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 2616smer Kúty;Kútyteraz;+ 580 minút= 9 hod, 40 min.;1120
+2026-11-06 23:37:53;2026-11-06;23;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 477 minút= 7 hod, 57 min.;897
+2026-11-06 23:37:53;2026-11-06;23;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 357 minút= 5 hod, 57 min.;657
+2026-11-06 23:37:53;2026-11-06;23;Friday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Markušovceprešiel stanicou pred 5 min.;+ 39 minút;39
+2026-11-06 23:37:53;2026-11-06;23;Friday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Poprad-Tatryodišiel pred 2 min.;+ 35 minút;35
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 4537smer Galanta;Galantateraz;v cieli+ 34 minút;34
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 7834smer Spišská Nová Ves;Spišská Nová Vespred 10 min.;v cieli+ 32 minút;32
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 3038smer Bratislava-Nové Mesto;Pezinokodišiel pred 3 min.;+ 31 minút;31
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 7571smer Horná Štubňa;Horná Štubňapred 8 min.;v cieli+ 30 minút;30
+2026-11-06 23:37:53;2026-11-06;23;Friday;RJ 1011 REGIOJETsmer Košice;Markušovcepred 11 min.;+ 30 minút;30
+2026-11-06 23:37:53;2026-11-06;23;Friday;Ex 631 TATRANsmer Košice;Markušovceodišiel pred 2 min.;+ 28 minút;28
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 8537smer Čierna nad Tisou;Barca St. 1prešiel stanicou teraz;+ 26 minút;26
+2026-11-06 23:37:53;2026-11-06;23;Friday;REx 1939smer Humenné;Krásna nad Hornádomprešiel stanicou pred 3 min.;+ 24 minút;24
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 7856smer Liptovský Mikuláš;Kráľova Lehotaodišiel pred 2 min.;+ 23 minút;23
+2026-11-06 23:37:53;2026-11-06;23;Friday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Nové Zámkyprišiel pred 13 min.;v cieli+ 19 minút;19
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 7436smer Nálepkovo;Mníšek nad Hnilcomodišiel pred 9 min.;+ 18 minút;18
+2026-11-06 23:37:53;2026-11-06;23;Friday;Os 7873smer Margecany;Markušovceodišiel teraz;+ 15 minút;15
+2026-11-06 23:37:53;2026-11-06;23;Friday;mešká do 5 minút;40;60.61 %;60
+2026-11-06 23:37:53;2026-11-06;23;Friday;mešká 5-14 minút;8;12.12 %;12
+2026-11-06 23:37:53;2026-11-06;23;Friday;mešká 15-29 minút;7;10.61 %;10
+2026-11-06 23:37:53;2026-11-06;23;Friday;mešká 30-59 minút;7;10.61 %;10
+2026-11-06 23:37:53;2026-11-06;23;Friday;mešká 60 a viac minút;4;6.06 %;6
