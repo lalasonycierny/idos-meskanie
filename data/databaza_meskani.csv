@@ -31074,3 +31074,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-06 23:57:56;2026-11-06;23;Friday;mešká 15-29 minút;6;15.38 %;15
 2026-11-06 23:57:56;2026-11-06;23;Friday;mešká 30-59 minút;5;12.82 %;12
 2026-11-06 23:57:56;2026-11-06;23;Friday;mešká 60 a viac minút;4;10.26 %;10
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 00:07:52;2026-11-07;0;Saturday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 627 minút= 10 hod, 27 min.;1227
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Os 2616smer Kúty;Kútyteraz;+ 610 minút= 10 hod, 10 min.;1210
+2026-11-07 00:07:52;2026-11-07;0;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-07 00:07:52;2026-11-07;0;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 387 minút= 6 hod, 27 min.;747
+2026-11-07 00:07:52;2026-11-07;0;Saturday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Kráľova Lehotaprešiel stanicou teraz;+ 39 minút;39
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Os 3038smer Bratislava-Nové Mesto;Bratislava-Nové Mestopred 13 min.;v cieli+ 31 minút;31
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Ex 631 TATRANsmer Košice;Malá Lodinaprešiel stanicou pred 2 min.;+ 30 minút;30
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Os 3039smer Trnava;Odb. Vinohradyprešiel stanicou teraz;+ 27 minút;27
+2026-11-07 00:07:52;2026-11-07;0;Saturday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Poprad-Tatryodišiel teraz;+ 26 minút;26
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Os 8537smer Čierna nad Tisou;Slanecodišiel teraz;+ 23 minút;23
+2026-11-07 00:07:52;2026-11-07;0;Saturday;REx 1939smer Humenné;Čeľovceodišiel teraz;+ 21 minút;21
+2026-11-07 00:07:52;2026-11-07;0;Saturday;Os 7873smer Margecany;Krompachyodišiel pred 6 min.;+ 17 minút;17
+2026-11-07 00:07:52;2026-11-07;0;Saturday;mešká do 5 minút;15;51.72 %;51
+2026-11-07 00:07:52;2026-11-07;0;Saturday;mešká 5-14 minút;2;6.90 %;6
+2026-11-07 00:07:52;2026-11-07;0;Saturday;mešká 15-29 minút;5;17.24 %;17
+2026-11-07 00:07:52;2026-11-07;0;Saturday;mešká 30-59 minút;3;10.34 %;10
+2026-11-07 00:07:52;2026-11-07;0;Saturday;mešká 60 a viac minút;4;13.79 %;13
