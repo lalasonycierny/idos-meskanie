@@ -1,8 +1,6 @@
 ﻿Stanica_Poloha;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
 Odb. Močiarprešiel stanicou pred 5 min.;9;65.89;27.0;107.0;391;122.07;100.0;100.0;100.0;11.11
-Malackyprešiel stanicou pred 5 min.;6;67.17;34.0;147.0;167;63.45;100.0;100.0;100.0;33.33
 Vrútkyodišiel pred 5 min.;6;25.33;19.5;39.5;41;11.13;100.0;100.0;100.0;0.0
-Liptovský Mikulášodišiel pred 4 min.;12;24.83;21.5;39.8;50;10.58;100.0;100.0;100.0;0.0
 Liptovský Mikulášodišiel pred 5 min.;8;41.75;29.0;71.8;139;40.3;100.0;100.0;100.0;12.5
 Liptovský Mikulášodišiel pred 7 min.;5;26.2;27.0;33.0;37;7.12;100.0;100.0;100.0;0.0
 Vrútkyodišiel pred 4 min.;8;23.25;22.5;26.9;29;3.58;100.0;100.0;100.0;0.0
@@ -14,3 +12,5 @@ Lučenecteraz;6;22.83;21.0;31.0;36;7.6;100.0;100.0;100.0;0.0
 Lúky pod Makytouteraz;5;23.2;26.0;26.6;27;4.44;100.0;100.0;100.0;0.0
 Vrútky nákladná stanicaprešiel stanicou teraz;20;26.6;23.0;35.6;59;10.79;100.0;100.0;100.0;0.0
 Vrútky nákladná stanicaprešiel stanicou pred 2 min.;9;40.56;26.0;59.8;143;39.06;100.0;100.0;100.0;11.11
+Malackyprešiel stanicou pred 2 min.;12;43.83;35.0;51.9;165;39.84;100.0;100.0;100.0;8.33
+Veľký Šarišteraz;9;29.22;29.0;36.6;43;7.45;100.0;100.0;100.0;0.0
