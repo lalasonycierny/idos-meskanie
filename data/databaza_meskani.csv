@@ -30738,3 +30738,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-06 21:37:53;2026-11-06;21;Friday;mešká 15-29 minút;5;4.27 %;4
 2026-11-06 21:37:53;2026-11-06;21;Friday;mešká 30-59 minút;0;0.00 %;0
 2026-11-06 21:37:53;2026-11-06;21;Friday;mešká 60 a viac minút;5;4.27 %;4
+2026-11-06 21:47:53;2026-11-06;21;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-06 21:47:53;2026-11-06;21;Friday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-06 21:47:53;2026-11-06;21;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-06 21:47:53;2026-11-06;21;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-06 21:47:53;2026-11-06;21;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-06 21:47:53;2026-11-06;21;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 487 minút= 8 hod, 7 min.;967
+2026-11-06 21:47:53;2026-11-06;21;Friday;Os 2616smer Kúty;Kútyteraz;+ 470 minút= 7 hod, 50 min.;890
+2026-11-06 21:47:53;2026-11-06;21;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 367 minút= 6 hod, 7 min.;727
+2026-11-06 21:47:53;2026-11-06;21;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 247 minút= 4 hod, 7 min.;487
+2026-11-06 21:47:53;2026-11-06;21;Friday;Os 2630smer Kúty;Senicapred 8 min.;v cieli+ 72 minút= 1 hod, 12 min.;132
+2026-11-06 21:47:53;2026-11-06;21;Friday;Ex 640 TATRANsmer Žilina;Liptovský Mikulášprišiel teraz;+ 30 minút;30
+2026-11-06 21:47:53;2026-11-06;21;Friday;Os 3133smer Trenčín;Trenčínprišiel pred 10 min.;v cieli+ 21 minút;21
+2026-11-06 21:47:53;2026-11-06;21;Friday;Os 8333smer Stará Ľubovňa;Spišská Belá zastávkaodišiel teraz;+ 17 minút;17
+2026-11-06 21:47:53;2026-11-06;21;Friday;mešká do 5 minút;72;67.92 %;67
+2026-11-06 21:47:53;2026-11-06;21;Friday;mešká 5-14 minút;26;24.53 %;24
+2026-11-06 21:47:53;2026-11-06;21;Friday;mešká 15-29 minút;2;1.89 %;1
+2026-11-06 21:47:53;2026-11-06;21;Friday;mešká 30-59 minút;1;0.94 %;0
+2026-11-06 21:47:53;2026-11-06;21;Friday;mešká 60 a viac minút;5;4.72 %;4
