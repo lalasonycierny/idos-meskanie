@@ -30756,3 +30756,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-06 21:47:53;2026-11-06;21;Friday;mešká 15-29 minút;2;1.89 %;1
 2026-11-06 21:47:53;2026-11-06;21;Friday;mešká 30-59 minút;1;0.94 %;0
 2026-11-06 21:47:53;2026-11-06;21;Friday;mešká 60 a viac minút;5;4.72 %;4
+2026-11-06 21:57:59;2026-11-06;21;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-06 21:57:59;2026-11-06;21;Friday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-06 21:57:59;2026-11-06;21;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-06 21:57:59;2026-11-06;21;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-06 21:57:59;2026-11-06;21;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-06 21:57:59;2026-11-06;21;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 497 minút= 8 hod, 17 min.;977
+2026-11-06 21:57:59;2026-11-06;21;Friday;Os 2616smer Kúty;Kútyteraz;+ 480 minút= 8 hod, 0 min.;960
+2026-11-06 21:57:59;2026-11-06;21;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 377 minút= 6 hod, 17 min.;737
+2026-11-06 21:57:59;2026-11-06;21;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 257 minút= 4 hod, 17 min.;497
+2026-11-06 21:57:59;2026-11-06;21;Friday;EC 145 OSTRAVANsmer Žilina;Čadcaodišiel pred 4 min.;+ 52 minút;52
+2026-11-06 21:57:59;2026-11-06;21;Friday;Ex 640 TATRANsmer Žilina;Výh. Paludzaprešiel stanicou pred 5 min.;+ 29 minút;29
+2026-11-06 21:57:59;2026-11-06;21;Friday;Os 2635smer Trnava;Šajdíkove Humencepred 9 min.;+ 23 minút;23
+2026-11-06 21:57:59;2026-11-06;21;Friday;mešká do 5 minút;72;69.90 %;69
+2026-11-06 21:57:59;2026-11-06;21;Friday;mešká 5-14 minút;24;23.30 %;23
+2026-11-06 21:57:59;2026-11-06;21;Friday;mešká 15-29 minút;2;1.94 %;1
+2026-11-06 21:57:59;2026-11-06;21;Friday;mešká 30-59 minút;1;0.97 %;0
+2026-11-06 21:57:59;2026-11-06;21;Friday;mešká 60 a viac minút;4;3.88 %;3
