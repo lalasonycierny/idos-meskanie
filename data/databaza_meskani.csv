@@ -29016,3 +29016,36 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-06 12:18:12;2026-11-06;12;Friday;mešká 15-29 minút;12;9.16 %;9
 2026-11-06 12:18:12;2026-11-06;12;Friday;mešká 30-59 minút;5;3.82 %;3
 2026-11-06 12:18:12;2026-11-06;12;Friday;mešká 60 a viac minút;2;1.53 %;1
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 610 TATRAN;Turany;mešká 25 min.;25
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 621 TATRAN;Košice;v cieli meškal 13 min.;13
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 618 TATRAN;Trenčianske Bohuslavice;v cieli meškal 4 min.;4
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 614 TATRAN;Spišská Nová Ves;mešká 16 min.;16
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 136 min.;136
+2026-11-06 12:27:55;2026-11-06;12;Friday;EC 121 VALAŠSKÝ EXPRESsmer Púchov;Lúky pod Makytoupred 2 min.;+ 162 minút= 2 hod, 42 min.;282
+2026-11-06 12:27:55;2026-11-06;12;Friday;SC 241 PENDOLINO KOŠIČANsmer Košice;Čadcaodišiel pred 8 min.;+ 131 minút= 2 hod, 11 min.;251
+2026-11-06 12:27:55;2026-11-06;12;Friday;EC 1215 LEO EXPRESSsmer Bratislava hlavná stanica;Malackyprešiel stanicou pred 5 min.;+ 67 minút= 1 hod, 7 min.;127
+2026-11-06 12:27:55;2026-11-06;12;Friday;R 961smer Košice;Michaľanyprešiel stanicou pred 3 min.;+ 47 minút;47
+2026-11-06 12:27:55;2026-11-06;12;Friday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Čadca št. hr.pred 3 min.;v cieli+ 46 minút;46
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 1041 REGIOJETsmer Bratislava hlavná stanica;Devínska Nová Vesprešiel stanicou pred 3 min.;+ 43 minút;43
+2026-11-06 12:27:55;2026-11-06;12;Friday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Devínska Nová Vesprešiel stanicou teraz;+ 37 minút;37
+2026-11-06 12:27:55;2026-11-06;12;Friday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.pred 14 min.;v cieli+ 36 minút;36
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 610 TATRANsmer Bratislava hlavná stanica;Turanyprešiel stanicou pred 2 min.;+ 25 minút;25
+2026-11-06 12:27:55;2026-11-06;12;Friday;Os 8513smer Čierna nad Tisou;Michaľanyodišiel teraz;+ 25 minút;25
+2026-11-06 12:27:55;2026-11-06;12;Friday;Os 6115smer Zvolen osobná stanica;Bartošova Lehôtkaodišiel pred 8 min.;+ 22 minút;22
+2026-11-06 12:27:55;2026-11-06;12;Friday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava-Lamačprešiel stanicou teraz;+ 21 minút;21
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 608 TATRANsmer Bratislava hlavná stanica;Ilavaprešiel stanicou pred 2 min.;+ 18 minút;18
+2026-11-06 12:27:55;2026-11-06;12;Friday;R 914 GEMERANsmer Zvolen osobná stanica;Kriváňodišiel teraz;+ 17 minút;17
+2026-11-06 12:27:55;2026-11-06;12;Friday;R 915 GEMERANsmer Košice;Výh. Dvorníky-Zádielprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-11-06 12:27:55;2026-11-06;12;Friday;Os 3117smer Trenčín;Poriadieodišiel pred 2 min.;+ 17 minút;17
+2026-11-06 12:27:55;2026-11-06;12;Friday;Os 6314smer Lučenec;Lučenecprišiel pred 8 min.;v cieli+ 17 minút;17
+2026-11-06 12:27:55;2026-11-06;12;Friday;Os 3450smer Vrútky;Ružomberokteraz;+ 16 minút;16
+2026-11-06 12:27:55;2026-11-06;12;Friday;Os 3114smer Myjava;Myjavaprišiel pred 11 min.;v cieli+ 16 minút;16
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 611 TATRANsmer Košice;Východnáprešiel stanicou pred 9 min.;+ 16 minút;16
+2026-11-06 12:27:55;2026-11-06;12;Friday;Ex 614 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel pred 6 min.;+ 16 minút;16
+2026-11-06 12:27:55;2026-11-06;12;Friday;Os 4515smer Galanta;Galantaprišiel pred 9 min.;v cieli+ 15 minút;15
+2026-11-06 12:27:55;2026-11-06;12;Friday;R 10714 POVAŽANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 7 min.;+ 15 minút;15
+2026-11-06 12:27:55;2026-11-06;12;Friday;mešká do 5 minút;91;66.91 %;66
+2026-11-06 12:27:55;2026-11-06;12;Friday;mešká 5-14 minút;22;16.18 %;16
+2026-11-06 12:27:55;2026-11-06;12;Friday;mešká 15-29 minút;15;11.03 %;11
+2026-11-06 12:27:55;2026-11-06;12;Friday;mešká 30-59 minút;5;3.68 %;3
+2026-11-06 12:27:55;2026-11-06;12;Friday;mešká 60 a viac minút;3;2.21 %;2
