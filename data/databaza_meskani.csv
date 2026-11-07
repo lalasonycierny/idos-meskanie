@@ -31346,3 +31346,18 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-07 02:28:09;2026-11-07;2;Saturday;mešká 15-29 minút;2;25.00 %;25
 2026-11-07 02:28:09;2026-11-07;2;Saturday;mešká 30-59 minút;1;12.50 %;12
 2026-11-07 02:28:09;2026-11-07;2;Saturday;mešká 60 a viac minút;3;37.50 %;37
+2026-11-07 02:37:53;2026-11-07;2;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-07 02:37:53;2026-11-07;2;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-07 02:37:53;2026-11-07;2;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 02:37:53;2026-11-07;2;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-07 02:37:53;2026-11-07;2;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 02:37:53;2026-11-07;2;Saturday;Os 2616smer Kúty;Kútyteraz;+ 760 minút= 12 hod, 40 min.;1480
+2026-11-07 02:37:53;2026-11-07;2;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 657 minút= 10 hod, 57 min.;1257
+2026-11-07 02:37:53;2026-11-07;2;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 537 minút= 8 hod, 57 min.;1017
+2026-11-07 02:37:53;2026-11-07;2;Saturday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Čadca št. hr.prišiel pred 8 min.;v cieli+ 22 minút;22
+2026-11-07 02:37:53;2026-11-07;2;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Ľubochňaprešiel stanicou pred 2 min.;+ 18 minút;18
+2026-11-07 02:37:53;2026-11-07;2;Saturday;mešká do 5 minút;0;0.00 %;0
+2026-11-07 02:37:53;2026-11-07;2;Saturday;mešká 5-14 minút;2;28.57 %;28
+2026-11-07 02:37:53;2026-11-07;2;Saturday;mešká 15-29 minút;2;28.57 %;28
+2026-11-07 02:37:53;2026-11-07;2;Saturday;mešká 30-59 minút;0;0.00 %;0
+2026-11-07 02:37:53;2026-11-07;2;Saturday;mešká 60 a viac minút;3;42.86 %;42
