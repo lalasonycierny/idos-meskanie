@@ -32477,3 +32477,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-07 13:07:54;2026-11-07;13;Saturday;mešká 15-29 minút;4;3.17 %;3
 2026-11-07 13:07:54;2026-11-07;13;Saturday;mešká 30-59 minút;1;0.79 %;0
 2026-11-07 13:07:54;2026-11-07;13;Saturday;mešká 60 a viac minút;0;0.00 %;0
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Ex 610 TATRAN;Trenčín;ide načas;0
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Ex 618 TATRAN;Kostoľany nad Hornádom;mešká 13 min.;13
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Ex 614 TATRAN;Liptovský Hrádok;mešká 7 min.;7
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Os 5383smer Trenčín;Trenčínteraz;+ 44 minút;44
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Os 8513smer Čierna nad Tisou;Čierna nad Tisouprišiel pred 3 min.;v cieli+ 24 minút;24
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Os 2614smer Kúty;Šaštín-Strážeodišiel pred 5 min.;+ 23 minút;23
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Os 8816smer Košice;Košiceprišiel pred 8 min.;v cieli+ 20 minút;20
+2026-11-07 13:17:53;2026-11-07;13;Saturday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 18 minút;18
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Os 8516smer Prešov;Košiceodišiel pred 2 min.;+ 16 minút;16
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Os 5214smer Nové Zámky;Bánovodišiel pred 2 min.;+ 15 minút;15
+2026-11-07 13:17:53;2026-11-07;13;Saturday;Os 7517smer Prievidza;Odb. Dolná Štubňaprešiel stanicou pred 4 min.;+ 15 minút;15
+2026-11-07 13:17:53;2026-11-07;13;Saturday;mešká do 5 minút;86;68.25 %;68
+2026-11-07 13:17:53;2026-11-07;13;Saturday;mešká 5-14 minút;32;25.40 %;25
+2026-11-07 13:17:53;2026-11-07;13;Saturday;mešká 15-29 minút;7;5.56 %;5
+2026-11-07 13:17:53;2026-11-07;13;Saturday;mešká 30-59 minút;1;0.79 %;0
+2026-11-07 13:17:53;2026-11-07;13;Saturday;mešká 60 a viac minút;0;0.00 %;0
