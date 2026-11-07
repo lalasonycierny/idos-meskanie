@@ -31593,3 +31593,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-07 05:27:51;2026-11-07;5;Saturday;mešká 15-29 minút;3;3.09 %;3
 2026-11-07 05:27:51;2026-11-07;5;Saturday;mešká 30-59 minút;0;0.00 %;0
 2026-11-07 05:27:51;2026-11-07;5;Saturday;mešká 60 a viac minút;2;2.06 %;2
+2026-11-07 05:37:52;2026-11-07;5;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-07 05:37:52;2026-11-07;5;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-07 05:37:52;2026-11-07;5;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 05:37:52;2026-11-07;5;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-07 05:37:52;2026-11-07;5;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 05:37:52;2026-11-07;5;Saturday;Os 2616smer Kúty;Kútyteraz;+ 940 minút= 15 hod, 40 min.;1840
+2026-11-07 05:37:52;2026-11-07;5;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 4 min.;+ 713 minút= 11 hod, 53 min.;1373
+2026-11-07 05:37:52;2026-11-07;5;Saturday;Ex 600 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel pred 4 min.;+ 27 minút;27
+2026-11-07 05:37:52;2026-11-07;5;Saturday;RJ 1021 REGIOJETsmer Košice;Markušovceprešiel stanicou pred 8 min.;+ 24 minút;24
+2026-11-07 05:37:52;2026-11-07;5;Saturday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Výh. Lučivnáprešiel stanicou teraz;+ 19 minút;19
+2026-11-07 05:37:52;2026-11-07;5;Saturday;REx 1763smer Košice;Vydrníkprišiel teraz;+ 15 minút;15
+2026-11-07 05:37:52;2026-11-07;5;Saturday;mešká do 5 minút;86;84.31 %;84
+2026-11-07 05:37:52;2026-11-07;5;Saturday;mešká 5-14 minút;10;9.80 %;9
+2026-11-07 05:37:52;2026-11-07;5;Saturday;mešká 15-29 minút;4;3.92 %;3
+2026-11-07 05:37:52;2026-11-07;5;Saturday;mešká 30-59 minút;0;0.00 %;0
+2026-11-07 05:37:52;2026-11-07;5;Saturday;mešká 60 a viac minút;2;1.96 %;1
