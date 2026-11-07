@@ -1,7 +1,6 @@
 ﻿Stanica_Poloha;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
-Kráľova Lehotaodišiel pred 2 min.;5;21.0;18.0;26.6;29;5.05;100.0;100.0;100.0;0.0
-Vrútkyodišiel pred 3 min.;5;77.2;43.0;164.8;244;93.68;100.0;100.0;100.0;20.0
-Vydrníkprešiel stanicou pred 3 min.;15;34.2;21.0;47.8;175;40.25;100.0;100.0;100.0;6.67
+Kráľova Lehotaodišiel teraz;10;35.0;22.0;50.4;135;35.95;100.0;100.0;100.0;10.0
+Malá Lodinaprešiel stanicou teraz;13;34.69;24.0;45.4;125;28.93;100.0;100.0;100.0;7.69
 Liskováprešiel stanicou teraz;5;24.0;24.0;28.0;30;4.64;100.0;100.0;100.0;0.0
 Liskováteraz;8;48.12;40.0;75.7;124;33.22;100.0;100.0;100.0;12.5
 Ludaniceteraz;27;83.41;55.0;158.0;179;55.25;100.0;100.0;100.0;40.74
@@ -14,3 +13,4 @@ Vydrníkodišiel pred 3 min.;8;33.88;19.0;58.8;133;40.23;100.0;100.0;100.0;12.5
 Malackyprešiel stanicou pred 4 min.;7;42.43;27.0;76.2;123;37.11;100.0;100.0;100.0;14.29
 Malackyprešiel stanicou pred 5 min.;6;67.17;34.0;147.0;167;63.45;100.0;100.0;100.0;33.33
 Vrútkyodišiel pred 5 min.;6;25.33;19.5;39.5;41;11.13;100.0;100.0;100.0;0.0
+Malackyprešiel stanicou teraz;19;46.16;24.0;47.2;390;83.89;100.0;100.0;100.0;5.26
