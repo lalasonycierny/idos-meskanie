@@ -33530,3 +33530,35 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-07 21:07:54;2026-11-07;21;Saturday;mešká 15-29 minút;6;5.04 %;5
 2026-11-07 21:07:54;2026-11-07;21;Saturday;mešká 30-59 minút;2;1.68 %;1
 2026-11-07 21:07:54;2026-11-07;21;Saturday;mešká 60 a viac minút;11;9.24 %;9
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-07 21:17:54;2026-11-07;21;Saturday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 457 minút= 7 hod, 37 min.;877
+2026-11-07 21:17:54;2026-11-07;21;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 337 minút= 5 hod, 37 min.;637
+2026-11-07 21:17:54;2026-11-07;21;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 217 minút= 3 hod, 37 min.;397
+2026-11-07 21:17:54;2026-11-07;21;Saturday;REx 1927smer Humenné;Výh. Slivníkodišiel pred 5 min.;+ 215 minút= 3 hod, 35 min.;395
+2026-11-07 21:17:54;2026-11-07;21;Saturday;R 964smer Čierna nad Tisou št. hr.;Nižná Myšľateraz;+ 201 minút= 3 hod, 21 min.;381
+2026-11-07 21:17:54;2026-11-07;21;Saturday;REx 1928smer Košice;Slanecteraz;+ 163 minút= 2 hod, 43 min.;283
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 8528smer Prešov;Barca St. 1prešiel stanicou teraz;+ 153 minút= 2 hod, 33 min.;273
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 8525smer Čierna nad Tisou;Čierna nad Tisoupred 4 min.;v cieli+ 142 minút= 2 hod, 22 min.;262
+2026-11-07 21:17:54;2026-11-07;21;Saturday;REx 1931smer Humenné;Ruskovteraz;+ 115 minút= 1 hod, 55 min.;175
+2026-11-07 21:17:54;2026-11-07;21;Saturday;RJ 1223 REGIOJETsmer Košice;Slovenské Nové Mestoteraz;+ 113 minút= 1 hod, 53 min.;173
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 9033smer Trebišov;Michaľanyteraz;+ 75 minút= 1 hod, 15 min.;135
+2026-11-07 21:17:54;2026-11-07;21;Saturday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Trebišovteraz;+ 66 minút= 1 hod, 6 min.;126
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 8836smer Košice;Čierna nad Tisouteraz;+ 54 minút;54
+2026-11-07 21:17:54;2026-11-07;21;Saturday;EC 145 OSTRAVANsmer Žilina;Čadcapred 12 min.;+ 33 minút;33
+2026-11-07 21:17:54;2026-11-07;21;Saturday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Palárikovoprešiel stanicou teraz;+ 26 minút;26
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 5981smer Levice;Štúrovopred 4 min.;+ 25 minút;25
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 3133smer Trenčín;Nové Mesto nad Váhompred 3 min.;+ 24 minút;24
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 4835smer Komárno;Nové Zámkypred 7 min.;+ 23 minút;23
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 7830smer Svit;Spišská Nová Vesodišiel pred 9 min.;+ 19 minút;19
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 2630smer Kúty;Kútyprišiel pred 3 min.;v cieli+ 18 minút;18
+2026-11-07 21:17:54;2026-11-07;21;Saturday;REx 1973smer Košice;Ličartovceodišiel pred 6 min.;+ 17 minút;17
+2026-11-07 21:17:54;2026-11-07;21;Saturday;Os 8532smer Prešov;Košiceodišiel pred 2 min.;+ 16 minút;16
+2026-11-07 21:17:54;2026-11-07;21;Saturday;mešká do 5 minút;80;68.97 %;68
+2026-11-07 21:17:54;2026-11-07;21;Saturday;mešká 5-14 minút;14;12.07 %;12
+2026-11-07 21:17:54;2026-11-07;21;Saturday;mešká 15-29 minút;8;6.90 %;6
+2026-11-07 21:17:54;2026-11-07;21;Saturday;mešká 30-59 minút;2;1.72 %;1
+2026-11-07 21:17:54;2026-11-07;21;Saturday;mešká 60 a viac minút;12;10.34 %;10
