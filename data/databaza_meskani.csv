@@ -31403,3 +31403,17 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-07 03:07:53;2026-11-07;3;Saturday;mešká 15-29 minút;1;12.50 %;12
 2026-11-07 03:07:53;2026-11-07;3;Saturday;mešká 30-59 minút;0;0.00 %;0
 2026-11-07 03:07:53;2026-11-07;3;Saturday;mešká 60 a viac minút;3;37.50 %;37
+2026-11-07 03:17:54;2026-11-07;3;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-07 03:17:54;2026-11-07;3;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-07 03:17:54;2026-11-07;3;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 03:17:54;2026-11-07;3;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-07 03:17:54;2026-11-07;3;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 03:17:54;2026-11-07;3;Saturday;Os 2616smer Kúty;Kútyteraz;+ 800 minút= 13 hod, 20 min.;1580
+2026-11-07 03:17:54;2026-11-07;3;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 697 minút= 11 hod, 37 min.;1357
+2026-11-07 03:17:54;2026-11-07;3;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 577 minút= 9 hod, 37 min.;1117
+2026-11-07 03:17:54;2026-11-07;3;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Výh. Váhprešiel stanicou pred 7 min.;+ 20 minút;20
+2026-11-07 03:17:54;2026-11-07;3;Saturday;mešká do 5 minút;3;33.33 %;33
+2026-11-07 03:17:54;2026-11-07;3;Saturday;mešká 5-14 minút;2;22.22 %;22
+2026-11-07 03:17:54;2026-11-07;3;Saturday;mešká 15-29 minút;1;11.11 %;11
+2026-11-07 03:17:54;2026-11-07;3;Saturday;mešká 30-59 minút;0;0.00 %;0
+2026-11-07 03:17:54;2026-11-07;3;Saturday;mešká 60 a viac minút;3;33.33 %;33
