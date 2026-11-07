@@ -31265,3 +31265,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-07 01:37:54;2026-11-07;1;Saturday;mešká 15-29 minút;1;11.11 %;11
 2026-11-07 01:37:54;2026-11-07;1;Saturday;mešká 30-59 minút;2;22.22 %;22
 2026-11-07 01:37:54;2026-11-07;1;Saturday;mešká 60 a viac minút;4;44.44 %;44
+2026-11-07 01:47:53;2026-11-07;1;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-07 01:47:53;2026-11-07;1;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-07 01:47:53;2026-11-07;1;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 01:47:53;2026-11-07;1;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-07 01:47:53;2026-11-07;1;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 01:47:53;2026-11-07;1;Saturday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 14 min.;+ 713 minút= 11 hod, 53 min.;1373
+2026-11-07 01:47:53;2026-11-07;1;Saturday;Os 2616smer Kúty;Kútyteraz;+ 710 minút= 11 hod, 50 min.;1370
+2026-11-07 01:47:53;2026-11-07;1;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 607 minút= 10 hod, 7 min.;1207
+2026-11-07 01:47:53;2026-11-07;1;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 487 minút= 8 hod, 7 min.;967
+2026-11-07 01:47:53;2026-11-07;1;Saturday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Budatín odb.prešiel stanicou pred 4 min.;+ 55 minút;55
+2026-11-07 01:47:53;2026-11-07;1;Saturday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Potok odb.prešiel stanicou teraz;+ 33 minút;33
+2026-11-07 01:47:53;2026-11-07;1;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Štrbapred 7 min.;+ 18 minút;18
+2026-11-07 01:47:53;2026-11-07;1;Saturday;mešká do 5 minút;2;22.22 %;22
+2026-11-07 01:47:53;2026-11-07;1;Saturday;mešká 5-14 minút;0;0.00 %;0
+2026-11-07 01:47:53;2026-11-07;1;Saturday;mešká 15-29 minút;1;11.11 %;11
+2026-11-07 01:47:53;2026-11-07;1;Saturday;mešká 30-59 minút;2;22.22 %;22
+2026-11-07 01:47:53;2026-11-07;1;Saturday;mešká 60 a viac minút;4;44.44 %;44
