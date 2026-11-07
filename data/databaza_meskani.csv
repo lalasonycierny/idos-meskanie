@@ -31282,3 +31282,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-07 01:47:53;2026-11-07;1;Saturday;mešká 15-29 minút;1;11.11 %;11
 2026-11-07 01:47:53;2026-11-07;1;Saturday;mešká 30-59 minút;2;22.22 %;22
 2026-11-07 01:47:53;2026-11-07;1;Saturday;mešká 60 a viac minút;4;44.44 %;44
+2026-11-07 01:57:52;2026-11-07;1;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-07 01:57:52;2026-11-07;1;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-07 01:57:52;2026-11-07;1;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 01:57:52;2026-11-07;1;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-07 01:57:52;2026-11-07;1;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 01:57:52;2026-11-07;1;Saturday;Os 2616smer Kúty;Kútyteraz;+ 720 minút= 12 hod, 0 min.;1440
+2026-11-07 01:57:52;2026-11-07;1;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 617 minút= 10 hod, 17 min.;1217
+2026-11-07 01:57:52;2026-11-07;1;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 497 minút= 8 hod, 17 min.;977
+2026-11-07 01:57:52;2026-11-07;1;Saturday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Krásno nad Kysucouprešiel stanicou pred 2 min.;+ 54 minút;54
+2026-11-07 01:57:52;2026-11-07;1;Saturday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Žilinaodišiel teraz;+ 24 minút;24
+2026-11-07 01:57:52;2026-11-07;1;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou teraz;+ 17 minút;17
+2026-11-07 01:57:52;2026-11-07;1;Saturday;mešká do 5 minút;2;25.00 %;25
+2026-11-07 01:57:52;2026-11-07;1;Saturday;mešká 5-14 minút;0;0.00 %;0
+2026-11-07 01:57:52;2026-11-07;1;Saturday;mešká 15-29 minút;2;25.00 %;25
+2026-11-07 01:57:52;2026-11-07;1;Saturday;mešká 30-59 minút;1;12.50 %;12
+2026-11-07 01:57:52;2026-11-07;1;Saturday;mešká 60 a viac minút;3;37.50 %;37
