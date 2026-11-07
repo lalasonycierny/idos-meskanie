@@ -31699,3 +31699,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-07 06:37:54;2026-11-07;6;Saturday;mešká 15-29 minút;4;3.33 %;3
 2026-11-07 06:37:54;2026-11-07;6;Saturday;mešká 30-59 minút;0;0.00 %;0
 2026-11-07 06:37:54;2026-11-07;6;Saturday;mešká 60 a viac minút;1;0.83 %;0
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 13 min.;13
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Os 2616smer Kúty;Kútyteraz;+ 1010 minút= 16 hod, 50 min.;1970
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Ex 600 TATRANsmer Bratislava hlavná stanica;Výh. Paludzaprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Os 2004smer Kúty;Bratislava-Lamačpred 3 min.;+ 20 minút;20
+2026-11-07 06:48:00;2026-11-07;6;Saturday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Kraľovanyprešiel stanicou pred 5 min.;+ 19 minút;19
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Spišská Nová Vesprišiel teraz;+ 18 minút;18
+2026-11-07 06:48:00;2026-11-07;6;Saturday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Sládkovičovoprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Os 3105smer Trenčín;Vaďovceodišiel pred 2 min.;+ 15 minút;15
+2026-11-07 06:48:00;2026-11-07;6;Saturday;Os 7802smer Svit;Spišské Vlachyodišiel pred 8 min.;+ 15 minút;15
+2026-11-07 06:48:00;2026-11-07;6;Saturday;mešká do 5 minút;92;81.42 %;81
+2026-11-07 06:48:00;2026-11-07;6;Saturday;mešká 5-14 minút;13;11.50 %;11
+2026-11-07 06:48:00;2026-11-07;6;Saturday;mešká 15-29 minút;7;6.19 %;6
+2026-11-07 06:48:00;2026-11-07;6;Saturday;mešká 30-59 minút;0;0.00 %;0
+2026-11-07 06:48:00;2026-11-07;6;Saturday;mešká 60 a viac minút;1;0.88 %;0
