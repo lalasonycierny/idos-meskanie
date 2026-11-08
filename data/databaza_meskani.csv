@@ -35252,3 +35252,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 12:17:51;2026-11-08;12;Sunday;mešká 15-29 minút;16;13.01 %;13
 2026-11-08 12:17:51;2026-11-08;12;Sunday;mešká 30-59 minút;3;2.44 %;2
 2026-11-08 12:17:51;2026-11-08;12;Sunday;mešká 60 a viac minút;4;3.25 %;3
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 610 TATRAN;Žilina predmestie;mešká 1 min.;1
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 614 TATRAN;Výh. Gánovce;mešká 18 min.;18
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 3109smer Trenčín;Trenčínteraz;+ 202 minút= 3 hod, 22 min.;382
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 611 TATRANsmer Košice;Liptovská Tepláprešiel stanicou pred 6 min.;+ 64 minút= 1 hod, 4 min.;124
+2026-11-08 12:37:51;2026-11-08;12;Sunday;EC 130 BATHORYsmer Kúty št. hr. - Warszawa Grochów;Sekuleprešiel stanicou teraz;+ 50 minút;50
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 3114smer Myjava;Myjavapred 6 min.;v cieli+ 33 minút;33
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 3117smer Trenčín;Myjavaodišiel teraz;+ 33 minút;33
+2026-11-08 12:37:51;2026-11-08;12;Sunday;R 10717 POVAŽANsmer Žilina;Pezinokodišiel teraz;+ 30 minút;30
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 615 TATRANsmer Košice;Považská Bystricaprišiel teraz;+ 29 minút;29
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 617 TATRANsmer Košice;Piešťanyodišiel teraz;+ 27 minút;27
+2026-11-08 12:37:51;2026-11-08;12;Sunday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Štúrovoteraz;+ 25 minút;25
+2026-11-08 12:37:51;2026-11-08;12;Sunday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Devínska Nová Vesteraz;+ 25 minút;25
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 2710smer Vrbovce št. hr. - Velká nad Veličkou;Myjavaodišiel pred 3 min.;+ 24 minút;24
+2026-11-08 12:37:51;2026-11-08;12;Sunday;R 10716 POVAŽANsmer Bratislava hlavná stanica;Veľké Kostoľanyprešiel stanicou pred 2 min.;+ 24 minút;24
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 8513smer Čierna nad Tisou;Slovenské Nové Mestoodišiel teraz;+ 23 minút;23
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 4314smer Bratislava-Nové Mesto;Podunajské Biskupicepred 7 min.;+ 23 minút;23
+2026-11-08 12:37:51;2026-11-08;12;Sunday;REx 1915smer Humenné;Michalovceodišiel pred 7 min.;+ 22 minút;22
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 2414smer Skalica na Slovensku;Skalica na Slovenskupred 8 min.;+ 21 minút;21
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 4315smer Dunajská Streda;Kvetoslavovodišiel pred 2 min.;+ 21 minút;21
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 7814smer Svit;Krompachyodišiel teraz;+ 20 minút;20
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 2614smer Kúty;Jablonicateraz;+ 20 minút;20
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 614 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou teraz;+ 18 minút;18
+2026-11-08 12:37:51;2026-11-08;12;Sunday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bernolákovoprešiel stanicou pred 3 min.;+ 18 minút;18
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 2417smer Kúty;Skalica na Slovenskupred 8 min.;+ 17 minút;17
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Ex 619 TATRANsmer Košice;Bratislava hlavná stanicaodišiel pred 3 min.;+ 16 minút;16
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 2615smer Trnava;Nemčankaprešiel stanicou pred 3 min.;+ 15 minút;15
+2026-11-08 12:37:51;2026-11-08;12;Sunday;Os 7819smer Košice;Výh. Gánovceprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-08 12:37:51;2026-11-08;12;Sunday;mešká do 5 minút;81;61.83 %;61
+2026-11-08 12:37:51;2026-11-08;12;Sunday;mešká 5-14 minút;25;19.08 %;19
+2026-11-08 12:37:51;2026-11-08;12;Sunday;mešká 15-29 minút;19;14.50 %;14
+2026-11-08 12:37:51;2026-11-08;12;Sunday;mešká 30-59 minút;4;3.05 %;3
+2026-11-08 12:37:51;2026-11-08;12;Sunday;mešká 60 a viac minút;2;1.53 %;1
