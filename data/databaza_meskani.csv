@@ -35219,3 +35219,36 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 12:07:52;2026-11-08;12;Sunday;mešká 15-29 minút;14;10.61 %;10
 2026-11-08 12:07:52;2026-11-08;12;Sunday;mešká 30-59 minút;2;1.52 %;1
 2026-11-08 12:07:52;2026-11-08;12;Sunday;mešká 60 a viac minút;4;3.03 %;3
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Ex 610 TATRAN;Vrútky;mešká 2 min.;2
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Ex 614 TATRAN;Spišská Nová Ves;mešká 9 min.;9
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 3109smer Trenčín;Trenčínteraz;+ 182 minút= 3 hod, 2 min.;362
+2026-11-08 12:17:51;2026-11-08;12;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 180 minút= 3 hod, 0 min.;360
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Ex 611 TATRANsmer Košice;Ľubochňaprešiel stanicou pred 4 min.;+ 64 minút= 1 hod, 4 min.;124
+2026-11-08 12:17:51;2026-11-08;12;Sunday;EC 130 BATHORYsmer Kúty št. hr. - Warszawa Grochów;Devínska Nová Vesodišiel pred 14 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 4815smer Komárno;Komárnopred 3 min.;v cieli+ 46 minút;46
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 3114smer Myjava;Papradodišiel teraz;+ 31 minút;31
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Ex 615 TATRANsmer Košice;Dubnica nad Váhomprešiel stanicou teraz;+ 31 minút;31
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Ex 617 TATRANsmer Košice;Trnavaodišiel teraz;+ 27 minút;27
+2026-11-08 12:17:51;2026-11-08;12;Sunday;R 10717 POVAŽANsmer Žilina;Bratislava hlavná stanicaodišiel pred 6 min.;+ 26 minút;26
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 8513smer Čierna nad Tisou;Kuzmiceodišiel pred 2 min.;+ 25 minút;25
+2026-11-08 12:17:51;2026-11-08;12;Sunday;R 10716 POVAŽANsmer Bratislava hlavná stanica;Nové Mesto nad Váhomodišiel teraz;+ 24 minút;24
+2026-11-08 12:17:51;2026-11-08;12;Sunday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava hlavná stanicateraz;+ 22 minút;22
+2026-11-08 12:17:51;2026-11-08;12;Sunday;REx 1915smer Humenné;Trebišovodišiel pred 3 min.;+ 22 minút;22
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 2710smer Vrbovce št. hr. - Velká nad Veličkou;Myjavapred 6 min.;+ 22 minút;22
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 4314smer Bratislava-Nové Mesto;Nové Košariskáteraz;+ 18 minút;18
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 4915smer Štúrovo;Štúrovoprišiel pred 9 min.;v cieli+ 16 minút;16
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 7814smer Svit;Výh. Ružínprešiel stanicou pred 4 min.;+ 16 minút;16
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 2615smer Trnava;Smoleniceodišiel teraz;+ 16 minút;16
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 9017smer Trebišov;Michaľanyteraz;+ 15 minút;15
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 2014smer Kúty;Devínska Nová Vesodišiel pred 11 min.;+ 15 minút;15
+2026-11-08 12:17:51;2026-11-08;12;Sunday;Os 2614smer Kúty;Smoleniceodišiel teraz;+ 15 minút;15
+2026-11-08 12:17:51;2026-11-08;12;Sunday;REx 1440smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 11 min.;v cieli+ 15 minút;15
+2026-11-08 12:17:51;2026-11-08;12;Sunday;REx 1784smer Banská Bystrica;Margecanypred 8 min.;+ 15 minút;15
+2026-11-08 12:17:51;2026-11-08;12;Sunday;mešká do 5 minút;73;59.35 %;59
+2026-11-08 12:17:51;2026-11-08;12;Sunday;mešká 5-14 minút;27;21.95 %;21
+2026-11-08 12:17:51;2026-11-08;12;Sunday;mešká 15-29 minút;16;13.01 %;13
+2026-11-08 12:17:51;2026-11-08;12;Sunday;mešká 30-59 minút;3;2.44 %;2
+2026-11-08 12:17:51;2026-11-08;12;Sunday;mešká 60 a viac minút;4;3.25 %;3
