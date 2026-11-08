@@ -34678,3 +34678,36 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 09:27:52;2026-11-08;9;Sunday;mešká 15-29 minút;14;11.57 %;11
 2026-11-08 09:27:52;2026-11-08;9;Sunday;mešká 30-59 minút;3;2.48 %;2
 2026-11-08 09:27:52;2026-11-08;9;Sunday;mešká 60 a viac minút;2;1.65 %;1
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Ex 610 TATRAN;Spišské Vlachy;ide načas;0
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-08 09:37:52;2026-11-08;9;Sunday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovoteraz;+ 133 minút= 2 hod, 13 min.;253
+2026-11-08 09:37:52;2026-11-08;9;Sunday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisoupred 10 min.;+ 72 minút= 1 hod, 12 min.;132
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 8505smer Čierna nad Tisou;Čierna nad Tisoupred 8 min.;v cieli+ 38 minút;38
+2026-11-08 09:37:52;2026-11-08;9;Sunday;R 10709 POVAŽANsmer Žilina;Výh. Horná Stredaprešiel stanicou pred 2 min.;+ 37 minút;37
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 4908smer Nové Zámky;Nové Zámkypred 13 min.;v cieli+ 35 minút;35
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 4811smer Komárno;Nové Zámkyodišiel pred 2 min.;+ 30 minút;30
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 4309smer Dunajská Streda;Kvetoslavovteraz;+ 27 minút;27
+2026-11-08 09:37:52;2026-11-08;9;Sunday;ra 271 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Pribetaprešiel stanicou pred 5 min.;+ 25 minút;25
+2026-11-08 09:37:52;2026-11-08;9;Sunday;REx 1433smer Komárno;Dunajská Stredaodišiel pred 2 min.;+ 25 minút;25
+2026-11-08 09:37:52;2026-11-08;9;Sunday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Tvrdošovceprešiel stanicou pred 2 min.;+ 24 minút;24
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Ex 600 TATRANsmer Bratislava hlavná stanica;Cíferprešiel stanicou teraz;+ 23 minút;23
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 3109smer Trenčín;Trenčín-Zlatovceprišiel pred 3 min.;+ 22 minút;22
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Ex 611 TATRANsmer Košice;Výh. Potvoriceprešiel stanicou teraz;+ 20 minút;20
+2026-11-08 09:37:52;2026-11-08;9;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 20 minút;20
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 5381smer Trenčín;Trenčínteraz;+ 20 minút;20
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 7811smer Košice;Spišská Nová Vesodišiel pred 6 min.;+ 20 minút;20
+2026-11-08 09:37:52;2026-11-08;9;Sunday;R 10711 POVAŽANsmer Púchov;Šenkviceodišiel pred 5 min.;+ 19 minút;19
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 4308smer Bratislava-Nové Mesto;Podunajské Biskupiceteraz;+ 19 minút;19
+2026-11-08 09:37:52;2026-11-08;9;Sunday;REx 1438smer Bratislava hlavná stanica;Nové Košariskáteraz;+ 19 minút;19
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 4911smer Štúrovo;Nové Zámkyodišiel pred 2 min.;+ 18 minút;18
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 4712smer Bratislava hlavná stanica;Nové Zámkyodišiel pred 8 min.;+ 17 minút;17
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Os 5510smer Topoľčany;Prievidza nákladná stanicaprešiel stanicou pred 6 min.;+ 16 minút;16
+2026-11-08 09:37:52;2026-11-08;9;Sunday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Trenčínodišiel teraz;+ 16 minút;16
+2026-11-08 09:37:52;2026-11-08;9;Sunday;mešká do 5 minút;79;63.20 %;63
+2026-11-08 09:37:52;2026-11-08;9;Sunday;mešká 5-14 minút;23;18.40 %;18
+2026-11-08 09:37:52;2026-11-08;9;Sunday;mešká 15-29 minút;17;13.60 %;13
+2026-11-08 09:37:52;2026-11-08;9;Sunday;mešká 30-59 minút;4;3.20 %;3
+2026-11-08 09:37:52;2026-11-08;9;Sunday;mešká 60 a viac minút;2;1.60 %;1
