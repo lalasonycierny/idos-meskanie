@@ -34195,3 +34195,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 05:57:51;2026-11-08;5;Sunday;mešká 15-29 minút;6;6.00 %;6
 2026-11-08 05:57:51;2026-11-08;5;Sunday;mešká 30-59 minút;4;4.00 %;4
 2026-11-08 05:57:51;2026-11-08;5;Sunday;mešká 60 a viac minút;2;2.00 %;2
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-08 06:07:51;2026-11-08;6;Sunday;RJ 1223 REGIOJETsmer Košice;Michaľanyteraz;+ 633 minút= 10 hod, 33 min.;1233
+2026-11-08 06:07:51;2026-11-08;6;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Varínodišiel teraz;+ 196 minút= 3 hod, 16 min.;376
+2026-11-08 06:07:51;2026-11-08;6;Sunday;RJ 1021 REGIOJETsmer Košice;Markušovceprešiel stanicou teraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Ex 600 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 7 min.;+ 42 minút;42
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Os 8500smer Prešov;Ličartovceodišiel pred 3 min.;+ 41 minút;41
+2026-11-08 06:07:51;2026-11-08;6;Sunday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Štrbapred 8 min.;+ 35 minút;35
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Os 8501smer Čierna nad Tisou;Ruskovodišiel pred 6 min.;+ 26 minút;26
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Os 7870smer Svit;Poprad-Tatryodišiel teraz;+ 24 minút;24
+2026-11-08 06:07:51;2026-11-08;6;Sunday;EN 443 SLOVAKIAsmer Humenné;Liptovský Mikulášodišiel pred 5 min.;+ 20 minút;20
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Os 6402smer Moldava nad Bodvou mesto;Barcaodišiel pred 4 min.;+ 19 minút;19
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Os 8580smer Prešov;Krásna nad Hornádomodišiel pred 7 min.;+ 19 minút;19
+2026-11-08 06:07:51;2026-11-08;6;Sunday;Os 5405smer Trenčianska Teplá;Nemšováteraz;+ 17 minút;17
+2026-11-08 06:07:51;2026-11-08;6;Sunday;mešká do 5 minút;70;67.96 %;67
+2026-11-08 06:07:51;2026-11-08;6;Sunday;mešká 5-14 minút;21;20.39 %;20
+2026-11-08 06:07:51;2026-11-08;6;Sunday;mešká 15-29 minút;6;5.83 %;5
+2026-11-08 06:07:51;2026-11-08;6;Sunday;mešká 30-59 minút;3;2.91 %;2
+2026-11-08 06:07:51;2026-11-08;6;Sunday;mešká 60 a viac minút;3;2.91 %;2
