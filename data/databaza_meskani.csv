@@ -34041,3 +34041,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 04:37:51;2026-11-08;4;Sunday;mešká 15-29 minút;2;3.13 %;3
 2026-11-08 04:37:51;2026-11-08;4;Sunday;mešká 30-59 minút;1;1.56 %;1
 2026-11-08 04:37:51;2026-11-08;4;Sunday;mešká 60 a viac minút;3;4.69 %;4
+2026-11-08 04:47:51;2026-11-08;4;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-08 04:47:51;2026-11-08;4;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-08 04:47:51;2026-11-08;4;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-11-08 04:47:51;2026-11-08;4;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-08 04:47:51;2026-11-08;4;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-08 04:47:51;2026-11-08;4;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 667 minút= 11 hod, 7 min.;1327
+2026-11-08 04:47:51;2026-11-08;4;Sunday;RJ 1223 REGIOJETsmer Košice;Michaľanyteraz;+ 553 minút= 9 hod, 13 min.;1093
+2026-11-08 04:47:51;2026-11-08;4;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou pred 3 min.;+ 182 minút= 3 hod, 2 min.;362
+2026-11-08 04:47:51;2026-11-08;4;Sunday;RJ 1021 REGIOJETsmer Košice;Kráľova Lehotaprešiel stanicou teraz;+ 43 minút;43
+2026-11-08 04:47:51;2026-11-08;4;Sunday;Os 8500smer Prešov;Slanecodišiel teraz;+ 32 minút;32
+2026-11-08 04:47:51;2026-11-08;4;Sunday;R 681 ZEMPLÍNsmer Humenné;Malá Lodinaprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-11-08 04:47:51;2026-11-08;4;Sunday;mešká do 5 minút;60;81.08 %;81
+2026-11-08 04:47:51;2026-11-08;4;Sunday;mešká 5-14 minút;8;10.81 %;10
+2026-11-08 04:47:51;2026-11-08;4;Sunday;mešká 15-29 minút;1;1.35 %;1
+2026-11-08 04:47:51;2026-11-08;4;Sunday;mešká 30-59 minút;2;2.70 %;2
+2026-11-08 04:47:51;2026-11-08;4;Sunday;mešká 60 a viac minút;3;4.05 %;4
