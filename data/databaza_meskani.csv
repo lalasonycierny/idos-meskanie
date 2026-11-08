@@ -36412,3 +36412,24 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 19:07:50;2026-11-08;19;Sunday;mešká 15-29 minút;8;6.20 %;6
 2026-11-08 19:07:50;2026-11-08;19;Sunday;mešká 30-59 minút;0;0.00 %;0
 2026-11-08 19:07:50;2026-11-08;19;Sunday;mešká 60 a viac minút;4;3.10 %;3
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Ex 621 TATRAN;Kostoľany nad Hornádom;mešká 24 min.;24
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Ex 620 TATRAN;Trnava nákladná stanica;mešká 7 min.;7
+2026-11-08 19:17:50;2026-11-08;19;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 337 minút= 5 hod, 37 min.;637
+2026-11-08 19:17:50;2026-11-08;19;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 217 minút= 3 hod, 37 min.;397
+2026-11-08 19:17:50;2026-11-08;19;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 97 minút= 1 hod, 37 min.;157
+2026-11-08 19:17:50;2026-11-08;19;Sunday;EC 1219 LEO EXPRESSsmer Bratislava hlavná stanica;Holíč nad Moravouodišiel pred 5 min.;+ 65 minút= 1 hod, 5 min.;125
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Os 5386smer Topoľčany;Topoľčanyprišiel pred 6 min.;v cieli+ 28 minút;28
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Ex 621 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 6 min.;+ 24 minút;24
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Os 7826smer Svit;Spišská Nová Vesodišiel pred 9 min.;+ 20 minút;20
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Ex 628 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyodišiel pred 9 min.;+ 19 minút;19
+2026-11-08 19:17:50;2026-11-08;19;Sunday;EC 1253 LEO EXPRESSsmer Prešov;Krompachyprešiel stanicou pred 7 min.;+ 19 minút;19
+2026-11-08 19:17:50;2026-11-08;19;Sunday;Os 5129smer Nové Zámky;Nové Zámkyprišiel pred 6 min.;v cieli+ 16 minút;16
+2026-11-08 19:17:50;2026-11-08;19;Sunday;ra 270 METROPOLITANsmer Kúty št. hr. - Praha jih;Dvory nad Žitavouprešiel stanicou pred 6 min.;+ 15 minút;15
+2026-11-08 19:17:50;2026-11-08;19;Sunday;mešká do 5 minút;83;61.03 %;61
+2026-11-08 19:17:50;2026-11-08;19;Sunday;mešká 5-14 minút;42;30.88 %;30
+2026-11-08 19:17:50;2026-11-08;19;Sunday;mešká 15-29 minút;7;5.15 %;5
+2026-11-08 19:17:50;2026-11-08;19;Sunday;mešká 30-59 minút;0;0.00 %;0
+2026-11-08 19:17:50;2026-11-08;19;Sunday;mešká 60 a viac minút;4;2.94 %;2
