@@ -35093,3 +35093,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 11:27:52;2026-11-08;11;Sunday;mešká 15-29 minút;14;10.61 %;10
 2026-11-08 11:27:52;2026-11-08;11;Sunday;mešká 30-59 minút;6;4.55 %;4
 2026-11-08 11:27:52;2026-11-08;11;Sunday;mešká 60 a viac minút;3;2.27 %;2
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 610 TATRAN;Liptovská Teplá;mešká 1 min.;1
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 614 TATRAN;Spišské Vlachy;ide načas;0
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-08 11:37:52;2026-11-08;11;Sunday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.pred 3 min.;v cieli+ 238 minút= 3 hod, 58 min.;418
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 3109smer Trenčín;Trenčínteraz;+ 142 minút= 2 hod, 22 min.;262
+2026-11-08 11:37:52;2026-11-08;11;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 140 minút= 2 hod, 20 min.;260
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 611 TATRANsmer Košice;Žilinaodišiel pred 2 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 4912smer Nové Zámky;Pribetaodišiel pred 5 min.;+ 53 minút;53
+2026-11-08 11:37:52;2026-11-08;11;Sunday;EC 130 BATHORYsmer Kúty št. hr. - Warszawa Grochów;Bratislava hlavná stanicaodišiel pred 5 min.;+ 45 minút;45
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 615 TATRANsmer Košice;Leopoldovodišiel teraz;+ 36 minút;36
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 3117smer Trenčín;Myjavapred 14 min.;+ 31 minút;31
+2026-11-08 11:37:52;2026-11-08;11;Sunday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Kúty št. hr.pred 8 min.;v cieli+ 30 minút;30
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 4313smer Dunajská Streda;Kvetoslavovteraz;+ 27 minút;27
+2026-11-08 11:37:52;2026-11-08;11;Sunday;R 10716 POVAŽANsmer Bratislava hlavná stanica;Púchovodišiel pred 3 min.;+ 26 minút;26
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 607 TATRANsmer Košice;Markušovceodišiel pred 6 min.;+ 26 minút;26
+2026-11-08 11:37:52;2026-11-08;11;Sunday;REx 1915smer Humenné;Krásna nad Hornádomprešiel stanicou pred 3 min.;+ 24 minút;24
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 3114smer Myjava;Nové Mesto nad Váhomodišiel teraz;+ 24 minút;24
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 8513smer Čierna nad Tisou;Košiceodišiel pred 5 min.;+ 24 minút;24
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 4312smer Bratislava-Nové Mesto;Podunajské Biskupicepred 9 min.;+ 21 minút;21
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Ex 617 TATRANsmer Košice;Bratislava hlavná stanicateraz;+ 21 minút;21
+2026-11-08 11:37:52;2026-11-08;11;Sunday;REx 1440smer Bratislava hlavná stanica;Nové Košariskáteraz;+ 19 minút;19
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 3113smer Trenčín;Trenčínprišiel pred 4 min.;v cieli+ 17 minút;17
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 5240smer Nové Zámky;Nové Zámkyprišiel pred 13 min.;v cieli+ 17 minút;17
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 4716smer Bratislava hlavná stanica;Palárikovoodišiel teraz;+ 15 minút;15
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 4915smer Štúrovo;Dvory nad Žitavouodišiel pred 3 min.;+ 15 minút;15
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 14280 NADsmer Brodské;Brodsképred 4 min.;+ 15 minút;15
+2026-11-08 11:37:52;2026-11-08;11;Sunday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo tranzitná skupinaprešiel stanicou teraz;+ 15 minút;15
+2026-11-08 11:37:52;2026-11-08;11;Sunday;Os 2414smer Skalica na Slovensku;Kútypred 10 min.;+ 15 minút;15
+2026-11-08 11:37:52;2026-11-08;11;Sunday;mešká do 5 minút;78;59.09 %;59
+2026-11-08 11:37:52;2026-11-08;11;Sunday;mešká 5-14 minút;29;21.97 %;21
+2026-11-08 11:37:52;2026-11-08;11;Sunday;mešká 15-29 minút;16;12.12 %;12
+2026-11-08 11:37:52;2026-11-08;11;Sunday;mešká 30-59 minút;5;3.79 %;3
+2026-11-08 11:37:52;2026-11-08;11;Sunday;mešká 60 a viac minút;4;3.03 %;3
