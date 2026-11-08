@@ -35409,3 +35409,36 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 13:17:52;2026-11-08;13;Sunday;mešká 15-29 minút;12;9.38 %;9
 2026-11-08 13:17:52;2026-11-08;13;Sunday;mešká 30-59 minút;4;3.13 %;3
 2026-11-08 13:17:52;2026-11-08;13;Sunday;mešká 60 a viac minút;1;0.78 %;0
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 610 TATRAN;Výh. Nivy;mešká 1 min.;1
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 621 TATRAN;Odb. Vinohrady;mešká 4 min.;4
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 618 TATRAN;Margecany;ide načas;0
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 614 TATRAN;Liptovský Hrádok;mešká 10 min.;10
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 611 TATRANsmer Košice;Poprad-Tatryprišiel teraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 3117smer Trenčín;Čachticeodišiel pred 4 min.;+ 42 minút;42
+2026-11-08 13:27:52;2026-11-08;13;Sunday;REx 7729smer Bratislava-Petržalka;Bratislava-Petržalkapred 8 min.;v cieli+ 35 minút;35
+2026-11-08 13:27:52;2026-11-08;13;Sunday;R 10717 POVAŽANsmer Žilina;Piešťanyprišiel pred 2 min.;+ 32 minút;32
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 615 TATRANsmer Košice;Vrútky nákladná stanicaprešiel stanicou pred 4 min.;+ 31 minút;31
+2026-11-08 13:27:52;2026-11-08;13;Sunday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Kútyodišiel teraz;+ 31 minút;31
+2026-11-08 13:27:52;2026-11-08;13;Sunday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 28 minút;28
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 7814smer Svit;Spišská Nová Vesodišiel pred 11 min.;+ 27 minút;27
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 617 TATRANsmer Košice;Púchovodišiel teraz;+ 26 minút;26
+2026-11-08 13:27:52;2026-11-08;13;Sunday;R 962 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisouteraz;+ 24 minút;24
+2026-11-08 13:27:52;2026-11-08;13;Sunday;R 10716 POVAŽANsmer Bratislava hlavná stanica;Bratislava-Račaprišiel teraz;+ 24 minút;24
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Ex 619 TATRANsmer Košice;Veľké Kostoľanyprešiel stanicou teraz;+ 23 minút;23
+2026-11-08 13:27:52;2026-11-08;13;Sunday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Nové Zámkyodišiel teraz;+ 22 minút;22
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 7819smer Košice;Markušovceodišiel pred 11 min.;+ 22 minút;22
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 2614smer Kúty;Kútyprišiel pred 9 min.;v cieli+ 21 minút;21
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 4316smer Bratislava-Nové Mesto;Podunajské Biskupiceteraz;+ 21 minút;21
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 4317smer Dunajská Streda;Nové Košariskápred 5 min.;+ 21 minút;21
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 2619smer Trnava;Kútyodišiel pred 4 min.;+ 18 minút;18
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 2417smer Kúty;Kútyteraz;+ 17 minút;17
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 4720smer Bratislava hlavná stanica;Nové Zámkyteraz;+ 16 minút;16
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 14282 NADsmer Brodské;Kútyteraz;+ 15 minút;15
+2026-11-08 13:27:52;2026-11-08;13;Sunday;Os 2418smer Skalica na Slovensku;Kútyteraz;+ 15 minút;15
+2026-11-08 13:27:52;2026-11-08;13;Sunday;EC 1216 LEO EXPRESSsmer Kúty št. hr. - Praha hl.n.;Bratislava hlavná stanicaodišiel pred 6 min.;+ 15 minút;15
+2026-11-08 13:27:52;2026-11-08;13;Sunday;mešká do 5 minút;77;62.10 %;62
+2026-11-08 13:27:52;2026-11-08;13;Sunday;mešká 5-14 minút;24;19.35 %;19
+2026-11-08 13:27:52;2026-11-08;13;Sunday;mešká 15-29 minút;17;13.71 %;13
+2026-11-08 13:27:52;2026-11-08;13;Sunday;mešká 30-59 minút;5;4.03 %;4
+2026-11-08 13:27:52;2026-11-08;13;Sunday;mešká 60 a viac minút;1;0.81 %;0
