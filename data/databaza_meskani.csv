@@ -35060,3 +35060,36 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-08 11:17:52;2026-11-08;11;Sunday;mešká 15-29 minút;13;9.70 %;9
 2026-11-08 11:17:52;2026-11-08;11;Sunday;mešká 30-59 minút;6;4.48 %;4
 2026-11-08 11:17:52;2026-11-08;11;Sunday;mešká 60 a viac minút;4;2.99 %;2
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Ex 610 TATRAN;Výh. Paludza;mešká 1 min.;1
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 26 min.;26
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 10 min.;10
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Ex 614 TATRAN;Margecany;ide načas;0
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-08 11:27:52;2026-11-08;11;Sunday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovoodišiel teraz;+ 238 minút= 3 hod, 58 min.;418
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 3109smer Trenčín;Trenčínteraz;+ 132 minút= 2 hod, 12 min.;252
+2026-11-08 11:27:52;2026-11-08;11;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 130 minút= 2 hod, 10 min.;250
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 4912smer Nové Zámky;Strekovodišiel teraz;+ 52 minút;52
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 7811smer Košice;Košicepred 6 min.;v cieli+ 50 minút;50
+2026-11-08 11:27:52;2026-11-08;11;Sunday;EC 130 BATHORYsmer Kúty št. hr. - Warszawa Grochów;Odb. Močiarprešiel stanicou pred 3 min.;+ 46 minút;46
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Ex 615 TATRANsmer Košice;Trnavaodišiel pred 3 min.;+ 34 minút;34
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 3117smer Trenčín;Myjavapred 4 min.;+ 31 minút;31
+2026-11-08 11:27:52;2026-11-08;11;Sunday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Kútyodišiel teraz;+ 30 minút;30
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 3114smer Myjava;Výh. Nivyprešiel stanicou pred 5 min.;+ 28 minút;28
+2026-11-08 11:27:52;2026-11-08;11;Sunday;REx 1915smer Humenné;Košiceteraz;+ 26 minút;26
+2026-11-08 11:27:52;2026-11-08;11;Sunday;R 10711 POVAŽANsmer Púchov;Púchovprišiel pred 8 min.;v cieli+ 26 minút;26
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Ex 607 TATRANsmer Košice;Markušovceteraz;+ 22 minút;22
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 8513smer Čierna nad Tisou;Košiceteraz;+ 20 minút;20
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 5240smer Nové Zámky;Nové Zámkyprišiel pred 3 min.;v cieli+ 17 minút;17
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 2680smer Kúty;Kútyprišiel pred 13 min.;v cieli+ 17 minút;17
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 3113smer Trenčín;Trenčín-Zlatovceprišiel teraz;+ 17 minút;17
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 4312smer Bratislava-Nové Mesto;Nové Košariskápred 10 min.;+ 16 minút;16
+2026-11-08 11:27:52;2026-11-08;11;Sunday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Tvrdošovceprešiel stanicou teraz;+ 16 minút;16
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 2615smer Trnava;Kútyodišiel pred 7 min.;+ 16 minút;16
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 14280 NADsmer Brodské;Kútyteraz;+ 15 minút;15
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 2414smer Skalica na Slovensku;Kútyteraz;+ 15 minút;15
+2026-11-08 11:27:52;2026-11-08;11;Sunday;Os 4716smer Bratislava hlavná stanica;Nové Zámkyodišiel teraz;+ 15 minút;15
+2026-11-08 11:27:52;2026-11-08;11;Sunday;mešká do 5 minút;80;60.61 %;60
+2026-11-08 11:27:52;2026-11-08;11;Sunday;mešká 5-14 minút;29;21.97 %;21
+2026-11-08 11:27:52;2026-11-08;11;Sunday;mešká 15-29 minút;14;10.61 %;10
+2026-11-08 11:27:52;2026-11-08;11;Sunday;mešká 30-59 minút;6;4.55 %;4
+2026-11-08 11:27:52;2026-11-08;11;Sunday;mešká 60 a viac minút;3;2.27 %;2
