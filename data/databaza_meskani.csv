@@ -38437,3 +38437,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-09 09:17:53;2026-11-09;9;Monday;mešká 15-29 minút;15;11.11 %;11
 2026-11-09 09:17:53;2026-11-09;9;Monday;mešká 30-59 minút;8;5.93 %;5
 2026-11-09 09:17:53;2026-11-09;9;Monday;mešká 60 a viac minút;2;1.48 %;1
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 610 TATRAN;Margecany;mešká 1 min.;1
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 621 TATRAN;Košice;v cieli meškal 27 min.;27
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 3207smer Púchov;Púchovteraz;+ 119 minút= 1 hod, 59 min.;179
+2026-11-09 09:27:53;2026-11-09;9;Monday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouteraz;+ 79 minút= 1 hod, 19 min.;139
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 606 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 4 min.;+ 65 minút= 1 hod, 5 min.;125
+2026-11-09 09:27:53;2026-11-09;9;Monday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Markušovceprešiel stanicou teraz;+ 46 minút;46
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Dolný Hričovprešiel stanicou pred 2 min.;+ 45 minút;45
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 8505smer Čierna nad Tisou;Dobráodišiel teraz;+ 44 minút;44
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 4348smer Bratislava hlavná stanica;Bratislava-Nové Mestoteraz;+ 39 minút;39
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 604 TATRANsmer Bratislava hlavná stanica;Kraľovanyprišiel teraz;+ 35 minút;35
+2026-11-09 09:27:53;2026-11-09;9;Monday;EC 1258 Leo Expresssmer Čadca št. hr. - Praha hl.n.;Čadcaodišiel pred 6 min.;+ 32 minút;32
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 8506smer Prešov;Prešovpred 14 min.;v cieli+ 31 minút;31
+2026-11-09 09:27:53;2026-11-09;9;Monday;R 912 GEMERANsmer Zvolen osobná stanica;Výh. Vinohradyprešiel stanicou teraz;+ 23 minút;23
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 2011smer Bratislava hlavná stanica;Zohorteraz;+ 22 minút;22
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 2606smer Kúty;Kútyprišiel pred 7 min.;v cieli+ 22 minút;22
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 2611smer Trnava;Kútyodišiel teraz;+ 21 minút;21
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 603 TATRANsmer Košice;Markušovceodišiel teraz;+ 21 minút;21
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 4308smer Bratislava-Nové Mesto;Podunajské Biskupiceteraz;+ 21 minút;21
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 4309smer Dunajská Streda;Nové Košariskápred 5 min.;+ 20 minút;20
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 3912smer Skalité;Liptovská Tepláodišiel pred 4 min.;+ 20 minút;20
+2026-11-09 09:27:53;2026-11-09;9;Monday;Ex 600 TATRANsmer Bratislava hlavná stanica;Trnavaodišiel teraz;+ 19 minút;19
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 3109smer Trenčín;Výh. Nivyprešiel stanicou pred 6 min.;+ 19 minút;19
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 7806smer Svit;Markušovceodišiel pred 6 min.;+ 18 minút;18
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 2008smer Kúty;Zohorodišiel pred 4 min.;+ 17 minút;17
+2026-11-09 09:27:53;2026-11-09;9;Monday;R 343 KYSUČANsmer Žilina;Čadcaodišiel pred 8 min.;+ 17 minút;17
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 2650smer Senica;Výh. Dúbravaprešiel stanicou teraz;+ 17 minút;17
+2026-11-09 09:27:53;2026-11-09;9;Monday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Palárikovoprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-11-09 09:27:53;2026-11-09;9;Monday;R 833 URPÍNsmer Banská Bystrica;Hulprešiel stanicou pred 5 min.;+ 16 minút;16
+2026-11-09 09:27:53;2026-11-09;9;Monday;R 10710 POVAŽANsmer Bratislava hlavná stanica;Veľké Kostoľanyprešiel stanicou teraz;+ 16 minút;16
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 3413smer Liptovský Mikuláš;Čadcaodišiel pred 5 min.;+ 15 minút;15
+2026-11-09 09:27:53;2026-11-09;9;Monday;Os 2652smer Senica;Trnavateraz;+ 15 minút;15
+2026-11-09 09:27:53;2026-11-09;9;Monday;mešká do 5 minút;71;51.82 %;51
+2026-11-09 09:27:53;2026-11-09;9;Monday;mešká 5-14 minút;37;27.01 %;27
+2026-11-09 09:27:53;2026-11-09;9;Monday;mešká 15-29 minút;19;13.87 %;13
+2026-11-09 09:27:53;2026-11-09;9;Monday;mešká 30-59 minút;7;5.11 %;5
+2026-11-09 09:27:53;2026-11-09;9;Monday;mešká 60 a viac minút;3;2.19 %;2
