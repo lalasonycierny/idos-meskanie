@@ -38842,3 +38842,39 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-09 11:07:52;2026-11-09;11;Monday;mešká 15-29 minút;14;9.79 %;9
 2026-11-09 11:07:52;2026-11-09;11;Monday;mešká 30-59 minút;9;6.29 %;6
 2026-11-09 11:07:52;2026-11-09;11;Monday;mešká 60 a viac minút;5;3.50 %;3
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 610 TATRAN;Liptovský Hrádok;mešká 2 min.;2
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 621 TATRAN;Košice;v cieli meškal 27 min.;27
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 614 TATRAN;Kysak;ide načas;0
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 3207smer Púchov;Púchovteraz;+ 229 minút= 3 hod, 49 min.;409
+2026-11-09 11:17:53;2026-11-09;11;Monday;REx 7720smer Bratislava-Petržalka št. - Wien Hauptbahnhof (in Wbf;Bratislava-Petržalkateraz;+ 121 minút= 2 hod, 1 min.;241
+2026-11-09 11:17:53;2026-11-09;11;Monday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouteraz;+ 115 minút= 1 hod, 55 min.;175
+2026-11-09 11:17:53;2026-11-09;11;Monday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Liptovská Tepláprešiel stanicou pred 7 min.;+ 64 minút= 1 hod, 4 min.;124
+2026-11-09 11:17:53;2026-11-09;11;Monday;R 912 GEMERANsmer Zvolen osobná stanica;Stožokteraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 606 TATRANsmer Bratislava hlavná stanica;Potok odb.prešiel stanicou teraz;+ 57 minút;57
+2026-11-09 11:17:53;2026-11-09;11;Monday;R 915 GEMERANsmer Košice;Lučenecprišiel pred 6 min.;+ 56 minút;56
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Pezinokodišiel teraz;+ 50 minút;50
+2026-11-09 11:17:53;2026-11-09;11;Monday;R 961smer Košice;Čierna nad Tisoupred 10 min.;+ 45 minút;45
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 4348smer Bratislava hlavná stanica;Bratislava-Nové Mestoteraz;+ 35 minút;35
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 3447smer Liptovský Hrádok;Liptovský Hrádokpred 3 min.;v cieli+ 34 minút;34
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 4311smer Dunajská Streda;Dunajská Stredapred 8 min.;v cieli+ 31 minút;31
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 604 TATRANsmer Bratislava hlavná stanica;Piešťanyprišiel teraz;+ 30 minút;30
+2026-11-09 11:17:53;2026-11-09;11;Monday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Veľké Leváreprešiel stanicou pred 4 min.;+ 28 minút;28
+2026-11-09 11:17:53;2026-11-09;11;Monday;REx 7721smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 3 min.;v cieli+ 26 minút;26
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 5312smer Chynorany;Rybanypred 4 min.;+ 25 minút;25
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 1041 REGIOJETsmer Bratislava hlavná stanica;Veľké Leváreprešiel stanicou pred 7 min.;+ 24 minút;24
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 3113smer Trenčín;Nové Mesto nad Váhomteraz;+ 24 minút;24
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 8509smer Čierna nad Tisou;Dobráodišiel pred 11 min.;+ 23 minút;23
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 7911smer Trstená;Nižnáodišiel pred 6 min.;+ 22 minút;22
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 2644smer Kúty;Šaštín-Strážeodišiel pred 7 min.;+ 21 minút;21
+2026-11-09 11:17:53;2026-11-09;11;Monday;R 836 URPÍNsmer Bratislava-Nové Mesto;Zvolen osobná stanicateraz;+ 21 minút;21
+2026-11-09 11:17:53;2026-11-09;11;Monday;EC 130 BATHORYsmer Kúty št. hr. - Warszawa Grochów;Bratislava-Lamačprešiel stanicou pred 3 min.;+ 20 minút;20
+2026-11-09 11:17:53;2026-11-09;11;Monday;Os 7815smer Košice;Vydrníkprišiel teraz;+ 19 minút;19
+2026-11-09 11:17:53;2026-11-09;11;Monday;REx 1912smer Košice;Košiceteraz;+ 18 minút;18
+2026-11-09 11:17:53;2026-11-09;11;Monday;Ex 609 TATRANsmer Košice;Kráľova Lehotaprešiel stanicou pred 8 min.;+ 15 minút;15
+2026-11-09 11:17:53;2026-11-09;11;Monday;mešká do 5 minút;81;58.27 %;58
+2026-11-09 11:17:53;2026-11-09;11;Monday;mešká 5-14 minút;32;23.02 %;23
+2026-11-09 11:17:53;2026-11-09;11;Monday;mešká 15-29 minút;13;9.35 %;9
+2026-11-09 11:17:53;2026-11-09;11;Monday;mešká 30-59 minút;8;5.76 %;5
+2026-11-09 11:17:53;2026-11-09;11;Monday;mešká 60 a viac minút;5;3.60 %;3
