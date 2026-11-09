@@ -1,35 +1,35 @@
 KOMPLETNÁ ŠTATISTIKA MEŠKANÍ VLAKOV
-Obdobie: 2026-10-23 08:57 – 2026-11-09 09:07
+Obdobie: 2026-10-23 08:57 – 2026-11-09 09:17
 
 === ZÁKLADNÉ ČÍSLA ===
-Meraní celkom: 38 403
-Snímok stránky: 1 592
+Meraní celkom: 38 438
+Snímok stránky: 1 593
 Dní s dátami: 13 z 18
 Unikátnych vlakov: 929
-Unikátnych staníc: 4390
-Priemerné meškanie: 87.58 min
+Unikátnych staníc: 4396
+Priemerné meškanie: 87.53 min
 Medián: 21.0 min
 P90: 137.0 min
-P95: 490.9 min
+P95: 490.0 min
 P99: 1357.0 min
 Maximum: 2579 min
 Podiel meškajúcich (>0): 94.4 %
 Meškanie nad 5 min: 84.3 %
 Meškanie nad 15 min: 68.0 %
-Meškanie nad 60 min: 15.41 %
-Smerodajná odchýlka: 253.67 min
+Meškanie nad 60 min: 15.40 %
+Smerodajná odchýlka: 253.56 min
 
 === ZISTENIA A TRENDY ===
 • Najhoršia hodina: 1:00 (priemer 252.82 min)
 • Najlepšia hodina: 13:00 (priemer 35.30 min)
 • Najhorší deň v týždni: Streda (127.37 min)
 • Najlepší deň v týždni: Nedeľa (65.83 min)
-• Víkend vs. pracovný deň: 79.76 vs. 91.03 min
+• Víkend vs. pracovný deň: 79.76 vs. 90.94 min
 • Najhorší deň: 2026-11-04 (154.16 min)
 • Najlepší deň: 2026-10-25 (56.87 min)
-• Lineárny trend: situácia sa zhoršuje o 67.09 min / 30 dní
-• Korelácia čas ↔ priemerné meškanie: +0.44
-• Posledných 7 dní: 104.71 min vs. predošlých 7 dní: 63.70 min (+64.4 %)
+• Lineárny trend: situácia sa zhoršuje o 66.16 min / 30 dní
+• Korelácia čas ↔ priemerné meškanie: +0.43
+• Posledných 7 dní: 104.59 min vs. predošlých 7 dní: 63.70 min (+64.2 %)
 • Korelácia hodina dňa ↔ meškanie: -0.06
 • Top 10 % staníc (439) tvorí 86.9 % všetkých minút meškania
 
@@ -39,7 +39,7 @@ Percentil  Minuty
       P50    21.0
       P75    37.0
       P90   137.0
-      P95   490.9
+      P95   490.0
       P99  1357.0
     P99.9  2212.0
 
@@ -47,11 +47,11 @@ Percentil  Minuty
            Zaznamov  Podiel_%
 Kategoria                    
 Včas (0)       2164      5.63
-1–5 min        3847     10.02
-6–15 min       6285     16.37
-16–30 min     14206     36.99
-31–60 min      5983     15.58
-60+ min        5918     15.41
+1–5 min        3853     10.02
+6–15 min       6291     16.37
+16–30 min     14218     36.99
+31–60 min      5992     15.59
+60+ min        5920     15.40
 
 === PODĽA HODINY ===
         Zaznamov  Priemer  Median     P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
@@ -65,7 +65,7 @@ Hodina
 6           1143    61.52    17.0    54.8  2561  282.18        88.45     76.64      58.09       9.45
 7           1453    46.44    19.0    52.6  2579  212.06        92.84     82.31      66.07       8.88
 8           1334    37.76    20.0    51.7  2281  150.88        92.65     83.51      67.39       8.47
-9           1802    37.27    21.0    53.0  2400  138.39        94.51     84.74      69.64       7.60
+9           1837    37.12    21.0    53.0  2400  137.14        94.61     84.70      69.57       7.57
 10          2011    45.15    21.0   123.0  2520  143.34        95.72     88.36      73.40      12.68
 11          1910    40.83    20.0    57.0  2542  121.04        94.87     85.92      68.64       8.85
 12          1776    38.14    20.0    58.0   853   79.39        94.65     85.42      70.16       9.40
@@ -84,7 +84,7 @@ Hodina
 === PODĽA DŇA V TÝŽDNI ===
           Zaznamov  Priemer  Median    P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Den                                                                                                  
-Pondelok      4304    68.25    22.0   90.0  1374  203.23        95.66     82.30      68.98      12.92
+Pondelok      4339    67.94    22.0   89.2  1374  202.46        95.69     82.30      68.96      12.86
 Utorok        7708    95.40    22.0  242.0  1822  235.08        98.31     89.04      75.70      17.88
 Streda        4679   127.37    19.0  126.2  2579  390.87        92.01     80.96      63.84      14.08
 Štvrtok       3542    72.45    21.0  136.0  1379  195.15        90.74     84.08      68.15      15.47
@@ -96,7 +96,7 @@ Nedeľa        6456    65.83    20.0  122.0  1491  175.88        94.24     83.53
                                Zaznamov  Priemer  Median     P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Cast_dna                                                                                                                   
 Noc (0–5)                          5860   195.60    19.0  1087.0  2441  448.20        88.99     79.32      57.03      21.33
-Ranná špička (6–9)                 5732    44.54    19.0    53.0  2579  196.62        92.45     82.22      65.91       8.50
+Ranná špička (6–9)                 5767    44.45    19.0    53.0  2579  196.04        92.49     82.23      65.91       8.48
 Dopoludnie/popoludnie (10–15)     11285    40.75    20.0    64.0  2542  107.57        94.84     84.94      69.69      10.58
 Popoludňajšia špička (16–19)       7858    68.75    21.0   154.0  1691  163.95        96.04     84.36      71.05      16.70
 Večer (20–23)                      7668   125.43    24.0   397.0  2172  282.83        97.48     88.89      72.25      21.84
@@ -104,16 +104,16 @@ Večer (20–23)                      7668   125.43    24.0   397.0  2172  282.8
 === PODĽA TYPU VLAKU ===
            Zaznamov  Priemer  Median     P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Typ_vlaku                                                                                              
-EC             2941   488.45   377.0  1223.0  1491  457.79       100.00    100.00      97.96      67.43
-REX            1445   174.40    27.0   389.4  2579  440.32       100.00    100.00      92.73      23.11
-OS             8847   108.15    23.0   142.0  2542  324.43       100.00    100.00      90.08      13.52
-RJ             1231    60.99    29.0   128.0  1253  133.80       100.00    100.00      95.86      13.32
-R              3168    56.53    29.0   138.0   873   80.31       100.00    100.00      93.88      16.22
-RA             1041    54.46    30.0   157.0   259   60.42       100.00    100.00      95.10      17.10
+EC             2942   488.30   377.0  1223.0  1491  457.79       100.00    100.00      97.96      67.40
+REX            1446   174.29    26.5   389.0  2579  440.19       100.00    100.00      92.67      23.10
+OS             8858   108.06    23.0   142.0  2542  324.24       100.00    100.00      90.07      13.51
+RJ             1234    61.00    29.0   128.0  1253  133.66       100.00    100.00      95.79      13.37
+R              3172    56.48    29.0   138.0   873   80.27       100.00    100.00      93.88      16.20
+RA             1042    54.43    30.0   157.0   259   60.40       100.00    100.00      95.01      17.08
 EN              348    54.01    24.0   132.3   418   75.35       100.00    100.00      93.10      17.82
 SC              250    50.67    24.0   241.1   257   71.53       100.00    100.00      93.20      11.60
-EX            11225    19.70    15.0    37.0   419   27.22        89.84     76.13      47.84       2.82
-MEŠKÁ          7905    19.56     8.0    66.0   100   24.71        87.05     57.85      35.98      14.43
+EX            11234    19.70    15.0    37.0   419   27.21        89.85     76.12      47.85       2.82
+MEŠKÁ          7910    19.56     8.0    66.0   100   24.71        87.05     57.85      35.98      14.42
 
 === TOP 25 NAJHORŠÍCH STANÍC ===
                                  Zaznamov  Priemer  Median     P90   Max      Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
@@ -158,7 +158,7 @@ EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti                         68
 EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti                         644   687.95   645.5  1326.1  1491  424.12        100.0     100.0      99.84      92.55
 Os 10035smer Trenčianska Teplá                                            23   389.83   394.0   402.0   405   11.75        100.0     100.0     100.00     100.00
 REx 2508smer Bratislava hlavná stanica                                    34   308.53   287.0   581.0   632  198.34        100.0     100.0     100.00      82.35
-Os 3207smer Púchov                                                        53   243.02   255.0   467.8   533  157.65        100.0     100.0     100.00      79.25
+Os 3207smer Púchov                                                        54   241.65   252.0   461.7   533  156.48        100.0     100.0     100.00      79.63
 R 964smer Čierna nad Tisou št. hr.                                        65   227.32    47.0   747.4   873  268.90        100.0     100.0      93.85      47.69
 REx 1949smer Košice                                                       32   225.53   212.0   480.0   517  170.58        100.0     100.0      96.88      68.75
 REx 1928smer Košice                                                       22   224.73   248.0   391.1   393  127.33        100.0     100.0     100.00      81.82
