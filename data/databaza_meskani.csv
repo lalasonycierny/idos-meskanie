@@ -40172,3 +40172,43 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-09 17:27:51;2026-11-09;17;Monday;mešká 15-29 minút;21;12.57 %;12
 2026-11-09 17:27:51;2026-11-09;17;Monday;mešká 30-59 minút;9;5.39 %;5
 2026-11-09 17:27:51;2026-11-09;17;Monday;mešká 60 a viac minút;6;3.59 %;3
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 621 TATRAN;Ľubochňa;mešká 83 min.;83
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 618 TATRAN;Nové Mesto nad Váhom;mešká 4 min.;4
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 620 TATRAN;Žilina predmestie;mešká 1 min.;1
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 5315smer Trenčín;Trenčínteraz;+ 323 minút= 5 hod, 23 min.;623
+2026-11-09 17:37:52;2026-11-09;17;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 237 minút= 3 hod, 57 min.;417
+2026-11-09 17:37:52;2026-11-09;17;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 117 minút= 1 hod, 57 min.;177
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 621 TATRANsmer Košice;Ľubochňaprešiel stanicou pred 6 min.;+ 83 minút= 1 hod, 23 min.;143
+2026-11-09 17:37:52;2026-11-09;17;Monday;EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati;Malackyprešiel stanicou teraz;+ 75 minút= 1 hod, 15 min.;135
+2026-11-09 17:37:52;2026-11-09;17;Monday;RJ 1003 REGIOJETsmer Košice;Malá Lodinaprešiel stanicou pred 6 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 4323smer Dunajská Streda;Dunajská Stredapred 4 min.;v cieli+ 55 minút;55
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 7923smer Trstená;Nižnáteraz;+ 50 minút;50
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 3125smer Trenčín;Nové Mesto nad Váhomteraz;+ 48 minút;48
+2026-11-09 17:37:52;2026-11-09;17;Monday;Zr 11445smer Komárno;Lehniceprešiel stanicou pred 2 min.;+ 40 minút;40
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 4325smer Dunajská Streda;Nové Košariskáteraz;+ 37 minút;37
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 623 TATRANsmer Košice;Turanyprešiel stanicou pred 3 min.;+ 37 minút;37
+2026-11-09 17:37:52;2026-11-09;17;Monday;R 921 GEMERANsmer Košice;Jesenskéodišiel pred 3 min.;+ 37 minút;37
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 4376smer Dunajská Streda;Zemianska Olčaodišiel pred 2 min.;+ 35 minút;35
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 4379smer Komárno;Zemianska Olčaodišiel pred 2 min.;+ 34 minút;34
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 2624smer Kúty;Výh. Dúbravaprešiel stanicou teraz;+ 27 minút;27
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 7827smer Košice;Spišská Nová Vesteraz;+ 27 minút;27
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 7927smer Trstená;Kraľovanyteraz;+ 25 minút;25
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 8526smer Prešov;Slanecteraz;+ 25 minút;25
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 8524smer Prešov;Kostoľany nad Hornádomodišiel pred 5 min.;+ 24 minút;24
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 2625smer Trnava;Šelpiceodišiel teraz;+ 22 minút;22
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 2627smer Trnava;Šaštín-Strážeodišiel pred 2 min.;+ 20 minút;20
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 619 TATRANsmer Košice;Spišské Vlachyprešiel stanicou pred 2 min.;+ 20 minút;20
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 6326 6326smer Lučenec;Výh. Lúkaprešiel stanicou teraz;+ 18 minút;18
+2026-11-09 17:37:52;2026-11-09;17;Monday;REx 1981smer Čierna nad Tisou;Michaľanyodišiel pred 5 min.;+ 17 minút;17
+2026-11-09 17:37:52;2026-11-09;17;Monday;Zr 11448smer Bratislava hlavná stanica;Kvetoslavovodišiel pred 8 min.;+ 16 minút;16
+2026-11-09 17:37:52;2026-11-09;17;Monday;Os 8525smer Čierna nad Tisou;Krásna nad Hornádomodišiel pred 3 min.;+ 16 minút;16
+2026-11-09 17:37:52;2026-11-09;17;Monday;Ex 624 TATRANsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou pred 7 min.;+ 15 minút;15
+2026-11-09 17:37:52;2026-11-09;17;Monday;REx 1452smer Bratislava hlavná stanica;Komárnopred 14 min.;+ 15 minút;15
+2026-11-09 17:37:52;2026-11-09;17;Monday;REx 1927smer Humenné;Ruskovteraz;+ 15 minút;15
+2026-11-09 17:37:52;2026-11-09;17;Monday;mešká do 5 minút;103;60.95 %;60
+2026-11-09 17:37:52;2026-11-09;17;Monday;mešká 5-14 minút;36;21.30 %;21
+2026-11-09 17:37:52;2026-11-09;17;Monday;mešká 15-29 minút;15;8.88 %;8
+2026-11-09 17:37:52;2026-11-09;17;Monday;mešká 30-59 minút;9;5.33 %;5
+2026-11-09 17:37:52;2026-11-09;17;Monday;mešká 60 a viac minút;6;3.55 %;3
