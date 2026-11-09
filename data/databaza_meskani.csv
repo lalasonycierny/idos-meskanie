@@ -37455,3 +37455,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-09 01:57:52;2026-11-09;1;Monday;mešká 15-29 minút;1;16.67 %;16
 2026-11-09 01:57:52;2026-11-09;1;Monday;mešká 30-59 minút;1;16.67 %;16
 2026-11-09 01:57:52;2026-11-09;1;Monday;mešká 60 a viac minút;3;50.00 %;50
+2026-11-09 02:07:52;2026-11-09;2;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-09 02:07:52;2026-11-09;2;Monday;Ex 621 TATRAN;Košice;v cieli meškal 27 min.;27
+2026-11-09 02:07:52;2026-11-09;2;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-09 02:07:52;2026-11-09;2;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-09 02:07:52;2026-11-09;2;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-09 02:07:52;2026-11-09;2;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 627 minút= 10 hod, 27 min.;1227
+2026-11-09 02:07:52;2026-11-09;2;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-09 02:07:52;2026-11-09;2;Monday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Vrútkyodišiel teraz;+ 100 minút= 1 hod, 40 min.;160
+2026-11-09 02:07:52;2026-11-09;2;Monday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Vrútky nákladná stanicateraz;+ 66 minút= 1 hod, 6 min.;126
+2026-11-09 02:07:52;2026-11-09;2;Monday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou teraz;+ 26 minút;26
+2026-11-09 02:07:52;2026-11-09;2;Monday;R 681 ZEMPLÍNsmer Humenné;Vrútkyteraz;+ 15 minút;15
+2026-11-09 02:07:52;2026-11-09;2;Monday;mešká do 5 minút;1;12.50 %;12
+2026-11-09 02:07:52;2026-11-09;2;Monday;mešká 5-14 minút;1;12.50 %;12
+2026-11-09 02:07:52;2026-11-09;2;Monday;mešká 15-29 minút;2;25.00 %;25
+2026-11-09 02:07:52;2026-11-09;2;Monday;mešká 30-59 minút;0;0.00 %;0
+2026-11-09 02:07:52;2026-11-09;2;Monday;mešká 60 a viac minút;4;50.00 %;50
