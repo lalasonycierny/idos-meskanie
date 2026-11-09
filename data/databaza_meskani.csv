@@ -38917,3 +38917,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-09 11:27:52;2026-11-09;11;Monday;mešká 15-29 minút;17;12.32 %;12
 2026-11-09 11:27:52;2026-11-09;11;Monday;mešká 30-59 minút;8;5.80 %;5
 2026-11-09 11:27:52;2026-11-09;11;Monday;mešká 60 a viac minút;4;2.90 %;2
+2026-11-09 11:37:52;2026-11-09;11;Monday;Ex 610 TATRAN;Liptovská Teplá;mešká 5 min.;5
+2026-11-09 11:37:52;2026-11-09;11;Monday;Ex 621 TATRAN;Košice;v cieli meškal 27 min.;27
+2026-11-09 11:37:52;2026-11-09;11;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-09 11:37:52;2026-11-09;11;Monday;Ex 614 TATRAN;Krompachy;ide načas;0
+2026-11-09 11:37:52;2026-11-09;11;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 5 min.;5
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 3207smer Púchov;Púchovteraz;+ 249 minút= 4 hod, 9 min.;489
+2026-11-09 11:37:52;2026-11-09;11;Monday;REx 7720smer Bratislava-Petržalka št. - Wien Hauptbahnhof (in Wbf;Bratislava-Petržalkateraz;+ 141 minút= 2 hod, 21 min.;261
+2026-11-09 11:37:52;2026-11-09;11;Monday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisou št. hr.teraz;v cieli+ 127 minút= 2 hod, 7 min.;247
+2026-11-09 11:37:52;2026-11-09;11;Monday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Turanyprešiel stanicou teraz;+ 64 minút= 1 hod, 4 min.;124
+2026-11-09 11:37:52;2026-11-09;11;Monday;R 915 GEMERANsmer Košice;Výh. Urbánkaprešiel stanicou pred 7 min.;+ 56 minút;56
+2026-11-09 11:37:52;2026-11-09;11;Monday;Ex 606 TATRANsmer Bratislava hlavná stanica;Bytčaprešiel stanicou pred 2 min.;+ 53 minút;53
+2026-11-09 11:37:52;2026-11-09;11;Monday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;+ 53 minút;53
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 5312smer Chynorany;Chynoranyteraz;+ 43 minút;43
+2026-11-09 11:37:52;2026-11-09;11;Monday;REx 2512smer Bratislava hlavná stanica;Devínska Nová Vesodišiel pred 2 min.;+ 38 minút;38
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 4348smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 14 min.;+ 35 minút;35
+2026-11-09 11:37:52;2026-11-09;11;Monday;Ex 604 TATRANsmer Bratislava hlavná stanica;Trnavaodišiel teraz;+ 31 minút;31
+2026-11-09 11:37:52;2026-11-09;11;Monday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Kúty št. hr.prišiel pred 11 min.;v cieli+ 27 minút;27
+2026-11-09 11:37:52;2026-11-09;11;Monday;R 836 URPÍNsmer Bratislava-Nové Mesto;Hronská Dúbravaprešiel stanicou pred 7 min.;+ 23 minút;23
+2026-11-09 11:37:52;2026-11-09;11;Monday;REx 1912smer Košice;Košiceprišiel pred 14 min.;v cieli+ 23 minút;23
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 4313smer Dunajská Streda;Kvetoslavovodišiel teraz;+ 23 minút;23
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 3113smer Trenčín;Trenčín-Zlatovceodišiel teraz;+ 22 minút;22
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 8509smer Čierna nad Tisou;Čierna nad Tisouprišiel pred 14 min.;v cieli+ 22 minút;22
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 2015smer Bratislava hlavná stanica;Zohorteraz;+ 22 minút;22
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 7815smer Košice;Spišská Nová Vesodišiel pred 4 min.;+ 21 minút;21
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 2615smer Trnava;Šaštín-Strážeodišiel pred 2 min.;+ 20 minút;20
+2026-11-09 11:37:52;2026-11-09;11;Monday;REx 1440smer Bratislava hlavná stanica;Nové Košariskáteraz;+ 19 minút;19
+2026-11-09 11:37:52;2026-11-09;11;Monday;SC 241 PENDOLINO KOŠIČANsmer Košice;Ľubochňaprešiel stanicou teraz;+ 18 minút;18
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 4312smer Bratislava-Nové Mesto;Podunajské Biskupiceteraz;+ 18 minút;18
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 7911smer Trstená;Trstenáprišiel pred 8 min.;v cieli+ 17 minút;17
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 7915smer Trstená;Kraľovanyodišiel pred 2 min.;+ 17 minút;17
+2026-11-09 11:37:52;2026-11-09;11;Monday;EC 130 BATHORYsmer Kúty št. hr. - Warszawa Grochów;Zohorprešiel stanicou pred 6 min.;+ 17 minút;17
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 2414smer Skalica na Slovensku;Kútypred 12 min.;+ 15 minút;15
+2026-11-09 11:37:52;2026-11-09;11;Monday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo tranzitná skupinaprešiel stanicou teraz;+ 15 minút;15
+2026-11-09 11:37:52;2026-11-09;11;Monday;Os 3449smer Liptovský Hrádok;Turanyodišiel pred 3 min.;+ 15 minút;15
+2026-11-09 11:37:52;2026-11-09;11;Monday;mešká do 5 minút;74;54.41 %;54
+2026-11-09 11:37:52;2026-11-09;11;Monday;mešká 5-14 minút;33;24.26 %;24
+2026-11-09 11:37:52;2026-11-09;11;Monday;mešká 15-29 minút;18;13.24 %;13
+2026-11-09 11:37:52;2026-11-09;11;Monday;mešká 30-59 minút;7;5.15 %;5
+2026-11-09 11:37:52;2026-11-09;11;Monday;mešká 60 a viac minút;4;2.94 %;2
