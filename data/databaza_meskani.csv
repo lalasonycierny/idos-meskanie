@@ -42764,3 +42764,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-10 09:47:53;2026-11-10;9;Tuesday;mešká 15-29 minút;14;10.85 %;10
 2026-11-10 09:47:53;2026-11-10;9;Tuesday;mešká 30-59 minút;10;7.75 %;7
 2026-11-10 09:47:53;2026-11-10;9;Tuesday;mešká 60 a viac minút;5;3.88 %;3
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 610 TATRAN;Krompachy;mešká 18 min.;18
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 69 min.;69
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 7923smer Trstená;Nižnáteraz;+ 1030 minút= 17 hod, 10 min.;2050
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;EN 443 SLOVAKIAsmer Humenné;Krompachyteraz;+ 146 minút= 2 hod, 26 min.;266
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 7807smer Košice;Krompachyteraz;+ 133 minút= 2 hod, 13 min.;253
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 7806smer Svit;Spišské Vlachyteraz;+ 74 minút= 1 hod, 14 min.;134
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 643 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou teraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 7809smer Košice;Výh. Ružínprešiel stanicou teraz;+ 54 minút;54
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;REx 2508smer Bratislava hlavná stanica;Devínska Nová Vesodišiel pred 6 min.;+ 52 minút;52
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;R 10709 POVAŽANsmer Žilina;Nové Mesto nad Váhomteraz;+ 48 minút;48
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;REx 2509smer Devínska Nová Ves št. hr. - Wien Hauptbahnhof (in Wbf;Devínska Nová Ves št. hr.pred 4 min.;v cieli+ 47 minút;47
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 7808smer Spišské Vlachy;Krompachyteraz;+ 41 minút;41
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;R 961smer Košice;Čierna nad Tisouteraz;+ 40 minút;40
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 603 TATRANsmer Košice;Spišské Vlachyteraz;+ 37 minút;37
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 608 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou teraz;+ 36 minút;36
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Pezinokodišiel teraz;+ 34 minút;34
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 613 TATRANsmer Košice;Bratislava hlavná stanicaodišiel pred 7 min.;+ 33 minút;33
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 2011smer Bratislava hlavná stanica;Devínska Nová Vesodišiel teraz;+ 33 minút;33
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 4308smer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;v cieli+ 30 minút;30
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 3109smer Trenčín;Trenčínprišiel pred 14 min.;v cieli+ 27 minút;27
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;R 915 GEMERANsmer Košice;Zvolen nákladná stanicateraz;+ 25 minút;25
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;R 914 GEMERANsmer Zvolen osobná stanica;Veľká Idaprišiel teraz;+ 24 minút;24
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 2611smer Trnava;Senicaodišiel pred 3 min.;+ 21 minút;21
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;ra 271 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovoodišiel pred 8 min.;+ 21 minút;21
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 4309smer Dunajská Streda;Orechová Potôňodišiel pred 7 min.;+ 19 minút;19
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Krompachyodišiel pred 7 min.;+ 18 minút;18
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 7811smer Košice;Spišské Vlachyteraz;+ 18 minút;18
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;R 10712 POVAŽANsmer Bratislava hlavná stanica;Trenčín-Zlatovceodišiel teraz;+ 18 minút;18
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 5911smer Levice;Štúrovopred 12 min.;+ 16 minút;16
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 4811smer Komárno;Komárnoprišiel pred 14 min.;v cieli+ 15 minút;15
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;Os 8509smer Čierna nad Tisou;Slanecodišiel teraz;+ 15 minút;15
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;mešká do 5 minút;61;46.56 %;46
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;mešká 5-14 minút;41;31.30 %;31
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;mešká 15-29 minút;12;9.16 %;9
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;mešká 30-59 minút;12;9.16 %;9
+2026-11-10 09:57:55;2026-11-10;9;Tuesday;mešká 60 a viac minút;5;3.82 %;3
