@@ -42122,3 +42122,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-10 05:47:54;2026-11-10;5;Tuesday;mešká 15-29 minút;2;1.33 %;1
 2026-11-10 05:47:54;2026-11-10;5;Tuesday;mešká 30-59 minút;1;0.67 %;0
 2026-11-10 05:47:54;2026-11-10;5;Tuesday;mešká 60 a viac minút;4;2.67 %;2
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 69 min.;69
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Os 7923smer Trstená;Nižnáteraz;+ 790 minút= 13 hod, 10 min.;1570
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Dolný Hričovprešiel stanicou pred 2 min.;+ 161 minút= 2 hod, 41 min.;281
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;RJ 1021 REGIOJETsmer Košice;Vydrníkprešiel stanicou pred 7 min.;+ 65 minút= 1 hod, 5 min.;125
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Štrbateraz;+ 34 minút;34
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 6 min.;+ 34 minút;34
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;REx 1761smer Košice;Margecanyteraz;+ 32 minút;32
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Os 8501smer Čierna nad Tisou;Ruskovodišiel pred 6 min.;+ 16 minút;16
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;Os 8502smer Prešov;Krásna nad Hornádomteraz;+ 16 minút;16
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;mešká do 5 minút;128;80.00 %;80
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;mešká 5-14 minút;24;15.00 %;15
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;mešká 15-29 minút;2;1.25 %;1
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;mešká 30-59 minút;3;1.88 %;1
+2026-11-10 05:57:52;2026-11-10;5;Tuesday;mešká 60 a viac minút;3;1.88 %;1
