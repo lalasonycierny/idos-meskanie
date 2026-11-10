@@ -41995,3 +41995,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-10 04:37:52;2026-11-10;4;Tuesday;mešká 15-29 minút;2;2.11 %;2
 2026-11-10 04:37:52;2026-11-10;4;Tuesday;mešká 30-59 minút;1;1.05 %;1
 2026-11-10 04:37:52;2026-11-10;4;Tuesday;mešká 60 a viac minút;4;4.21 %;4
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 69 min.;69
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;Os 7923smer Trstená;Nižnáteraz;+ 720 minút= 12 hod, 0 min.;1440
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 667 minút= 11 hod, 7 min.;1327
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;Os 3249smer Púchov;Púchovteraz;+ 319 minút= 5 hod, 19 min.;619
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Vrútkyteraz;+ 130 minút= 2 hod, 10 min.;250
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;RJ 1021 REGIOJETsmer Košice;Kráľova Lehotaodišiel pred 2 min.;+ 43 minút;43
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;R 681 ZEMPLÍNsmer Humenné;Výh. Ružínprešiel stanicou teraz;+ 23 minút;23
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;REx 7799smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel teraz;v cieli+ 19 minút;19
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;mešká do 5 minút;98;88.29 %;88
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;mešká 5-14 minút;6;5.41 %;5
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;mešká 15-29 minút;2;1.80 %;1
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;mešká 30-59 minút;1;0.90 %;0
+2026-11-10 04:47:53;2026-11-10;4;Tuesday;mešká 60 a viac minút;4;3.60 %;3
