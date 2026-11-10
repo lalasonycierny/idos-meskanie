@@ -42725,3 +42725,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-10 09:37:52;2026-11-10;9;Tuesday;mešká 15-29 minút;15;11.36 %;11
 2026-11-10 09:37:52;2026-11-10;9;Tuesday;mešká 30-59 minút;8;6.06 %;6
 2026-11-10 09:37:52;2026-11-10;9;Tuesday;mešká 60 a viac minút;5;3.79 %;3
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 610 TATRAN;Krompachy;mešká 16 min.;16
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 69 min.;69
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 7923smer Trstená;Nižnáteraz;+ 1020 minút= 17 hod, 0 min.;2040
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;EN 443 SLOVAKIAsmer Humenné;Krompachyteraz;+ 136 minút= 2 hod, 16 min.;256
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 7807smer Košice;Krompachyteraz;+ 123 minút= 2 hod, 3 min.;243
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 7806smer Svit;Krompachyodišiel pred 4 min.;+ 64 minút= 1 hod, 4 min.;124
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 643 TATRANsmer Košice;Malá Lodinaprešiel stanicou pred 3 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;R 10709 POVAŽANsmer Žilina;Piešťanyodišiel pred 2 min.;+ 52 minút;52
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 7809smer Košice;Krompachyodišiel pred 12 min.;+ 51 minút;51
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;REx 2508smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 49 minút;49
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;REx 2509smer Devínska Nová Ves št. hr. - Wien Hauptbahnhof (in Wbf;Devínska Nová Vesteraz;+ 44 minút;44
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih;Kúty št. hr.pred 8 min.;v cieli+ 40 minút;40
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 608 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel pred 5 min.;+ 37 minút;37
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Cíferprišiel teraz;+ 34 minút;34
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 613 TATRANsmer Košice;Bratislava hlavná stanicateraz;+ 31 minút;31
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 7808smer Spišské Vlachy;Krompachyteraz;+ 31 minút;31
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;R 961smer Košice;Čierna nad Tisouteraz;+ 30 minút;30
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 603 TATRANsmer Košice;Spišské Vlachyteraz;+ 27 minút;27
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 3109smer Trenčín;Trenčínprišiel pred 4 min.;v cieli+ 27 minút;27
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 4308smer Bratislava hlavná stanica;Bratislava-Nové Mestoodišiel teraz;+ 25 minút;25
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 2011smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 24 minút;24
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;ra 271 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovoteraz;+ 22 minút;22
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 4309smer Dunajská Streda;Lehniceodišiel pred 3 min.;+ 21 minút;21
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 2611smer Trnava;Šajdíkove Humenceodišiel pred 2 min.;+ 20 minút;20
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;R 10712 POVAŽANsmer Bratislava hlavná stanica;Trenčianska Tepláprišiel teraz;+ 18 minút;18
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;R 914 GEMERANsmer Zvolen osobná stanica;Barcaprešiel stanicou teraz;+ 18 minút;18
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Krompachyteraz;+ 16 minút;16
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 5911smer Levice;Štúrovopred 2 min.;+ 16 minút;16
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 8509smer Čierna nad Tisou;Nižná Myšľaodišiel pred 7 min.;+ 16 minút;16
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;R 915 GEMERANsmer Košice;Zvolen nákladná stanicateraz;+ 15 minút;15
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;Os 4811smer Komárno;Komárnoprišiel pred 4 min.;v cieli+ 15 minút;15
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;mešká do 5 minút;61;47.29 %;47
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;mešká 5-14 minút;39;30.23 %;30
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;mešká 15-29 minút;14;10.85 %;10
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;mešká 30-59 minút;10;7.75 %;7
+2026-11-10 09:47:53;2026-11-10;9;Tuesday;mešká 60 a viac minút;5;3.88 %;3
