@@ -42105,3 +42105,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-10 05:37:52;2026-11-10;5;Tuesday;mešká 15-29 minút;2;1.29 %;1
 2026-11-10 05:37:52;2026-11-10;5;Tuesday;mešká 30-59 minút;2;1.29 %;1
 2026-11-10 05:37:52;2026-11-10;5;Tuesday;mešká 60 a viac minút;4;2.58 %;2
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 69 min.;69
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;Os 7923smer Trstená;Nižnáteraz;+ 780 minút= 13 hod, 0 min.;1560
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 13 min.;+ 714 minút= 11 hod, 54 min.;1374
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Žilinaodišiel teraz;+ 162 minút= 2 hod, 42 min.;282
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;RJ 1021 REGIOJETsmer Košice;Výh. Gánovceprešiel stanicou pred 4 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou teraz;+ 34 minút;34
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;REx 1761smer Košice;Krompachyodišiel pred 2 min.;+ 27 minút;27
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Výh. Lučivnáprešiel stanicou pred 2 min.;+ 26 minút;26
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;mešká do 5 minút;125;83.33 %;83
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;mešká 5-14 minút;18;12.00 %;12
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;mešká 15-29 minút;2;1.33 %;1
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;mešká 30-59 minút;1;0.67 %;0
+2026-11-10 05:47:54;2026-11-10;5;Tuesday;mešká 60 a viac minút;4;2.67 %;2
