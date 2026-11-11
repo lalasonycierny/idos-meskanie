@@ -46958,3 +46958,31 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-11 06:47:54;2026-11-11;6;Wednesday;mešká 15-29 minút;5;2.91 %;2
 2026-11-11 06:47:54;2026-11-11;6;Wednesday;mešká 30-59 minút;2;1.16 %;1
 2026-11-11 06:47:54;2026-11-11;6;Wednesday;mešká 60 a viac minút;8;4.65 %;4
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 67 min.;67
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 36 min.;36
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 49 min.;49
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 30 min.;30
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Os 7807smer Košice;Svitteraz;+ 97 minút= 1 hod, 37 min.;157
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 607 TATRANsmer Košice;Šenkviceodišiel pred 3 min.;+ 78 minút= 1 hod, 18 min.;138
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 603 TATRANsmer Košice;Vrútky nákladná stanicaprešiel stanicou teraz;+ 64 minút= 1 hod, 4 min.;124
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 606 TATRANsmer Bratislava hlavná stanica;Košiceodišiel pred 2 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 505 KRIVÁŇsmer Košice;Púchovprešiel stanicou teraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 643 TATRANsmer Košice;Kráľova Lehotaprešiel stanicou teraz;+ 60 minút= 1 hod, 0 min.;120
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;REx 1763smer Košice;Kostoľany nad Hornádomprešiel stanicou pred 2 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 641 TATRANsmer Košice;Spišská Nová Vesprišiel pred 7 min.;+ 58 minút;58
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou pred 7 min.;+ 40 minút;40
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Vrútky nákladná stanicaprešiel stanicou pred 2 min.;+ 22 minút;22
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Os 8502smer Prešov;Drienovská Nová Vesodišiel pred 7 min.;+ 21 minút;21
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Os 3107smer Trenčín;Myjavapred 6 min.;+ 19 minút;19
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Os 7803smer Košice;Košiceprišiel pred 5 min.;v cieli+ 18 minút;18
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Os 3104smer Myjava;Stará Turáodišiel pred 2 min.;+ 18 minút;18
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Os 3105smer Trenčín;Vaďovceodišiel pred 8 min.;+ 18 minút;18
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Os 8501smer Čierna nad Tisou;Pribeníkprišiel teraz;+ 18 minút;18
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;Os 7842smer Liptovský Mikuláš;Poprad-Tatryodišiel pred 3 min.;+ 16 minút;16
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;EN 443 SLOVAKIAsmer Humenné;Poprad-Tatryodišiel pred 6 min.;+ 15 minút;15
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;mešká do 5 minút;122;68.54 %;68
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;mešká 5-14 minút;38;21.35 %;21
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;mešká 15-29 minút;9;5.06 %;5
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;mešká 30-59 minút;2;1.12 %;1
+2026-11-11 06:57:54;2026-11-11;6;Wednesday;mešká 60 a viac minút;7;3.93 %;3
