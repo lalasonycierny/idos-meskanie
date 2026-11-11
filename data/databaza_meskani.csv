@@ -46878,3 +46878,32 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-11 06:17:58;2026-11-11;6;Wednesday;mešká 15-29 minút;4;2.31 %;2
 2026-11-11 06:17:58;2026-11-11;6;Wednesday;mešká 30-59 minút;3;1.73 %;1
 2026-11-11 06:17:58;2026-11-11;6;Wednesday;mešká 60 a viac minút;9;5.20 %;5
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 67 min.;67
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 36 min.;36
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 49 min.;49
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 30 min.;30
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;REx 1761smer Košice;Košicepred 7 min.;v cieli+ 85 minút= 1 hod, 25 min.;145
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 607 TATRANsmer Košice;Bratislava hlavná stanicateraz;+ 71 minút= 1 hod, 11 min.;131
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Os 7802smer Svit;Krompachyodišiel pred 2 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Os 7807smer Košice;Svitteraz;+ 67 minút= 1 hod, 7 min.;127
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 603 TATRANsmer Košice;Dolný Hričovprešiel stanicou teraz;+ 66 minút= 1 hod, 6 min.;126
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Os 7874smer Poprad-Tatry;Poprad-Tatrypred 2 min.;v cieli+ 64 minút= 1 hod, 4 min.;124
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 641 TATRANsmer Košice;Poprad-Tatryodišiel teraz;+ 62 minút= 1 hod, 2 min.;122
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;REx 1763smer Košice;Krompachyodišiel pred 7 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 505 KRIVÁŇsmer Košice;Výh. Nivyprešiel stanicou teraz;+ 60 minút= 1 hod, 0 min.;120
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 643 TATRANsmer Košice;Liptovská Tepláprešiel stanicou teraz;+ 59 minút;59
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;v cieli+ 45 minút;45
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Výh. Lučivnáprešiel stanicou teraz;+ 42 minút;42
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Os 2003smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 4 min.;v cieli+ 38 minút;38
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;REx 2502smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 32 minút;32
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Liptovská Tepláprešiel stanicou teraz;+ 22 minút;22
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Os 8501smer Čierna nad Tisou;Michaľanyodišiel pred 7 min.;+ 18 minút;18
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Os 8502smer Prešov;Kostoľany nad Hornádomodišiel pred 4 min.;+ 18 minút;18
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;REx 1903smer Humenné;Michalovceodišiel pred 2 min.;+ 15 minút;15
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;Os 3105smer Trenčín;Poriadieodišiel pred 4 min.;+ 15 minút;15
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;mešká do 5 minút;129;75.00 %;75
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;mešká 5-14 minút;24;13.95 %;13
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;mešká 15-29 minút;5;2.91 %;2
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;mešká 30-59 minút;5;2.91 %;2
+2026-11-11 06:27:53;2026-11-11;6;Wednesday;mešká 60 a viac minút;9;5.23 %;5
