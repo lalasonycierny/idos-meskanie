@@ -49718,3 +49718,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-11 18:27:51;2026-11-11;18;Wednesday;mešká 15-29 minút;8;4.91 %;4
 2026-11-11 18:27:51;2026-11-11;18;Wednesday;mešká 30-59 minút;3;1.84 %;1
 2026-11-11 18:27:51;2026-11-11;18;Wednesday;mešká 60 a viac minút;16;9.82 %;9
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 76 min.;76
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 621 TATRAN;Margecany;mešká 66 min.;66
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 618 TATRAN;Bratislava-Rača;mešká 61 min.;61
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 78 min.;78
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 620 TATRAN;Trenčín;mešká 75 min.;75
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 4348smer Bratislava hlavná stanica;Podunajské Biskupiceteraz;+ 602 minút= 10 hod, 2 min.;1202
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 297 minút= 4 hod, 57 min.;537
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 177 minút= 2 hod, 57 min.;297
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 104 minút= 1 hod, 44 min.;164
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 624 TATRANsmer Bratislava hlavná stanica;Východnáprešiel stanicou pred 5 min.;+ 93 minút= 1 hod, 33 min.;153
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 631 TATRANsmer Košice;Bratislava hlavná stanicateraz;+ 81 minút= 1 hod, 21 min.;141
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 620 TATRANsmer Bratislava hlavná stanica;Trenčínprišiel pred 5 min.;+ 75 minút= 1 hod, 15 min.;135
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 7826smer Svit;Spišské Vlachyodišiel teraz;+ 73 minút= 1 hod, 13 min.;133
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 7827smer Košice;Kostoľany nad Hornádomodišiel pred 3 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 629 TATRANsmer Košice;Výh. Nivyprešiel stanicou pred 2 min.;+ 67 minút= 1 hod, 7 min.;127
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 623 TATRANsmer Košice;Poprad-Tatryodišiel pred 2 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 621 TATRANsmer Košice;Margecanyodišiel pred 5 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 627 TATRANsmer Košice;Žilinaodišiel teraz;+ 64 minút= 1 hod, 4 min.;124
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 7831smer Košice;Výh. Gánovceprešiel stanicou pred 3 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 622 TATRANsmer Bratislava hlavná stanica;Žilina predmestieprešiel stanicou pred 2 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 525 KRIVÁŇsmer Košice;Liptovský Hrádokprešiel stanicou teraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Ex 618 TATRANsmer Bratislava hlavná stanica;Bratislava-Račaprišiel pred 3 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 57 minút;57
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 2624smer Kúty;Šajdíkove Humenceodišiel pred 8 min.;+ 51 minút;51
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 4327smer Dunajská Streda;Nové Košariskáodišiel pred 6 min.;+ 30 minút;30
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 3129smer Trenčín;Poriadieodišiel pred 2 min.;+ 27 minút;27
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 3127smer Trenčín;Trenčín-Zlatovceprišiel teraz;+ 25 minút;25
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 3126smer Myjava;Myjavaprišiel pred 13 min.;v cieli+ 24 minút;24
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;ra 272 METROPOLITANsmer Kúty št. hr. - Praha jih;Devínska Nová Vesprešiel stanicou pred 10 min.;+ 15 minút;15
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;Os 2722smer Vrbovce št. hr. - Velká nad Veličkou;Myjavaodišiel pred 12 min.;+ 15 minút;15
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;mešká do 5 minút;101;62.73 %;62
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;mešká 5-14 minút;35;21.74 %;21
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;mešká 15-29 minút;5;3.11 %;3
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;mešká 30-59 minút;3;1.86 %;1
+2026-11-11 18:37:51;2026-11-11;18;Wednesday;mešká 60 a viac minút;17;10.56 %;10
