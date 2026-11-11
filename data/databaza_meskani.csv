@@ -47079,3 +47079,34 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-11 07:28:05;2026-11-11;7;Wednesday;mešká 15-29 minút;12;6.94 %;6
 2026-11-11 07:28:05;2026-11-11;7;Wednesday;mešká 30-59 minút;3;1.73 %;1
 2026-11-11 07:28:05;2026-11-11;7;Wednesday;mešká 60 a viac minút;9;5.20 %;5
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 67 min.;67
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 36 min.;36
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 49 min.;49
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 30 min.;30
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Os 7807smer Košice;Vydrníkprišiel pred 3 min.;+ 108 minút= 1 hod, 48 min.;168
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Os 7802smer Svit;Výh. Letanovceprešiel stanicou pred 10 min.;+ 91 minút= 1 hod, 31 min.;151
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 607 TATRANsmer Košice;Výh. Potvoriceprešiel stanicou pred 2 min.;+ 79 minút= 1 hod, 19 min.;139
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 609 TATRANsmer Košice;Odb. Vinohradyprešiel stanicou teraz;+ 70 minút= 1 hod, 10 min.;130
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Os 7806smer Svit;Kostoľany nad Hornádomodišiel pred 2 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 643 TATRANsmer Košice;Poprad-Tatryteraz;+ 66 minút= 1 hod, 6 min.;126
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 603 TATRANsmer Košice;Liptovská Tepláprešiel stanicou pred 6 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 606 TATRANsmer Bratislava hlavná stanica;Krompachyprešiel stanicou pred 4 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 641 TATRANsmer Košice;Margecanyodišiel teraz;+ 60 minút= 1 hod, 0 min.;120
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 505 KRIVÁŇsmer Košice;Potok odb.prešiel stanicou pred 7 min.;+ 59 minút;59
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Kraľovanyodišiel pred 2 min.;+ 41 minút;41
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Os 7842smer Liptovský Mikuláš;Východnáodišiel pred 4 min.;+ 27 minút;27
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Os 3105smer Trenčín;Trenčín-Zlatovceodišiel teraz;+ 24 minút;24
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Os 3107smer Trenčín;Papradodišiel teraz;+ 23 minút;23
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Ruskovodišiel pred 3 min.;+ 22 minút;22
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Os 9107smer Humenné;Lipníkyodišiel pred 6 min.;+ 20 minút;20
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Os 6405smer Košice;Barcaodišiel pred 6 min.;+ 19 minút;19
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Krásno nad Kysucouprešiel stanicou pred 10 min.;+ 19 minút;19
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;REx 1980smer Košice;Ruskovprešiel stanicou pred 3 min.;+ 19 minút;19
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Východnáprešiel stanicou pred 4 min.;+ 16 minút;16
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;REx 1863smer Nové Zámky;Šaľaodišiel pred 2 min.;+ 16 minút;16
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;mešká do 5 minút;104;63.03 %;63
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;mešká 5-14 minút;40;24.24 %;24
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;mešká 15-29 minút;10;6.06 %;6
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;mešká 30-59 minút;2;1.21 %;1
+2026-11-11 07:37:55;2026-11-11;7;Wednesday;mešká 60 a viac minút;9;5.45 %;5
