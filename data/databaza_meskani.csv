@@ -50170,3 +50170,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-11 20:37:52;2026-11-11;20;Wednesday;mešká 15-29 minút;16;12.60 %;12
 2026-11-11 20:37:52;2026-11-11;20;Wednesday;mešká 30-59 minút;1;0.79 %;0
 2026-11-11 20:37:52;2026-11-11;20;Wednesday;mešká 60 a viac minút;16;12.60 %;12
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 76 min.;76
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 67 min.;67
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 68 min.;68
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 78 min.;78
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 89 min.;89
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 4348smer Bratislava hlavná stanica;Podunajské Biskupiceteraz;+ 732 minút= 12 hod, 12 min.;1452
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 427 minút= 7 hod, 7 min.;847
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 307 minút= 5 hod, 7 min.;607
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 187 minút= 3 hod, 7 min.;367
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 631 TATRANsmer Košice;Trenčínprišiel teraz;+ 132 minút= 2 hod, 12 min.;252
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 624 TATRANsmer Bratislava hlavná stanica;Dubnica nad Váhomprešiel stanicou pred 2 min.;+ 95 minút= 1 hod, 35 min.;155
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Malackyprešiel stanicou pred 3 min.;+ 78 minút= 1 hod, 18 min.;138
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 7830smer Svit;Spišské Vlachyodišiel pred 11 min.;+ 73 minút= 1 hod, 13 min.;133
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 622 TATRANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 8 min.;+ 64 minút= 1 hod, 4 min.;124
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 7831smer Košice;Košicepred 3 min.;v cieli+ 63 minút= 1 hod, 3 min.;123
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 7835smer Košice;Poprad-Tatryodišiel pred 6 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 640 TATRANsmer Žilina;Výh. Lučivnáprešiel stanicou pred 2 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 642 TATRANsmer Žilina;Krompachyprešiel stanicou pred 3 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 629 TATRANsmer Košice;Liptovský Mikulášodišiel pred 3 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 627 TATRANsmer Košice;Vydrníkprešiel stanicou teraz;+ 58 minút;58
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 653 TATRANsmer Vrútky;Bratislava hlavná stanicapred 3 min.;+ 45 minút;45
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;R 965 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 33 minút;33
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 2630smer Kúty;Jablonicaodišiel pred 4 min.;+ 23 minút;23
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;R 10730 POVAŽANsmer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 6 min.;v cieli+ 23 minút;23
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Ex 651 TATRANsmer Vrútky;Trenčianske Bohuslaviceprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 3133smer Trenčín;Stará Turáodišiel pred 5 min.;+ 21 minút;21
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 7931smer Trstená;Dlhá nad Oravouodišiel teraz;+ 21 minút;21
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 2631smer Trnava;Trnavaprišiel pred 3 min.;v cieli+ 18 minút;18
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;EC 192 HORNÁDsmer Košice;Košiceprišiel pred 14 min.;v cieli+ 17 minút;17
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;R 964smer Čierna nad Tisou št. hr.;Čierna nad Tisou št. hr.prišiel pred 6 min.;v cieli+ 16 minút;16
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 8529smer Čierna nad Tisou;Streda nad Bodrogomodišiel pred 9 min.;+ 16 minút;16
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 9033smer Trebišov;Trebišovprišiel pred 6 min.;v cieli+ 15 minút;15
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;Os 7854smer Liptovský Mikuláš;Liptovský Hrádokodišiel pred 9 min.;+ 15 minút;15
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;RJ 1223 REGIOJETsmer Košice;Košiceprišiel pred 11 min.;v cieli+ 15 minút;15
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;mešká do 5 minút;72;58.06 %;58
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;mešká 5-14 minút;23;18.55 %;18
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;mešká 15-29 minút;12;9.68 %;9
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;mešká 30-59 minút;3;2.42 %;2
+2026-11-11 20:47:52;2026-11-11;20;Wednesday;mešká 60 a viac minút;14;11.29 %;11
