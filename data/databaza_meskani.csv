@@ -51869,3 +51869,40 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-12 08:27:52;2026-11-12;8;Thursday;mešká 15-29 minút;11;7.64 %;7
 2026-11-12 08:27:52;2026-11-12;8;Thursday;mešká 30-59 minút;5;3.47 %;3
 2026-11-12 08:27:52;2026-11-12;8;Thursday;mešká 60 a viac minút;7;4.86 %;4
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 76 min.;76
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 67 min.;67
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 68 min.;68
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 78 min.;78
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 89 min.;89
+2026-11-12 08:37:52;2026-11-12;8;Thursday;REx 7701smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 173 minút= 2 hod, 53 min.;293
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 608 TATRANsmer Bratislava hlavná stanica;Výh. Ružínprešiel stanicou pred 7 min.;+ 75 minút= 1 hod, 15 min.;135
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 609 TATRANsmer Košice;Trenčianske Bohuslaviceodišiel pred 4 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 505 KRIVÁŇsmer Košice;Liptovský Mikulášodišiel pred 6 min.;+ 67 minút= 1 hod, 7 min.;127
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 7807smer Košice;Kostoľany nad Hornádomodišiel pred 6 min.;+ 64 minút= 1 hod, 4 min.;124
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 603 TATRANsmer Košice;Poprad-Tatryodišiel pred 2 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 606 TATRANsmer Bratislava hlavná stanica;Poprad-Tatryodišiel teraz;+ 60 minút= 1 hod, 0 min.;120
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 643 TATRANsmer Košice;Margecanyodišiel pred 2 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 7811smer Košice;Svitodišiel pred 6 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 7806smer Svit;Margecanyodišiel pred 8 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 607 TATRANsmer Košice;Potok odb.prešiel stanicou teraz;+ 59 minút;59
+2026-11-12 08:37:52;2026-11-12;8;Thursday;EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava hlavná stanicaodišiel pred 2 min.;+ 34 minút;34
+2026-11-12 08:37:52;2026-11-12;8;Thursday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouprišiel pred 11 min.;+ 32 minút;32
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 3107smer Trenčín;Výh. Nivyprešiel stanicou pred 3 min.;+ 31 minút;31
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 8505smer Čierna nad Tisou;Michaľanyodišiel pred 6 min.;+ 27 minút;27
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 8808smer Košice;Výh. Slivník výh. č. 8prešiel stanicou pred 6 min.;+ 27 minút;27
+2026-11-12 08:37:52;2026-11-12;8;Thursday;R 10707 POVAŽANsmer Púchov;Nové Mesto nad Váhompred 3 min.;+ 26 minút;26
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 8506smer Prešov;Kostoľany nad Hornádomodišiel pred 4 min.;+ 25 minút;25
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 4306smer Bratislava hlavná stanica;Odb. Letiskoprešiel stanicou teraz;+ 24 minút;24
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 2609smer Trnava;Šaštín-Strážeodišiel pred 4 min.;+ 18 minút;18
+2026-11-12 08:37:52;2026-11-12;8;Thursday;R 10705 POVAŽANsmer Žilina;Žilina predmestieprešiel stanicou teraz;+ 18 minút;18
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 600 TATRANsmer Bratislava hlavná stanica;Trenčínprišiel pred 3 min.;+ 17 minút;17
+2026-11-12 08:37:52;2026-11-12;8;Thursday;R 743 BOJNICEsmer Prievidza;Alekšinceprešiel stanicou pred 3 min.;+ 17 minút;17
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 2606smer Kúty;Jablonicaodišiel pred 2 min.;+ 16 minút;16
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Vrútkyprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 3109smer Trenčín;Stará Turáodišiel teraz;+ 15 minút;15
+2026-11-12 08:37:52;2026-11-12;8;Thursday;Os 4307smer Dunajská Streda;Lehniceteraz;+ 15 minút;15
+2026-11-12 08:37:52;2026-11-12;8;Thursday;mešká do 5 minút;95;65.52 %;65
+2026-11-12 08:37:52;2026-11-12;8;Thursday;mešká 5-14 minút;23;15.86 %;15
+2026-11-12 08:37:52;2026-11-12;8;Thursday;mešká 15-29 minút;13;8.97 %;8
+2026-11-12 08:37:52;2026-11-12;8;Thursday;mešká 30-59 minút;4;2.76 %;2
+2026-11-12 08:37:52;2026-11-12;8;Thursday;mešká 60 a viac minút;10;6.90 %;6
