@@ -54686,3 +54686,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-12 21:07:53;2026-11-12;21;Thursday;mešká 15-29 minút;11;8.21 %;8
 2026-11-12 21:07:53;2026-11-12;21;Thursday;mešká 30-59 minút;12;8.96 %;8
 2026-11-12 21:07:53;2026-11-12;21;Thursday;mešká 60 a viac minút;3;2.24 %;2
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 17 min.;17
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 17 min.;17
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 36 min.;36
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-12 21:17:51;2026-11-12;21;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 457 minút= 7 hod, 37 min.;877
+2026-11-12 21:17:51;2026-11-12;21;Thursday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 337 minút= 5 hod, 37 min.;637
+2026-11-12 21:17:51;2026-11-12;21;Thursday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 217 minút= 3 hod, 37 min.;397
+2026-11-12 21:17:51;2026-11-12;21;Thursday;R 965 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 63 minút= 1 hod, 3 min.;123
+2026-11-12 21:17:51;2026-11-12;21;Thursday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Senecprešiel stanicou pred 5 min.;+ 51 minút;51
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 3133smer Trenčín;Vaďovceodišiel pred 4 min.;+ 44 minút;44
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 4835smer Komárno;Nové Zámkypred 14 min.;+ 40 minút;40
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 2631smer Trnava;Trnavapred 11 min.;v cieli+ 39 minút;39
+2026-11-12 21:17:51;2026-11-12;21;Thursday;R 924 GEMERANsmer Zvolen osobná stanica;Tornaľaprišiel teraz;+ 36 minút;36
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 4935smer Štúrovo;Nové Zámkypred 11 min.;+ 35 minút;35
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 2630smer Kúty;Šajdíkove Humenceodišiel pred 4 min.;+ 34 minút;34
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 8532smer Prešov;Krásna nad Hornádomodišiel pred 3 min.;+ 32 minút;32
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 8529smer Čierna nad Tisou;Dobráodišiel pred 3 min.;+ 31 minút;31
+2026-11-12 21:17:51;2026-11-12;21;Thursday;EC 145 OSTRAVANsmer Žilina;Čadcapred 12 min.;+ 27 minút;27
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Púchovprišiel teraz;+ 23 minút;23
+2026-11-12 21:17:51;2026-11-12;21;Thursday;ra 270 METROPOLITANsmer Kúty št. hr. - Praha jih;Kútypred 2 min.;+ 21 minút;21
+2026-11-12 21:17:51;2026-11-12;21;Thursday;R 10733 POVAŽANsmer Púchov;Piešťanyprišiel pred 3 min.;+ 21 minút;21
+2026-11-12 21:17:51;2026-11-12;21;Thursday;R 10732 POVAŽANsmer Bratislava hlavná stanica;Výh. Svätý Jurprešiel stanicou teraz;+ 18 minút;18
+2026-11-12 21:17:51;2026-11-12;21;Thursday;R 754 BOJNICEsmer Bratislava-Nové Mesto;Bratislava predmestieodišiel pred 2 min.;+ 18 minút;18
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Ex 628 TATRANsmer Bratislava hlavná stanica;Kraľovanyodišiel pred 5 min.;+ 18 minút;18
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Ex 642 TATRANsmer Žilina;Spišské Vlachyodišiel pred 9 min.;+ 17 minút;17
+2026-11-12 21:17:51;2026-11-12;21;Thursday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Kútypred 2 min.;+ 16 minút;16
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 2033smer Bratislava hlavná stanica;Bratislava-Lamačodišiel pred 9 min.;+ 16 minút;16
+2026-11-12 21:17:51;2026-11-12;21;Thursday;Os 3134smer Myjava;Nové Mesto nad Váhompred 2 min.;+ 15 minút;15
+2026-11-12 21:17:51;2026-11-12;21;Thursday;mešká do 5 minút;73;58.40 %;58
+2026-11-12 21:17:51;2026-11-12;21;Thursday;mešká 5-14 minút;28;22.40 %;22
+2026-11-12 21:17:51;2026-11-12;21;Thursday;mešká 15-29 minút;11;8.80 %;8
+2026-11-12 21:17:51;2026-11-12;21;Thursday;mešká 30-59 minút;9;7.20 %;7
+2026-11-12 21:17:51;2026-11-12;21;Thursday;mešká 60 a viac minút;4;3.20 %;3
