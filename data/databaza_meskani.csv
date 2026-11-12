@@ -51906,3 +51906,40 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-12 08:37:52;2026-11-12;8;Thursday;mešká 15-29 minút;13;8.97 %;8
 2026-11-12 08:37:52;2026-11-12;8;Thursday;mešká 30-59 minút;4;2.76 %;2
 2026-11-12 08:37:52;2026-11-12;8;Thursday;mešká 60 a viac minút;10;6.90 %;6
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 610 TATRAN;Košice;mešká 62 min.;62
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 67 min.;67
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 68 min.;68
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 78 min.;78
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 89 min.;89
+2026-11-12 08:57:57;2026-11-12;8;Thursday;REx 7701smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 193 minút= 3 hod, 13 min.;373
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 608 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyodišiel pred 2 min.;+ 78 minút= 1 hod, 18 min.;138
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 609 TATRANsmer Košice;Dubnica nad Váhomprešiel stanicou pred 2 min.;+ 70 minút= 1 hod, 10 min.;130
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 505 KRIVÁŇsmer Košice;Štrbateraz;+ 64 minút= 1 hod, 4 min.;124
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 610 TATRANsmer Bratislava hlavná stanica;Košiceodišiel teraz;+ 62 minút= 1 hod, 2 min.;122
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 7811smer Košice;Výh. Gánovceprešiel stanicou pred 7 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 7806smer Svit;Spišské Vlachyodišiel pred 11 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 607 TATRANsmer Košice;Vrútky nákladná stanicaprešiel stanicou pred 4 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 643 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou teraz;+ 60 minút= 1 hod, 0 min.;120
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 606 TATRANsmer Bratislava hlavná stanica;Štrbapred 6 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 603 TATRANsmer Košice;Spišská Nová Vesprišiel teraz;+ 59 minút;59
+2026-11-12 08:57:57;2026-11-12;8;Thursday;EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih;Devínska Nová Vesodišiel pred 6 min.;+ 39 minút;39
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 3107smer Trenčín;Trenčínpred 9 min.;v cieli+ 31 minút;31
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 8505smer Čierna nad Tisou;Streda nad Bodrogomodišiel pred 4 min.;+ 31 minút;31
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 8808smer Košice;Ruskovodišiel pred 7 min.;+ 27 minút;27
+2026-11-12 08:57:57;2026-11-12;8;Thursday;R 10707 POVAŽANsmer Púchov;Trenčianska Tepláprišiel teraz;+ 27 minút;27
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 8506smer Prešov;Drienovská Nová Vesodišiel teraz;+ 26 minút;26
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 4306smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 4 min.;v cieli+ 26 minút;26
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 4348smer Bratislava hlavná stanica;Podunajské Biskupicepred 2 min.;+ 20 minút;20
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 600 TATRANsmer Bratislava hlavná stanica;Výh. Potvoriceprešiel stanicou teraz;+ 20 minút;20
+2026-11-12 08:57:57;2026-11-12;8;Thursday;R 743 BOJNICEsmer Prievidza;Koniarovceprešiel stanicou pred 6 min.;+ 20 minút;20
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 2609smer Trnava;Senicaodišiel pred 7 min.;+ 18 minút;18
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 2606smer Kúty;Šajdíkove Humenceodišiel teraz;+ 17 minút;17
+2026-11-12 08:57:57;2026-11-12;8;Thursday;REx 1908smer Košice;Ruskovprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Dolný Hričovprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 3109smer Trenčín;Vaďovceodišiel pred 3 min.;+ 15 minút;15
+2026-11-12 08:57:57;2026-11-12;8;Thursday;Os 8509smer Čierna nad Tisou;Kysakteraz;+ 15 minút;15
+2026-11-12 08:57:57;2026-11-12;8;Thursday;mešká do 5 minút;77;56.62 %;56
+2026-11-12 08:57:57;2026-11-12;8;Thursday;mešká 5-14 minút;32;23.53 %;23
+2026-11-12 08:57:57;2026-11-12;8;Thursday;mešká 15-29 minút;13;9.56 %;9
+2026-11-12 08:57:57;2026-11-12;8;Thursday;mešká 30-59 minút;4;2.94 %;2
+2026-11-12 08:57:57;2026-11-12;8;Thursday;mešká 60 a viac minút;10;7.35 %;7
