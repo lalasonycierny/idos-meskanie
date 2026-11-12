@@ -1,8 +1,9 @@
 ﻿Stanica_Poloha;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
-Kúty št. hr.pred 6 min.;8;47.62;32.0;74.9;140;37.73;100.0;100.0;100.0;12.5
+Kúty št. hr.pred 4 min.;5;42.4;43.0;44.0;44;2.07;100.0;100.0;100.0;0.0
 Malackyprešiel stanicou pred 5 min.;13;59.31;34.0;127.0;167;54.73;100.0;100.0;100.0;30.77
 Vydrníkodišiel pred 11 min.;5;23.4;21.0;29.6;30;5.77;100.0;100.0;100.0;0.0
 Malackyprešiel stanicou teraz;30;56.83;28.0;135.2;390;80.09;100.0;100.0;100.0;16.67
+Vrútkyprišiel pred 2 min.;7;43.57;32.0;80.6;128;38.88;100.0;100.0;100.0;14.29
 Malá Lodinaodišiel pred 2 min.;8;77.75;74.5;140.3;169;62.87;100.0;100.0;100.0;50.0
 Malá Lodinaodišiel pred 6 min.;5;29.6;31.0;35.0;35;5.81;100.0;100.0;100.0;0.0
 Malá Lodinaodišiel pred 8 min.;6;106.33;122.0;128.0;133;43.99;100.0;100.0;100.0;83.33
@@ -10,7 +11,6 @@ Malá Lodinaodišiel teraz;14;62.29;39.5;123.0;131;48.89;100.0;100.0;100.0;35.71
 Malá Lodinaprešiel stanicou pred 2 min.;15;45.2;23.0;121.8;131;41.74;100.0;100.0;100.0;20.0
 Malá Lodinaprešiel stanicou pred 3 min.;13;65.31;31.0;127.6;131;49.65;100.0;100.0;100.0;38.46
 Malá Lodinaprešiel stanicou pred 4 min.;9;57.89;35.0;120.2;121;47.9;100.0;100.0;100.0;33.33
-Vrútkyprišiel pred 2 min.;7;43.57;32.0;80.6;128;38.88;100.0;100.0;100.0;14.29
 Vrútkypred 4 min.;5;58.2;32.0;109.6;150;51.93;100.0;100.0;100.0;20.0
 Malá Lodinaprešiel stanicou pred 7 min.;6;45.33;32.0;86.0;121;39.11;100.0;100.0;100.0;16.67
 Malá Lodinaprešiel stanicou teraz;33;69.3;43.0;124.8;134;48.51;100.0;100.0;100.0;42.42
