@@ -53949,3 +53949,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-12 17:47:51;2026-11-12;17;Thursday;mešká 15-29 minút;14;8.59 %;8
 2026-11-12 17:47:51;2026-11-12;17;Thursday;mešká 30-59 minút;8;4.91 %;4
 2026-11-12 17:47:51;2026-11-12;17;Thursday;mešká 60 a viac minút;2;1.23 %;1
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 17 min.;17
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Ex 621 TATRAN;Poprad-Tatry;mešká 19 min.;19
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Ex 618 TATRAN;Trenčianske Bohuslavice;mešká 25 min.;25
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Ex 620 TATRAN;Považská Bystrica;mešká 3 min.;3
+2026-11-12 17:57:51;2026-11-12;17;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 257 minút= 4 hod, 17 min.;497
+2026-11-12 17:57:51;2026-11-12;17;Thursday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 137 minút= 2 hod, 17 min.;257
+2026-11-12 17:57:51;2026-11-12;17;Thursday;R 10724 POVAŽANsmer Bratislava hlavná stanica;Bratislava-Račapred 2 min.;+ 51 minút;51
+2026-11-12 17:57:51;2026-11-12;17;Thursday;REx 7747smer Bratislava-Petržalka;Bratislava-Petržalkapred 3 min.;v cieli+ 38 minút;38
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 3127smer Trenčín;Stará Turáodišiel teraz;+ 36 minút;36
+2026-11-12 17:57:51;2026-11-12;17;Thursday;R 10725 POVAŽANsmer Žilina;Trenčínteraz;+ 35 minút;35
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Zr 11445smer Komárno;Dunajská Stredaodišiel pred 12 min.;+ 34 minút;34
+2026-11-12 17:57:51;2026-11-12;17;Thursday;EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati;Odb. Močiarprešiel stanicou pred 2 min.;+ 30 minút;30
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 2624smer Kúty;Jablonicaodišiel pred 7 min.;+ 30 minút;30
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 8526smer Prešov;Ruskovodišiel pred 8 min.;+ 29 minút;29
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 2627smer Trnava;Senicateraz;+ 27 minút;27
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 2625smer Trnava;Trnavaprišiel pred 6 min.;v cieli+ 26 minút;26
+2026-11-12 17:57:51;2026-11-12;17;Thursday;EC 281 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Malackyprešiel stanicou pred 6 min.;+ 25 minút;25
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Ex 618 TATRANsmer Bratislava hlavná stanica;Trenčianske Bohuslaviceprešiel stanicou teraz;+ 25 minút;25
+2026-11-12 17:57:51;2026-11-12;17;Thursday;R 10727 POVAŽANsmer Púchov;Trnavaodišiel pred 2 min.;+ 25 minút;25
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 2626smer Kúty;Trnavaodišiel teraz;+ 23 minút;23
+2026-11-12 17:57:51;2026-11-12;17;Thursday;REx 1981smer Čierna nad Tisou;Streda nad Bodrogomodišiel pred 2 min.;+ 22 minút;22
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 4325smer Dunajská Streda;Orechová Potôňodišiel pred 2 min.;+ 22 minút;22
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 6024smer Čata;Ipeľský Sokolecodišiel teraz;+ 20 minút;20
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 8524smer Prešov;Drienovská Nová Vesodišiel pred 6 min.;+ 20 minút;20
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Ex 621 TATRANsmer Košice;Poprad-Tatryodišiel pred 5 min.;+ 19 minút;19
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 3126smer Myjava;Stará Turáodišiel teraz;+ 18 minút;18
+2026-11-12 17:57:51;2026-11-12;17;Thursday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 17 minút;17
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Ex 627 TATRANsmer Košice;Trenčínodišiel pred 2 min.;+ 17 minút;17
+2026-11-12 17:57:51;2026-11-12;17;Thursday;R 10728 POVAŽANsmer Bratislava hlavná stanica;Trenčín-Zlatovceprešiel stanicou teraz;+ 17 minút;17
+2026-11-12 17:57:51;2026-11-12;17;Thursday;REx 7749smer Bratislava-Petržalka;Bratislava-Petržalkapred 8 min.;+ 16 minút;16
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 7827smer Košice;Spišské Vlachyodišiel teraz;+ 15 minút;15
+2026-11-12 17:57:51;2026-11-12;17;Thursday;REx 1877smer Nové Zámky;Palárikovoodišiel pred 2 min.;+ 15 minút;15
+2026-11-12 17:57:51;2026-11-12;17;Thursday;Os 2026smer Kúty;Devínska Nová Vesteraz;+ 15 minút;15
+2026-11-12 17:57:51;2026-11-12;17;Thursday;mešká do 5 minút;101;60.12 %;60
+2026-11-12 17:57:51;2026-11-12;17;Thursday;mešká 5-14 minút;38;22.62 %;22
+2026-11-12 17:57:51;2026-11-12;17;Thursday;mešká 15-29 minút;20;11.90 %;11
+2026-11-12 17:57:51;2026-11-12;17;Thursday;mešká 30-59 minút;7;4.17 %;4
+2026-11-12 17:57:51;2026-11-12;17;Thursday;mešká 60 a viac minút;2;1.19 %;1
