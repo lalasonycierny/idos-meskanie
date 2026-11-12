@@ -53880,3 +53880,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-12 17:27:51;2026-11-12;17;Thursday;mešká 15-29 minút;17;10.43 %;10
 2026-11-12 17:27:51;2026-11-12;17;Thursday;mešká 30-59 minút;6;3.68 %;3
 2026-11-12 17:27:51;2026-11-12;17;Thursday;mešká 60 a viac minút;2;1.23 %;1
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 17 min.;17
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Ex 621 TATRAN;Svit;mešká 14 min.;14
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Ex 618 TATRAN;Ilava;mešká 28 min.;28
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Ex 620 TATRAN;Žilina;mešká 4 min.;4
+2026-11-12 17:37:53;2026-11-12;17;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 237 minút= 3 hod, 57 min.;417
+2026-11-12 17:37:53;2026-11-12;17;Thursday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 117 minút= 1 hod, 57 min.;177
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 6025smer Šahy;Šahypred 3 min.;v cieli+ 53 minút;53
+2026-11-12 17:37:53;2026-11-12;17;Thursday;R 10724 POVAŽANsmer Bratislava hlavná stanica;Šenkviceodišiel pred 2 min.;+ 45 minút;45
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 2624smer Kúty;Smoleniceteraz;+ 38 minút;38
+2026-11-12 17:37:53;2026-11-12;17;Thursday;EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava-Lamačprešiel stanicou pred 2 min.;+ 36 minút;36
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 3124smer Myjava;Myjavapred 6 min.;v cieli+ 31 minút;31
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 3127smer Trenčín;Myjavaodišiel pred 4 min.;+ 30 minút;30
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Zr 11445smer Komárno;Orechová Potôňodišiel pred 6 min.;+ 30 minút;30
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Ex 618 TATRANsmer Bratislava hlavná stanica;Ilavaodišiel pred 3 min.;+ 28 minút;28
+2026-11-12 17:37:53;2026-11-12;17;Thursday;R 10725 POVAŽANsmer Žilina;Nové Mesto nad Váhomprišiel pred 4 min.;+ 27 minút;27
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 3125smer Trenčín;Trenčín-Zlatovceprišiel teraz;+ 26 minút;26
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 4325smer Dunajská Streda;Nové Košariskáodišiel pred 10 min.;+ 26 minút;26
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 2625smer Trnava;Bolerázodišiel pred 4 min.;+ 26 minút;26
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 8526smer Prešov;Slanecteraz;+ 25 minút;25
+2026-11-12 17:37:53;2026-11-12;17;Thursday;R 10727 POVAŽANsmer Púchov;Šenkviceodišiel teraz;+ 25 minút;25
+2026-11-12 17:37:53;2026-11-12;17;Thursday;R 10728 POVAŽANsmer Bratislava hlavná stanica;Ladceprešiel stanicou teraz;+ 23 minút;23
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 6024smer Čata;Šahyteraz;+ 21 minút;21
+2026-11-12 17:37:53;2026-11-12;17;Thursday;REx 1981smer Čierna nad Tisou;Michaľanyodišiel teraz;+ 19 minút;19
+2026-11-12 17:37:53;2026-11-12;17;Thursday;R 941 FATRANsmer Banská Bystrica;Uľankaprešiel stanicou pred 4 min.;+ 18 minút;18
+2026-11-12 17:37:53;2026-11-12;17;Thursday;EC 281 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Sekuleprešiel stanicou pred 6 min.;+ 18 minút;18
+2026-11-12 17:37:53;2026-11-12;17;Thursday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo tranzitná skupinaprešiel stanicou teraz;+ 16 minút;16
+2026-11-12 17:37:53;2026-11-12;17;Thursday;R 841 URPÍNsmer Banská Bystrica;Bešaprešiel stanicou pred 3 min.;+ 15 minút;15
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 2626smer Kúty;Trnavapred 5 min.;+ 15 minút;15
+2026-11-12 17:37:53;2026-11-12;17;Thursday;Os 5927smer Levice;Štúrovopred 9 min.;+ 15 minút;15
+2026-11-12 17:37:53;2026-11-12;17;Thursday;mešká do 5 minút;104;61.54 %;61
+2026-11-12 17:37:53;2026-11-12;17;Thursday;mešká 5-14 minút;40;23.67 %;23
+2026-11-12 17:37:53;2026-11-12;17;Thursday;mešká 15-29 minút;16;9.47 %;9
+2026-11-12 17:37:53;2026-11-12;17;Thursday;mešká 30-59 minút;7;4.14 %;4
+2026-11-12 17:37:53;2026-11-12;17;Thursday;mešká 60 a viac minút;2;1.18 %;1
