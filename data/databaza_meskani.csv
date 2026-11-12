@@ -51836,3 +51836,36 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-12 08:17:52;2026-11-12;8;Thursday;mešká 15-29 minút;9;6.08 %;6
 2026-11-12 08:17:52;2026-11-12;8;Thursday;mešká 30-59 minút;1;0.68 %;0
 2026-11-12 08:17:52;2026-11-12;8;Thursday;mešká 60 a viac minút;11;7.43 %;7
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 76 min.;76
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 67 min.;67
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 68 min.;68
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 78 min.;78
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 89 min.;89
+2026-11-12 08:27:52;2026-11-12;8;Thursday;REx 7701smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 163 minút= 2 hod, 43 min.;283
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 608 TATRANsmer Bratislava hlavná stanica;Kysakodišiel pred 4 min.;+ 75 minút= 1 hod, 15 min.;135
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 505 KRIVÁŇsmer Košice;Výh. Paludzaprešiel stanicou pred 2 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 609 TATRANsmer Košice;Nové Mesto nad Váhomteraz;+ 67 minút= 1 hod, 7 min.;127
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 603 TATRANsmer Košice;Výh. Lučivnáprešiel stanicou pred 3 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 7807smer Košice;Kysakodišiel pred 8 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 607 TATRANsmer Košice;Žilina predmestieprešiel stanicou pred 2 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 606 TATRANsmer Bratislava hlavná stanica;Poprad-Tatryprišiel teraz;+ 57 minút;57
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 643 TATRANsmer Košice;Krompachyprešiel stanicou pred 4 min.;+ 56 minút;56
+2026-11-12 08:27:52;2026-11-12;8;Thursday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouprišiel teraz;+ 32 minút;32
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 3107smer Trenčín;Trenčianske Bohuslaviceodišiel teraz;+ 31 minút;31
+2026-11-12 08:27:52;2026-11-12;8;Thursday;EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih;Odb. Močiarprešiel stanicou pred 7 min.;+ 31 minút;31
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 8505smer Čierna nad Tisou;Michaľanyteraz;+ 27 minút;27
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 8808smer Košice;Michaľanyodišiel pred 4 min.;+ 27 minút;27
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 8806smer Košice;Košiceprišiel pred 13 min.;v cieli+ 25 minút;25
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 8506smer Prešov;Košiceodišiel pred 5 min.;+ 24 minút;24
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 2604smer Kúty;Kútyprišiel pred 9 min.;v cieli+ 21 minút;21
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 4306smer Bratislava hlavná stanica;Podunajské Biskupiceteraz;+ 21 minút;21
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 2609smer Trnava;Kútyodišiel pred 3 min.;+ 20 minút;20
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Os 3109smer Trenčín;Poriadieteraz;+ 20 minút;20
+2026-11-12 08:27:52;2026-11-12;8;Thursday;R 10705 POVAŽANsmer Žilina;Bytčaprišiel teraz;+ 18 minút;18
+2026-11-12 08:27:52;2026-11-12;8;Thursday;R 10707 POVAŽANsmer Púchov;Nové Mesto nad Váhomprišiel pred 3 min.;+ 17 minút;17
+2026-11-12 08:27:52;2026-11-12;8;Thursday;Ex 600 TATRANsmer Bratislava hlavná stanica;Dubnica nad Váhomodišiel teraz;+ 16 minút;16
+2026-11-12 08:27:52;2026-11-12;8;Thursday;mešká do 5 minút;94;65.28 %;65
+2026-11-12 08:27:52;2026-11-12;8;Thursday;mešká 5-14 minút;27;18.75 %;18
+2026-11-12 08:27:52;2026-11-12;8;Thursday;mešká 15-29 minút;11;7.64 %;7
+2026-11-12 08:27:52;2026-11-12;8;Thursday;mešká 30-59 minút;5;3.47 %;3
+2026-11-12 08:27:52;2026-11-12;8;Thursday;mešká 60 a viac minút;7;4.86 %;4
