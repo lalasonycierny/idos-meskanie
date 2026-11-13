@@ -57187,3 +57187,36 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-13 14:07:51;2026-11-13;14;Friday;mešká 15-29 minút;15;8.62 %;8
 2026-11-13 14:07:51;2026-11-13;14;Friday;mešká 30-59 minút;3;1.72 %;1
 2026-11-13 14:07:51;2026-11-13;14;Friday;mešká 60 a viac minút;4;2.30 %;2
+2026-11-13 14:17:53;2026-11-13;14;Friday;Ex 610 TATRAN;Cífer;mešká 3 min.;3
+2026-11-13 14:17:53;2026-11-13;14;Friday;Ex 621 TATRAN;Výh. Horná Streda;mešká 1 min.;1
+2026-11-13 14:17:53;2026-11-13;14;Friday;Ex 618 TATRAN;Vydrník;ide načas;0
+2026-11-13 14:17:53;2026-11-13;14;Friday;Ex 614 TATRAN;Vrútky;mešká 10 min.;10
+2026-11-13 14:17:53;2026-11-13;14;Friday;Ex 620 TATRAN;Kysak;mešká 6 min.;6
+2026-11-13 14:17:53;2026-11-13;14;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 736 minút= 12 hod, 16 min.;1456
+2026-11-13 14:17:53;2026-11-13;14;Friday;R 961smer Košice;Barca St. 1prešiel stanicou pred 3 min.;+ 121 minút= 2 hod, 1 min.;241
+2026-11-13 14:17:53;2026-11-13;14;Friday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 78 minút= 1 hod, 18 min.;138
+2026-11-13 14:17:53;2026-11-13;14;Friday;R 962 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisou št. hr.pred 14 min.;v cieli+ 54 minút;54
+2026-11-13 14:17:53;2026-11-13;14;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 37 minút;37
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 6318 6318smer Lučenec;Hajnáčkaodišiel pred 7 min.;+ 37 minút;37
+2026-11-13 14:17:53;2026-11-13;14;Friday;R 747 BOJNICEsmer Prievidza;Novákyodišiel teraz;+ 34 minút;34
+2026-11-13 14:17:53;2026-11-13;14;Friday;REx 1786smer Banská Bystrica;Margecanypred 5 min.;+ 29 minút;29
+2026-11-13 14:17:53;2026-11-13;14;Friday;R 10717 POVAŽANsmer Žilina;Ladceodišiel teraz;+ 29 minút;29
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 2616smer Kúty;Šaštín-Strážeodišiel pred 3 min.;+ 25 minút;25
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 7818smer Svit;Kysakodišiel pred 9 min.;+ 24 minút;24
+2026-11-13 14:17:53;2026-11-13;14;Friday;REx 1437smer Komárno;Zemianska Olčaodišiel pred 2 min.;+ 24 minút;24
+2026-11-13 14:17:53;2026-11-13;14;Friday;R 10719 POVAŽANsmer Púchov;Piešťanyodišiel teraz;+ 22 minút;22
+2026-11-13 14:17:53;2026-11-13;14;Friday;Zr 11439smer Dunajská Streda;Lehniceprešiel stanicou teraz;+ 22 minút;22
+2026-11-13 14:17:53;2026-11-13;14;Friday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava hlavná stanicateraz;+ 22 minút;22
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 2618smer Kúty;Smoleniceteraz;+ 18 minút;18
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 7564smer Vrútky;Diviakyteraz;+ 17 minút;17
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 7565smer Horná Štubňa obec;Horná Štubňa obecprišiel pred 4 min.;v cieli+ 16 minút;16
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 4319smer Dunajská Streda;Podunajské Biskupicepred 7 min.;+ 16 minút;16
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 8520smer Prešov;Michaľanyodišiel pred 6 min.;+ 16 minút;16
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 8518smer Prešov;Košiceodišiel teraz;+ 15 minút;15
+2026-11-13 14:17:53;2026-11-13;14;Friday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava-Lamačprešiel stanicou pred 7 min.;+ 15 minút;15
+2026-11-13 14:17:53;2026-11-13;14;Friday;Os 2018smer Kúty;Devínska Nová Vesodišiel pred 10 min.;+ 15 minút;15
+2026-11-13 14:17:53;2026-11-13;14;Friday;mešká do 5 minút;107;65.64 %;65
+2026-11-13 14:17:53;2026-11-13;14;Friday;mešká 5-14 minút;33;20.25 %;20
+2026-11-13 14:17:53;2026-11-13;14;Friday;mešká 15-29 minút;16;9.82 %;9
+2026-11-13 14:17:53;2026-11-13;14;Friday;mešká 30-59 minút;4;2.45 %;2
+2026-11-13 14:17:53;2026-11-13;14;Friday;mešká 60 a viac minút;3;1.84 %;1
