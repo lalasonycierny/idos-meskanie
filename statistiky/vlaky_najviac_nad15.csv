@@ -1,8 +1,9 @@
 ﻿Vlak;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
 EC 1215 LEO EXPRESSsmer Bratislava hlavná stanica;10;125.8;126.0;130.0;130;3.22;100.0;100.0;100.0;100.0
-R 343 KYSUČANsmer Žilina;15;18.8;20.0;20.0;21;1.7;100.0;100.0;100.0;0.0
+Os 4719smer Galanta;5;17.0;16.0;18.6;19;1.41;100.0;100.0;100.0;0.0
 Os 8336smer Poprad-Tatry;9;125.22;153.0;156.2;157;57.7;100.0;100.0;100.0;77.78
 Os 4360smer Bratislava-Nové Mesto;6;25.5;26.0;33.0;33;7.64;100.0;100.0;100.0;0.0
+Os 4360smer Bratislava hlavná stanica;5;26.0;26.0;28.0;28;2.0;100.0;100.0;100.0;0.0
 Os 4348smer Bratislava hlavná stanica;111;583.69;493.0;1352.0;1569;513.8;100.0;100.0;100.0;73.87
 Os 4346smer Bratislava hlavná stanica;10;19.4;19.5;21.3;24;2.41;100.0;100.0;100.0;0.0
 Os 4336smer Bratislava hlavná stanica;7;25.14;23.0;32.0;35;5.43;100.0;100.0;100.0;0.0
@@ -13,4 +14,3 @@ Os 4324smer Bratislava hlavná stanica;14;25.29;26.0;30.0;32;4.95;100.0;100.0;10
 Os 4322smer Bratislava-Nové Mesto;11;27.36;30.0;38.0;38;7.37;100.0;100.0;100.0;0.0
 Os 8536smer Prešov;9;63.11;24.0;143.6;150;60.99;100.0;100.0;100.0;33.33
 Os 4320smer Bratislava hlavná stanica;16;20.81;19.0;26.0;29;3.87;100.0;100.0;100.0;0.0
-Os 4318smer Bratislava hlavná stanica;14;28.21;24.0;41.0;42;9.02;100.0;100.0;100.0;0.0
