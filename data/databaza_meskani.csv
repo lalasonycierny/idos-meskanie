@@ -57098,3 +57098,32 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-13 13:37:52;2026-11-13;13;Friday;mešká 15-29 minút;8;5.23 %;5
 2026-11-13 13:37:52;2026-11-13;13;Friday;mešká 30-59 minút;5;3.27 %;3
 2026-11-13 13:37:52;2026-11-13;13;Friday;mešká 60 a viac minút;3;1.96 %;1
+2026-11-13 13:47:52;2026-11-13;13;Friday;Ex 610 TATRAN;Piešťany;mešká 3 min.;3
+2026-11-13 13:47:52;2026-11-13;13;Friday;Ex 621 TATRAN;Cífer;mešká 1 min.;1
+2026-11-13 13:47:52;2026-11-13;13;Friday;Ex 618 TATRAN;Spišské Vlachy;ide načas;0
+2026-11-13 13:47:52;2026-11-13;13;Friday;Ex 614 TATRAN;Ružomberok;mešká 8 min.;8
+2026-11-13 13:47:52;2026-11-13;13;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-13 13:47:52;2026-11-13;13;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 706 minút= 11 hod, 46 min.;1366
+2026-11-13 13:47:52;2026-11-13;13;Friday;R 961smer Košice;Kuzmiceprešiel stanicou pred 5 min.;+ 121 minút= 2 hod, 1 min.;241
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 6715smer Jesenské;Rimavská Sobotaodišiel pred 6 min.;+ 65 minút= 1 hod, 5 min.;125
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 8816smer Košice;Barca St. 1prešiel stanicou teraz;+ 63 minút= 1 hod, 3 min.;123
+2026-11-13 13:47:52;2026-11-13;13;Friday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 48 minút;48
+2026-11-13 13:47:52;2026-11-13;13;Friday;R 962 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisouteraz;+ 44 minút;44
+2026-11-13 13:47:52;2026-11-13;13;Friday;REx 1916smer Košice;Košicepred 4 min.;v cieli+ 43 minút;43
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 8513smer Čierna nad Tisou;Čierna nad Tisoupred 14 min.;v cieli+ 42 minút;42
+2026-11-13 13:47:52;2026-11-13;13;Friday;R 747 BOJNICEsmer Prievidza;Veľké Bieliceodišiel pred 2 min.;+ 30 minút;30
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 2616smer Kúty;Jablonicateraz;+ 30 minút;30
+2026-11-13 13:47:52;2026-11-13;13;Friday;R 10717 POVAŽANsmer Žilina;Trenčín-Zlatovceprišiel teraz;+ 27 minút;27
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 7818smer Svit;Košiceteraz;+ 21 minút;21
+2026-11-13 13:47:52;2026-11-13;13;Friday;REx 1442smer Bratislava hlavná stanica;Podunajské Biskupicepred 2 min.;+ 20 minút;20
+2026-11-13 13:47:52;2026-11-13;13;Friday;R 10719 POVAŽANsmer Púchov;Trnavaprišiel teraz;+ 18 minút;18
+2026-11-13 13:47:52;2026-11-13;13;Friday;Zr 11439smer Dunajská Streda;Podunajské Biskupiceteraz;+ 16 minút;16
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 4317smer Dunajská Streda;Orechová Potôňodišiel teraz;+ 16 minút;16
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 6718smer Tisovec;Rimavská Sobotaodišiel pred 7 min.;+ 16 minút;16
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 2653smer Trnava;Trnavaprišiel pred 6 min.;v cieli+ 15 minút;15
+2026-11-13 13:47:52;2026-11-13;13;Friday;Os 4316smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 6 min.;v cieli+ 15 minút;15
+2026-11-13 13:47:52;2026-11-13;13;Friday;mešká do 5 minút;91;59.87 %;59
+2026-11-13 13:47:52;2026-11-13;13;Friday;mešká 5-14 minút;42;27.63 %;27
+2026-11-13 13:47:52;2026-11-13;13;Friday;mešká 15-29 minút;9;5.92 %;5
+2026-11-13 13:47:52;2026-11-13;13;Friday;mešká 30-59 minút;6;3.95 %;3
+2026-11-13 13:47:52;2026-11-13;13;Friday;mešká 60 a viac minút;4;2.63 %;2
