@@ -56238,3 +56238,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-13 09:07:55;2026-11-13;9;Friday;mešká 15-29 minút;14;9.59 %;9
 2026-11-13 09:07:55;2026-11-13;9;Friday;mešká 30-59 minút;9;6.16 %;6
 2026-11-13 09:07:55;2026-11-13;9;Friday;mešká 60 a viac minút;9;6.16 %;6
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 610 TATRAN;Výh. Ružín;ide načas;0
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 621 TATRAN;Košice;v cieli meškal 17 min.;17
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 36 min.;36
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-13 09:17:55;2026-11-13;9;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 436 minút= 7 hod, 16 min.;856
+2026-11-13 09:17:55;2026-11-13;9;Friday;REx 1980smer Košice;Slanecteraz;+ 129 minút= 2 hod, 9 min.;249
+2026-11-13 09:17:55;2026-11-13;9;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Ruskovpred 4 min.;+ 122 minút= 2 hod, 2 min.;242
+2026-11-13 09:17:55;2026-11-13;9;Friday;REx 1907smer Humenné;Ruskovteraz;+ 115 minút= 1 hod, 55 min.;175
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 8505smer Čierna nad Tisou;Ruskovteraz;+ 103 minút= 1 hod, 43 min.;163
+2026-11-13 09:17:55;2026-11-13;9;Friday;REx 1906smer Košice;Slanecteraz;+ 102 minút= 1 hod, 42 min.;162
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 8808smer Košice;Michaľanyteraz;+ 82 minút= 1 hod, 22 min.;142
+2026-11-13 09:17:55;2026-11-13;9;Friday;REx 2506smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 82 minút= 1 hod, 22 min.;142
+2026-11-13 09:17:55;2026-11-13;9;Friday;REx 1908smer Košice;Trebišovteraz;+ 67 minút= 1 hod, 7 min.;127
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 2006smer Kúty;Zohorodišiel pred 9 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 2606smer Kúty;Senicaprišiel teraz;+ 49 minút;49
+2026-11-13 09:17:55;2026-11-13;9;Friday;REx 1865smer Nové Zámky;Trnovec nad Váhomodišiel pred 6 min.;+ 47 minút;47
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 2609smer Trnava;Šajdíkove Humenceodišiel pred 6 min.;+ 45 minút;45
+2026-11-13 09:17:55;2026-11-13;9;Friday;R 742 BOJNICEsmer Bratislava-Nové Mesto;Cíferprišiel teraz;+ 44 minút;44
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Dolný Hričovprešiel stanicou pred 2 min.;+ 35 minút;35
+2026-11-13 09:17:55;2026-11-13;9;Friday;EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih;Malackyprešiel stanicou pred 5 min.;+ 33 minút;33
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 2650smer Senica;Bolerázprišiel teraz;+ 25 minút;25
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 3109smer Trenčín;Nové Mesto nad Váhompred 3 min.;+ 24 minút;24
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 4309smer Dunajská Streda;Podunajské Biskupiceteraz;+ 23 minút;23
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 4709smer Galanta;Sládkovičovoodišiel pred 4 min.;+ 22 minút;22
+2026-11-13 09:17:55;2026-11-13;9;Friday;REx 1436smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 7 min.;v cieli+ 20 minút;20
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 4348smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 2 min.;v cieli+ 19 minút;19
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 607 TATRANsmer Košice;Turanyprešiel stanicou pred 3 min.;+ 18 minút;18
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Kraľovanyodišiel pred 6 min.;+ 16 minút;16
+2026-11-13 09:17:55;2026-11-13;9;Friday;EN 443 SLOVAKIAsmer Humenné;Košiceteraz;+ 16 minút;16
+2026-11-13 09:17:55;2026-11-13;9;Friday;Os 4708smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 10 min.;v cieli+ 16 minút;16
+2026-11-13 09:17:55;2026-11-13;9;Friday;Ex 600 TATRANsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou pred 4 min.;+ 15 minút;15
+2026-11-13 09:17:55;2026-11-13;9;Friday;R 10710 POVAŽANsmer Bratislava hlavná stanica;Výh. Horná Stredaprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-13 09:17:55;2026-11-13;9;Friday;mešká do 5 minút;81;56.64 %;56
+2026-11-13 09:17:55;2026-11-13;9;Friday;mešká 5-14 minút;34;23.78 %;23
+2026-11-13 09:17:55;2026-11-13;9;Friday;mešká 15-29 minút;12;8.39 %;8
+2026-11-13 09:17:55;2026-11-13;9;Friday;mešká 30-59 minút;6;4.20 %;4
+2026-11-13 09:17:55;2026-11-13;9;Friday;mešká 60 a viac minút;10;6.99 %;6
