@@ -55753,3 +55753,24 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-13 05:27:52;2026-11-13;5;Friday;mešká 15-29 minút;6;4.20 %;4
 2026-11-13 05:27:52;2026-11-13;5;Friday;mešká 30-59 minút;1;0.70 %;0
 2026-11-13 05:27:52;2026-11-13;5;Friday;mešká 60 a viac minút;3;2.10 %;2
+2026-11-13 05:37:54;2026-11-13;5;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 17 min.;17
+2026-11-13 05:37:54;2026-11-13;5;Friday;Ex 621 TATRAN;Košice;v cieli meškal 17 min.;17
+2026-11-13 05:37:54;2026-11-13;5;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 36 min.;36
+2026-11-13 05:37:54;2026-11-13;5;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-13 05:37:54;2026-11-13;5;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-13 05:37:54;2026-11-13;5;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 3 min.;+ 714 minút= 11 hod, 54 min.;1374
+2026-11-13 05:37:54;2026-11-13;5;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 216 minút= 3 hod, 36 min.;396
+2026-11-13 05:37:54;2026-11-13;5;Friday;Ex 505 KRIVÁŇsmer Košice;Pezinokprešiel stanicou pred 2 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-13 05:37:54;2026-11-13;5;Friday;Os 5403smer Trenčianska Teplá;Trenčianska Tepláteraz;+ 42 minút;42
+2026-11-13 05:37:54;2026-11-13;5;Friday;Ex 600 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel pred 3 min.;+ 28 minút;28
+2026-11-13 05:37:54;2026-11-13;5;Friday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Poprad-Tatryodišiel pred 2 min.;+ 23 minút;23
+2026-11-13 05:37:54;2026-11-13;5;Friday;REx 1761smer Košice;Markušovceodišiel pred 11 min.;+ 23 minút;23
+2026-11-13 05:37:54;2026-11-13;5;Friday;RJ 1021 REGIOJETsmer Košice;Markušovceprešiel stanicou pred 7 min.;+ 22 minút;22
+2026-11-13 05:37:54;2026-11-13;5;Friday;Os 5701smer Zvolen osobná stanica;Zvolen osobná stanicaprišiel pred 14 min.;v cieli+ 20 minút;20
+2026-11-13 05:37:54;2026-11-13;5;Friday;Os 7870smer Svit;Výh. Letanovceodišiel teraz;+ 17 minút;17
+2026-11-13 05:37:54;2026-11-13;5;Friday;Os 3101smer Trenčín;Trenčínprišiel pred 4 min.;v cieli+ 17 minút;17
+2026-11-13 05:37:54;2026-11-13;5;Friday;mešká do 5 minút;129;83.23 %;83
+2026-11-13 05:37:54;2026-11-13;5;Friday;mešká 5-14 minút;15;9.68 %;9
+2026-11-13 05:37:54;2026-11-13;5;Friday;mešká 15-29 minút;7;4.52 %;4
+2026-11-13 05:37:54;2026-11-13;5;Friday;mešká 30-59 minút;1;0.65 %;0
+2026-11-13 05:37:54;2026-11-13;5;Friday;mešká 60 a viac minút;3;1.94 %;1
