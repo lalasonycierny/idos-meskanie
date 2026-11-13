@@ -56506,3 +56506,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-13 10:17:55;2026-11-13;10;Friday;mešká 15-29 minút;7;5.51 %;5
 2026-11-13 10:17:55;2026-11-13;10;Friday;mešká 30-59 minút;7;5.51 %;5
 2026-11-13 10:17:55;2026-11-13;10;Friday;mešká 60 a viac minút;9;7.09 %;7
+2026-11-13 10:28:06;2026-11-13;10;Friday;Ex 610 TATRAN;Výh. Gánovce;mešká 8 min.;8
+2026-11-13 10:28:06;2026-11-13;10;Friday;Ex 621 TATRAN;Košice;v cieli meškal 17 min.;17
+2026-11-13 10:28:06;2026-11-13;10;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 36 min.;36
+2026-11-13 10:28:06;2026-11-13;10;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-13 10:28:06;2026-11-13;10;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-13 10:28:06;2026-11-13;10;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-13 10:28:06;2026-11-13;10;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Michaľanyprešiel stanicou teraz;+ 178 minút= 2 hod, 58 min.;298
+2026-11-13 10:28:06;2026-11-13;10;Friday;REx 1906smer Košice;Ruskovprešiel stanicou pred 2 min.;+ 165 minút= 2 hod, 45 min.;285
+2026-11-13 10:28:06;2026-11-13;10;Friday;REx 1907smer Humenné;Výh. Slivníkprešiel stanicou pred 7 min.;+ 165 minút= 2 hod, 45 min.;285
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 8505smer Čierna nad Tisou;Výh. Slivník výh. č. 8prešiel stanicou teraz;+ 156 minút= 2 hod, 36 min.;276
+2026-11-13 10:28:06;2026-11-13;10;Friday;REx 1908smer Košice;Čeľovceprišiel pred 3 min.;+ 125 minút= 2 hod, 5 min.;245
+2026-11-13 10:28:06;2026-11-13;10;Friday;EN 443 SLOVAKIAsmer Humenné;Nižná Myšľaprešiel stanicou teraz;+ 72 minút= 1 hod, 12 min.;132
+2026-11-13 10:28:06;2026-11-13;10;Friday;R 961smer Košice;Čierna nad Tisouteraz;+ 71 minút= 1 hod, 11 min.;131
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 8509smer Čierna nad Tisou;Krásna nad Hornádomodišiel teraz;+ 70 minút= 1 hod, 10 min.;130
+2026-11-13 10:28:06;2026-11-13;10;Friday;REx 1912smer Košice;Humennéteraz;+ 57 minút;57
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 2609smer Trnava;Trnavapred 6 min.;v cieli+ 56 minút;56
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 8512smer Prešov;Michaľanyteraz;+ 54 minút;54
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 2652smer Senica;Trnava nákladná stanicaprešiel stanicou teraz;+ 53 minút;53
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 2611smer Trnava;Jablonicateraz;+ 48 minút;48
+2026-11-13 10:28:06;2026-11-13;10;Friday;EC 185 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 46 minút;46
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 3312smer Trenčín-Zlatovce;Žilina predmestieprešiel stanicou pred 4 min.;+ 34 minút;34
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 4309smer Dunajská Streda;Dunajská Stredapred 14 min.;v cieli+ 34 minút;34
+2026-11-13 10:28:06;2026-11-13;10;Friday;REx 2510smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 33 minút;33
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 4710smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 7 min.;v cieli+ 30 minút;30
+2026-11-13 10:28:06;2026-11-13;10;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou teraz;+ 29 minút;29
+2026-11-13 10:28:06;2026-11-13;10;Friday;REx 1433smer Komárno;Zlatná na Ostroveodišiel pred 6 min.;+ 23 minút;23
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 3110smer Myjava;Myjavaprišiel pred 9 min.;v cieli+ 19 minút;19
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 3113smer Trenčín;Myjavaodišiel pred 6 min.;+ 19 minút;19
+2026-11-13 10:28:06;2026-11-13;10;Friday;R 10709 POVAŽANsmer Žilina;Považská Bystricaodišiel pred 3 min.;+ 19 minút;19
+2026-11-13 10:28:06;2026-11-13;10;Friday;R 10710 POVAŽANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou teraz;+ 18 minút;18
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 4713smer Galanta;Bratislava hlavná stanicaodišiel teraz;+ 18 minút;18
+2026-11-13 10:28:06;2026-11-13;10;Friday;EC 182 HORNÁDsmer Košice;Barcaodišiel pred 3 min.;+ 17 minút;17
+2026-11-13 10:28:06;2026-11-13;10;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Dubnica nad Váhomodišiel teraz;+ 16 minút;16
+2026-11-13 10:28:06;2026-11-13;10;Friday;Os 4310smer Bratislava hlavná stanica;Odb. Letiskoprešiel stanicou teraz;+ 15 minút;15
+2026-11-13 10:28:06;2026-11-13;10;Friday;mešká do 5 minút;71;54.20 %;54
+2026-11-13 10:28:06;2026-11-13;10;Friday;mešká 5-14 minút;31;23.66 %;23
+2026-11-13 10:28:06;2026-11-13;10;Friday;mešká 15-29 minút;10;7.63 %;7
+2026-11-13 10:28:06;2026-11-13;10;Friday;mešká 30-59 minút;10;7.63 %;7
+2026-11-13 10:28:06;2026-11-13;10;Friday;mešká 60 a viac minút;9;6.87 %;6
