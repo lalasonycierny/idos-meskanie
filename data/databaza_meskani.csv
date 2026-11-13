@@ -56620,3 +56620,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-13 10:47:55;2026-11-13;10;Friday;mešká 15-29 minút;11;8.46 %;8
 2026-11-13 10:47:55;2026-11-13;10;Friday;mešká 30-59 minút;6;4.62 %;4
 2026-11-13 10:47:55;2026-11-13;10;Friday;mešká 60 a viac minút;11;8.46 %;8
+2026-11-13 10:57:55;2026-11-13;10;Friday;Ex 610 TATRAN;Štrba;mešká 2 min.;2
+2026-11-13 10:57:55;2026-11-13;10;Friday;Ex 621 TATRAN;Košice;v cieli meškal 17 min.;17
+2026-11-13 10:57:55;2026-11-13;10;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 36 min.;36
+2026-11-13 10:57:55;2026-11-13;10;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-13 10:57:55;2026-11-13;10;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-13 10:57:55;2026-11-13;10;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 536 minút= 8 hod, 56 min.;1016
+2026-11-13 10:57:55;2026-11-13;10;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Streda nad Bodrogomprešiel stanicou pred 9 min.;+ 188 minút= 3 hod, 8 min.;368
+2026-11-13 10:57:55;2026-11-13;10;Friday;REx 1907smer Humenné;Michalovceodišiel teraz;+ 168 minút= 2 hod, 48 min.;288
+2026-11-13 10:57:55;2026-11-13;10;Friday;REx 1906smer Košice;Košicepred 7 min.;v cieli+ 163 minút= 2 hod, 43 min.;283
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 8505smer Čierna nad Tisou;Slovenské Nové Mestoodišiel teraz;+ 162 minút= 2 hod, 42 min.;282
+2026-11-13 10:57:55;2026-11-13;10;Friday;REx 1908smer Košice;Nižná Myšľaprešiel stanicou pred 3 min.;+ 128 minút= 2 hod, 8 min.;248
+2026-11-13 10:57:55;2026-11-13;10;Friday;R 961smer Košice;Čierna nad Tisouteraz;+ 100 minút= 1 hod, 40 min.;160
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 8509smer Čierna nad Tisou;Ruskovteraz;+ 83 minút= 1 hod, 23 min.;143
+2026-11-13 10:57:55;2026-11-13;10;Friday;EN 443 SLOVAKIAsmer Humenné;Čeľovceprešiel stanicou pred 3 min.;+ 72 minút= 1 hod, 12 min.;132
+2026-11-13 10:57:55;2026-11-13;10;Friday;EC 185 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceodišiel pred 2 min.;+ 71 minút= 1 hod, 11 min.;131
+2026-11-13 10:57:55;2026-11-13;10;Friday;REx 1912smer Košice;Michalovceprišiel pred 2 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 8512smer Prešov;Slanecodišiel pred 6 min.;+ 57 minút;57
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 2652smer Senica;Bolerázodišiel pred 11 min.;+ 55 minút;55
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 2611smer Trnava;Smolenicepred 7 min.;+ 49 minút;49
+2026-11-13 10:57:55;2026-11-13;10;Friday;REx 2510smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 7 min.;v cieli+ 41 minút;41
+2026-11-13 10:57:55;2026-11-13;10;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Výh. Svätý Jurprešiel stanicou teraz;+ 30 minút;30
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 3312smer Trenčín-Zlatovce;Púchovprišiel teraz;+ 29 minút;29
+2026-11-13 10:57:55;2026-11-13;10;Friday;R 10709 POVAŽANsmer Žilina;Žilinaprišiel pred 12 min.;v cieli+ 23 minút;23
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 3113smer Trenčín;Vaďovceodišiel pred 5 min.;+ 22 minút;22
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 4310smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 10 min.;v cieli+ 22 minút;22
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 4312smer Bratislava hlavná stanica;Lehniceodišiel pred 2 min.;+ 17 minút;17
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 4713smer Galanta;Senecodišiel pred 5 min.;+ 17 minút;17
+2026-11-13 10:57:55;2026-11-13;10;Friday;REx 7721smer Bratislava-Petržalka;Bratislava-Petržalkapred 8 min.;+ 17 minút;17
+2026-11-13 10:57:55;2026-11-13;10;Friday;Os 4714smer Bratislava hlavná stanica;Galantapred 11 min.;+ 15 minút;15
+2026-11-13 10:57:55;2026-11-13;10;Friday;mešká do 5 minút;87;62.14 %;62
+2026-11-13 10:57:55;2026-11-13;10;Friday;mešká 5-14 minút;29;20.71 %;20
+2026-11-13 10:57:55;2026-11-13;10;Friday;mešká 15-29 minút;8;5.71 %;5
+2026-11-13 10:57:55;2026-11-13;10;Friday;mešká 30-59 minút;5;3.57 %;3
+2026-11-13 10:57:55;2026-11-13;10;Friday;mešká 60 a viac minút;11;7.86 %;7
