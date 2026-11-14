@@ -61023,3 +61023,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-14 12:27:52;2026-11-14;12;Saturday;mešká 15-29 minút;16;13.11 %;13
 2026-11-14 12:27:52;2026-11-14;12;Saturday;mešká 30-59 minút;3;2.46 %;2
 2026-11-14 12:27:52;2026-11-14;12;Saturday;mešká 60 a viac minút;6;4.92 %;4
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 610 TATRAN;Žilina predmestie;mešká 1 min.;1
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 44 min.;44
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 614 TATRAN;Spišská Nová Ves;mešká 30 min.;30
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 7 min.;7
+2026-11-14 12:37:51;2026-11-14;12;Saturday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Svitprešiel stanicou teraz;+ 199 minút= 3 hod, 19 min.;379
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 7810smer Svit;Spišské Vlachyteraz;+ 136 minút= 2 hod, 16 min.;256
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 7815smer Košice;Spišská Nová Vesteraz;+ 86 minút= 1 hod, 26 min.;146
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 607 TATRANsmer Košice;Krompachyprešiel stanicou pred 3 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 612 TATRANsmer Bratislava hlavná stanica;Poprad-Tatryprišiel pred 3 min.;+ 64 minút= 1 hod, 4 min.;124
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 617 TATRANsmer Košice;Pezinokprešiel stanicou pred 2 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 604 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 13 min.;v cieli+ 38 minút;38
+2026-11-14 12:37:51;2026-11-14;12;Saturday;R 10715 POVAŽANsmer Púchov;Výh. Potvoriceprešiel stanicou pred 2 min.;+ 33 minút;33
+2026-11-14 12:37:51;2026-11-14;12;Saturday;R 10717 POVAŽANsmer Žilina;Pezinokteraz;+ 33 minút;33
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 614 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel teraz;+ 30 minút;30
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 3117smer Trenčín;Poriadieteraz;+ 30 minút;30
+2026-11-14 12:37:51;2026-11-14;12;Saturday;R 10714 POVAŽANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou teraz;+ 29 minút;29
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 608 TATRANsmer Bratislava hlavná stanica;Ilavaprešiel stanicou pred 2 min.;+ 28 minút;28
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 2414smer Skalica na Slovensku;Skalica na Slovenskupred 14 min.;+ 26 minút;26
+2026-11-14 12:37:51;2026-11-14;12;Saturday;REx 1435smer Komárno;Zlatná na Ostroveodišiel pred 14 min.;+ 24 minút;24
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 3016smer Bratislava-Nové Mesto;Bratislava-Račaodišiel pred 2 min.;+ 24 minút;24
+2026-11-14 12:37:51;2026-11-14;12;Saturday;EC 184 HORNÁDsmer Košice;Čaňateraz;+ 23 minút;23
+2026-11-14 12:37:51;2026-11-14;12;Saturday;R 961smer Košice;Krásna nad Hornádomprešiel stanicou pred 3 min.;+ 22 minút;22
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 8513smer Čierna nad Tisou;Slovenské Nové Mestoodišiel pred 2 min.;+ 22 minút;22
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 8816smer Košice;Výh. Slivník výh. č. 8prešiel stanicou pred 9 min.;+ 20 minút;20
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 611 TATRANsmer Košice;Výh. Lučivnáprešiel stanicou teraz;+ 18 minút;18
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 6115smer Zvolen osobná stanica;Hronská Dúbravaodišiel pred 8 min.;+ 16 minút;16
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 7814smer Svit;Spišské Vlachyteraz;+ 16 minút;16
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Ex 606 TATRANsmer Bratislava hlavná stanica;Šenkviceodišiel pred 2 min.;+ 15 minút;15
+2026-11-14 12:37:51;2026-11-14;12;Saturday;Os 3015smer Trnava;Trnavaprišiel teraz;v cieli+ 15 minút;15
+2026-11-14 12:37:51;2026-11-14;12;Saturday;mešká do 5 minút;79;60.31 %;60
+2026-11-14 12:37:51;2026-11-14;12;Saturday;mešká 5-14 minút;27;20.61 %;20
+2026-11-14 12:37:51;2026-11-14;12;Saturday;mešká 15-29 minút;14;10.69 %;10
+2026-11-14 12:37:51;2026-11-14;12;Saturday;mešká 30-59 minút;5;3.82 %;3
+2026-11-14 12:37:51;2026-11-14;12;Saturday;mešká 60 a viac minút;6;4.58 %;4
