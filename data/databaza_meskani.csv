@@ -65102,3 +65102,24 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-15 19:27:51;2026-11-15;19;Sunday;mešká 15-29 minút;4;3.25 %;3
 2026-11-15 19:27:51;2026-11-15;19;Sunday;mešká 30-59 minút;2;1.63 %;1
 2026-11-15 19:27:51;2026-11-15;19;Sunday;mešká 60 a viac minút;3;2.44 %;2
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 3 min.;3
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Ex 620 TATRAN;Odb. Vinohrady;ide načas;0
+2026-11-15 19:37:51;2026-11-15;19;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 357 minút= 5 hod, 57 min.;657
+2026-11-15 19:37:51;2026-11-15;19;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 237 minút= 3 hod, 57 min.;417
+2026-11-15 19:37:51;2026-11-15;19;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 117 minút= 1 hod, 57 min.;177
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Ex 629 TATRANsmer Košice;Trenčianska Tepláteraz;+ 55 minút;55
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Ex 622 TATRANsmer Bratislava hlavná stanica;Púchovteraz;+ 38 minút;38
+2026-11-15 19:37:51;2026-11-15;19;Sunday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Kútyteraz;+ 27 minút;27
+2026-11-15 19:37:51;2026-11-15;19;Sunday;EC 1253 LEO EXPRESSsmer Prešov;Malá Lodinaprešiel stanicou teraz;+ 25 minút;25
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Ex 628 TATRANsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-15 19:37:51;2026-11-15;19;Sunday;R 349 KYSUČANsmer Žilina;Budatín odb.prešiel stanicou teraz;+ 16 minút;16
+2026-11-15 19:37:51;2026-11-15;19;Sunday;Os 3129smer Trenčín;Trenčínprišiel pred 6 min.;v cieli+ 15 minút;15
+2026-11-15 19:37:51;2026-11-15;19;Sunday;R 10729 POVAŽANsmer Žilina;Trenčínteraz;+ 15 minút;15
+2026-11-15 19:37:51;2026-11-15;19;Sunday;mešká do 5 minút;94;75.20 %;75
+2026-11-15 19:37:51;2026-11-15;19;Sunday;mešká 5-14 minút;20;16.00 %;16
+2026-11-15 19:37:51;2026-11-15;19;Sunday;mešká 15-29 minút;6;4.80 %;4
+2026-11-15 19:37:51;2026-11-15;19;Sunday;mešká 30-59 minút;2;1.60 %;1
+2026-11-15 19:37:51;2026-11-15;19;Sunday;mešká 60 a viac minút;3;2.40 %;2
