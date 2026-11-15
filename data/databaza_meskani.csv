@@ -65682,3 +65682,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-15 22:27:51;2026-11-15;22;Sunday;mešká 15-29 minút;10;10.87 %;10
 2026-11-15 22:27:51;2026-11-15;22;Sunday;mešká 30-59 minút;11;11.96 %;11
 2026-11-15 22:27:51;2026-11-15;22;Sunday;mešká 60 a viac minút;6;6.52 %;6
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 3 min.;3
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 22:37:52;2026-11-15;22;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 537 minút= 8 hod, 57 min.;1017
+2026-11-15 22:37:52;2026-11-15;22;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 417 minút= 6 hod, 57 min.;777
+2026-11-15 22:37:52;2026-11-15;22;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 297 minút= 4 hod, 57 min.;537
+2026-11-15 22:37:52;2026-11-15;22;Sunday;R 10730 POVAŽANsmer Bratislava hlavná stanica;Bratislava-Račaodišiel teraz;+ 152 minút= 2 hod, 32 min.;272
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 629 TATRANsmer Košice;Poprad-Tatryodišiel pred 2 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-15 22:37:52;2026-11-15;22;Sunday;R 10734 POVAŽANsmer Bratislava hlavná stanica;Trnava nákladná stanicaprešiel stanicou pred 3 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 3134smer Myjava;Stará Turáodišiel teraz;+ 59 minút;59
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 4835smer Komárno;Komárnoteraz;v cieli+ 59 minút;59
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 7532smer Vrútky;Vrútkypred 3 min.;v cieli+ 57 minút;57
+2026-11-15 22:37:52;2026-11-15;22;Sunday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo št. hr.pred 4 min.;v cieli+ 56 minút;56
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 5981smer Levice;Štúrovopred 13 min.;+ 54 minút;54
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 4935smer Štúrovo;Štúrovo tranzitná skupinaprešiel stanicou teraz;+ 50 minút;50
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 624 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 4 min.;v cieli+ 49 minút;49
+2026-11-15 22:37:52;2026-11-15;22;Sunday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Bratislava-Lamačprešiel stanicou pred 5 min.;+ 39 minút;39
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 7533smer Prievidza;Chrenovecodišiel pred 5 min.;+ 35 minút;35
+2026-11-15 22:37:52;2026-11-15;22;Sunday;R 10733 POVAŽANsmer Púchov;Púchovpred 11 min.;v cieli+ 33 minút;33
+2026-11-15 22:37:52;2026-11-15;22;Sunday;R 947 FATRANsmer Zvolen osobná stanica;Harmanec jaskyňaprešiel stanicou pred 9 min.;+ 32 minút;32
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 3437smer Liptovský Mikuláš;Vrútkyodišiel teraz;+ 30 minút;30
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 631 TATRANsmer Košice;Východnáprešiel stanicou pred 2 min.;+ 28 minút;28
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 628 TATRANsmer Bratislava hlavná stanica;Ilavaodišiel pred 5 min.;+ 25 minút;25
+2026-11-15 22:37:52;2026-11-15;22;Sunday;REx 1764smer Poprad-Tatry;Výh. Letanovceprešiel stanicou teraz;+ 23 minút;23
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 2656smer Senica;Smoleniceprišiel teraz;+ 22 minút;22
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 7935smer Trstená;Oravský Podzámokodišiel pred 4 min.;+ 22 minút;22
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Ex 642 TATRANsmer Žilina;Liptovský Hrádokprešiel stanicou pred 6 min.;+ 21 minút;21
+2026-11-15 22:37:52;2026-11-15;22;Sunday;R 10738 POVAŽANsmer Trenčín;Ilavaprišiel pred 2 min.;+ 19 minút;19
+2026-11-15 22:37:52;2026-11-15;22;Sunday;EN 476 METROPOLsmer Kúty št. hr. - Břeclav os.n.;Devínska Nová Vesprešiel stanicou pred 9 min.;+ 15 minút;15
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 5159smer Nitra;Leopoldovodišiel teraz;+ 15 minút;15
+2026-11-15 22:37:52;2026-11-15;22;Sunday;Os 7835smer Košice;Kysakodišiel pred 6 min.;+ 15 minút;15
+2026-11-15 22:37:52;2026-11-15;22;Sunday;mešká do 5 minút;47;49.47 %;49
+2026-11-15 22:37:52;2026-11-15;22;Sunday;mešká 5-14 minút;20;21.05 %;21
+2026-11-15 22:37:52;2026-11-15;22;Sunday;mešká 15-29 minút;10;10.53 %;10
+2026-11-15 22:37:52;2026-11-15;22;Sunday;mešká 30-59 minút;12;12.63 %;12
+2026-11-15 22:37:52;2026-11-15;22;Sunday;mešká 60 a viac minút;6;6.32 %;6
