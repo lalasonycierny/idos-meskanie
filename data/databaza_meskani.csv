@@ -65572,3 +65572,40 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-15 21:57:53;2026-11-15;21;Sunday;mešká 15-29 minút;9;9.18 %;9
 2026-11-15 21:57:53;2026-11-15;21;Sunday;mešká 30-59 minút;10;10.20 %;10
 2026-11-15 21:57:53;2026-11-15;21;Sunday;mešká 60 a viac minút;7;7.14 %;7
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 3 min.;3
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 22:07:52;2026-11-15;22;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-15 22:07:52;2026-11-15;22;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 387 minút= 6 hod, 27 min.;747
+2026-11-15 22:07:52;2026-11-15;22;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 267 minút= 4 hod, 27 min.;507
+2026-11-15 22:07:52;2026-11-15;22;Sunday;R 10730 POVAŽANsmer Bratislava hlavná stanica;Cíferprišiel pred 2 min.;+ 146 minút= 2 hod, 26 min.;266
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 622 TATRANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 10 min.;+ 81 minút= 1 hod, 21 min.;141
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 629 TATRANsmer Košice;Kráľova Lehotaprešiel stanicou pred 5 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-15 22:07:52;2026-11-15;22;Sunday;R 10734 POVAŽANsmer Bratislava hlavná stanica;Piešťanyodišiel teraz;+ 62 minút= 1 hod, 2 min.;122
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 3134smer Myjava;Nové Mesto nad Váhomteraz;+ 58 minút;58
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 7532smer Vrútky;Diviakyodišiel pred 7 min.;+ 58 minút;58
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 4835smer Komárno;Bajčodišiel teraz;+ 57 minút;57
+2026-11-15 22:07:52;2026-11-15;22;Sunday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Pribetaprešiel stanicou pred 3 min.;+ 57 minút;57
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 624 TATRANsmer Bratislava hlavná stanica;Cíferprišiel teraz;+ 55 minút;55
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 4935smer Štúrovo;Dvory nad Žitavouodišiel teraz;+ 48 minút;48
+2026-11-15 22:07:52;2026-11-15;22;Sunday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Malackyprešiel stanicou teraz;+ 41 minút;41
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 7533smer Prievidza;Sklené pri Handlovejodišiel pred 9 min.;+ 38 minút;38
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 7830smer Svit;Svitpred 9 min.;v cieli+ 31 minút;31
+2026-11-15 22:07:52;2026-11-15;22;Sunday;R 947 FATRANsmer Zvolen osobná stanica;Diviakyprešiel stanicou pred 2 min.;+ 31 minút;31
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 631 TATRANsmer Košice;Výh. Paludzaprešiel stanicou pred 2 min.;+ 29 minút;29
+2026-11-15 22:07:52;2026-11-15;22;Sunday;R 10733 POVAŽANsmer Púchov;Dubnica nad Váhomodišiel teraz;+ 29 minút;29
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 7935smer Trstená;Párnicaodišiel pred 10 min.;+ 24 minút;24
+2026-11-15 22:07:52;2026-11-15;22;Sunday;rj 167 railjet xpresssmer Bratislava hlavná stanica;Bratislava ústredná nákladná stanicaprešiel stanicou pred 6 min.;+ 23 minút;23
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 642 TATRANsmer Žilina;Výh. Lučivnáprešiel stanicou teraz;+ 23 minút;23
+2026-11-15 22:07:52;2026-11-15;22;Sunday;EC 1250 Leo Expresssmer Čadca št. hr. - Praha hl.n.;Markušovceprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 2656smer Senica;Trnava nákladná stanicaprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Os 5159smer Nitra;Trnavapred 13 min.;+ 15 minút;15
+2026-11-15 22:07:52;2026-11-15;22;Sunday;REx 1764smer Poprad-Tatry;Spišské Vlachyodišiel teraz;+ 15 minút;15
+2026-11-15 22:07:52;2026-11-15;22;Sunday;Ex 651 TATRANsmer Vrútky;Vrútkyprišiel pred 3 min.;v cieli+ 15 minút;15
+2026-11-15 22:07:52;2026-11-15;22;Sunday;mešká do 5 minút;59;57.84 %;57
+2026-11-15 22:07:52;2026-11-15;22;Sunday;mešká 5-14 minút;16;15.69 %;15
+2026-11-15 22:07:52;2026-11-15;22;Sunday;mešká 15-29 minút;10;9.80 %;9
+2026-11-15 22:07:52;2026-11-15;22;Sunday;mešká 30-59 minút;10;9.80 %;9
+2026-11-15 22:07:52;2026-11-15;22;Sunday;mešká 60 a viac minút;7;6.86 %;6
