@@ -64850,3 +64850,18 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-15 16:47:51;2026-11-15;16;Sunday;mešká 15-29 minút;3;2.46 %;2
 2026-11-15 16:47:51;2026-11-15;16;Sunday;mešká 30-59 minút;1;0.82 %;0
 2026-11-15 16:47:51;2026-11-15;16;Sunday;mešká 60 a viac minút;2;1.64 %;1
+2026-11-15 16:57:51;2026-11-15;16;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 16:57:51;2026-11-15;16;Sunday;Ex 621 TATRAN;Kráľova Lehota;ide načas;0
+2026-11-15 16:57:51;2026-11-15;16;Sunday;Ex 618 TATRAN;Považská Bystrica;mešká 1 min.;1
+2026-11-15 16:57:51;2026-11-15;16;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-15 16:57:51;2026-11-15;16;Sunday;Ex 620 TATRAN;Ružomberok;mešká 10 min.;10
+2026-11-15 16:57:51;2026-11-15;16;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 197 minút= 3 hod, 17 min.;377
+2026-11-15 16:57:51;2026-11-15;16;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 77 minút= 1 hod, 17 min.;137
+2026-11-15 16:57:51;2026-11-15;16;Sunday;Os 5323smer Trenčín;Trenčínteraz;+ 43 minút;43
+2026-11-15 16:57:51;2026-11-15;16;Sunday;Os 2022smer Kúty;Veľké Leváreodišiel pred 11 min.;+ 16 minút;16
+2026-11-15 16:57:51;2026-11-15;16;Sunday;Os 3125smer Trenčín;Vaďovceodišiel pred 13 min.;+ 15 minút;15
+2026-11-15 16:57:51;2026-11-15;16;Sunday;mešká do 5 minút;97;78.23 %;78
+2026-11-15 16:57:51;2026-11-15;16;Sunday;mešká 5-14 minút;22;17.74 %;17
+2026-11-15 16:57:51;2026-11-15;16;Sunday;mešká 15-29 minút;2;1.61 %;1
+2026-11-15 16:57:51;2026-11-15;16;Sunday;mešká 30-59 minút;1;0.81 %;0
+2026-11-15 16:57:51;2026-11-15;16;Sunday;mešká 60 a viac minút;2;1.61 %;1
