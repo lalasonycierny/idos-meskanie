@@ -67651,3 +67651,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 13:08:05;2026-11-16;13;Monday;mešká 15-29 minút;11;7.33 %;7
 2026-11-16 13:08:05;2026-11-16;13;Monday;mešká 30-59 minút;2;1.33 %;1
 2026-11-16 13:08:05;2026-11-16;13;Monday;mešká 60 a viac minút;1;0.67 %;0
+2026-11-16 13:17:52;2026-11-16;13;Monday;Ex 610 TATRAN;Púchov;mešká 12 min.;12
+2026-11-16 13:17:52;2026-11-16;13;Monday;Ex 621 TATRAN;Bratislava hlavná stanica;mešká 1 min.;1
+2026-11-16 13:17:52;2026-11-16;13;Monday;Ex 618 TATRAN;Kysak;mešká 2 min.;2
+2026-11-16 13:17:52;2026-11-16;13;Monday;Ex 614 TATRAN;Liptovský Mikuláš;ide načas;0
+2026-11-16 13:17:52;2026-11-16;13;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 13:17:52;2026-11-16;13;Monday;Os 4370smer Dunajská Streda;Dunajská Stredateraz;+ 460 minút= 7 hod, 40 min.;880
+2026-11-16 13:17:52;2026-11-16;13;Monday;R 961smer Košice;Krásna nad Hornádomteraz;+ 65 minút= 1 hod, 5 min.;125
+2026-11-16 13:17:52;2026-11-16;13;Monday;Os 8513smer Čierna nad Tisou;Veľký Horešodišiel teraz;+ 43 minút;43
+2026-11-16 13:17:52;2026-11-16;13;Monday;Os 8816smer Košice;Krásna nad Hornádomteraz;+ 36 minút;36
+2026-11-16 13:17:52;2026-11-16;13;Monday;Os 3117smer Trenčín;Nové Mesto nad Váhompred 2 min.;+ 24 minút;24
+2026-11-16 13:17:52;2026-11-16;13;Monday;Os 7814smer Svit;Spišská Nová Vesodišiel pred 4 min.;+ 24 minút;24
+2026-11-16 13:17:52;2026-11-16;13;Monday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Palárikovoprešiel stanicou pred 7 min.;+ 19 minút;19
+2026-11-16 13:17:52;2026-11-16;13;Monday;Ex 608 TATRANsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou teraz;+ 19 minút;19
+2026-11-16 13:17:52;2026-11-16;13;Monday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 18 minút;18
+2026-11-16 13:17:52;2026-11-16;13;Monday;Os 2014smer Kúty;Kútyprišiel pred 13 min.;v cieli+ 17 minút;17
+2026-11-16 13:17:52;2026-11-16;13;Monday;R 915 GEMERANsmer Košice;Košicepred 14 min.;+ 16 minút;16
+2026-11-16 13:17:52;2026-11-16;13;Monday;Os 5214smer Nové Zámky;Bánovodišiel pred 2 min.;+ 16 minút;16
+2026-11-16 13:17:52;2026-11-16;13;Monday;Os 7517smer Prievidza;Odb. Dolná Štubňaprešiel stanicou pred 3 min.;+ 16 minút;16
+2026-11-16 13:17:52;2026-11-16;13;Monday;mešká do 5 minút;104;68.42 %;68
+2026-11-16 13:17:52;2026-11-16;13;Monday;mešká 5-14 minút;35;23.03 %;23
+2026-11-16 13:17:52;2026-11-16;13;Monday;mešká 15-29 minút;9;5.92 %;5
+2026-11-16 13:17:52;2026-11-16;13;Monday;mešká 30-59 minút;2;1.32 %;1
+2026-11-16 13:17:52;2026-11-16;13;Monday;mešká 60 a viac minút;2;1.32 %;1
