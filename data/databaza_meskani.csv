@@ -67717,3 +67717,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 13:37:53;2026-11-16;13;Monday;mešká 15-29 minút;8;5.06 %;5
 2026-11-16 13:37:53;2026-11-16;13;Monday;mešká 30-59 minút;3;1.90 %;1
 2026-11-16 13:37:53;2026-11-16;13;Monday;mešká 60 a viac minút;2;1.27 %;1
+2026-11-16 13:47:54;2026-11-16;13;Monday;Ex 610 TATRAN;Nové Mesto nad Váhom;mešká 11 min.;11
+2026-11-16 13:47:54;2026-11-16;13;Monday;Ex 621 TATRAN;Cífer;mešká 3 min.;3
+2026-11-16 13:47:54;2026-11-16;13;Monday;Ex 618 TATRAN;Spišské Vlachy;mešká 2 min.;2
+2026-11-16 13:47:54;2026-11-16;13;Monday;Ex 614 TATRAN;Ružomberok;ide načas;0
+2026-11-16 13:47:54;2026-11-16;13;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 13:47:54;2026-11-16;13;Monday;Os 4370smer Dunajská Streda;Dunajská Stredateraz;+ 490 minút= 8 hod, 10 min.;970
+2026-11-16 13:47:54;2026-11-16;13;Monday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 48 minút;48
+2026-11-16 13:47:54;2026-11-16;13;Monday;Os 8816smer Košice;Košicepred 9 min.;v cieli+ 48 minút;48
+2026-11-16 13:47:54;2026-11-16;13;Monday;Os 8513smer Čierna nad Tisou;Čierna nad Tisoupred 14 min.;v cieli+ 41 minút;41
+2026-11-16 13:47:54;2026-11-16;13;Monday;Os 7814smer Svit;Výh. Gánovceprešiel stanicou pred 6 min.;+ 31 minút;31
+2026-11-16 13:47:54;2026-11-16;13;Monday;Os 3117smer Trenčín;Trenčínprišiel pred 4 min.;v cieli+ 26 minút;26
+2026-11-16 13:47:54;2026-11-16;13;Monday;R 918 GEMERANsmer Zvolen osobná stanica;Barcateraz;+ 22 minút;22
+2026-11-16 13:47:54;2026-11-16;13;Monday;Ex 608 TATRANsmer Bratislava hlavná stanica;Výh. Svätý Jurprešiel stanicou teraz;+ 21 minút;21
+2026-11-16 13:47:54;2026-11-16;13;Monday;Ex 617 TATRANsmer Košice;Žilina predmestieprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-16 13:47:54;2026-11-16;13;Monday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovoodišiel teraz;+ 18 minút;18
+2026-11-16 13:47:54;2026-11-16;13;Monday;EC 141 OSTRAVANsmer Žilina;Žilinaprišiel pred 6 min.;v cieli+ 16 minút;16
+2026-11-16 13:47:54;2026-11-16;13;Monday;Os 5919smer Levice;Štúrovopred 2 min.;+ 16 minút;16
+2026-11-16 13:47:54;2026-11-16;13;Monday;REx 7736smer Bratislava-Petržalka št. - Wien Hauptbahnhof (in Wbf;Bratislava-Petržalka št. hr.prišiel pred 13 min.;v cieli+ 16 minút;16
+2026-11-16 13:47:54;2026-11-16;13;Monday;mešká do 5 minút;117;78.00 %;78
+2026-11-16 13:47:54;2026-11-16;13;Monday;mešká 5-14 minút;20;13.33 %;13
+2026-11-16 13:47:54;2026-11-16;13;Monday;mešká 15-29 minút;8;5.33 %;5
+2026-11-16 13:47:54;2026-11-16;13;Monday;mešká 30-59 minút;4;2.67 %;2
+2026-11-16 13:47:54;2026-11-16;13;Monday;mešká 60 a viac minút;1;0.67 %;0
