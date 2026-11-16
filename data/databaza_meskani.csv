@@ -68100,3 +68100,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 16:47:53;2026-11-16;16;Monday;mešká 15-29 minút;9;5.70 %;5
 2026-11-16 16:47:53;2026-11-16;16;Monday;mešká 30-59 minút;1;0.63 %;0
 2026-11-16 16:47:53;2026-11-16;16;Monday;mešká 60 a viac minút;2;1.27 %;1
+2026-11-16 16:57:52;2026-11-16;16;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-16 16:57:52;2026-11-16;16;Monday;Ex 621 TATRAN;Kráľova Lehota;ide načas;0
+2026-11-16 16:57:52;2026-11-16;16;Monday;Ex 618 TATRAN;Púchov;ide načas;0
+2026-11-16 16:57:52;2026-11-16;16;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 16:57:52;2026-11-16;16;Monday;Ex 620 TATRAN;Kraľovany;ide načas;0
+2026-11-16 16:57:52;2026-11-16;16;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 197 minút= 3 hod, 17 min.;377
+2026-11-16 16:57:52;2026-11-16;16;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 77 minút= 1 hod, 17 min.;137
+2026-11-16 16:57:52;2026-11-16;16;Monday;Os 5323smer Trenčín;Trenčínteraz;+ 43 minút;43
+2026-11-16 16:57:52;2026-11-16;16;Monday;Os 3123smer Trenčín;Trenčínprišiel pred 14 min.;v cieli+ 27 minút;27
+2026-11-16 16:57:52;2026-11-16;16;Monday;Zr 11441smer Komárno;Komárnoprišiel pred 14 min.;v cieli+ 23 minút;23
+2026-11-16 16:57:52;2026-11-16;16;Monday;Os 2022smer Kúty;Veľké Leváreodišiel pred 5 min.;+ 22 minút;22
+2026-11-16 16:57:52;2026-11-16;16;Monday;Os 8521smer Čierna nad Tisou;Veľký Horešodišiel pred 3 min.;+ 21 minút;21
+2026-11-16 16:57:52;2026-11-16;16;Monday;Os 2025smer Bratislava hlavná stanica;Zohorodišiel pred 12 min.;+ 18 minút;18
+2026-11-16 16:57:52;2026-11-16;16;Monday;EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati;Zohorprešiel stanicou pred 9 min.;+ 18 minút;18
+2026-11-16 16:57:52;2026-11-16;16;Monday;Os 3125smer Trenčín;Čachticeodišiel teraz;+ 17 minút;17
+2026-11-16 16:57:52;2026-11-16;16;Monday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Kráľova Lehotaprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-11-16 16:57:52;2026-11-16;16;Monday;ra 274 METROPOLITANsmer Kúty št. hr. - Praha jih;Malackyodišiel pred 2 min.;+ 15 minút;15
+2026-11-16 16:57:52;2026-11-16;16;Monday;Os 3124smer Myjava;Stará Turáodišiel pred 5 min.;+ 15 minút;15
+2026-11-16 16:57:52;2026-11-16;16;Monday;mešká do 5 minút;121;73.33 %;73
+2026-11-16 16:57:52;2026-11-16;16;Monday;mešká 5-14 minút;31;18.79 %;18
+2026-11-16 16:57:52;2026-11-16;16;Monday;mešká 15-29 minút;10;6.06 %;6
+2026-11-16 16:57:52;2026-11-16;16;Monday;mešká 30-59 minút;1;0.61 %;0
+2026-11-16 16:57:52;2026-11-16;16;Monday;mešká 60 a viac minút;2;1.21 %;1
