@@ -69161,3 +69161,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 23:57:51;2026-11-16;23;Monday;mešká 15-29 minút;4;9.30 %;9
 2026-11-16 23:57:51;2026-11-16;23;Monday;mešká 30-59 minút;5;11.63 %;11
 2026-11-16 23:57:51;2026-11-16;23;Monday;mešká 60 a viac minút;4;9.30 %;9
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 627 minút= 10 hod, 27 min.;1227
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 387 minút= 6 hod, 27 min.;747
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;R 10739 POVAŽANsmer Trenčín;Bratislava hlavná stanicaodišiel pred 10 min.;+ 76 minút= 1 hod, 16 min.;136
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Palárikovoprešiel stanicou pred 11 min.;+ 59 minút;59
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;Os 5138smer Nitra;Nové Zámkyodišiel pred 2 min.;+ 47 minút;47
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;Os 6239smer Lučenec;Lovinobaňateraz;+ 44 minút;44
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Poprad-Tatrypred 10 min.;+ 37 minút;37
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;R 754 BOJNICEsmer Bratislava-Nové Mesto;Leopoldovpred 11 min.;+ 35 minút;35
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Liptovský Hrádokprešiel stanicou pred 6 min.;+ 27 minút;27
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;REx 2540smer Bratislava hlavná stanica;Devínska Nová Vespred 6 min.;+ 25 minút;25
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;Ex 631 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou teraz;+ 21 minút;21
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;RJ 1011 REGIOJETsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 6 min.;+ 21 minút;21
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;mešká do 5 minút;14;48.28 %;48
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;mešká 5-14 minút;2;6.90 %;6
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;mešká 15-29 minút;4;13.79 %;13
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;mešká 30-59 minút;5;17.24 %;17
+2026-11-17 00:07:51;2026-11-17;0;Tuesday;mešká 60 a viac minút;4;13.79 %;13
