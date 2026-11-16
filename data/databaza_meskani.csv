@@ -66081,3 +66081,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 00:57:52;2026-11-16;0;Monday;mešká 15-29 minút;0;0.00 %;0
 2026-11-16 00:57:52;2026-11-16;0;Monday;mešká 30-59 minút;1;7.69 %;7
 2026-11-16 00:57:52;2026-11-16;0;Monday;mešká 60 a viac minút;5;38.46 %;38
+2026-11-16 01:08:01;2026-11-16;1;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 01:08:01;2026-11-16;1;Monday;Ex 621 TATRAN;Košice;v cieli meškal 3 min.;3
+2026-11-16 01:08:01;2026-11-16;1;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 01:08:01;2026-11-16;1;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 01:08:01;2026-11-16;1;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 01:08:01;2026-11-16;1;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 687 minút= 11 hod, 27 min.;1347
+2026-11-16 01:08:01;2026-11-16;1;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 567 minút= 9 hod, 27 min.;1107
+2026-11-16 01:08:01;2026-11-16;1;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 447 minút= 7 hod, 27 min.;867
+2026-11-16 01:08:01;2026-11-16;1;Monday;REx 1939smer Humenné;Hriništeprešiel stanicou pred 6 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-16 01:08:01;2026-11-16;1;Monday;R 10739 POVAŽANsmer Trenčín;Trenčín-Zlatovceprišiel teraz;+ 59 minút;59
+2026-11-16 01:08:01;2026-11-16;1;Monday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Liptovská Tepláprešiel stanicou pred 4 min.;+ 32 minút;32
+2026-11-16 01:08:01;2026-11-16;1;Monday;mešká do 5 minút;3;27.27 %;27
+2026-11-16 01:08:01;2026-11-16;1;Monday;mešká 5-14 minút;2;18.18 %;18
+2026-11-16 01:08:01;2026-11-16;1;Monday;mešká 15-29 minút;0;0.00 %;0
+2026-11-16 01:08:01;2026-11-16;1;Monday;mešká 30-59 minút;2;18.18 %;18
+2026-11-16 01:08:01;2026-11-16;1;Monday;mešká 60 a viac minút;4;36.36 %;36
