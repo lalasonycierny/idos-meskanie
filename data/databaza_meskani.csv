@@ -68919,3 +68919,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 22:07:55;2026-11-16;22;Monday;mešká 15-29 minút;3;3.03 %;3
 2026-11-16 22:07:55;2026-11-16;22;Monday;mešká 30-59 minút;3;3.03 %;3
 2026-11-16 22:07:55;2026-11-16;22;Monday;mešká 60 a viac minút;5;5.05 %;5
+2026-11-16 22:17:51;2026-11-16;22;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-16 22:17:51;2026-11-16;22;Monday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-16 22:17:51;2026-11-16;22;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-16 22:17:51;2026-11-16;22;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 22:17:51;2026-11-16;22;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 22:17:51;2026-11-16;22;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 517 minút= 8 hod, 37 min.;997
+2026-11-16 22:17:51;2026-11-16;22;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 397 minút= 6 hod, 37 min.;757
+2026-11-16 22:17:51;2026-11-16;22;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 277 minút= 4 hod, 37 min.;517
+2026-11-16 22:17:51;2026-11-16;22;Monday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Pribetaprešiel stanicou pred 3 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-16 22:17:51;2026-11-16;22;Monday;Os 4835smer Komárno;Bajčodišiel teraz;+ 66 minút= 1 hod, 6 min.;126
+2026-11-16 22:17:51;2026-11-16;22;Monday;Os 4935smer Štúrovo;Dvory nad Žitavouodišiel teraz;+ 57 minút;57
+2026-11-16 22:17:51;2026-11-16;22;Monday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Malackyprešiel stanicou pred 8 min.;+ 44 minút;44
+2026-11-16 22:17:51;2026-11-16;22;Monday;Ex 18640 REGIOJETsmer Bratislava hlavná stanica;Bratislava-Lamačprešiel stanicou pred 3 min.;+ 35 minút;35
+2026-11-16 22:17:51;2026-11-16;22;Monday;Ex 642 TATRANsmer Žilina;Štrbapred 6 min.;+ 20 minút;20
+2026-11-16 22:17:51;2026-11-16;22;Monday;Os 2034smer Kúty;Devínska Nová Vesodišiel pred 7 min.;+ 19 minút;19
+2026-11-16 22:17:51;2026-11-16;22;Monday;R 10734 POVAŽANsmer Bratislava hlavná stanica;Bratislava-Račapred 4 min.;+ 15 minút;15
+2026-11-16 22:17:51;2026-11-16;22;Monday;Ex 627 TATRANsmer Košice;Košiceprišiel pred 9 min.;v cieli+ 15 minút;15
+2026-11-16 22:17:51;2026-11-16;22;Monday;mešká do 5 minút;61;66.30 %;66
+2026-11-16 22:17:51;2026-11-16;22;Monday;mešká 5-14 minút;19;20.65 %;20
+2026-11-16 22:17:51;2026-11-16;22;Monday;mešká 15-29 minút;4;4.35 %;4
+2026-11-16 22:17:51;2026-11-16;22;Monday;mešká 30-59 minút;3;3.26 %;3
+2026-11-16 22:17:51;2026-11-16;22;Monday;mešká 60 a viac minút;5;5.43 %;5
