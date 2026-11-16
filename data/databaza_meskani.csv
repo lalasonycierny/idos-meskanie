@@ -68795,3 +68795,24 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 21:07:54;2026-11-16;21;Monday;mešká 15-29 minút;7;5.34 %;5
 2026-11-16 21:07:54;2026-11-16;21;Monday;mešká 30-59 minút;2;1.53 %;1
 2026-11-16 21:07:54;2026-11-16;21;Monday;mešká 60 a viac minút;6;4.58 %;4
+2026-11-16 21:17:53;2026-11-16;21;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-16 21:17:53;2026-11-16;21;Monday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-16 21:17:53;2026-11-16;21;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-16 21:17:53;2026-11-16;21;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 21:17:53;2026-11-16;21;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 21:17:53;2026-11-16;21;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 457 minút= 7 hod, 37 min.;877
+2026-11-16 21:17:53;2026-11-16;21;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 337 minút= 5 hod, 37 min.;637
+2026-11-16 21:17:53;2026-11-16;21;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 217 minút= 3 hod, 37 min.;397
+2026-11-16 21:17:53;2026-11-16;21;Monday;R 753 BOJNICEsmer Prievidza;Prievidza nákladná stanicaprešiel stanicou teraz;+ 89 minút= 1 hod, 29 min.;149
+2026-11-16 21:17:53;2026-11-16;21;Monday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava hlavná stanicaodišiel pred 2 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-16 21:17:53;2026-11-16;21;Monday;Ex 642 TATRANsmer Žilina;Markušovceteraz;+ 20 minút;20
+2026-11-16 21:17:53;2026-11-16;21;Monday;Os 5742smer Nová Baňa;Žarnovicaodišiel pred 12 min.;+ 20 minút;20
+2026-11-16 21:17:53;2026-11-16;21;Monday;Os 8529smer Čierna nad Tisou;Čierna nad Tisouprišiel pred 6 min.;v cieli+ 20 minút;20
+2026-11-16 21:17:53;2026-11-16;21;Monday;Os 7533smer Prievidza;Odb. Dolná Štubňaprešiel stanicou teraz;+ 19 minút;19
+2026-11-16 21:17:53;2026-11-16;21;Monday;Os 4364smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 4 min.;v cieli+ 18 minút;18
+2026-11-16 21:17:53;2026-11-16;21;Monday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Púchovodišiel pred 3 min.;+ 18 minút;18
+2026-11-16 21:17:53;2026-11-16;21;Monday;mešká do 5 minút;90;69.77 %;69
+2026-11-16 21:17:53;2026-11-16;21;Monday;mešká 5-14 minút;28;21.71 %;21
+2026-11-16 21:17:53;2026-11-16;21;Monday;mešká 15-29 minút;6;4.65 %;4
+2026-11-16 21:17:53;2026-11-16;21;Monday;mešká 30-59 minút;0;0.00 %;0
+2026-11-16 21:17:53;2026-11-16;21;Monday;mešká 60 a viac minút;5;3.88 %;3
