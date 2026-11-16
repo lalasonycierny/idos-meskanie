@@ -66852,3 +66852,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 08:27:52;2026-11-16;8;Monday;mešká 15-29 minút;18;11.84 %;11
 2026-11-16 08:27:52;2026-11-16;8;Monday;mešká 30-59 minút;4;2.63 %;2
 2026-11-16 08:27:52;2026-11-16;8;Monday;mešká 60 a viac minút;1;0.66 %;0
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 621 TATRAN;Košice;v cieli meškal 3 min.;3
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 4370smer Dunajská Streda;Dunajská Stredateraz;+ 180 minút= 3 hod, 0 min.;360
+2026-11-16 08:37:54;2026-11-16;8;Monday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Dobráprešiel stanicou pred 4 min.;+ 44 minút;44
+2026-11-16 08:37:54;2026-11-16;8;Monday;R 912 GEMERANsmer Zvolen osobná stanica;Turňa nad Bodvouodišiel teraz;+ 43 minút;43
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 8506smer Prešov;Košiceodišiel pred 2 min.;+ 36 minút;36
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 8806smer Košice;Košicepred 13 min.;v cieli+ 34 minút;34
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 3107smer Trenčín;Výh. Nivyprešiel stanicou teraz;+ 34 minút;34
+2026-11-16 08:37:54;2026-11-16;8;Monday;REx 1906smer Košice;Košiceteraz;+ 33 minút;33
+2026-11-16 08:37:54;2026-11-16;8;Monday;R 960 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisou št. hr.prišiel pred 6 min.;v cieli+ 29 minút;29
+2026-11-16 08:37:54;2026-11-16;8;Monday;R 10705 POVAŽANsmer Žilina;Bytčaodišiel teraz;+ 26 minút;26
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 3109smer Trenčín;Poriadieodišiel pred 3 min.;+ 25 minút;25
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 607 TATRANsmer Košice;Považská Bystricaodišiel pred 2 min.;+ 25 minút;25
+2026-11-16 08:37:54;2026-11-16;8;Monday;EN 443 SLOVAKIAsmer Humenné;Košiceteraz;+ 25 minút;25
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 5307smer Trenčín;Trenčínteraz;+ 23 minút;23
+2026-11-16 08:37:54;2026-11-16;8;Monday;Zr 11431smer Komárno;Zlatná na Ostroveodišiel pred 13 min.;+ 22 minút;22
+2026-11-16 08:37:54;2026-11-16;8;Monday;EC 183 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Čaňa št. hr.prišiel pred 6 min.;v cieli+ 21 minút;21
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Vrútkyprešiel stanicou pred 2 min.;+ 20 minút;20
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 608 TATRANsmer Bratislava hlavná stanica;Výh. Ružínprešiel stanicou teraz;+ 20 minút;20
+2026-11-16 08:37:54;2026-11-16;8;Monday;REx 1947smer Košice;Košiceteraz;+ 19 minút;19
+2026-11-16 08:37:54;2026-11-16;8;Monday;ra 271 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bernolákovoprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 4307smer Dunajská Streda;Kvetoslavovodišiel pred 4 min.;+ 19 minút;19
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 8505smer Čierna nad Tisou;Slovenské Nové Mestoodišiel pred 7 min.;+ 18 minút;18
+2026-11-16 08:37:54;2026-11-16;8;Monday;EC 280 METROPOLITANsmer Kúty št. hr. - Praha jih;Devínska Nová Vesprešiel stanicou pred 7 min.;+ 18 minút;18
+2026-11-16 08:37:54;2026-11-16;8;Monday;Ex 606 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 5907smer Levice;Tekovské Lužanyteraz;+ 17 minút;17
+2026-11-16 08:37:54;2026-11-16;8;Monday;Os 2706smer Vrbovce št. hr. - Velká nad Veličkou;Myjavaodišiel pred 12 min.;+ 15 minút;15
+2026-11-16 08:37:54;2026-11-16;8;Monday;mešká do 5 minút;93;60.00 %;60
+2026-11-16 08:37:54;2026-11-16;8;Monday;mešká 5-14 minút;37;23.87 %;23
+2026-11-16 08:37:54;2026-11-16;8;Monday;mešká 15-29 minút;18;11.61 %;11
+2026-11-16 08:37:54;2026-11-16;8;Monday;mešká 30-59 minút;6;3.87 %;3
+2026-11-16 08:37:54;2026-11-16;8;Monday;mešká 60 a viac minút;1;0.65 %;0
