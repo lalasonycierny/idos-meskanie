@@ -68145,3 +68145,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 17:07:51;2026-11-16;17;Monday;mešká 15-29 minút;9;5.17 %;5
 2026-11-16 17:07:51;2026-11-16;17;Monday;mešká 30-59 minút;1;0.57 %;0
 2026-11-16 17:07:51;2026-11-16;17;Monday;mešká 60 a viac minút;2;1.15 %;1
+2026-11-16 17:17:51;2026-11-16;17;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-16 17:17:51;2026-11-16;17;Monday;Ex 621 TATRAN;Štrba;ide načas;0
+2026-11-16 17:17:51;2026-11-16;17;Monday;Ex 618 TATRAN;Trenčianska Teplá;mešká 1 min.;1
+2026-11-16 17:17:51;2026-11-16;17;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 17:17:51;2026-11-16;17;Monday;Ex 620 TATRAN;Vrútky;ide načas;0
+2026-11-16 17:17:51;2026-11-16;17;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 217 minút= 3 hod, 37 min.;397
+2026-11-16 17:17:51;2026-11-16;17;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 97 minút= 1 hod, 37 min.;157
+2026-11-16 17:17:51;2026-11-16;17;Monday;Os 5323smer Trenčín;Trenčínteraz;+ 63 minút= 1 hod, 3 min.;123
+2026-11-16 17:17:51;2026-11-16;17;Monday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 24 minút;24
+2026-11-16 17:17:51;2026-11-16;17;Monday;Os 2025smer Bratislava hlavná stanica;Bratislava-Lamačodišiel teraz;+ 24 minút;24
+2026-11-16 17:17:51;2026-11-16;17;Monday;Os 2022smer Kúty;Kútyprišiel pred 9 min.;v cieli+ 22 minút;22
+2026-11-16 17:17:51;2026-11-16;17;Monday;Os 5427smer Trenčianska Teplá;Trenčianska Tepláteraz;+ 22 minút;22
+2026-11-16 17:17:51;2026-11-16;17;Monday;Os 8521smer Čierna nad Tisou;Čierna nad Tisouprišiel pred 4 min.;v cieli+ 19 minút;19
+2026-11-16 17:17:51;2026-11-16;17;Monday;ra 274 METROPOLITANsmer Kúty št. hr. - Praha jih;Kútyodišiel pred 3 min.;+ 18 minút;18
+2026-11-16 17:17:51;2026-11-16;17;Monday;Os 3124smer Myjava;Myjavaprišiel teraz;v cieli+ 17 minút;17
+2026-11-16 17:17:51;2026-11-16;17;Monday;Os 3125smer Trenčín;Trenčianske Bohuslaviceodišiel pred 6 min.;+ 16 minút;16
+2026-11-16 17:17:51;2026-11-16;17;Monday;Os 3127smer Trenčín;Myjavateraz;+ 16 minút;16
+2026-11-16 17:17:51;2026-11-16;17;Monday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Výh. Paludzaprešiel stanicou pred 5 min.;+ 15 minút;15
+2026-11-16 17:17:51;2026-11-16;17;Monday;mešká do 5 minút;112;65.88 %;65
+2026-11-16 17:17:51;2026-11-16;17;Monday;mešká 5-14 minút;45;26.47 %;26
+2026-11-16 17:17:51;2026-11-16;17;Monday;mešká 15-29 minút;10;5.88 %;5
+2026-11-16 17:17:51;2026-11-16;17;Monday;mešká 30-59 minút;0;0.00 %;0
+2026-11-16 17:17:51;2026-11-16;17;Monday;mešká 60 a viac minút;3;1.76 %;1
