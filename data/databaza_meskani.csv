@@ -67694,3 +67694,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 13:27:52;2026-11-16;13;Monday;mešká 15-29 minút;6;4.20 %;4
 2026-11-16 13:27:52;2026-11-16;13;Monday;mešká 30-59 minút;2;1.40 %;1
 2026-11-16 13:27:52;2026-11-16;13;Monday;mešká 60 a viac minút;2;1.40 %;1
+2026-11-16 13:37:53;2026-11-16;13;Monday;Ex 610 TATRAN;Výh. Nivy;mešká 12 min.;12
+2026-11-16 13:37:53;2026-11-16;13;Monday;Ex 621 TATRAN;Pezinok;mešká 2 min.;2
+2026-11-16 13:37:53;2026-11-16;13;Monday;Ex 618 TATRAN;Krompachy;mešká 2 min.;2
+2026-11-16 13:37:53;2026-11-16;13;Monday;Ex 614 TATRAN;Ružomberok;ide načas;0
+2026-11-16 13:37:53;2026-11-16;13;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 13:37:53;2026-11-16;13;Monday;Os 4370smer Dunajská Streda;Dunajská Stredateraz;+ 480 minút= 8 hod, 0 min.;960
+2026-11-16 13:37:53;2026-11-16;13;Monday;R 961smer Košice;Košicepred 6 min.;v cieli+ 71 minút= 1 hod, 11 min.;131
+2026-11-16 13:37:53;2026-11-16;13;Monday;Os 8816smer Košice;Barca St. 1prešiel stanicou pred 4 min.;+ 49 minút;49
+2026-11-16 13:37:53;2026-11-16;13;Monday;Os 8513smer Čierna nad Tisou;Čierna nad Tisoupred 4 min.;v cieli+ 41 minút;41
+2026-11-16 13:37:53;2026-11-16;13;Monday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 38 minút;38
+2026-11-16 13:37:53;2026-11-16;13;Monday;Os 3117smer Trenčín;Trenčín-Zlatovceprišiel teraz;+ 26 minút;26
+2026-11-16 13:37:53;2026-11-16;13;Monday;Os 7814smer Svit;Vydrníkodišiel pred 8 min.;+ 25 minút;25
+2026-11-16 13:37:53;2026-11-16;13;Monday;Os 3916smer Skalité;Žilinaprišiel pred 8 min.;v cieli+ 23 minút;23
+2026-11-16 13:37:53;2026-11-16;13;Monday;Ex 608 TATRANsmer Bratislava hlavná stanica;Cíferprešiel stanicou pred 2 min.;+ 22 minút;22
+2026-11-16 13:37:53;2026-11-16;13;Monday;Ex 617 TATRANsmer Košice;Bytčaprišiel pred 2 min.;+ 19 minút;19
+2026-11-16 13:37:53;2026-11-16;13;Monday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Gbelceprešiel stanicou pred 3 min.;+ 18 minút;18
+2026-11-16 13:37:53;2026-11-16;13;Monday;EC 141 OSTRAVANsmer Žilina;Kysucké Nové Mestoprešiel stanicou pred 5 min.;+ 16 minút;16
+2026-11-16 13:37:53;2026-11-16;13;Monday;REx 7736smer Bratislava-Petržalka št. - Wien Hauptbahnhof (in Wbf;Bratislava-Petržalka št. hr.prišiel pred 3 min.;v cieli+ 16 minút;16
+2026-11-16 13:37:53;2026-11-16;13;Monday;mešká do 5 minút;114;72.15 %;72
+2026-11-16 13:37:53;2026-11-16;13;Monday;mešká 5-14 minút;31;19.62 %;19
+2026-11-16 13:37:53;2026-11-16;13;Monday;mešká 15-29 minút;8;5.06 %;5
+2026-11-16 13:37:53;2026-11-16;13;Monday;mešká 30-59 minút;3;1.90 %;1
+2026-11-16 13:37:53;2026-11-16;13;Monday;mešká 60 a viac minút;2;1.27 %;1
