@@ -68941,3 +68941,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 22:17:51;2026-11-16;22;Monday;mešká 15-29 minút;4;4.35 %;4
 2026-11-16 22:17:51;2026-11-16;22;Monday;mešká 30-59 minút;3;3.26 %;3
 2026-11-16 22:17:51;2026-11-16;22;Monday;mešká 60 a viac minút;5;5.43 %;5
+2026-11-16 22:27:51;2026-11-16;22;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-16 22:27:51;2026-11-16;22;Monday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-16 22:27:51;2026-11-16;22;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-16 22:27:51;2026-11-16;22;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 22:27:51;2026-11-16;22;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 22:27:51;2026-11-16;22;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 527 minút= 8 hod, 47 min.;1007
+2026-11-16 22:27:51;2026-11-16;22;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 407 minút= 6 hod, 47 min.;767
+2026-11-16 22:27:51;2026-11-16;22;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 287 minút= 4 hod, 47 min.;527
+2026-11-16 22:27:51;2026-11-16;22;Monday;Os 4835smer Komárno;Hurbanovoodišiel pred 4 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-16 22:27:51;2026-11-16;22;Monday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Gbelceprešiel stanicou pred 3 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-16 22:27:51;2026-11-16;22;Monday;Os 4935smer Štúrovo;Strekovodišiel teraz;+ 57 minút;57
+2026-11-16 22:27:51;2026-11-16;22;Monday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Zohorteraz;+ 50 minút;50
+2026-11-16 22:27:51;2026-11-16;22;Monday;R 10734 POVAŽANsmer Bratislava hlavná stanica;Bratislava-Račapred 5 min.;+ 45 minút;45
+2026-11-16 22:27:51;2026-11-16;22;Monday;Ex 18640 REGIOJETsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 4 min.;v cieli+ 36 minút;36
+2026-11-16 22:27:51;2026-11-16;22;Monday;Ex 642 TATRANsmer Žilina;Kráľova Lehotaprešiel stanicou teraz;+ 20 minút;20
+2026-11-16 22:27:51;2026-11-16;22;Monday;mešká do 5 minút;60;68.18 %;68
+2026-11-16 22:27:51;2026-11-16;22;Monday;mešká 5-14 minút;18;20.45 %;20
+2026-11-16 22:27:51;2026-11-16;22;Monday;mešká 15-29 minút;1;1.14 %;1
+2026-11-16 22:27:51;2026-11-16;22;Monday;mešká 30-59 minút;4;4.55 %;4
+2026-11-16 22:27:51;2026-11-16;22;Monday;mešká 60 a viac minút;5;5.68 %;5
