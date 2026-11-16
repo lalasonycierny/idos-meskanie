@@ -68898,3 +68898,24 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 21:57:52;2026-11-16;21;Monday;mešká 15-29 minút;3;2.91 %;2
 2026-11-16 21:57:52;2026-11-16;21;Monday;mešká 30-59 minút;2;1.94 %;1
 2026-11-16 21:57:52;2026-11-16;21;Monday;mešká 60 a viac minút;4;3.88 %;3
+2026-11-16 22:07:55;2026-11-16;22;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-16 22:07:55;2026-11-16;22;Monday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-16 22:07:55;2026-11-16;22;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-16 22:07:55;2026-11-16;22;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 22:07:55;2026-11-16;22;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 22:07:55;2026-11-16;22;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-16 22:07:55;2026-11-16;22;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 387 minút= 6 hod, 27 min.;747
+2026-11-16 22:07:55;2026-11-16;22;Monday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 267 minút= 4 hod, 27 min.;507
+2026-11-16 22:07:55;2026-11-16;22;Monday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Nové Zámkyodišiel teraz;+ 68 minút= 1 hod, 8 min.;128
+2026-11-16 22:07:55;2026-11-16;22;Monday;Os 4835smer Komárno;Nové Zámkyteraz;+ 65 minút= 1 hod, 5 min.;125
+2026-11-16 22:07:55;2026-11-16;22;Monday;Os 4935smer Štúrovo;Nové Zámkyteraz;+ 55 minút;55
+2026-11-16 22:07:55;2026-11-16;22;Monday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Veľké Leváreprešiel stanicou pred 2 min.;+ 42 minút;42
+2026-11-16 22:07:55;2026-11-16;22;Monday;Ex 18640 REGIOJETsmer Bratislava hlavná stanica;Zohorprešiel stanicou pred 11 min.;+ 40 minút;40
+2026-11-16 22:07:55;2026-11-16;22;Monday;Ex 642 TATRANsmer Žilina;Výh. Lučivnáprešiel stanicou pred 4 min.;+ 22 minút;22
+2026-11-16 22:07:55;2026-11-16;22;Monday;Os 2034smer Kúty;Devínska Nová Vesteraz;+ 17 minút;17
+2026-11-16 22:07:55;2026-11-16;22;Monday;Ex 627 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 6 min.;+ 15 minút;15
+2026-11-16 22:07:55;2026-11-16;22;Monday;mešká do 5 minút;68;68.69 %;68
+2026-11-16 22:07:55;2026-11-16;22;Monday;mešká 5-14 minút;20;20.20 %;20
+2026-11-16 22:07:55;2026-11-16;22;Monday;mešká 15-29 minút;3;3.03 %;3
+2026-11-16 22:07:55;2026-11-16;22;Monday;mešká 30-59 minút;3;3.03 %;3
+2026-11-16 22:07:55;2026-11-16;22;Monday;mešká 60 a viac minút;5;5.05 %;5
