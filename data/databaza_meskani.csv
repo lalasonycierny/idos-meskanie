@@ -66483,3 +66483,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 05:57:51;2026-11-16;5;Monday;mešká 15-29 minút;6;3.59 %;3
 2026-11-16 05:57:51;2026-11-16;5;Monday;mešká 30-59 minút;0;0.00 %;0
 2026-11-16 05:57:51;2026-11-16;5;Monday;mešká 60 a viac minút;1;0.60 %;0
+2026-11-16 06:07:52;2026-11-16;6;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 06:07:52;2026-11-16;6;Monday;Ex 621 TATRAN;Košice;v cieli meškal 3 min.;3
+2026-11-16 06:07:52;2026-11-16;6;Monday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 06:07:52;2026-11-16;6;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 06:07:52;2026-11-16;6;Monday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 06:07:52;2026-11-16;6;Monday;Os 3103smer Nové Mesto nad Váhom;Stará Turáodišiel pred 7 min.;+ 67 minút= 1 hod, 7 min.;127
+2026-11-16 06:07:52;2026-11-16;6;Monday;Os 4370smer Dunajská Streda;Dunajská Stredateraz;+ 30 minút;30
+2026-11-16 06:07:52;2026-11-16;6;Monday;Ex 600 TATRANsmer Bratislava hlavná stanica;Svitteraz;+ 27 minút;27
+2026-11-16 06:07:52;2026-11-16;6;Monday;Os 8502smer Prešov;Krásna nad Hornádomteraz;+ 26 minút;26
+2026-11-16 06:07:52;2026-11-16;6;Monday;Os 3102smer Myjava;Stará Turáodišiel pred 7 min.;+ 21 minút;21
+2026-11-16 06:07:52;2026-11-16;6;Monday;Os 6100smer Horná Štubňa;Kremnické Baneodišiel pred 8 min.;+ 19 minút;19
+2026-11-16 06:07:52;2026-11-16;6;Monday;Os 4373smer Komárno;Zemianska Olčateraz;+ 18 minút;18
+2026-11-16 06:07:52;2026-11-16;6;Monday;REx 1761smer Košice;Kostoľany nad Hornádomprešiel stanicou pred 4 min.;+ 17 minút;17
+2026-11-16 06:07:52;2026-11-16;6;Monday;RJ 1044 REGIOJETsmer Kúty št. hr. - Praha-Malešice;Malackyprešiel stanicou pred 5 min.;+ 16 minút;16
+2026-11-16 06:07:52;2026-11-16;6;Monday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Devínska Nová Vesprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-16 06:07:52;2026-11-16;6;Monday;mešká do 5 minút;148;82.68 %;82
+2026-11-16 06:07:52;2026-11-16;6;Monday;mešká 5-14 minút;21;11.73 %;11
+2026-11-16 06:07:52;2026-11-16;6;Monday;mešká 15-29 minút;8;4.47 %;4
+2026-11-16 06:07:52;2026-11-16;6;Monday;mešká 30-59 minút;1;0.56 %;0
+2026-11-16 06:07:52;2026-11-16;6;Monday;mešká 60 a viac minút;1;0.56 %;0
