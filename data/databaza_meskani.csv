@@ -68078,3 +68078,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-16 16:37:52;2026-11-16;16;Monday;mešká 15-29 minút;11;6.15 %;6
 2026-11-16 16:37:52;2026-11-16;16;Monday;mešká 30-59 minút;2;1.12 %;1
 2026-11-16 16:37:52;2026-11-16;16;Monday;mešká 60 a viac minút;1;0.56 %;0
+2026-11-16 16:47:53;2026-11-16;16;Monday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-16 16:47:53;2026-11-16;16;Monday;Ex 621 TATRAN;Liptovský Mikuláš;ide načas;0
+2026-11-16 16:47:53;2026-11-16;16;Monday;Ex 618 TATRAN;Výh. Plevník-Drienové;ide načas;0
+2026-11-16 16:47:53;2026-11-16;16;Monday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-16 16:47:53;2026-11-16;16;Monday;Ex 620 TATRAN;Ružomberok;ide načas;0
+2026-11-16 16:47:53;2026-11-16;16;Monday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 187 minút= 3 hod, 7 min.;367
+2026-11-16 16:47:53;2026-11-16;16;Monday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 67 minút= 1 hod, 7 min.;127
+2026-11-16 16:47:53;2026-11-16;16;Monday;Os 5323smer Trenčín;Trenčínteraz;+ 33 minút;33
+2026-11-16 16:47:53;2026-11-16;16;Monday;Os 3123smer Trenčín;Trenčínprišiel pred 4 min.;v cieli+ 27 minút;27
+2026-11-16 16:47:53;2026-11-16;16;Monday;Os 8521smer Čierna nad Tisou;Streda nad Bodrogomteraz;+ 27 minút;27
+2026-11-16 16:47:53;2026-11-16;16;Monday;Zr 11441smer Komárno;Komárnoprišiel pred 4 min.;v cieli+ 23 minút;23
+2026-11-16 16:47:53;2026-11-16;16;Monday;Os 2025smer Bratislava hlavná stanica;Zohorodišiel pred 2 min.;+ 18 minút;18
+2026-11-16 16:47:53;2026-11-16;16;Monday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Štrbapred 7 min.;+ 17 minút;17
+2026-11-16 16:47:53;2026-11-16;16;Monday;Os 2022smer Kúty;Malackyodišiel pred 3 min.;+ 17 minút;17
+2026-11-16 16:47:53;2026-11-16;16;Monday;EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati;Malackyprešiel stanicou pred 9 min.;+ 15 minút;15
+2026-11-16 16:47:53;2026-11-16;16;Monday;ra 274 METROPOLITANsmer Kúty št. hr. - Praha jih;Zohorprešiel stanicou pred 6 min.;+ 15 minút;15
+2026-11-16 16:47:53;2026-11-16;16;Monday;Os 3124smer Myjava;Vaďovceodišiel pred 3 min.;+ 15 minút;15
+2026-11-16 16:47:53;2026-11-16;16;Monday;mešká do 5 minút;112;70.89 %;70
+2026-11-16 16:47:53;2026-11-16;16;Monday;mešká 5-14 minút;34;21.52 %;21
+2026-11-16 16:47:53;2026-11-16;16;Monday;mešká 15-29 minút;9;5.70 %;5
+2026-11-16 16:47:53;2026-11-16;16;Monday;mešká 30-59 minút;1;0.63 %;0
+2026-11-16 16:47:53;2026-11-16;16;Monday;mešká 60 a viac minút;2;1.27 %;1
