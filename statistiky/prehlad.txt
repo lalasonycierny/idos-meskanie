@@ -1,57 +1,57 @@
 KOMPLETNÁ ŠTATISTIKA MEŠKANÍ VLAKOV
-Obdobie: 2026-10-23 08:57 – 2026-11-17 07:27
+Obdobie: 2026-10-23 08:57 – 2026-11-17 07:47
 
 === ZÁKLADNÉ ČÍSLA ===
-Meraní celkom: 69 876
-Snímok stránky: 2 715
+Meraní celkom: 69 920
+Snímok stránky: 2 717
 Dní s dátami: 21 z 26
 Unikátnych vlakov: 1185
-Unikátnych staníc: 5462
-Priemerné meškanie: 90.15 min
+Unikátnych staníc: 5465
+Priemerné meškanie: 90.10 min
 Medián: 22.0 min
-P90: 138.5 min
+P90: 138.0 min
 P95: 497.0 min
 P99: 1342.0 min
 Maximum: 2579 min
 Podiel meškajúcich (>0): 94.2 %
 Meškanie nad 5 min: 85.3 %
 Meškanie nad 15 min: 71.1 %
-Meškanie nad 60 min: 18.82 %
-Smerodajná odchýlka: 245.67 min
+Meškanie nad 60 min: 18.81 %
+Smerodajná odchýlka: 245.60 min
 
 === ZISTENIA A TRENDY ===
 • Najhoršia hodina: 1:00 (priemer 248.64 min)
 • Najlepšia hodina: 8:00 (priemer 45.28 min)
 • Najhorší deň v týždni: Streda (123.65 min)
 • Najlepší deň v týždni: Nedeľa (69.84 min)
-• Víkend vs. pracovný deň: 79.28 vs. 94.00 min
+• Víkend vs. pracovný deň: 79.28 vs. 93.93 min
 • Najhorší deň: 2026-11-04 (154.16 min)
 • Najlepší deň: 2026-10-25 (56.87 min)
-• Lineárny trend: situácia sa zhoršuje o 33.46 min / 30 dní
-• Korelácia čas ↔ priemerné meškanie: +0.32
-• Posledných 7 dní: 92.60 min vs. predošlých 7 dní: 97.03 min (-4.6 %)
-• Korelácia hodina dňa ↔ meškanie: -0.06
+• Lineárny trend: situácia sa zhoršuje o 31.80 min / 30 dní
+• Korelácia čas ↔ priemerné meškanie: +0.31
+• Posledných 7 dní: 92.46 min vs. predošlých 7 dní: 97.03 min (-4.7 %)
+• Korelácia hodina dňa ↔ meškanie: -0.05
 • Top 10 % staníc (546) tvorí 86.7 % všetkých minút meškania
 
 === PERCENTILY ===
 Percentil  Minuty
-      P25    15.0
-      P50    22.0
-      P75    44.0
-      P90   138.5
-      P95   497.0
-      P99  1342.0
-    P99.9  2182.5
+      P25   15.00
+      P50   22.00
+      P75   44.00
+      P90  138.00
+      P95  497.00
+      P99 1342.00
+    P99.9 2182.32
 
 === ROZDELENIE PODĽA ZÁVAŽNOSTI ===
            Zaznamov  Podiel_%
 Kategoria                    
-Včas (0)       4019      5.75
-1–5 min        6261      8.96
-6–15 min       9897     14.16
-16–30 min     25191     36.05
-31–60 min     11355     16.25
-60+ min       13153     18.82
+Včas (0)       4026      5.76
+1–5 min        6268      8.96
+6–15 min       9900     14.16
+16–30 min     25213     36.06
+31–60 min     11358     16.24
+60+ min       13155     18.81
 
 === PODĽA HODINY ===
         Zaznamov  Priemer  Median     P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
@@ -63,7 +63,7 @@ Hodina
 4           1537   152.73    13.0   360.4  2321  400.66        84.12     64.93      46.84      24.72
 5           1938   118.48    18.0   126.0  2441  352.51        87.82     73.22      56.19      21.36
 6           2087    55.37    19.0    84.4  2561  222.35        89.55     77.91      62.19      16.24
-7           2549    48.44    20.0    77.0  2579  183.62        92.70     83.37      69.32      14.44
+7           2593    47.89    20.0    76.0  2579  182.11        92.56     83.11      69.19      14.27
 8           2687    45.28    21.0    78.0  2281  145.32        93.75     87.01      72.68      13.66
 9           3401    47.25    22.0   121.0  2400  140.90        95.65     87.89      73.51      13.70
 10          3689    53.02    22.0   130.0  2520  139.87        96.50     89.64      76.20      17.59
@@ -85,7 +85,7 @@ Hodina
           Zaznamov  Priemer  Median    P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Den                                                                                                  
 Pondelok     10649    73.47    21.0  128.0  1374  200.28        91.26     78.77      67.78      14.93
-Utorok       13076   100.93    24.0  209.5  2085  252.60        95.46     87.16      75.46      17.88
+Utorok       13120   100.65    24.0  179.0  2085  252.22        95.43     87.10      75.41      17.84
 Streda        9291   123.65    26.0  141.0  2579  327.10        95.59     87.96      74.55      29.88
 Štvrtok       7937    76.64    24.0  131.0  1379  185.46        94.58     88.91      76.69      24.38
 Piatok       10671    93.07    21.0  136.0  2545  263.79        97.34     89.03      72.36      15.90
@@ -96,7 +96,7 @@ Nedeľa        9529    69.84    21.0  124.0  1491  187.85        92.45     81.74
                                Zaznamov  Priemer  Median     P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Cast_dna                                                                                                                   
 Noc (0–5)                         10552   193.52    21.0  1017.0  2441  427.82        87.65     78.55      60.33      25.20
-Ranná špička (6–9)                10724    48.62    21.0    88.7  2579  170.96        93.29     84.65      70.10      14.36
+Ranná špička (6–9)                10768    48.49    21.0    85.3  2579  170.62        93.25     84.58      70.07      14.32
 Dopoludnie/popoludnie (10–15)     20728    48.32    22.0   123.0  2542  113.75        95.41     86.33      73.30      15.62
 Popoludňajšia špička (16–19)      14308    70.16    22.0   142.0  2096  167.20        95.86     85.66      73.82      18.12
 Večer (20–23)                     13564   127.59    24.0   418.0  2545  286.36        96.67     89.05      74.17      23.03
@@ -105,16 +105,16 @@ Večer (20–23)                     13564   127.59    24.0   418.0  2545  286.3
            Zaznamov  Priemer  Median     P90   Max     Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
 Typ_vlaku                                                                                              
 EC             5382   507.46   397.0  1227.0  1491  459.08       100.00    100.00      98.49      69.53
-REX            2932   166.25    26.0   365.9  2579  427.18       100.00    100.00      92.43      23.16
-OS            16630    96.55    23.0   137.0  2542  282.90       100.00    100.00      90.66      14.45
-RJ             1998    64.55    29.0   145.0  1253  117.09       100.00    100.00      94.89      18.67
+REX            2935   166.11    26.0   365.6  2579  426.99       100.00    100.00      92.44      23.13
+OS            16641    96.50    23.0   137.0  2542  282.81       100.00    100.00      90.66      14.44
+RJ             2002    64.47    29.0   145.0  1253  116.98       100.00    100.00      94.91      18.63
 EN              625    61.57    25.0   139.4   486   93.86       100.00    100.00      93.12      17.44
-R              5808    51.36    28.0   132.0   873   68.24       100.00    100.00      93.89      15.00
+R              5812    51.34    28.0   132.0   873   68.22       100.00    100.00      93.89      14.99
 RA             1528    50.81    30.0   137.0   259   55.12       100.00    100.00      93.52      16.49
 SC              386    41.97    22.0    50.0   257   59.17       100.00    100.00      91.71       7.51
-EX            20829    30.97    17.0    89.0   419   40.17        88.19     76.49      55.96      14.27
+EX            20841    30.96    17.0    89.0   419   40.16        88.18     76.46      55.94      14.26
 ZR              238    25.44    23.0    38.0    54    8.97       100.00    100.00      96.22       0.00
-MEŠKÁ         13520    19.56     9.0    64.0   100   23.96        88.46     60.18      37.08      12.74
+MEŠKÁ         13530    19.56     9.0    64.0   100   23.96        88.45     60.18      37.08      12.75
 
 === TOP 25 NAJHORŠÍCH STANÍC ===
                                  Zaznamov  Priemer  Median     P90   Max      Std  Meskaju_pct  Nad5_pct  Nad15_pct  Nad60_pct
