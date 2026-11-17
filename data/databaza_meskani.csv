@@ -71073,3 +71073,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-17 12:47:56;2026-11-17;12;Tuesday;mešká 15-29 minút;13;9.35 %;9
 2026-11-17 12:47:56;2026-11-17;12;Tuesday;mešká 30-59 minút;10;7.19 %;7
 2026-11-17 12:47:56;2026-11-17;12;Tuesday;mešká 60 a viac minút;5;3.60 %;3
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 610 TATRAN;Považská Bystrica;mešká 4 min.;4
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 618 TATRAN;Košice;ide načas;0
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 614 TATRAN;Štrba;mešká 1 min.;1
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 13001smer Kúty št. hr. - Praha-Holešovice;Kútyprešiel stanicou pred 5 min.;+ 254 minút= 4 hod, 14 min.;494
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;R 961smer Košice;Čierna nad Tisouteraz;+ 220 minút= 3 hod, 40 min.;400
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 2652smer Senica;Bolerázteraz;+ 186 minút= 3 hod, 6 min.;366
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Sekuleprešiel stanicou teraz;+ 103 minút= 1 hod, 43 min.;163
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 611 TATRANsmer Košice;Liptovský Mikulášodišiel pred 2 min.;+ 73 minút= 1 hod, 13 min.;133
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;R 10714 POVAŽANsmer Bratislava hlavná stanica;Pezinokprišiel teraz;+ 62 minút= 1 hod, 2 min.;122
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 609 TATRANsmer Košice;Výh. Letanovceprešiel stanicou pred 2 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 604 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 11 min.;v cieli+ 58 minút;58
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 606 TATRANsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou pred 3 min.;+ 56 minút;56
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 7315smer Zvolen osobná stanica;Vlkanováprišiel teraz;+ 56 minút;56
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 3315smer Žilina;Dolný Hričovodišiel pred 3 min.;+ 49 minút;49
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 2615smer Trnava;Bolerázpred 3 min.;v cieli+ 47 minút;47
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 5315smer Trenčín;Trenčínteraz;+ 43 minút;43
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 613 TATRANsmer Košice;Ľubochňaprešiel stanicou pred 8 min.;+ 40 minút;40
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 3916smer Skalité;Budatín odb.prešiel stanicou teraz;+ 37 minút;37
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;R 915 GEMERANsmer Košice;Čečejovceteraz;+ 32 minút;32
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 3314smer Trenčín-Zlatovce;Trenčín-Zlatovcepred 13 min.;v cieli+ 32 minút;32
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;R 10713 POVAŽANsmer Žilina;Žilinaprišiel pred 6 min.;v cieli+ 29 minút;29
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;R 10718 POVAŽANsmer Bratislava hlavná stanica;Trenčianska Tepláprišiel teraz;+ 27 minút;27
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Ex 619 TATRANsmer Košice;Bratislava hlavná stanicaodišiel pred 12 min.;+ 27 minút;27
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;REx 1915smer Humenné;Strážskeodišiel teraz;+ 26 minút;26
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 3117smer Trenčín;Stará Turáodišiel pred 11 min.;+ 24 minút;24
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;REx 1916smer Košice;Výh. Slivníkprišiel pred 8 min.;+ 23 minút;23
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;REx 1869smer Nové Zámky;Palárikovoodišiel teraz;+ 18 minút;18
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 7517smer Prievidza;Príbovce-Rakovoodišiel pred 2 min.;+ 18 minút;18
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 2616smer Kúty;Nemčankateraz;+ 17 minút;17
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 1343smer Rusovce št. hr. - Hegyeshalom;Bratislava ústredná nákladná stanicateraz;+ 16 minút;16
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;Os 3316smer Trenčín-Zlatovce;Ladceodišiel teraz;+ 15 minút;15
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;mešká do 5 minút;75;55.56 %;55
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;mešká 5-14 minút;32;23.70 %;23
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;mešká 15-29 minút;11;8.15 %;8
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;mešká 30-59 minút;10;7.41 %;7
+2026-11-17 12:57:58;2026-11-17;12;Tuesday;mešká 60 a viac minút;7;5.19 %;5
