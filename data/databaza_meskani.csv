@@ -69366,3 +69366,18 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-17 01:57:52;2026-11-17;1;Tuesday;mešká 15-29 minút;3;42.86 %;42
 2026-11-17 01:57:52;2026-11-17;1;Tuesday;mešká 30-59 minút;1;14.29 %;14
 2026-11-17 01:57:52;2026-11-17;1;Tuesday;mešká 60 a viac minút;2;28.57 %;28
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 627 minút= 10 hod, 27 min.;1227
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;REx 2540smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 38 minút;38
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Budatín odb.prešiel stanicou pred 7 min.;+ 25 minút;25
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou pred 7 min.;+ 20 minút;20
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;mešká do 5 minút;1;16.67 %;16
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;mešká 5-14 minút;0;0.00 %;0
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;mešká 15-29 minút;2;33.33 %;33
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;mešká 30-59 minút;1;16.67 %;16
+2026-11-17 02:07:51;2026-11-17;2;Tuesday;mešká 60 a viac minút;2;33.33 %;33
