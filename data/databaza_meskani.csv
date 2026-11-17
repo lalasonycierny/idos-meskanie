@@ -69835,3 +69835,22 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-17 07:07:52;2026-11-17;7;Tuesday;mešká 15-29 minút;2;1.06 %;1
 2026-11-17 07:07:52;2026-11-17;7;Tuesday;mešká 30-59 minút;2;1.06 %;1
 2026-11-17 07:07:52;2026-11-17;7;Tuesday;mešká 60 a viac minút;0;0.00 %;0
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Potok odb.prešiel stanicou pred 2 min.;+ 30 minút;30
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;REx 1434smer Bratislava hlavná stanica;Dolný Štálodišiel pred 10 min.;+ 30 minút;30
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;R 960 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Slovenské Nové Mestoprešiel stanicou pred 7 min.;+ 28 minút;28
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Ľubochňaprešiel stanicou pred 6 min.;+ 23 minút;23
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Os 4305smer Dunajská Streda;Podunajské Biskupiceodišiel pred 6 min.;+ 18 minút;18
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Os 6105smer Zvolen osobná stanica;Hronská Dúbravateraz;+ 17 minút;17
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Os 4304smer Bratislava hlavná stanica;Nové Košariskáteraz;+ 17 minút;17
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Os 8505smer Čierna nad Tisou;Košiceteraz;+ 17 minút;17
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;Os 7802smer Svit;Výh. Letanovceprešiel stanicou pred 7 min.;+ 15 minút;15
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;mešká do 5 minút;127;67.91 %;67
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;mešká 5-14 minút;51;27.27 %;27
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;mešká 15-29 minút;7;3.74 %;3
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;mešká 30-59 minút;2;1.07 %;1
+2026-11-17 07:17:53;2026-11-17;7;Tuesday;mešká 60 a viac minút;0;0.00 %;0
