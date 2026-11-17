@@ -70997,3 +70997,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-17 12:27:54;2026-11-17;12;Tuesday;mešká 15-29 minút;12;9.30 %;9
 2026-11-17 12:27:54;2026-11-17;12;Tuesday;mešká 30-59 minút;7;5.43 %;5
 2026-11-17 12:27:54;2026-11-17;12;Tuesday;mešká 60 a viac minút;7;5.43 %;5
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 610 TATRAN;Výh. Váh;mešká 11 min.;11
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 621 TATRAN;Košice;v cieli meškal 5 min.;5
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 2 min.;2
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 614 TATRAN;Poprad-Tatry;ide načas;0
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 13001smer Kúty št. hr. - Praha-Holešovice;Malackyprešiel stanicou pred 3 min.;+ 253 minút= 4 hod, 13 min.;493
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 2652smer Senica;Bolerázteraz;+ 166 minút= 2 hod, 46 min.;286
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 611 TATRANsmer Košice;Ružomberokodišiel teraz;+ 77 minút= 1 hod, 17 min.;137
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 609 TATRANsmer Košice;Poprad-Tatryprišiel pred 2 min.;+ 69 minút= 1 hod, 9 min.;129
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;RJ 1003 REGIOJETsmer Košice;Čadcapred 6 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;R 10714 POVAŽANsmer Bratislava hlavná stanica;Trnava nákladná stanicaprešiel stanicou pred 3 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 604 TATRANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 3 min.;+ 58 minút;58
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 606 TATRANsmer Bratislava hlavná stanica;Výh. Potvoriceprešiel stanicou pred 2 min.;+ 58 minút;58
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 2615smer Trnava;Jablonicaodišiel pred 6 min.;+ 51 minút;51
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 7315smer Zvolen osobná stanica;Banská Bystricateraz;+ 49 minút;49
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 3315smer Žilina;Považská Bystricaodišiel pred 3 min.;+ 49 minút;49
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 3916smer Skalité;Vrútkyodišiel pred 2 min.;+ 39 minút;39
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 613 TATRANsmer Košice;Turanyprešiel stanicou pred 2 min.;+ 38 minút;38
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 5315smer Trenčín;Mníchova Lehotaodišiel pred 8 min.;+ 36 minút;36
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 3314smer Trenčín-Zlatovce;Trenčianska Tepláodišiel pred 3 min.;+ 34 minút;34
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;REx 1915smer Humenné;Michalovceodišiel teraz;+ 28 minút;28
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;R 10718 POVAŽANsmer Bratislava hlavná stanica;Púchovodišiel teraz;+ 28 minút;28
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;R 10713 POVAŽANsmer Žilina;Výh. Plevník-Drienovéprešiel stanicou pred 3 min.;+ 27 minút;27
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 7847smer Svit;Výh. Lučivnáprešiel stanicou pred 3 min.;+ 24 minút;24
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;REx 1435smer Komárno;Zlatná na Ostroveodišiel pred 14 min.;+ 24 minút;24
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 23 minút;23
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 3316smer Trenčín-Zlatovce;Výh. Plevník-Drienovéprešiel stanicou pred 4 min.;+ 22 minút;22
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Ex 619 TATRANsmer Košice;Bratislava hlavná stanicateraz;+ 21 minút;21
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;REx 1916smer Košice;Trebišovodišiel pred 4 min.;+ 21 minút;21
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 3117smer Trenčín;Poriadieodišiel pred 7 min.;+ 21 minút;21
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 5517smer Prievidza;Oslanyprišiel pred 3 min.;+ 16 minút;16
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 7517smer Prievidza;Vrútkyodišiel teraz;+ 16 minút;16
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;Os 6115smer Zvolen osobná stanica;Hronská Dúbravaodišiel pred 7 min.;+ 15 minút;15
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;mešká do 5 minút;74;54.41 %;54
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;mešká 5-14 minút;34;25.00 %;25
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;mešká 15-29 minút;13;9.56 %;9
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;mešká 30-59 minút;9;6.62 %;6
+2026-11-17 12:37:57;2026-11-17;12;Tuesday;mešká 60 a viac minút;6;4.41 %;4
