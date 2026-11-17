@@ -72317,3 +72317,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-17 18:07:59;2026-11-17;18;Tuesday;mešká 15-29 minút;18;10.34 %;10
 2026-11-17 18:07:59;2026-11-17;18;Tuesday;mešká 30-59 minút;3;1.72 %;1
 2026-11-17 18:07:59;2026-11-17;18;Tuesday;mešká 60 a viac minút;6;3.45 %;3
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Ex 621 TATRAN;Spišské Vlachy;mešká 1 min.;1
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Ex 618 TATRAN;Trnava nákladná stanica;mešká 6 min.;6
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Ex 620 TATRAN;Púchov;mešká 18 min.;18
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 2652smer Senica;Bolerázteraz;+ 506 minút= 8 hod, 26 min.;986
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 282 minút= 4 hod, 42 min.;522
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;R 963 ZAKARPATIAsmer Košice;Slanecprešiel stanicou pred 4 min.;+ 179 minút= 2 hod, 59 min.;299
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 162 minút= 2 hod, 42 min.;282
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 2624smer Kúty;Bolerázteraz;+ 86 minút= 1 hod, 26 min.;146
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 84 minút= 1 hod, 24 min.;144
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 3572smer Rajec;Žilinaodišiel pred 2 min.;+ 55 minút;55
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;REx 1967smer Košice;Veľký Šarišodišiel teraz;+ 47 minút;47
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 37 minút;37
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;ra 272 METROPOLITANsmer Kúty št. hr. - Praha jih;Senecprešiel stanicou pred 2 min.;+ 37 minút;37
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;REx 1964smer Lipany;Sabinovodišiel teraz;+ 34 minút;34
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 3127smer Trenčín;Čachticeodišiel pred 6 min.;+ 30 minút;30
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;REx 1925smer Humenné;Humennéprišiel pred 14 min.;v cieli+ 27 minút;27
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Zr 11445smer Komárno;Zemianska Olčaodišiel teraz;+ 26 minút;26
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Ex 624 TATRANsmer Bratislava hlavná stanica;Štrbapred 3 min.;+ 24 minút;24
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 8327smer Stará Ľubovňa;Matejovce pri Popradeodišiel teraz;+ 22 minút;22
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;REx 7749smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 8 min.;v cieli+ 21 minút;21
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Žilinaprišiel teraz;+ 21 minút;21
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Ex 619 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 7 min.;+ 21 minút;21
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 7827smer Košice;Margecanyodišiel pred 2 min.;+ 20 minút;20
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 7852smer Liptovský Mikuláš;Výh. Lučivnáprešiel stanicou pred 3 min.;+ 20 minút;20
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Ex 620 TATRANsmer Bratislava hlavná stanica;Púchovprišiel pred 2 min.;+ 18 minút;18
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 7528smer Vrútky;Chrenovecodišiel teraz;+ 17 minút;17
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 8528smer Prešov;Michaľanyodišiel pred 4 min.;+ 17 minút;17
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 9128smer Prešov;Nižný Hrabovecodišiel teraz;+ 17 minút;17
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 9127smer Humenné;Nižný Hrabovecodišiel teraz;+ 16 minút;16
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 3129smer Trenčín;Myjavateraz;+ 16 minút;16
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;REx 1787smer Margecany;Margecanyprišiel pred 6 min.;v cieli+ 16 minút;16
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;Os 3126smer Myjava;Myjavaprišiel pred 3 min.;v cieli+ 15 minút;15
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;mešká do 5 minút;75;42.86 %;42
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;mešká 5-14 minút;71;40.57 %;40
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;mešká 15-29 minút;17;9.71 %;9
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;mešká 30-59 minút;6;3.43 %;3
+2026-11-17 18:17:54;2026-11-17;18;Tuesday;mešká 60 a viac minút;6;3.43 %;3
