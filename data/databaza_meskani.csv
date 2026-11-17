@@ -71299,3 +71299,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-17 13:47:57;2026-11-17;13;Tuesday;mešká 15-29 minút;13;8.67 %;8
 2026-11-17 13:47:57;2026-11-17;13;Tuesday;mešká 30-59 minút;9;6.00 %;6
 2026-11-17 13:47:57;2026-11-17;13;Tuesday;mešká 60 a viac minút;5;3.33 %;3
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 610 TATRAN;Leopoldov;ide načas;0
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 621 TATRAN;Brestovany;mešká 1 min.;1
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 618 TATRAN;Markušovce;mešká 3 min.;3
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 614 TATRAN;Kraľovany;ide načas;0
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 2652smer Senica;Bolerázteraz;+ 246 minút= 4 hod, 6 min.;486
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 2611smer Trnava;Trnavateraz;+ 213 minút= 3 hod, 33 min.;393
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Bratislava hlavná stanicaodišiel teraz;+ 110 minút= 1 hod, 50 min.;170
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 2615smer Trnava;Trnavateraz;+ 93 minút= 1 hod, 33 min.;153
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 611 TATRANsmer Košice;Výh. Letanovceprešiel stanicou pred 2 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 58 minút;58
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 606 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 13 min.;v cieli+ 54 minút;54
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 609 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 8 min.;+ 54 minút;54
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;RJ 1003 REGIOJETsmer Košice;Varínprešiel stanicou teraz;+ 51 minút;51
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 613 TATRANsmer Košice;Štrbaodišiel pred 3 min.;+ 39 minút;39
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;REx 1916smer Košice;Košicepred 14 min.;v cieli+ 37 minút;37
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Ex 619 TATRANsmer Košice;Trenčianske Bohuslaviceprešiel stanicou teraz;+ 33 minút;33
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;R 918 GEMERANsmer Zvolen osobná stanica;Barcateraz;+ 32 minút;32
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Malackyprešiel stanicou teraz;+ 31 minút;31
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;REx 1956smer Lipany;Veľký Šarišteraz;+ 30 minút;30
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 3117smer Trenčín;Trenčínpred 9 min.;v cieli+ 30 minút;30
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;REx 1959smer Košice;Veľký Šarišteraz;+ 29 minút;29
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;R 10718 POVAŽANsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou pred 4 min.;+ 29 minút;29
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;R 835 URPÍNsmer Banská Bystrica;Banská Bystricaprišiel teraz;v cieli+ 28 minút;28
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 22 minút;22
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 7814smer Svit;Svitprišiel pred 8 min.;v cieli+ 22 minút;22
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 7818smer Svit;Košiceodišiel pred 7 min.;+ 22 minút;22
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 7317smer Zvolen osobná stanica;Zvolen osobná stanicaprišiel pred 11 min.;v cieli+ 21 minút;21
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 5720smer Levice;Zvolen osobná stanicateraz;+ 20 minút;20
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 6118smer Horná Štubňa;Zvolen osobná stanicaodišiel pred 7 min.;+ 20 minút;20
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;REx 1919smer Humenné;Výh. Slivníkprešiel stanicou teraz;+ 20 minút;20
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 7219smer Brezno mesto;Slovenská Ľupčaodišiel pred 3 min.;+ 19 minút;19
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 2618smer Kúty;Nemčankateraz;+ 17 minút;17
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;Os 7318smer Banská Bystrica;Zvolen osobná stanicaodišiel pred 5 min.;+ 16 minút;16
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;mešká do 5 minút;93;60.39 %;60
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;mešká 5-14 minút;32;20.78 %;20
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;mešká 15-29 minút;13;8.44 %;8
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;mešká 30-59 minút;11;7.14 %;7
+2026-11-17 13:57:55;2026-11-17;13;Tuesday;mešká 60 a viac minút;5;3.25 %;3
