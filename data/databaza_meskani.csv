@@ -74526,3 +74526,32 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-18 08:37:52;2026-11-18;8;Wednesday;mešká 15-29 minút;12;7.84 %;7
 2026-11-18 08:37:52;2026-11-18;8;Wednesday;mešká 30-59 minút;5;3.27 %;3
 2026-11-18 08:37:52;2026-11-18;8;Wednesday;mešká 60 a viac minút;3;1.96 %;1
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 1 min.;1
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 2652smer Senica;Bolerázteraz;+ 1376 minút= 22 hod, 56 min.;2696
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 2624smer Kúty;Bolerázteraz;+ 956 minút= 15 hod, 56 min.;1856
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 2627smer Trnava;Trnavateraz;+ 863 minút= 14 hod, 23 min.;1703
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 2729smer Myjava;Myjavateraz;+ 47 minút;47
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouprišiel pred 11 min.;+ 44 minút;44
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;EN 443 SLOVAKIAsmer Humenné;Košiceteraz;+ 35 minút;35
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 8506smer Prešov;Kostoľany nad Hornádomodišiel pred 5 min.;+ 34 minút;34
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;REx 2506smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 3 min.;v cieli+ 32 minút;32
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 2607smer Trnava;Nemčankateraz;+ 30 minút;30
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;R 10706 POVAŽANsmer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 4 min.;v cieli+ 27 minút;27
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 9107smer Humenné;Humennéprišiel pred 3 min.;v cieli+ 24 minút;24
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;R 912 GEMERANsmer Zvolen osobná stanica;Slavec jaskyňaprešiel stanicou pred 2 min.;+ 23 minút;23
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 2606smer Kúty;Jablonicaodišiel pred 5 min.;+ 23 minút;23
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;R 911 GEMERANsmer Košice;Moldava nad Bodvoupred 2 min.;+ 22 minút;22
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Zr 11431smer Komárno;Komárnoprišiel pred 13 min.;v cieli+ 19 minút;19
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 8505smer Čierna nad Tisou;Streda nad Bodrogomodišiel pred 10 min.;+ 16 minút;16
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 2609smer Trnava;Senicaprišiel teraz;+ 15 minút;15
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 7408smer Nálepkovo;Prakovceodišiel teraz;+ 15 minút;15
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;Os 7807smer Košice;Košiceteraz;+ 15 minút;15
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;mešká do 5 minút;87;62.59 %;62
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;mešká 5-14 minút;33;23.74 %;23
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;mešká 15-29 minút;10;7.19 %;7
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;mešká 30-59 minút;6;4.32 %;4
+2026-11-18 08:47:52;2026-11-18;8;Wednesday;mešká 60 a viac minút;3;2.16 %;2
