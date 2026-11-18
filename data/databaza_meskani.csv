@@ -75695,3 +75695,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-18 15:57:53;2026-11-18;15;Wednesday;mešká 15-29 minút;17;9.66 %;9
 2026-11-18 15:57:53;2026-11-18;15;Wednesday;mešká 30-59 minút;4;2.27 %;2
 2026-11-18 15:57:53;2026-11-18;15;Wednesday;mešká 60 a viac minút;6;3.41 %;3
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Ex 621 TATRAN;Kraľovany;mešká 1 min.;1
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Ex 618 TATRAN;Vrútky nákladná stanica;mešká 1 min.;1
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Ex 614 TATRAN;Trnava;mešká 1 min.;1
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Ex 620 TATRAN;Kráľova Lehota;ide načas;0
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 1343smer Rusovce št. hr. - Hegyeshalom;Rusovceteraz;+ 189 minút= 3 hod, 9 min.;369
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 147 minút= 2 hod, 27 min.;267
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 4019smer Čadca;Čadcateraz;+ 128 minút= 2 hod, 8 min.;248
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;R 916 GEMERANsmer Zvolen osobná stanica;Kriváňodišiel pred 5 min.;+ 112 minút= 1 hod, 52 min.;172
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 4020smer Turzovka;Turzovkateraz;+ 100 minút= 1 hod, 40 min.;160
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 4021smer Čadca;Čadcateraz;+ 72 minút= 1 hod, 12 min.;132
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;R 963 ZAKARPATIAsmer Košice;Výh. Slivník výh. č. 8prešiel stanicou teraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;R 918 GEMERANsmer Zvolen osobná stanica;Hajnáčkaprešiel stanicou pred 2 min.;+ 42 minút;42
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 7818smer Svit;Svitpred 11 min.;v cieli+ 30 minút;30
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 3122smer Myjava;Vaďovcepred 3 min.;+ 29 minút;29
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 27 minút;27
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 7422smer Nálepkovo;Mníšek nad Hnilcomodišiel pred 2 min.;+ 27 minút;27
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 7822smer Svit;Kostoľany nad Hornádomodišiel pred 4 min.;+ 27 minút;27
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 7423smer Margecany;Prakovceodišiel pred 8 min.;+ 26 minút;26
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;REx 1923smer Humenné;Čeľovceodišiel teraz;+ 23 minút;23
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 8520smer Prešov;Prešovprišiel pred 4 min.;v cieli+ 21 minút;21
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 8519smer Čierna nad Tisou;Dobráodišiel pred 4 min.;+ 20 minút;20
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;R 10722 POVAŽANsmer Bratislava hlavná stanica;Šenkviceodišiel teraz;+ 18 minút;18
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 3123smer Trenčín;Nové Mesto nad Váhomteraz;+ 18 minút;18
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Zr 11441smer Komárno;Zemianska Olčateraz;+ 18 minút;18
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;ra 274 METROPOLITANsmer Kúty št. hr. - Praha jih;Odb. Močiarprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Devínska Nová Vesprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 8521smer Čierna nad Tisou;Výh. Slivník výh. č. 8prešiel stanicou pred 2 min.;+ 16 minút;16
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;REx 2522smer Bratislava hlavná stanica;Devínska Nová Vespred 6 min.;+ 16 minút;16
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;R 10726 POVAŽANsmer Bratislava hlavná stanica;Bytčaprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;R 920 GEMERANsmer Zvolen osobná stanica;Výh. Drienovecprešiel stanicou pred 3 min.;+ 15 minút;15
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Spišská Nová Vesodišiel pred 5 min.;+ 15 minút;15
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;Os 2022smer Kúty;Devínska Nová Vesodišiel teraz;+ 15 minút;15
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;mešká do 5 minút;123;69.10 %;69
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;mešká 5-14 minút;27;15.17 %;15
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;mešká 15-29 minút;19;10.67 %;10
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;mešká 30-59 minút;2;1.12 %;1
+2026-11-18 16:07:56;2026-11-18;16;Wednesday;mešká 60 a viac minút;7;3.93 %;3
