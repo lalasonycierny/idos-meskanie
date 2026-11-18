@@ -74074,3 +74074,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-18 05:37:51;2026-11-18;5;Wednesday;mešká 15-29 minút;4;2.48 %;2
 2026-11-18 05:37:51;2026-11-18;5;Wednesday;mešká 30-59 minút;3;1.86 %;1
 2026-11-18 05:37:51;2026-11-18;5;Wednesday;mešká 60 a viac minút;4;2.48 %;2
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 1 min.;1
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Os 2652smer Senica;Bolerázteraz;+ 1196 minút= 19 hod, 56 min.;2336
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Os 2624smer Kúty;Bolerázteraz;+ 776 minút= 12 hod, 56 min.;1496
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 14 min.;+ 713 minút= 11 hod, 53 min.;1373
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Os 2627smer Trnava;Trnavateraz;+ 683 minút= 11 hod, 23 min.;1343
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Šenkviceodišiel teraz;+ 34 minút;34
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Os 3103smer Nové Mesto nad Váhom;Vaďovceodišiel pred 13 min.;+ 33 minút;33
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou teraz;+ 28 minút;28
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;REx 1761smer Košice;Krompachyodišiel pred 2 min.;+ 26 minút;26
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;Os 8502smer Prešov;Ruskovteraz;+ 25 minút;25
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;R 911 GEMERANsmer Košice;Zvolen osobná stanicateraz;+ 17 minút;17
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;RJ 1021 REGIOJETsmer Košice;Spišské Vlachyprešiel stanicou teraz;+ 17 minút;17
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;REx 1763smer Košice;Výh. Letanovceprešiel stanicou pred 5 min.;+ 15 minút;15
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;mešká do 5 minút;127;81.94 %;81
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;mešká 5-14 minút;16;10.32 %;10
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;mešká 15-29 minút;6;3.87 %;3
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;mešká 30-59 minút;2;1.29 %;1
+2026-11-18 05:47:51;2026-11-18;5;Wednesday;mešká 60 a viac minút;4;2.58 %;2
