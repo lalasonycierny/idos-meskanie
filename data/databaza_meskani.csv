@@ -73802,3 +73802,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-18 02:57:52;2026-11-18;2;Wednesday;mešká 15-29 minút;1;12.50 %;12
 2026-11-18 02:57:52;2026-11-18;2;Wednesday;mešká 30-59 minút;1;12.50 %;12
 2026-11-18 02:57:52;2026-11-18;2;Wednesday;mešká 60 a viac minút;5;62.50 %;62
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 1 min.;1
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;Os 2652smer Senica;Bolerázteraz;+ 1036 minút= 17 hod, 16 min.;2056
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 692 minút= 11 hod, 32 min.;1352
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;Os 2624smer Kúty;Bolerázteraz;+ 616 minút= 10 hod, 16 min.;1216
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 567 minút= 9 hod, 27 min.;1107
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;Os 2627smer Trnava;Trnavateraz;+ 523 minút= 8 hod, 43 min.;1003
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Turanyprešiel stanicou pred 3 min.;+ 34 minút;34
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;RJ 1021 REGIOJETsmer Košice;Budatín odb.prešiel stanicou pred 3 min.;+ 27 minút;27
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;mešká do 5 minút;2;20.00 %;20
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;mešká 5-14 minút;1;10.00 %;10
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;mešká 15-29 minút;1;10.00 %;10
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;mešká 30-59 minút;1;10.00 %;10
+2026-11-18 03:07:51;2026-11-18;3;Wednesday;mešká 60 a viac minút;5;50.00 %;50
