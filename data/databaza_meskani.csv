@@ -73870,3 +73870,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-18 03:37:51;2026-11-18;3;Wednesday;mešká 15-29 minút;2;13.33 %;13
 2026-11-18 03:37:51;2026-11-18;3;Wednesday;mešká 30-59 minút;0;0.00 %;0
 2026-11-18 03:37:51;2026-11-18;3;Wednesday;mešká 60 a viac minút;5;33.33 %;33
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 1 min.;1
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;Os 2652smer Senica;Bolerázteraz;+ 1076 minút= 17 hod, 56 min.;2096
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košicepred 14 min.;+ 718 minút= 11 hod, 58 min.;1378
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;Os 2624smer Kúty;Bolerázteraz;+ 656 minút= 10 hod, 56 min.;1256
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 607 minút= 10 hod, 7 min.;1207
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;Os 2627smer Trnava;Trnavateraz;+ 563 minút= 9 hod, 23 min.;1103
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Výh. Plevník-Drienovéprešiel stanicou teraz;+ 25 minút;25
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;RJ 1021 REGIOJETsmer Košice;Ľubochňaprešiel stanicou pred 3 min.;+ 25 minút;25
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;mešká do 5 minút;12;60.00 %;60
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;mešká 5-14 minút;1;5.00 %;5
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;mešká 15-29 minút;2;10.00 %;10
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;mešká 30-59 minút;0;0.00 %;0
+2026-11-18 03:47:51;2026-11-18;3;Wednesday;mešká 60 a viac minút;5;25.00 %;25
