@@ -1,10 +1,9 @@
 # Štatistiky MHD Bratislava
 
-Automaticky generované 2026-11-18 23:10. Zdroj: kdejemhd.sk, zber každú minútu.
+Automaticky generované 2026-11-19 00:10. Zdroj: kdejemhd.sk, zber každú minútu.
 
 - Dní v štatistike: **2** (2026-10-26 až 2026-11-11)
 - Priemerné pokrytie zberom: **9 %** (100 % = zber každú minútu celý deň)
-- Posledných 7 dní: načas 40.9 %, meškanie 5 min a viac 26.6 %, v službe priemerne 519 vozidiel (103 246 meraní).
 
 ## Kedy meškajú najviac
 
