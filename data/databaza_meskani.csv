@@ -73749,3 +73749,22 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-18 02:27:52;2026-11-18;2;Wednesday;mešká 15-29 minút;3;30.00 %;30
 2026-11-18 02:27:52;2026-11-18;2;Wednesday;mešká 30-59 minút;1;10.00 %;10
 2026-11-18 02:27:52;2026-11-18;2;Wednesday;mešká 60 a viac minút;5;50.00 %;50
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 1 min.;1
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 11 min.;11
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;Os 2652smer Senica;Bolerázteraz;+ 1006 minút= 16 hod, 46 min.;1966
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 662 minút= 11 hod, 2 min.;1322
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;Os 2624smer Kúty;Bolerázteraz;+ 586 minút= 9 hod, 46 min.;1126
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 537 minút= 8 hod, 57 min.;1017
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;Os 2627smer Trnava;Trnavateraz;+ 493 minút= 8 hod, 13 min.;973
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Liskováteraz;+ 37 minút;37
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 36 minút;36
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;RJ 1021 REGIOJETsmer Košice;Čadcateraz;+ 23 minút;23
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Čadca št. hr.prišiel pred 11 min.;v cieli+ 19 minút;19
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;mešká do 5 minút;0;0.00 %;0
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;mešká 5-14 minút;1;10.00 %;10
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;mešká 15-29 minút;2;20.00 %;20
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;mešká 30-59 minút;2;20.00 %;20
+2026-11-18 02:37:52;2026-11-18;2;Wednesday;mešká 60 a viac minút;5;50.00 %;50
