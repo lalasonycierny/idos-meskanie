@@ -79548,3 +79548,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-19 14:48:00;2026-11-19;14;Thursday;mešká 15-29 minút;21;12.43 %;12
 2026-11-19 14:48:00;2026-11-19;14;Thursday;mešká 30-59 minút;5;2.96 %;2
 2026-11-19 14:48:00;2026-11-19;14;Thursday;mešká 60 a viac minút;3;1.78 %;1
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 610 TATRAN;Cífer;mešká 43 min.;43
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 621 TATRAN;Púchov;ide načas;0
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 618 TATRAN;Poprad-Tatry;mešká 27 min.;27
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 614 TATRAN;Žilina predmestie;mešká 23 min.;23
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 620 TATRAN;Krompachy;mešká 23 min.;23
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 4010smer Makov;Turzovkateraz;+ 327 minút= 5 hod, 27 min.;627
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 4018smer Turzovka;Turzovkateraz;+ 86 minút= 1 hod, 26 min.;146
+2026-11-19 14:58:02;2026-11-19;14;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 77 minút= 1 hod, 17 min.;137
+2026-11-19 14:58:02;2026-11-19;14;Thursday;REx 1919smer Humenné;Michalovceodišiel pred 3 min.;+ 45 minút;45
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 610 TATRANsmer Bratislava hlavná stanica;Cíferprešiel stanicou teraz;+ 43 minút;43
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 2619smer Trnava;Trnavateraz;v cieli+ 30 minút;30
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 4020smer Turzovka;Turzovkateraz;+ 30 minút;30
+2026-11-19 14:58:02;2026-11-19;14;Thursday;R 918 GEMERANsmer Zvolen osobná stanica;Plešivecteraz;+ 29 minút;29
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 618 TATRANsmer Bratislava hlavná stanica;Poprad-Tatryteraz;+ 27 minút;27
+2026-11-19 14:58:02;2026-11-19;14;Thursday;EC 186 HORNÁDsmer Košice;Košiceteraz;+ 24 minút;24
+2026-11-19 14:58:02;2026-11-19;14;Thursday;REx 1920smer Košice;Výh. Slivníkprišiel pred 8 min.;+ 24 minút;24
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 3920smer Skalité;Kysucké Nové Mestoodišiel pred 2 min.;+ 24 minút;24
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 620 TATRANsmer Bratislava hlavná stanica;Krompachyprešiel stanicou pred 4 min.;+ 23 minút;23
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 614 TATRANsmer Bratislava hlavná stanica;Žilina predmestieprešiel stanicou teraz;+ 23 minút;23
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 3020smer Bratislava-Nové Mesto;Bratislava-Nové Mestoprišiel pred 13 min.;v cieli+ 22 minút;22
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 8517smer Čierna nad Tisou;Veľký Horešodišiel pred 2 min.;+ 22 minút;22
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 2023smer Bratislava hlavná stanica;Malackyteraz;+ 21 minút;21
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 8518smer Prešov;Drienovská Nová Vesodišiel pred 6 min.;+ 20 minút;20
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 3120smer Myjava;Stará Turáodišiel teraz;+ 19 minút;19
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 3121smer Trenčín;Vaďovceodišiel pred 9 min.;+ 19 minút;19
+2026-11-19 14:58:02;2026-11-19;14;Thursday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Malackyteraz;+ 19 minút;19
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 613 TATRANsmer Košice;Výh. Ružínprešiel stanicou teraz;+ 17 minút;17
+2026-11-19 14:58:02;2026-11-19;14;Thursday;R 917 GEMERANsmer Košice;Haniska pri Košiciachprešiel stanicou pred 5 min.;+ 17 minút;17
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 3021smer Trnava;Bratislava predmestieodišiel pred 2 min.;+ 17 minút;17
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 2620smer Kúty;Nemčankateraz;+ 17 minút;17
+2026-11-19 14:58:02;2026-11-19;14;Thursday;REx 7737smer Bratislava-Petržalka;Bratislava-Petržalkapred 8 min.;+ 16 minút;16
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Os 2618smer Kúty;Šajdíkove Humenceodišiel pred 2 min.;+ 16 minút;16
+2026-11-19 14:58:02;2026-11-19;14;Thursday;Ex 622 TATRANsmer Bratislava hlavná stanica;Košicepred 3 min.;+ 15 minút;15
+2026-11-19 14:58:02;2026-11-19;14;Thursday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Košicepred 5 min.;+ 15 minút;15
+2026-11-19 14:58:02;2026-11-19;14;Thursday;mešká do 5 minút;104;63.41 %;63
+2026-11-19 14:58:02;2026-11-19;14;Thursday;mešká 5-14 minút;31;18.90 %;18
+2026-11-19 14:58:02;2026-11-19;14;Thursday;mešká 15-29 minút;22;13.41 %;13
+2026-11-19 14:58:02;2026-11-19;14;Thursday;mešká 30-59 minút;4;2.44 %;2
+2026-11-19 14:58:02;2026-11-19;14;Thursday;mešká 60 a viac minút;3;1.83 %;1
