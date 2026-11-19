@@ -79095,3 +79095,43 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-19 12:37:57;2026-11-19;12;Thursday;mešká 15-29 minút;20;14.93 %;14
 2026-11-19 12:37:57;2026-11-19;12;Thursday;mešká 30-59 minút;10;7.46 %;7
 2026-11-19 12:37:57;2026-11-19;12;Thursday;mešká 60 a viac minút;2;1.49 %;1
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 610 TATRAN;Vrútky;mešká 33 min.;33
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 11 min.;11
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 614 TATRAN;Vydrník;mešká 32 min.;32
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 4010smer Makov;Turzovkateraz;+ 197 minút= 3 hod, 17 min.;377
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 606 TATRANsmer Bratislava hlavná stanica;Nové Mesto nad Váhomteraz;+ 73 minút= 1 hod, 13 min.;133
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 2707smer Myjava;Myjavateraz;+ 55 minút;55
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 609 TATRANsmer Košice;Markušovceteraz;+ 42 minút;42
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 608 TATRANsmer Bratislava hlavná stanica;Dubnica nad Váhomprešiel stanicou teraz;+ 37 minút;37
+2026-11-19 12:48:00;2026-11-19;12;Thursday;R 836 URPÍNsmer Bratislava-Nové Mesto;Leviceodišiel teraz;+ 34 minút;34
+2026-11-19 12:48:00;2026-11-19;12;Thursday;EC 184 HORNÁDsmer Košice;Čaňateraz;+ 33 minút;33
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 610 TATRANsmer Bratislava hlavná stanica;Vrútkyodišiel pred 2 min.;+ 33 minút;33
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 614 TATRANsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou teraz;+ 32 minút;32
+2026-11-19 12:48:00;2026-11-19;12;Thursday;REx 1915smer Humenné;Strážskeprišiel teraz;+ 29 minút;29
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 8513smer Čierna nad Tisou;Slovenské Nové Mestoodišiel pred 6 min.;+ 28 minút;28
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 8816smer Košice;Slanecodišiel pred 2 min.;+ 28 minút;28
+2026-11-19 12:48:00;2026-11-19;12;Thursday;R 10714 POVAŽANsmer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 4 min.;v cieli+ 28 minút;28
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 6415smer Košice;Košiceprišiel pred 13 min.;v cieli+ 27 minút;27
+2026-11-19 12:48:00;2026-11-19;12;Thursday;REx 1916smer Košice;Čeľovceodišiel pred 2 min.;+ 26 minút;26
+2026-11-19 12:48:00;2026-11-19;12;Thursday;R 917 GEMERANsmer Košice;Výh. Holišaprešiel stanicou teraz;+ 26 minút;26
+2026-11-19 12:48:00;2026-11-19;12;Thursday;SC 241 PENDOLINO KOŠIČANsmer Košice;Východnáprešiel stanicou pred 9 min.;+ 25 minút;25
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 611 TATRANsmer Košice;Svitprešiel stanicou teraz;+ 24 minút;24
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Ex 615 TATRANsmer Košice;Žilina predmestieprešiel stanicou teraz;+ 24 minút;24
+2026-11-19 12:48:00;2026-11-19;12;Thursday;REx 1435smer Komárno;Komárnoprišiel pred 8 min.;v cieli+ 23 minút;23
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 2615smer Trnava;Trnavateraz;+ 23 minút;23
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 3117smer Trenčín;Papradodišiel pred 4 min.;+ 23 minút;23
+2026-11-19 12:48:00;2026-11-19;12;Thursday;R 915 GEMERANsmer Košice;Čečejovceteraz;+ 22 minút;22
+2026-11-19 12:48:00;2026-11-19;12;Thursday;R 914 GEMERANsmer Zvolen osobná stanica;Výh. Slatinkaprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 7815smer Košice;Kostoľany nad Hornádomprišiel teraz;+ 21 minút;21
+2026-11-19 12:48:00;2026-11-19;12;Thursday;R 10713 POVAŽANsmer Žilina;Žilinaprišiel pred 4 min.;v cieli+ 21 minút;21
+2026-11-19 12:48:00;2026-11-19;12;Thursday;REx 1954smer Lipany;Veľký Šarišteraz;+ 20 minút;20
+2026-11-19 12:48:00;2026-11-19;12;Thursday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Senecprešiel stanicou pred 7 min.;+ 19 minút;19
+2026-11-19 12:48:00;2026-11-19;12;Thursday;R 962 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisouprišiel pred 13 min.;+ 15 minút;15
+2026-11-19 12:48:00;2026-11-19;12;Thursday;Os 5315smer Trenčín;Trenčínprišiel pred 6 min.;v cieli+ 15 minút;15
+2026-11-19 12:48:00;2026-11-19;12;Thursday;mešká do 5 minút;71;54.20 %;54
+2026-11-19 12:48:00;2026-11-19;12;Thursday;mešká 5-14 minút;30;22.90 %;22
+2026-11-19 12:48:00;2026-11-19;12;Thursday;mešká 15-29 minút;21;16.03 %;16
+2026-11-19 12:48:00;2026-11-19;12;Thursday;mešká 30-59 minút;7;5.34 %;5
+2026-11-19 12:48:00;2026-11-19;12;Thursday;mešká 60 a viac minút;2;1.53 %;1
