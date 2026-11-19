@@ -80113,3 +80113,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-19 17:17:56;2026-11-19;17;Thursday;mešká 15-29 minút;19;10.92 %;10
 2026-11-19 17:17:56;2026-11-19;17;Thursday;mešká 30-59 minút;3;1.72 %;1
 2026-11-19 17:17:56;2026-11-19;17;Thursday;mešká 60 a viac minút;5;2.87 %;2
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 38 min.;38
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 621 TATRAN;Svit;ide načas;0
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 618 TATRAN;Ladce;mešká 21 min.;21
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 20 min.;20
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 620 TATRAN;Vrútky;mešká 11 min.;11
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 4010smer Makov;Turzovkateraz;+ 477 minút= 7 hod, 57 min.;897
+2026-11-19 17:27:58;2026-11-19;17;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 227 minút= 3 hod, 47 min.;407
+2026-11-19 17:27:58;2026-11-19;17;Thursday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 112 minút= 1 hod, 52 min.;172
+2026-11-19 17:27:58;2026-11-19;17;Thursday;R 920 GEMERANsmer Zvolen osobná stanica;Rožňavaodišiel pred 2 min.;+ 69 minút= 1 hod, 9 min.;129
+2026-11-19 17:27:58;2026-11-19;17;Thursday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Štrbateraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 1346smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 56 minút;56
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 7822smer Svit;Markušovceodišiel teraz;+ 46 minút;46
+2026-11-19 17:27:58;2026-11-19;17;Thursday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 34 minút;34
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 617 TATRANsmer Košice;Kysakodišiel pred 3 min.;+ 34 minút;34
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 622 TATRANsmer Bratislava hlavná stanica;Štrbapred 6 min.;+ 32 minút;32
+2026-11-19 17:27:58;2026-11-19;17;Thursday;REx 1924smer Košice;Barca St. 1prešiel stanicou pred 3 min.;+ 30 minút;30
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 1351smer Rusovce št. hr. - Hegyeshalom;Rusovceteraz;+ 29 minút;29
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 3124smer Myjava;Myjavaprišiel pred 3 min.;v cieli+ 25 minút;25
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 623 TATRANsmer Košice;Turanyprešiel stanicou pred 7 min.;+ 25 minút;25
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 3127smer Trenčín;Myjavaodišiel teraz;+ 25 minút;25
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 8521smer Čierna nad Tisou;Čierna nad Tisouprišiel pred 9 min.;v cieli+ 22 minút;22
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 624 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel pred 2 min.;+ 22 minút;22
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 3125smer Trenčín;Výh. Nivyprešiel stanicou pred 2 min.;+ 22 minút;22
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Ex 618 TATRANsmer Bratislava hlavná stanica;Ladceprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 2622smer Kúty;Kútyprišiel pred 11 min.;v cieli+ 20 minút;20
+2026-11-19 17:27:58;2026-11-19;17;Thursday;EC 279 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Pribetaprešiel stanicou teraz;+ 19 minút;19
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 2627smer Trnava;Kútyodišiel pred 5 min.;+ 18 minút;18
+2026-11-19 17:27:58;2026-11-19;17;Thursday;RJ 1050 REGIOJETsmer Kúty št. hr. - Praha-Malešice;Zohorprešiel stanicou pred 8 min.;+ 18 minút;18
+2026-11-19 17:27:58;2026-11-19;17;Thursday;R 922 GEMERANsmer Zvolen osobná stanica;Košiceteraz;+ 17 minút;17
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 9127smer Humenné;Lipníkyodišiel teraz;+ 16 minút;16
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 8524smer Prešov;Kostoľany nad Hornádomodišiel pred 3 min.;+ 16 minút;16
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 8526smer Prešov;Slanecteraz;+ 15 minút;15
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 5927smer Levice;Štúrovopred 4 min.;+ 15 minút;15
+2026-11-19 17:27:58;2026-11-19;17;Thursday;Os 7927smer Trstená;Kraľovanyteraz;+ 15 minút;15
+2026-11-19 17:27:58;2026-11-19;17;Thursday;mešká do 5 minút;90;53.25 %;53
+2026-11-19 17:27:58;2026-11-19;17;Thursday;mešká 5-14 minút;50;29.59 %;29
+2026-11-19 17:27:58;2026-11-19;17;Thursday;mešká 15-29 minút;18;10.65 %;10
+2026-11-19 17:27:58;2026-11-19;17;Thursday;mešká 30-59 minút;6;3.55 %;3
+2026-11-19 17:27:58;2026-11-19;17;Thursday;mešká 60 a viac minút;5;2.96 %;2
