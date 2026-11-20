@@ -82653,3 +82653,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-20 05:58:05;2026-11-20;5;Friday;mešká 15-29 minút;3;1.80 %;1
 2026-11-20 05:58:05;2026-11-20;5;Friday;mešká 30-59 minút;3;1.80 %;1
 2026-11-20 05:58:05;2026-11-20;5;Friday;mešká 60 a viac minút;2;1.20 %;1
+2026-11-20 06:08:00;2026-11-20;6;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 38 min.;38
+2026-11-20 06:08:00;2026-11-20;6;Friday;Ex 621 TATRAN;Košice;v cieli meškal 20 min.;20
+2026-11-20 06:08:00;2026-11-20;6;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-20 06:08:00;2026-11-20;6;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 20 min.;20
+2026-11-20 06:08:00;2026-11-20;6;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-20 06:08:00;2026-11-20;6;Friday;Os 4010smer Makov;Turzovkateraz;+ 1237 minút= 20 hod, 37 min.;2437
+2026-11-20 06:08:00;2026-11-20;6;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Trnavaodišiel teraz;+ 67 minút= 1 hod, 7 min.;127
+2026-11-20 06:08:00;2026-11-20;6;Friday;Os 7803smer Košice;Markušovceteraz;+ 45 minút;45
+2026-11-20 06:08:00;2026-11-20;6;Friday;REx 1761smer Košice;Malá Lodinaprešiel stanicou teraz;+ 34 minút;34
+2026-11-20 06:08:00;2026-11-20;6;Friday;RJ 1021 REGIOJETsmer Košice;Krompachyprešiel stanicou pred 2 min.;+ 31 minút;31
+2026-11-20 06:08:00;2026-11-20;6;Friday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Kráľova Lehotaprešiel stanicou teraz;+ 28 minút;28
+2026-11-20 06:08:00;2026-11-20;6;Friday;Os 7870smer Svit;Poprad-Tatryodišiel pred 2 min.;+ 23 minút;23
+2026-11-20 06:08:00;2026-11-20;6;Friday;Ex 600 TATRANsmer Bratislava hlavná stanica;Štrbapred 2 min.;+ 15 minút;15
+2026-11-20 06:08:00;2026-11-20;6;Friday;mešká do 5 minút;138;79.31 %;79
+2026-11-20 06:08:00;2026-11-20;6;Friday;mešká 5-14 minút;28;16.09 %;16
+2026-11-20 06:08:00;2026-11-20;6;Friday;mešká 15-29 minút;3;1.72 %;1
+2026-11-20 06:08:00;2026-11-20;6;Friday;mešká 30-59 minút;3;1.72 %;1
+2026-11-20 06:08:00;2026-11-20;6;Friday;mešká 60 a viac minút;2;1.15 %;1
