@@ -86229,3 +86229,35 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-20 23:37:55;2026-11-20;23;Friday;mešká 15-29 minút;9;13.85 %;13
 2026-11-20 23:37:55;2026-11-20;23;Friday;mešká 30-59 minút;7;10.77 %;10
 2026-11-20 23:37:55;2026-11-20;23;Friday;mešká 60 a viac minút;5;7.69 %;7
+2026-11-20 23:47:53;2026-11-20;23;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 32 min.;32
+2026-11-20 23:47:53;2026-11-20;23;Friday;Ex 621 TATRAN;Košice;v cieli meškal 20 min.;20
+2026-11-20 23:47:53;2026-11-20;23;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-11-20 23:47:53;2026-11-20;23;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 15 min.;15
+2026-11-20 23:47:53;2026-11-20;23;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 14278 NADsmer Brodské;Kútyteraz;+ 876 minút= 14 hod, 36 min.;1716
+2026-11-20 23:47:53;2026-11-20;23;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 607 minút= 10 hod, 7 min.;1207
+2026-11-20 23:47:53;2026-11-20;23;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 487 minút= 8 hod, 7 min.;967
+2026-11-20 23:47:53;2026-11-20;23;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 367 minút= 6 hod, 7 min.;727
+2026-11-20 23:47:53;2026-11-20;23;Friday;REx 1764smer Poprad-Tatry;Poprad-Tatrypred 9 min.;v cieli+ 68 minút= 1 hod, 8 min.;128
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 7856smer Liptovský Mikuláš;Poprad-Tatryodišiel pred 5 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 7571smer Horná Štubňa;Odb. Dolná Štubňaprešiel stanicou pred 5 min.;+ 50 minút;50
+2026-11-20 23:47:53;2026-11-20;23;Friday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Poprad-Tatryodišiel teraz;+ 47 minút;47
+2026-11-20 23:47:53;2026-11-20;23;Friday;Ex 631 TATRANsmer Košice;Markušovceodišiel teraz;+ 41 minút;41
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 8337smer Stará Ľubovňa;Poprad-Tatryodišiel pred 4 min.;+ 40 minút;40
+2026-11-20 23:47:53;2026-11-20;23;Friday;R 926 GEMERANsmer Plešivec;Haniska pri Košiciachprešiel stanicou pred 3 min.;+ 38 minút;38
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 7834smer Spišská Nová Ves;Spišská Nová Vespred 14 min.;v cieli+ 37 minút;37
+2026-11-20 23:47:53;2026-11-20;23;Friday;Ex 642 TATRANsmer Žilina;Vrútkyodišiel teraz;+ 36 minút;36
+2026-11-20 23:47:53;2026-11-20;23;Friday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Poprad-Tatryteraz;+ 29 minút;29
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 7872smer Margecany;Kostoľany nad Hornádomodišiel pred 5 min.;+ 26 minút;26
+2026-11-20 23:47:53;2026-11-20;23;Friday;Ex 628 TATRANsmer Bratislava hlavná stanica;Pezinokodišiel teraz;+ 24 minút;24
+2026-11-20 23:47:53;2026-11-20;23;Friday;REx 1939smer Humenné;Ruskovprešiel stanicou pred 2 min.;+ 23 minút;23
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 9437smer Stakčín;Sninaodišiel teraz;+ 23 minút;23
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 8937smer Medzilaborce mesto;Koškovceodišiel pred 12 min.;+ 22 minút;22
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 8537smer Čierna nad Tisou;Nižná Myšľaodišiel pred 2 min.;+ 21 minút;21
+2026-11-20 23:47:53;2026-11-20;23;Friday;REx 2539smer Devínska Nová Ves št. hr. - Wien Hauptbahnhof (in Wbf;Bratislava hlavná stanicateraz;+ 15 minút;15
+2026-11-20 23:47:53;2026-11-20;23;Friday;Os 5159smer Nitra;Nitraprišiel pred 14 min.;v cieli+ 15 minút;15
+2026-11-20 23:47:53;2026-11-20;23;Friday;mešká do 5 minút;20;40.00 %;40
+2026-11-20 23:47:53;2026-11-20;23;Friday;mešká 5-14 minút;8;16.00 %;16
+2026-11-20 23:47:53;2026-11-20;23;Friday;mešká 15-29 minút;9;18.00 %;18
+2026-11-20 23:47:53;2026-11-20;23;Friday;mešká 30-59 minút;7;14.00 %;14
+2026-11-20 23:47:53;2026-11-20;23;Friday;mešká 60 a viac minút;6;12.00 %;12
