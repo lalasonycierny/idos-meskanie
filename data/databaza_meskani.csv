@@ -82166,3 +82166,29 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-20 01:28:45;2026-11-20;1;Friday;mešká 15-29 minút;1;5.56 %;5
 2026-11-20 01:28:45;2026-11-20;1;Friday;mešká 30-59 minút;1;5.56 %;5
 2026-11-20 01:28:45;2026-11-20;1;Friday;mešká 60 a viac minút;14;77.78 %;77
+2026-11-20 01:38:03;2026-11-20;1;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 38 min.;38
+2026-11-20 01:38:03;2026-11-20;1;Friday;Ex 621 TATRAN;Košice;v cieli meškal 20 min.;20
+2026-11-20 01:38:03;2026-11-20;1;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-20 01:38:03;2026-11-20;1;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 20 min.;20
+2026-11-20 01:38:03;2026-11-20;1;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-20 01:38:03;2026-11-20;1;Friday;Os 4010smer Makov;Turzovkateraz;+ 967 minút= 16 hod, 7 min.;1927
+2026-11-20 01:38:03;2026-11-20;1;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 717 minút= 11 hod, 57 min.;1377
+2026-11-20 01:38:03;2026-11-20;1;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Košiceteraz;+ 602 minút= 10 hod, 2 min.;1202
+2026-11-20 01:38:03;2026-11-20;1;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 477 minút= 7 hod, 57 min.;897
+2026-11-20 01:38:03;2026-11-20;1;Friday;Ex 627 TATRANsmer Košice;Spišská Nová Vesteraz;+ 279 minút= 4 hod, 39 min.;519
+2026-11-20 01:38:03;2026-11-20;1;Friday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Spišské Vlachyodišiel pred 4 min.;+ 168 minút= 2 hod, 48 min.;288
+2026-11-20 01:38:03;2026-11-20;1;Friday;Ex 629 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 7 min.;+ 164 minút= 2 hod, 44 min.;284
+2026-11-20 01:38:03;2026-11-20;1;Friday;REx 1939smer Humenné;Košiceteraz;+ 156 minút= 2 hod, 36 min.;276
+2026-11-20 01:38:03;2026-11-20;1;Friday;Os 8537smer Čierna nad Tisou;Košiceteraz;+ 151 minút= 2 hod, 31 min.;271
+2026-11-20 01:38:03;2026-11-20;1;Friday;REx 1976smer Lipany;Prešovteraz;+ 140 minút= 2 hod, 20 min.;260
+2026-11-20 01:38:03;2026-11-20;1;Friday;Os 7436smer Nálepkovo;Mníšek nad Hnilcomodišiel pred 12 min.;+ 135 minút= 2 hod, 15 min.;255
+2026-11-20 01:38:03;2026-11-20;1;Friday;Os 7873smer Margecany;Spišské Vlachyodišiel pred 4 min.;+ 114 minút= 1 hod, 54 min.;174
+2026-11-20 01:38:03;2026-11-20;1;Friday;Ex 631 TATRANsmer Košice;Kysakodišiel pred 2 min.;+ 114 minút= 1 hod, 54 min.;174
+2026-11-20 01:38:03;2026-11-20;1;Friday;Os 8540smer Prešov;Kysakodišiel pred 2 min.;+ 93 minút= 1 hod, 33 min.;153
+2026-11-20 01:38:03;2026-11-20;1;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Spišské Vlachyodišiel pred 2 min.;+ 69 minút= 1 hod, 9 min.;129
+2026-11-20 01:38:03;2026-11-20;1;Friday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Čadcaodišiel teraz;+ 23 minút;23
+2026-11-20 01:38:03;2026-11-20;1;Friday;mešká do 5 minút;1;5.56 %;5
+2026-11-20 01:38:03;2026-11-20;1;Friday;mešká 5-14 minút;1;5.56 %;5
+2026-11-20 01:38:03;2026-11-20;1;Friday;mešká 15-29 minút;1;5.56 %;5
+2026-11-20 01:38:03;2026-11-20;1;Friday;mešká 30-59 minút;0;0.00 %;0
+2026-11-20 01:38:03;2026-11-20;1;Friday;mešká 60 a viac minút;15;83.33 %;83
