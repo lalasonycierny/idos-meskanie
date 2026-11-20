@@ -82868,3 +82868,35 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-20 07:28:02;2026-11-20;7;Friday;mešká 15-29 minút;13;7.47 %;7
 2026-11-20 07:28:02;2026-11-20;7;Friday;mešká 30-59 minút;5;2.87 %;2
 2026-11-20 07:28:02;2026-11-20;7;Friday;mešká 60 a viac minút;1;0.57 %;0
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 38 min.;38
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 621 TATRAN;Košice;v cieli meškal 20 min.;20
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 20 min.;20
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-20 07:38:03;2026-11-20;7;Friday;Os 4010smer Makov;Turzovkateraz;+ 1327 minút= 22 hod, 7 min.;2647
+2026-11-20 07:38:03;2026-11-20;7;Friday;Os 7803smer Košice;Košicepred 4 min.;v cieli+ 59 minút;59
+2026-11-20 07:38:03;2026-11-20;7;Friday;Os 7802smer Svit;Spišská Nová Vesodišiel teraz;+ 48 minút;48
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Poprad-Tatryprišiel teraz;+ 44 minút;44
+2026-11-20 07:38:03;2026-11-20;7;Friday;REx 1907smer Humenné;Košiceteraz;+ 36 minút;36
+2026-11-20 07:38:03;2026-11-20;7;Friday;REx 1763smer Košice;Košiceteraz;+ 34 minút;34
+2026-11-20 07:38:03;2026-11-20;7;Friday;R 960 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Dobráprešiel stanicou pred 3 min.;+ 29 minút;29
+2026-11-20 07:38:03;2026-11-20;7;Friday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Krásno nad Kysucouprešiel stanicou teraz;+ 28 minút;28
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel pred 3 min.;+ 28 minút;28
+2026-11-20 07:38:03;2026-11-20;7;Friday;R 831 URPÍNsmer Banská Bystrica;Hulprešiel stanicou pred 4 min.;+ 28 minút;28
+2026-11-20 07:38:03;2026-11-20;7;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Ruskovprešiel stanicou pred 2 min.;+ 23 minút;23
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 641 TATRANsmer Košice;Markušovceodišiel pred 7 min.;+ 22 minút;22
+2026-11-20 07:38:03;2026-11-20;7;Friday;Os 3105smer Trenčín;Trenčín-Zlatovceodišiel pred 2 min.;+ 22 minút;22
+2026-11-20 07:38:03;2026-11-20;7;Friday;Os 3107smer Trenčín;Papradodišiel pred 5 min.;+ 19 minút;19
+2026-11-20 07:38:03;2026-11-20;7;Friday;EN 443 SLOVAKIAsmer Humenné;Markušovceprešiel stanicou pred 4 min.;+ 19 minút;19
+2026-11-20 07:38:03;2026-11-20;7;Friday;REx 1780smer Banská Bystrica;Nálepkovoodišiel pred 9 min.;+ 19 minút;19
+2026-11-20 07:38:03;2026-11-20;7;Friday;Os 2605smer Trnava;Šelpicepred 5 min.;+ 18 minút;18
+2026-11-20 07:38:03;2026-11-20;7;Friday;Os 6405smer Košice;Košiceteraz;+ 18 minút;18
+2026-11-20 07:38:03;2026-11-20;7;Friday;R 930 FATRANsmer Žilina;Žilinaprišiel pred 9 min.;v cieli+ 18 minút;18
+2026-11-20 07:38:03;2026-11-20;7;Friday;Os 7807smer Košice;Markušovceteraz;+ 17 minút;17
+2026-11-20 07:38:03;2026-11-20;7;Friday;R 912 GEMERANsmer Zvolen osobná stanica;Košiceteraz;+ 16 minút;16
+2026-11-20 07:38:03;2026-11-20;7;Friday;Ex 600 TATRANsmer Bratislava hlavná stanica;Výh. Váhprešiel stanicou teraz;+ 15 minút;15
+2026-11-20 07:38:03;2026-11-20;7;Friday;mešká do 5 minút;120;68.57 %;68
+2026-11-20 07:38:03;2026-11-20;7;Friday;mešká 5-14 minút;33;18.86 %;18
+2026-11-20 07:38:03;2026-11-20;7;Friday;mešká 15-29 minút;16;9.14 %;9
+2026-11-20 07:38:03;2026-11-20;7;Friday;mešká 30-59 minút;5;2.86 %;2
+2026-11-20 07:38:03;2026-11-20;7;Friday;mešká 60 a viac minút;1;0.57 %;0
