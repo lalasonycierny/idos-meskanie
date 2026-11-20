@@ -85174,3 +85174,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-20 18:38:16;2026-11-20;18;Friday;mešká 15-29 minút;16;10.32 %;10
 2026-11-20 18:38:16;2026-11-20;18;Friday;mešká 30-59 minút;8;5.16 %;5
 2026-11-20 18:38:16;2026-11-20;18;Friday;mešká 60 a viac minút;7;4.52 %;4
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 32 min.;32
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 621 TATRAN;Margecany;mešká 18 min.;18
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 618 TATRAN;Trnava nákladná stanica;mešká 36 min.;36
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 15 min.;15
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 620 TATRAN;Trenčianske Bohuslavice;mešká 16 min.;16
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 14278 NADsmer Brodské;Kútyteraz;+ 578 minút= 9 hod, 38 min.;1118
+2026-11-20 18:48:20;2026-11-20;18;Friday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 307 minút= 5 hod, 7 min.;607
+2026-11-20 18:48:20;2026-11-20;18;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 187 minút= 3 hod, 7 min.;367
+2026-11-20 18:48:20;2026-11-20;18;Friday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 114 minút= 1 hod, 54 min.;174
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 2625smer Trnava;Trnavateraz;+ 84 minút= 1 hod, 24 min.;144
+2026-11-20 18:48:20;2026-11-20;18;Friday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Vrútky nákladná stanicaprešiel stanicou teraz;+ 71 minút= 1 hod, 11 min.;131
+2026-11-20 18:48:20;2026-11-20;18;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 68 minút= 1 hod, 8 min.;128
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 619 TATRANsmer Košice;Košicepred 5 min.;v cieli+ 48 minút;48
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 624 TATRANsmer Bratislava hlavná stanica;Kráľova Lehotaprešiel stanicou pred 3 min.;+ 40 minút;40
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 622 TATRANsmer Bratislava hlavná stanica;Vrútkyprišiel pred 4 min.;+ 39 minút;39
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 525 KRIVÁŇsmer Košice;Ružomberokprešiel stanicou pred 2 min.;+ 39 minút;39
+2026-11-20 18:48:20;2026-11-20;18;Friday;R 964smer Čierna nad Tisou št. hr.;Slanecprešiel stanicou teraz;+ 38 minút;38
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 7827smer Košice;Malá Lodinaodišiel pred 3 min.;+ 38 minút;38
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 618 TATRANsmer Bratislava hlavná stanica;Trnava nákladná stanicaprešiel stanicou pred 3 min.;+ 36 minút;36
+2026-11-20 18:48:20;2026-11-20;18;Friday;RJ 1045 REGIOJETsmer Žilina;Kútypred 10 min.;+ 29 minút;29
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Markušovceteraz;+ 26 minút;26
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 3129smer Trenčín;Papradodišiel pred 3 min.;+ 25 minút;25
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 627 TATRANsmer Košice;Dolný Hričovprešiel stanicou pred 4 min.;+ 22 minút;22
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 629 TATRANsmer Košice;Trenčianske Bohuslaviceprešiel stanicou pred 3 min.;+ 20 minút;20
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 3127smer Trenčín;Trenčínprišiel pred 11 min.;v cieli+ 20 minút;20
+2026-11-20 18:48:20;2026-11-20;18;Friday;REx 1882smer Bratislava hlavná stanica;Tvrdošovceodišiel pred 4 min.;+ 20 minút;20
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 621 TATRANsmer Košice;Margecanyodišiel pred 3 min.;+ 18 minút;18
+2026-11-20 18:48:20;2026-11-20;18;Friday;EC 131 BATHORYsmer Štúrovo št. hr. - Budapest-Nyugati;Gbelceprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 2627smer Trnava;Trnavapred 5 min.;+ 17 minút;17
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 4028smer Turzovka;Turzovkaprišiel teraz;v cieli+ 17 minút;17
+2026-11-20 18:48:20;2026-11-20;18;Friday;Ex 620 TATRANsmer Bratislava hlavná stanica;Trenčianske Bohuslaviceprišiel teraz;+ 16 minút;16
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 2722smer Vrbovce št. hr. - Velká nad Veličkou;Vrbovce št. hr.prišiel teraz;v cieli+ 15 minút;15
+2026-11-20 18:48:20;2026-11-20;18;Friday;Os 4068smer Makov;Turzovkateraz;+ 15 minút;15
+2026-11-20 18:48:20;2026-11-20;18;Friday;mešká do 5 minút;89;57.42 %;57
+2026-11-20 18:48:20;2026-11-20;18;Friday;mešká 5-14 minút;38;24.52 %;24
+2026-11-20 18:48:20;2026-11-20;18;Friday;mešká 15-29 minút;14;9.03 %;9
+2026-11-20 18:48:20;2026-11-20;18;Friday;mešká 30-59 minút;7;4.52 %;4
+2026-11-20 18:48:20;2026-11-20;18;Friday;mešká 60 a viac minút;7;4.52 %;4
