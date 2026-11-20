@@ -1,10 +1,10 @@
 ﻿Vlak;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
 EC 1215 LEO EXPRESSsmer Bratislava hlavná stanica;10;125.8;126.0;130.0;130;3.22;100.0;100.0;100.0;100.0
 Os 4719smer Galanta;5;17.0;16.0;18.6;19;1.41;100.0;100.0;100.0;0.0
-R 10737 POVAŽANsmer Považská Bystrica;33;81.21;37.0;139.0;140;54.68;100.0;100.0;100.0;48.48
 Os 4706smer Bratislava hlavná stanica;7;22.71;24.0;27.0;30;5.06;100.0;100.0;100.0;0.0
 Os 4703smer Galanta;12;90.75;85.0;159.0;170;58.42;100.0;100.0;100.0;50.0
 Os 4536smer Trnava;26;23.54;22.0;33.0;37;5.84;100.0;100.0;100.0;0.0
+R 10737 POVAŽANsmer Považská Bystrica;33;81.21;37.0;139.0;140;54.68;100.0;100.0;100.0;48.48
 R 341 KYSUČANsmer Žilina;6;23.5;22.5;26.0;26;1.97;100.0;100.0;100.0;0.0
 R 342 KYSUČANsmer Čadca št. hr. - Ostrava-Svinov;18;66.89;25.0;161.0;162;65.53;100.0;100.0;100.0;33.33
 R 343 KYSUČANsmer Žilina;17;20.65;20.0;26.2;35;5.45;100.0;100.0;100.0;0.0
