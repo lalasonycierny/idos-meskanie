@@ -83370,3 +83370,45 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-20 09:57:58;2026-11-20;9;Friday;mešká 15-29 minút;13;10.08 %;10
 2026-11-20 09:57:58;2026-11-20;9;Friday;mešká 30-59 minút;11;8.53 %;8
 2026-11-20 09:57:58;2026-11-20;9;Friday;mešká 60 a viac minút;5;3.88 %;3
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 610 TATRAN;Spišské Vlachy;mešká 32 min.;32
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 621 TATRAN;Košice;v cieli meškal 20 min.;20
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 20 min.;20
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 2729smer Myjava;Myjavapred 3 min.;+ 125 minút= 2 hod, 5 min.;245
+2026-11-20 10:08:04;2026-11-20;10;Friday;REx 1803smer Nitra;Nitrateraz;+ 119 minút= 1 hod, 59 min.;179
+2026-11-20 10:08:04;2026-11-20;10;Friday;R 912 GEMERANsmer Zvolen osobná stanica;Slavec jaskyňaprešiel stanicou pred 2 min.;+ 104 minút= 1 hod, 44 min.;164
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 5008smer Nitra;Nitrateraz;+ 84 minút= 1 hod, 24 min.;144
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 5108smer Nitra;Nitrateraz;+ 69 minút= 1 hod, 9 min.;129
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Ilavaprešiel stanicou pred 2 min.;+ 63 minút= 1 hod, 3 min.;123
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 14278 NADsmer Brodské;Kútyteraz;+ 57 minút;57
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 5145smer Nitra;Nitrateraz;+ 54 minút;54
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Potok odb.prešiel stanicou teraz;+ 50 minút;50
+2026-11-20 10:08:04;2026-11-20;10;Friday;R 961smer Košice;Čierna nad Tisouteraz;+ 50 minút;50
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 606 TATRANsmer Bratislava hlavná stanica;Výh. Paludzaprešiel stanicou teraz;+ 44 minút;44
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 7806smer Svit;Vydrníkodišiel pred 2 min.;+ 39 minút;39
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 8509smer Čierna nad Tisou;Nižná Myšľaodišiel pred 8 min.;+ 35 minút;35
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 608 TATRANsmer Bratislava hlavná stanica;Poprad-Tatryprišiel pred 2 min.;+ 32 minút;32
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 610 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyteraz;+ 32 minút;32
+2026-11-20 10:08:04;2026-11-20;10;Friday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Zohorteraz;+ 30 minút;30
+2026-11-20 10:08:04;2026-11-20;10;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisou št. hr.prišiel pred 9 min.;v cieli+ 28 minút;28
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 3912smer Skalité;Kraľovanyodišiel pred 5 min.;+ 28 minút;28
+2026-11-20 10:08:04;2026-11-20;10;Friday;Ex 603 TATRANsmer Košice;Margecanyodišiel pred 3 min.;+ 27 minút;27
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 7811smer Košice;Spišské Vlachyodišiel pred 2 min.;+ 26 minút;26
+2026-11-20 10:08:04;2026-11-20;10;Friday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Senecprešiel stanicou pred 3 min.;+ 25 minút;25
+2026-11-20 10:08:04;2026-11-20;10;Friday;EN 443 SLOVAKIAsmer Humenné;Čeľovceprešiel stanicou teraz;+ 24 minút;24
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 5010smer Nitra;Nitrateraz;+ 24 minút;24
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 3447smer Liptovský Hrádok;Ľubochňaodišiel pred 11 min.;+ 19 minút;19
+2026-11-20 10:08:04;2026-11-20;10;Friday;REx 1868smer Bratislava hlavná stanica;Galantaodišiel teraz;+ 18 minút;18
+2026-11-20 10:08:04;2026-11-20;10;Friday;EC 185 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcaprešiel stanicou teraz;+ 18 minút;18
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 5110smer Nitra;Nitrateraz;+ 18 minút;18
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 6411smer Košice;Haniska pri Košiciachteraz;+ 16 minút;16
+2026-11-20 10:08:04;2026-11-20;10;Friday;REx 7717smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 6 min.;v cieli+ 16 minút;16
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 2652smer Senica;Bolerázteraz;+ 16 minút;16
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 2410smer Skalica na Slovensku;Kútypred 4 min.;+ 15 minút;15
+2026-11-20 10:08:04;2026-11-20;10;Friday;Os 8512smer Prešov;Slanecteraz;+ 15 minút;15
+2026-11-20 10:08:04;2026-11-20;10;Friday;mešká do 5 minút;77;57.89 %;57
+2026-11-20 10:08:04;2026-11-20;10;Friday;mešká 5-14 minút;24;18.05 %;18
+2026-11-20 10:08:04;2026-11-20;10;Friday;mešká 15-29 minút;16;12.03 %;12
+2026-11-20 10:08:04;2026-11-20;10;Friday;mešká 30-59 minút;10;7.52 %;7
+2026-11-20 10:08:04;2026-11-20;10;Friday;mešká 60 a viac minút;6;4.51 %;4
