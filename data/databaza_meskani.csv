@@ -84048,3 +84048,38 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-20 13:18:00;2026-11-20;13;Friday;mešká 15-29 minút;15;9.93 %;9
 2026-11-20 13:18:00;2026-11-20;13;Friday;mešká 30-59 minút;6;3.97 %;3
 2026-11-20 13:18:00;2026-11-20;13;Friday;mešká 60 a viac minút;3;1.99 %;1
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 610 TATRAN;Považská Bystrica;mešká 32 min.;32
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 621 TATRAN;Bratislava hlavná stanica;ide načas;0
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 618 TATRAN;Margecany;ide načas;0
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 614 TATRAN;Kráľova Lehota;mešká 19 min.;19
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 14278 NADsmer Brodské;Kútyteraz;+ 257 minút= 4 hod, 17 min.;497
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 2707smer Myjava;Myjavateraz;+ 95 minút= 1 hod, 35 min.;155
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 608 TATRANsmer Bratislava hlavná stanica;Výh. Nivyprešiel stanicou teraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 7815smer Košice;Kostoľany nad Hornádomodišiel pred 8 min.;+ 53 minút;53
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 7814smer Svit;Spišská Nová Vesprišiel teraz;+ 39 minút;39
+2026-11-20 13:28:03;2026-11-20;13;Friday;EC 184 HORNÁDsmer Košice;Košicepred 14 min.;+ 39 minút;39
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 606 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 8 min.;v cieli+ 35 minút;35
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 7819smer Košice;Markušovceteraz;+ 33 minút;33
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 610 TATRANsmer Bratislava hlavná stanica;Považská Bystricaodišiel pred 3 min.;+ 32 minút;32
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 616 TATRANsmer Bratislava hlavná stanica;Markušovceprešiel stanicou pred 5 min.;+ 30 minút;30
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 609 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 3 min.;+ 29 minút;29
+2026-11-20 13:28:03;2026-11-20;13;Friday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 28 minút;28
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 8513smer Čierna nad Tisou;Čierna nad Tisouprišiel pred 9 min.;v cieli+ 27 minút;27
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 3117smer Trenčín;Výh. Nivyprešiel stanicou teraz;+ 25 minút;25
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 2017smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 6 min.;v cieli+ 21 minút;21
+2026-11-20 13:28:03;2026-11-20;13;Friday;EC 141 OSTRAVANsmer Žilina;Čadcaodišiel pred 5 min.;+ 20 minút;20
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 614 TATRANsmer Bratislava hlavná stanica;Kráľova Lehotaprešiel stanicou pred 3 min.;+ 19 minút;19
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 7450smer Dobšinská Ľadová Jaskyňa;Nálepkovoteraz;+ 19 minút;19
+2026-11-20 13:28:03;2026-11-20;13;Friday;RJ 1003 REGIOJETsmer Košice;Potok odb.prešiel stanicou pred 2 min.;+ 18 minút;18
+2026-11-20 13:28:03;2026-11-20;13;Friday;SC 241 PENDOLINO KOŠIČANsmer Košice;Výh. Letanovceprešiel stanicou teraz;+ 18 minút;18
+2026-11-20 13:28:03;2026-11-20;13;Friday;R 962 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisou št. hr.prišiel teraz;v cieli+ 17 minút;17
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 611 TATRANsmer Košice;Markušovceodišiel pred 5 min.;+ 16 minút;16
+2026-11-20 13:28:03;2026-11-20;13;Friday;Ex 612 TATRANsmer Bratislava hlavná stanica;Vrútkyodišiel teraz;+ 15 minút;15
+2026-11-20 13:28:03;2026-11-20;13;Friday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Bratislava-Nové Mestoprišiel pred 11 min.;v cieli+ 15 minút;15
+2026-11-20 13:28:03;2026-11-20;13;Friday;Os 6216smer Zvolen osobná stanica;Vígľašodišiel pred 3 min.;+ 15 minút;15
+2026-11-20 13:28:03;2026-11-20;13;Friday;mešká do 5 minút;96;64.00 %;64
+2026-11-20 13:28:03;2026-11-20;13;Friday;mešká 5-14 minút;29;19.33 %;19
+2026-11-20 13:28:03;2026-11-20;13;Friday;mešká 15-29 minút;15;10.00 %;10
+2026-11-20 13:28:03;2026-11-20;13;Friday;mešká 30-59 minút;7;4.67 %;4
+2026-11-20 13:28:03;2026-11-20;13;Friday;mešká 60 a viac minút;3;2.00 %;2
