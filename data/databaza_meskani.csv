@@ -82764,3 +82764,29 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-20 06:48:01;2026-11-20;6;Friday;mešká 15-29 minút;10;5.62 %;5
 2026-11-20 06:48:01;2026-11-20;6;Friday;mešká 30-59 minút;4;2.25 %;2
 2026-11-20 06:48:01;2026-11-20;6;Friday;mešká 60 a viac minút;2;1.12 %;1
+2026-11-20 06:58:04;2026-11-20;6;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 38 min.;38
+2026-11-20 06:58:04;2026-11-20;6;Friday;Ex 621 TATRAN;Košice;v cieli meškal 20 min.;20
+2026-11-20 06:58:04;2026-11-20;6;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 16 min.;16
+2026-11-20 06:58:04;2026-11-20;6;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 20 min.;20
+2026-11-20 06:58:04;2026-11-20;6;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-20 06:58:04;2026-11-20;6;Friday;Os 4010smer Makov;Turzovkateraz;+ 1287 minút= 21 hod, 27 min.;2547
+2026-11-20 06:58:04;2026-11-20;6;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 9 min.;v cieli+ 63 minút= 1 hod, 3 min.;123
+2026-11-20 06:58:04;2026-11-20;6;Friday;Os 7803smer Košice;Margecanyodišiel pred 6 min.;+ 57 minút;57
+2026-11-20 06:58:04;2026-11-20;6;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Spišské Vlachyprešiel stanicou pred 7 min.;+ 36 minút;36
+2026-11-20 06:58:04;2026-11-20;6;Friday;REx 1763smer Košice;Krompachyodišiel pred 5 min.;+ 33 minút;33
+2026-11-20 06:58:04;2026-11-20;6;Friday;REx 1780smer Banská Bystrica;Gelnicaodišiel pred 5 min.;+ 33 minút;33
+2026-11-20 06:58:04;2026-11-20;6;Friday;Os 7802smer Svit;Spišské Vlachyodišiel pred 3 min.;+ 32 minút;32
+2026-11-20 06:58:04;2026-11-20;6;Friday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Turanyprešiel stanicou teraz;+ 29 minút;29
+2026-11-20 06:58:04;2026-11-20;6;Friday;R 960 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Michaľanyteraz;+ 26 minút;26
+2026-11-20 06:58:04;2026-11-20;6;Friday;RJ 1021 REGIOJETsmer Košice;Košiceprišiel pred 14 min.;v cieli+ 24 minút;24
+2026-11-20 06:58:04;2026-11-20;6;Friday;R 831 URPÍNsmer Banská Bystrica;Šaľaodišiel pred 2 min.;+ 21 minút;21
+2026-11-20 06:58:04;2026-11-20;6;Friday;R 930 FATRANsmer Žilina;Príbovce-Rakovoprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-20 06:58:04;2026-11-20;6;Friday;Os 2603smer Trnava;Trnavaprišiel pred 14 min.;v cieli+ 16 minút;16
+2026-11-20 06:58:04;2026-11-20;6;Friday;Os 3107smer Trenčín;Myjavapred 7 min.;+ 15 minút;15
+2026-11-20 06:58:04;2026-11-20;6;Friday;Os 7807smer Košice;Výh. Gánovceprešiel stanicou pred 4 min.;+ 15 minút;15
+2026-11-20 06:58:04;2026-11-20;6;Friday;Ex 600 TATRANsmer Bratislava hlavná stanica;Ružomberokodišiel pred 4 min.;+ 15 minút;15
+2026-11-20 06:58:04;2026-11-20;6;Friday;mešká do 5 minút;137;76.54 %;76
+2026-11-20 06:58:04;2026-11-20;6;Friday;mešká 5-14 minút;26;14.53 %;14
+2026-11-20 06:58:04;2026-11-20;6;Friday;mešká 15-29 minút;9;5.03 %;5
+2026-11-20 06:58:04;2026-11-20;6;Friday;mešká 30-59 minút;5;2.79 %;2
+2026-11-20 06:58:04;2026-11-20;6;Friday;mešká 60 a viac minút;2;1.12 %;1
