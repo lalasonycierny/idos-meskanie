@@ -87563,3 +87563,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-21 11:07:53;2026-11-21;11;Saturday;mešká 15-29 minút;18;14.17 %;14
 2026-11-21 11:07:53;2026-11-21;11;Saturday;mešká 30-59 minút;4;3.15 %;3
 2026-11-21 11:07:53;2026-11-21;11;Saturday;mešká 60 a viac minút;1;0.79 %;0
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 610 TATRAN;Poprad-Tatry;mešká 47 min.;47
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 20 min.;20
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 614 TATRAN;Košice;mešká 17 min.;17
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-11-21 11:17:55;2026-11-21;11;Saturday;R 961smer Košice;Čierna nad Tisoupred 10 min.;+ 76 minút= 1 hod, 16 min.;136
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Os 7811smer Košice;Kostoľany nad Hornádomodišiel pred 5 min.;+ 49 minút;49
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 610 TATRANsmer Bratislava hlavná stanica;Poprad-Tatryprišiel teraz;+ 47 minút;47
+2026-11-21 11:17:55;2026-11-21;11;Saturday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Vrútky nákladná stanicaprešiel stanicou teraz;+ 41 minút;41
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 3 min.;+ 39 minút;39
+2026-11-21 11:17:55;2026-11-21;11;Saturday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Sekuleprešiel stanicou teraz;+ 27 minút;27
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 615 TATRANsmer Košice;Trnavaodišiel pred 2 min.;+ 25 minút;25
+2026-11-21 11:17:55;2026-11-21;11;Saturday;REx 1912smer Košice;Krásna nad Hornádomteraz;+ 25 minút;25
+2026-11-21 11:17:55;2026-11-21;11;Saturday;R 744 BOJNICEsmer Bratislava-Nové Mesto;Bratislava-Račaprešiel stanicou teraz;+ 24 minút;24
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 608 TATRANsmer Bratislava hlavná stanica;Kraľovanyodišiel teraz;+ 23 minút;23
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 606 TATRANsmer Bratislava hlavná stanica;Považská Bystricaodišiel pred 4 min.;+ 22 minút;22
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Os 7513smer Prievidza;Diviakyodišiel pred 2 min.;+ 22 minút;22
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Os 7810smer Svit;Spišská Nová Vesodišiel pred 8 min.;+ 20 minút;20
+2026-11-21 11:17:55;2026-11-21;11;Saturday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Topoľčanypred 2 min.;+ 20 minút;20
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 505 KRIVÁŇsmer Košice;Košiceprišiel pred 11 min.;v cieli+ 19 minút;19
+2026-11-21 11:17:55;2026-11-21;11;Saturday;R 745 BOJNICEsmer Prievidza;Bošanyteraz;+ 18 minút;18
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 614 TATRANsmer Bratislava hlavná stanica;Košiceodišiel pred 7 min.;+ 17 minút;17
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Os 4313smer Dunajská Streda;Nové Košariskáprišiel pred 2 min.;+ 17 minút;17
+2026-11-21 11:17:55;2026-11-21;11;Saturday;REx 1915smer Humenné;Košiceteraz;+ 16 minút;16
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Os 3014smer Bratislava-Nové Mesto;Pezinokodišiel teraz;+ 16 minút;16
+2026-11-21 11:17:55;2026-11-21;11;Saturday;R 835 URPÍNsmer Banská Bystrica;Šuranypred 4 min.;+ 15 minút;15
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Os 6115smer Zvolen osobná stanica;Horná Štubňateraz;+ 15 minút;15
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 604 TATRANsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou pred 3 min.;+ 15 minút;15
+2026-11-21 11:17:55;2026-11-21;11;Saturday;Ex 612 TATRANsmer Bratislava hlavná stanica;Markušovceprešiel stanicou pred 9 min.;+ 15 minút;15
+2026-11-21 11:17:55;2026-11-21;11;Saturday;mešká do 5 minút;81;60.00 %;60
+2026-11-21 11:17:55;2026-11-21;11;Saturday;mešká 5-14 minút;30;22.22 %;22
+2026-11-21 11:17:55;2026-11-21;11;Saturday;mešká 15-29 minút;19;14.07 %;14
+2026-11-21 11:17:55;2026-11-21;11;Saturday;mešká 30-59 minút;4;2.96 %;2
+2026-11-21 11:17:55;2026-11-21;11;Saturday;mešká 60 a viac minút;1;0.74 %;0
