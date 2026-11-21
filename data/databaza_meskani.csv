@@ -87756,3 +87756,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-21 12:07:52;2026-11-21;12;Saturday;mešká 15-29 minút;17;13.18 %;13
 2026-11-21 12:07:52;2026-11-21;12;Saturday;mešká 30-59 minút;7;5.43 %;5
 2026-11-21 12:07:52;2026-11-21;12;Saturday;mešká 60 a viac minút;0;0.00 %;0
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 610 TATRAN;Liptovská Teplá;mešká 42 min.;42
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 20 min.;20
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 34 min.;34
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 614 TATRAN;Spišské Vlachy;mešká 24 min.;24
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-11-21 12:17:53;2026-11-21;12;Saturday;R 961smer Košice;Streda nad Bodrogomprešiel stanicou teraz;+ 54 minút;54
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Os 7513smer Prievidza;Handlováteraz;+ 42 minút;42
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 610 TATRANsmer Bratislava hlavná stanica;Liptovská Tepláprešiel stanicou pred 6 min.;+ 42 minút;42
+2026-11-21 12:17:53;2026-11-21;12;Saturday;R 10714 POVAŽANsmer Bratislava hlavná stanica;Cíferteraz;+ 39 minút;39
+2026-11-21 12:17:53;2026-11-21;12;Saturday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Čadca št. hr.pred 6 min.;v cieli+ 33 minút;33
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Os 3016smer Bratislava-Nové Mesto;Trnava nákladná stanicaodišiel pred 6 min.;+ 32 minút;32
+2026-11-21 12:17:53;2026-11-21;12;Saturday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Zbehyodišiel pred 6 min.;+ 29 minút;29
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 614 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyodišiel pred 12 min.;+ 24 minút;24
+2026-11-21 12:17:53;2026-11-21;12;Saturday;REx 1915smer Humenné;Trebišovodišiel teraz;+ 22 minút;22
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Os 4315smer Dunajská Streda;Podunajské Biskupiceodišiel pred 2 min.;+ 22 minút;22
+2026-11-21 12:17:53;2026-11-21;12;Saturday;R 745 BOJNICEsmer Prievidza;Prievidzaprišiel pred 6 min.;v cieli+ 20 minút;20
+2026-11-21 12:17:53;2026-11-21;12;Saturday;REx 1807smer Nitra;Zbehyodišiel teraz;+ 20 minút;20
+2026-11-21 12:17:53;2026-11-21;12;Saturday;R 747 BOJNICEsmer Prievidza;Leopoldovodišiel teraz;+ 20 minút;20
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 615 TATRANsmer Košice;Púchovprišiel teraz;+ 19 minút;19
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 617 TATRANsmer Košice;Brestovanyprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 606 TATRANsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou teraz;+ 19 minút;19
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 612 TATRANsmer Bratislava hlavná stanica;Východnáprešiel stanicou teraz;+ 17 minút;17
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Os 4515smer Galanta;Gáňodišiel pred 4 min.;+ 17 minút;17
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Os 7814smer Svit;Výh. Ružínprešiel stanicou pred 5 min.;+ 16 minút;16
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 608 TATRANsmer Bratislava hlavná stanica;Púchovodišiel pred 2 min.;+ 16 minút;16
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Ex 604 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 14 min.;v cieli+ 15 minút;15
+2026-11-21 12:17:53;2026-11-21;12;Saturday;REx 1440smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel teraz;v cieli+ 15 minút;15
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Os 6115smer Zvolen osobná stanica;Bartošova Lehôtkaodišiel pred 7 min.;+ 15 minút;15
+2026-11-21 12:17:53;2026-11-21;12;Saturday;Os 2614smer Kúty;Smoleniceodišiel pred 2 min.;+ 15 minút;15
+2026-11-21 12:17:53;2026-11-21;12;Saturday;mešká do 5 minút;68;54.40 %;54
+2026-11-21 12:17:53;2026-11-21;12;Saturday;mešká 5-14 minút;33;26.40 %;26
+2026-11-21 12:17:53;2026-11-21;12;Saturday;mešká 15-29 minút;18;14.40 %;14
+2026-11-21 12:17:53;2026-11-21;12;Saturday;mešká 30-59 minút;6;4.80 %;4
+2026-11-21 12:17:53;2026-11-21;12;Saturday;mešká 60 a viac minút;0;0.00 %;0
