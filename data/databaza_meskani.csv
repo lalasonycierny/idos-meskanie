@@ -87992,3 +87992,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-21 13:17:53;2026-11-21;13;Saturday;mešká 15-29 minút;18;13.95 %;13
 2026-11-21 13:17:53;2026-11-21;13;Saturday;mešká 30-59 minút;5;3.88 %;3
 2026-11-21 13:17:53;2026-11-21;13;Saturday;mešká 60 a viac minút;1;0.78 %;0
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 610 TATRAN;Považská Bystrica;mešká 30 min.;30
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 621 TATRAN;Bratislava-Rača;mešká 1 min.;1
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 618 TATRAN;Margecany;ide načas;0
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 614 TATRAN;Liptovský Hrádok;mešká 15 min.;15
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-11-21 13:27:55;2026-11-21;13;Saturday;R 961smer Košice;Barca St. 1prešiel stanicou pred 4 min.;+ 70 minút= 1 hod, 10 min.;130
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 7814smer Svit;Markušovceodišiel pred 3 min.;+ 44 minút;44
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 606 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 6 min.;v cieli+ 37 minút;37
+2026-11-21 13:27:55;2026-11-21;13;Saturday;R 747 BOJNICEsmer Prievidza;Topoľčanypred 4 min.;+ 37 minút;37
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 616 TATRANsmer Bratislava hlavná stanica;Markušovceprešiel stanicou teraz;+ 35 minút;35
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 619 TATRANsmer Košice;Trnavaodišiel pred 3 min.;+ 34 minút;34
+2026-11-21 13:27:55;2026-11-21;13;Saturday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Odb. Vinohradyprešiel stanicou teraz;+ 34 minút;34
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 7819smer Košice;Markušovceteraz;+ 33 minút;33
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 3017smer Trnava;Pezinokprišiel teraz;+ 32 minút;32
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 610 TATRANsmer Bratislava hlavná stanica;Považská Bystricaodišiel pred 6 min.;+ 30 minút;30
+2026-11-21 13:27:55;2026-11-21;13;Saturday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 28 minút;28
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 609 TATRANsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 3 min.;+ 27 minút;27
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 611 TATRANsmer Košice;Markušovceteraz;+ 22 minút;22
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 3018smer Bratislava-Nové Mesto;Pezinokodišiel pred 2 min.;+ 22 minút;22
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 612 TATRANsmer Bratislava hlavná stanica;Vrútkyprišiel pred 3 min.;+ 18 minút;18
+2026-11-21 13:27:55;2026-11-21;13;Saturday;R 962 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisou št. hr.prišiel teraz;v cieli+ 17 minút;17
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 5017smer Topoľčany;Topoľčanyprišiel teraz;v cieli+ 17 minút;17
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 5018smer Nitra;Ludaniceodišiel pred 7 min.;+ 17 minút;17
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 5117smer Nové Zámky;Nové Zámkyprišiel pred 13 min.;v cieli+ 17 minút;17
+2026-11-21 13:27:55;2026-11-21;13;Saturday;R 10716 POVAŽANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 4 min.;+ 17 minút;17
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 5149smer Nitra;Lužiankyodišiel pred 9 min.;+ 16 minút;16
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Os 3117smer Trenčín;Trenčín-Zlatovceprišiel teraz;+ 16 minút;16
+2026-11-21 13:27:55;2026-11-21;13;Saturday;ra 275 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Strekovprešiel stanicou teraz;+ 15 minút;15
+2026-11-21 13:27:55;2026-11-21;13;Saturday;Ex 614 TATRANsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-21 13:27:55;2026-11-21;13;Saturday;mešká do 5 minút;70;56.00 %;56
+2026-11-21 13:27:55;2026-11-21;13;Saturday;mešká 5-14 minút;31;24.80 %;24
+2026-11-21 13:27:55;2026-11-21;13;Saturday;mešká 15-29 minút;14;11.20 %;11
+2026-11-21 13:27:55;2026-11-21;13;Saturday;mešká 30-59 minút;9;7.20 %;7
+2026-11-21 13:27:55;2026-11-21;13;Saturday;mešká 60 a viac minút;1;0.80 %;0
