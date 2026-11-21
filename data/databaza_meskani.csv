@@ -88590,3 +88590,24 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-21 16:47:54;2026-11-21;16;Saturday;mešká 15-29 minút;10;8.00 %;8
 2026-11-21 16:47:54;2026-11-21;16;Saturday;mešká 30-59 minút;2;1.60 %;1
 2026-11-21 16:47:54;2026-11-21;16;Saturday;mešká 60 a viac minút;2;1.60 %;1
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Ex 621 TATRAN;Kráľova Lehota;ide načas;0
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Ex 618 TATRAN;Považská Bystrica;mešká 9 min.;9
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Ex 620 TATRAN;Ružomberok;mešká 14 min.;14
+2026-11-21 16:57:53;2026-11-21;16;Saturday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 197 minút= 3 hod, 17 min.;377
+2026-11-21 16:57:53;2026-11-21;16;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 77 minút= 1 hod, 17 min.;137
+2026-11-21 16:57:53;2026-11-21;16;Saturday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Spišská Nová Vesodišiel teraz;+ 68 minút= 1 hod, 8 min.;128
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Ex 622 TATRANsmer Bratislava hlavná stanica;Markušovceprešiel stanicou pred 6 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Os 7823smer Košice;Malá Lodinaodišiel pred 3 min.;+ 47 minút;47
+2026-11-21 16:57:53;2026-11-21;16;Saturday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Trnava nákladná stanicaprešiel stanicou pred 4 min.;+ 25 minút;25
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Ex 616 TATRANsmer Bratislava hlavná stanica;Nové Mesto nad Váhomprišiel teraz;+ 23 minút;23
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Os 3125smer Trenčín;Vaďovceodišiel pred 7 min.;+ 21 minút;21
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Os 5125smer Nové Zámky;Komjaticeodišiel pred 4 min.;+ 19 minút;19
+2026-11-21 16:57:53;2026-11-21;16;Saturday;REx 1812smer Trnava;Leopoldovodišiel teraz;+ 17 minút;17
+2026-11-21 16:57:53;2026-11-21;16;Saturday;Os 4827smer Komárno;Nové Zámkypred 11 min.;+ 15 minút;15
+2026-11-21 16:57:53;2026-11-21;16;Saturday;mešká do 5 minút;85;70.25 %;70
+2026-11-21 16:57:53;2026-11-21;16;Saturday;mešká 5-14 minút;25;20.66 %;20
+2026-11-21 16:57:53;2026-11-21;16;Saturday;mešká 15-29 minút;6;4.96 %;4
+2026-11-21 16:57:53;2026-11-21;16;Saturday;mešká 30-59 minút;1;0.83 %;0
+2026-11-21 16:57:53;2026-11-21;16;Saturday;mešká 60 a viac minút;4;3.31 %;3
