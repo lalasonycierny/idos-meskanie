@@ -88634,3 +88634,29 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-21 17:07:55;2026-11-21;17;Saturday;mešká 15-29 minút;8;6.15 %;6
 2026-11-21 17:07:55;2026-11-21;17;Saturday;mešká 30-59 minút;2;1.54 %;1
 2026-11-21 17:07:55;2026-11-21;17;Saturday;mešká 60 a viac minút;3;2.31 %;2
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Ex 621 TATRAN;Štrba;ide načas;0
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Ex 618 TATRAN;Ilava;mešká 10 min.;10
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Ex 620 TATRAN;Vrútky nákladná stanica;mešká 12 min.;12
+2026-11-21 17:17:54;2026-11-21;17;Saturday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 217 minút= 3 hod, 37 min.;397
+2026-11-21 17:17:54;2026-11-21;17;Saturday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 97 minút= 1 hod, 37 min.;157
+2026-11-21 17:17:54;2026-11-21;17;Saturday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Poprad-Tatryprišiel teraz;+ 67 minút= 1 hod, 7 min.;127
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Ex 622 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 3 min.;+ 55 minút;55
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Os 7823smer Košice;Kostoľany nad Hornádomodišiel pred 6 min.;+ 45 minút;45
+2026-11-21 17:17:54;2026-11-21;17;Saturday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Výh. Svätý Jurprešiel stanicou teraz;+ 28 minút;28
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Ex 616 TATRANsmer Bratislava hlavná stanica;Veľké Kostoľanyprešiel stanicou teraz;+ 27 minút;27
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Os 7822smer Svit;Spišská Nová Vesodišiel teraz;+ 27 minút;27
+2026-11-21 17:17:54;2026-11-21;17;Saturday;RJ 1223 REGIOJETsmer Košice;Čierna nad Tisouteraz;+ 24 minút;24
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Os 3125smer Trenčín;Trenčianske Bohuslaviceprišiel teraz;+ 22 minút;22
+2026-11-21 17:17:54;2026-11-21;17;Saturday;R 752 BOJNICEsmer Bratislava-Nové Mesto;Topoľčanypred 7 min.;+ 20 minút;20
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Os 5125smer Nové Zámky;Nové Zámkyprišiel pred 3 min.;v cieli+ 19 minút;19
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Os 8525smer Čierna nad Tisou;Kostoľany nad Hornádomodišiel pred 9 min.;+ 17 minút;17
+2026-11-21 17:17:54;2026-11-21;17;Saturday;R 751 BOJNICEsmer Prievidza;Chynoranyteraz;+ 17 minút;17
+2026-11-21 17:17:54;2026-11-21;17;Saturday;REx 1812smer Trnava;Trnavaprišiel pred 9 min.;v cieli+ 17 minút;17
+2026-11-21 17:17:54;2026-11-21;17;Saturday;Os 4827smer Komárno;Nové Zámkyodišiel teraz;+ 15 minút;15
+2026-11-21 17:17:54;2026-11-21;17;Saturday;mešká do 5 minút;87;66.41 %;66
+2026-11-21 17:17:54;2026-11-21;17;Saturday;mešká 5-14 minút;28;21.37 %;21
+2026-11-21 17:17:54;2026-11-21;17;Saturday;mešká 15-29 minút;11;8.40 %;8
+2026-11-21 17:17:54;2026-11-21;17;Saturday;mešká 30-59 minút;2;1.53 %;1
+2026-11-21 17:17:54;2026-11-21;17;Saturday;mešká 60 a viac minút;3;2.29 %;2
