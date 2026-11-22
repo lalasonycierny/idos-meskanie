@@ -90647,3 +90647,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 07:28:19;2026-11-22;7;Sunday;mešká 15-29 minút;3;2.52 %;2
 2026-11-22 07:28:19;2026-11-22;7;Sunday;mešká 30-59 minút;5;4.20 %;4
 2026-11-22 07:28:19;2026-11-22;7;Sunday;mešká 60 a viac minút;1;0.84 %;0
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 07:37:56;2026-11-22;7;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 2 min.;+ 125 minút= 2 hod, 5 min.;245
+2026-11-22 07:37:56;2026-11-22;7;Sunday;REx 1763smer Košice;Kysakprišiel teraz;+ 51 minút;51
+2026-11-22 07:37:56;2026-11-22;7;Sunday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Výh. Váhprešiel stanicou pred 2 min.;+ 47 minút;47
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 604 TATRANsmer Bratislava hlavná stanica;Markušovceprešiel stanicou pred 8 min.;+ 32 minút;32
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 600 TATRANsmer Bratislava hlavná stanica;Vrútkyprišiel teraz;+ 30 minút;30
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 641 TATRANsmer Košice;Markušovceodišiel pred 6 min.;+ 26 minút;26
+2026-11-22 07:37:56;2026-11-22;7;Sunday;EN 443 SLOVAKIAsmer Humenné;Spišská Nová Vesodišiel pred 2 min.;+ 26 minút;26
+2026-11-22 07:37:56;2026-11-22;7;Sunday;R 742 BOJNICEsmer Bratislava-Nové Mesto;Topoľčanyteraz;+ 22 minút;22
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Východnáprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Os 3109smer Trenčín;Myjavapred 2 min.;+ 17 minút;17
+2026-11-22 07:37:56;2026-11-22;7;Sunday;Os 7807smer Košice;Markušovceodišiel teraz;+ 16 minút;16
+2026-11-22 07:37:56;2026-11-22;7;Sunday;R 10705 POVAŽANsmer Žilina;Trenčínprišiel teraz;+ 15 minút;15
+2026-11-22 07:37:56;2026-11-22;7;Sunday;mešká do 5 minút;95;77.24 %;77
+2026-11-22 07:37:56;2026-11-22;7;Sunday;mešká 5-14 minút;16;13.01 %;13
+2026-11-22 07:37:56;2026-11-22;7;Sunday;mešká 15-29 minút;7;5.69 %;5
+2026-11-22 07:37:56;2026-11-22;7;Sunday;mešká 30-59 minút;4;3.25 %;3
+2026-11-22 07:37:56;2026-11-22;7;Sunday;mešká 60 a viac minút;1;0.81 %;0
