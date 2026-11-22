@@ -90669,3 +90669,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 07:37:56;2026-11-22;7;Sunday;mešká 15-29 minút;7;5.69 %;5
 2026-11-22 07:37:56;2026-11-22;7;Sunday;mešká 30-59 minút;4;3.25 %;3
 2026-11-22 07:37:56;2026-11-22;7;Sunday;mešká 60 a viac minút;1;0.81 %;0
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 07:47:57;2026-11-22;7;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 3 min.;v cieli+ 124 minút= 2 hod, 4 min.;244
+2026-11-22 07:47:57;2026-11-22;7;Sunday;REx 1763smer Košice;Kostoľany nad Hornádomprešiel stanicou pred 2 min.;+ 49 minút;49
+2026-11-22 07:47:57;2026-11-22;7;Sunday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Budatín odb.prešiel stanicou pred 5 min.;+ 46 minút;46
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Ex 604 TATRANsmer Bratislava hlavná stanica;Výh. Letanovceprešiel stanicou pred 2 min.;+ 34 minút;34
+2026-11-22 07:47:57;2026-11-22;7;Sunday;EN 443 SLOVAKIAsmer Humenné;Markušovceteraz;+ 33 minút;33
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Ex 600 TATRANsmer Bratislava hlavná stanica;Potok odb.prešiel stanicou teraz;+ 29 minút;29
+2026-11-22 07:47:57;2026-11-22;7;Sunday;R 742 BOJNICEsmer Bratislava-Nové Mesto;Ludaniceprešiel stanicou teraz;+ 23 minút;23
+2026-11-22 07:47:57;2026-11-22;7;Sunday;R 10705 POVAŽANsmer Žilina;Trenčínodišiel teraz;+ 21 minút;21
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou pred 3 min.;+ 19 minút;19
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Os 3109smer Trenčín;Myjavapred 12 min.;+ 17 minút;17
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Os 7807smer Košice;Markušovceodišiel pred 10 min.;+ 16 minút;16
+2026-11-22 07:47:57;2026-11-22;7;Sunday;Os 3106smer Myjava;Vaďovceodišiel teraz;+ 15 minút;15
+2026-11-22 07:47:57;2026-11-22;7;Sunday;mešká do 5 minút;89;76.07 %;76
+2026-11-22 07:47:57;2026-11-22;7;Sunday;mešká 5-14 minút;16;13.68 %;13
+2026-11-22 07:47:57;2026-11-22;7;Sunday;mešká 15-29 minút;7;5.98 %;5
+2026-11-22 07:47:57;2026-11-22;7;Sunday;mešká 30-59 minút;4;3.42 %;3
+2026-11-22 07:47:57;2026-11-22;7;Sunday;mešká 60 a viac minút;1;0.85 %;0
