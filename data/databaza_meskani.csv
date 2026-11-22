@@ -91030,3 +91030,25 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 10:17:56;2026-11-22;10;Sunday;mešká 15-29 minút;12;10.00 %;10
 2026-11-22 10:17:56;2026-11-22;10;Sunday;mešká 30-59 minút;1;0.83 %;0
 2026-11-22 10:17:56;2026-11-22;10;Sunday;mešká 60 a viac minút;1;0.83 %;0
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 610 TATRAN;Spišská Nová Ves;mešká 20 min.;20
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 10:27:56;2026-11-22;10;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 70 minút= 1 hod, 10 min.;130
+2026-11-22 10:27:56;2026-11-22;10;Sunday;R 10709 POVAŽANsmer Žilina;Púchovprišiel teraz;+ 34 minút;34
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Os 5413smer Trenčianska Teplá;Trenčianska Tepláteraz;+ 32 minút;32
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 505 KRIVÁŇsmer Košice;Markušovceodišiel pred 2 min.;+ 30 minút;30
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 606 TATRANsmer Bratislava hlavná stanica;Turanyprešiel stanicou pred 2 min.;+ 24 minút;24
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 604 TATRANsmer Bratislava hlavná stanica;Ladceprešiel stanicou teraz;+ 22 minút;22
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Os 7811smer Košice;Malá Lodinaprišiel teraz;+ 21 minút;21
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 610 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel teraz;+ 20 minút;20
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 613 TATRANsmer Košice;Veľké Kostoľanyprešiel stanicou pred 3 min.;+ 20 minút;20
+2026-11-22 10:27:56;2026-11-22;10;Sunday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Bratislava-Lamačprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-11-22 10:27:56;2026-11-22;10;Sunday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Trnava nákladná stanicateraz;+ 18 minút;18
+2026-11-22 10:27:56;2026-11-22;10;Sunday;R 744 BOJNICEsmer Bratislava-Nové Mesto;Leopoldovodišiel teraz;+ 15 minút;15
+2026-11-22 10:27:56;2026-11-22;10;Sunday;mešká do 5 minút;74;66.07 %;66
+2026-11-22 10:27:56;2026-11-22;10;Sunday;mešká 5-14 minút;26;23.21 %;23
+2026-11-22 10:27:56;2026-11-22;10;Sunday;mešká 15-29 minút;8;7.14 %;7
+2026-11-22 10:27:56;2026-11-22;10;Sunday;mešká 30-59 minút;3;2.68 %;2
+2026-11-22 10:27:56;2026-11-22;10;Sunday;mešká 60 a viac minút;1;0.89 %;0
