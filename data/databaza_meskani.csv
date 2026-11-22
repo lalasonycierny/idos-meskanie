@@ -90296,3 +90296,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 04:27:56;2026-11-22;4;Sunday;mešká 15-29 minút;2;3.57 %;3
 2026-11-22 04:27:56;2026-11-22;4;Sunday;mešká 30-59 minút;1;1.79 %;1
 2026-11-22 04:27:56;2026-11-22;4;Sunday;mešká 60 a viac minút;4;7.14 %;7
+2026-11-22 04:37:53;2026-11-22;4;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-22 04:37:53;2026-11-22;4;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 04:37:53;2026-11-22;4;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 04:37:53;2026-11-22;4;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 04:37:53;2026-11-22;4;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 04:37:53;2026-11-22;4;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 657 minút= 10 hod, 57 min.;1257
+2026-11-22 04:37:53;2026-11-22;4;Sunday;Os 3249smer Púchov;Púchovteraz;+ 309 minút= 5 hod, 9 min.;609
+2026-11-22 04:37:53;2026-11-22;4;Sunday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Čadca št. hr.pred 2 min.;v cieli+ 148 minút= 2 hod, 28 min.;268
+2026-11-22 04:37:53;2026-11-22;4;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Ružomberokodišiel pred 8 min.;+ 142 minút= 2 hod, 22 min.;262
+2026-11-22 04:37:53;2026-11-22;4;Sunday;EN 443 SLOVAKIAsmer Humenné;Čadcaodišiel pred 9 min.;+ 30 minút;30
+2026-11-22 04:37:53;2026-11-22;4;Sunday;R 681 ZEMPLÍNsmer Humenné;Spišské Vlachyprešiel stanicou teraz;+ 29 minút;29
+2026-11-22 04:37:53;2026-11-22;4;Sunday;Os 7801smer Košice;Markušovceodišiel teraz;+ 26 minút;26
+2026-11-22 04:37:53;2026-11-22;4;Sunday;mešká do 5 minút;57;82.61 %;82
+2026-11-22 04:37:53;2026-11-22;4;Sunday;mešká 5-14 minút;5;7.25 %;7
+2026-11-22 04:37:53;2026-11-22;4;Sunday;mešká 15-29 minút;2;2.90 %;2
+2026-11-22 04:37:53;2026-11-22;4;Sunday;mešká 30-59 minút;1;1.45 %;1
+2026-11-22 04:37:53;2026-11-22;4;Sunday;mešká 60 a viac minút;4;5.80 %;5
