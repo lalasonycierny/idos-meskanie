@@ -91253,3 +91253,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 11:47:56;2026-11-22;11;Sunday;mešká 15-29 minút;6;5.00 %;5
 2026-11-22 11:47:56;2026-11-22;11;Sunday;mešká 30-59 minút;2;1.67 %;1
 2026-11-22 11:47:56;2026-11-22;11;Sunday;mešká 60 a viac minút;1;0.83 %;0
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 610 TATRAN;Výh. Paludza;mešká 29 min.;29
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 614 TATRAN;Spišské Vlachy;mešká 17 min.;17
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 11:57:56;2026-11-22;11;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 160 minút= 2 hod, 40 min.;280
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Os 7810smer Svit;Výh. Gánovceprešiel stanicou pred 6 min.;+ 41 minút;41
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 604 TATRANsmer Bratislava hlavná stanica;Pezinokodišiel teraz;+ 34 minút;34
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 610 TATRANsmer Bratislava hlavná stanica;Výh. Paludzaprešiel stanicou pred 4 min.;+ 29 minút;29
+2026-11-22 11:57:56;2026-11-22;11;Sunday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Koniarovceprešiel stanicou pred 2 min.;+ 27 minút;27
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Os 5383smer Trenčín;Chynoranyteraz;+ 25 minút;25
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Os 7815smer Košice;Markušovceodišiel pred 7 min.;+ 24 minút;24
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 612 TATRANsmer Bratislava hlavná stanica;Poprad-Tatryodišiel pred 4 min.;+ 17 minút;17
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 614 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyteraz;+ 17 minút;17
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 607 TATRANsmer Košice;Výh. Ružínprešiel stanicou teraz;+ 17 minút;17
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 606 TATRANsmer Bratislava hlavná stanica;Výh. Horná Stredaprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-22 11:57:56;2026-11-22;11;Sunday;Ex 617 TATRANsmer Košice;Cíferteraz;+ 15 minút;15
+2026-11-22 11:57:56;2026-11-22;11;Sunday;R 10714 POVAŽANsmer Bratislava hlavná stanica;Cíferodišiel pred 2 min.;+ 15 minút;15
+2026-11-22 11:57:56;2026-11-22;11;Sunday;mešká do 5 minút;84;66.67 %;66
+2026-11-22 11:57:56;2026-11-22;11;Sunday;mešká 5-14 minút;29;23.02 %;23
+2026-11-22 11:57:56;2026-11-22;11;Sunday;mešká 15-29 minút;10;7.94 %;7
+2026-11-22 11:57:56;2026-11-22;11;Sunday;mešká 30-59 minút;2;1.59 %;1
+2026-11-22 11:57:56;2026-11-22;11;Sunday;mešká 60 a viac minút;1;0.79 %;0
