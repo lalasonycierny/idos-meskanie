@@ -90231,3 +90231,18 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 03:47:55;2026-11-22;3;Sunday;mešká 15-29 minút;1;6.67 %;6
 2026-11-22 03:47:55;2026-11-22;3;Sunday;mešká 30-59 minút;0;0.00 %;0
 2026-11-22 03:47:55;2026-11-22;3;Sunday;mešká 60 a viac minút;4;26.67 %;26
+2026-11-22 03:57:55;2026-11-22;3;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-22 03:57:55;2026-11-22;3;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 03:57:55;2026-11-22;3;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 03:57:55;2026-11-22;3;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 03:57:55;2026-11-22;3;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 03:57:55;2026-11-22;3;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 617 minút= 10 hod, 17 min.;1217
+2026-11-22 03:57:55;2026-11-22;3;Sunday;Os 3249smer Púchov;Púchovteraz;+ 269 minút= 4 hod, 29 min.;509
+2026-11-22 03:57:55;2026-11-22;3;Sunday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Žilinaprišiel pred 12 min.;+ 145 minút= 2 hod, 25 min.;265
+2026-11-22 03:57:55;2026-11-22;3;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Kráľova Lehotateraz;+ 140 minút= 2 hod, 20 min.;260
+2026-11-22 03:57:55;2026-11-22;3;Sunday;EC 1263smer Prešov;Ličartovceprešiel stanicou pred 5 min.;+ 21 minút;21
+2026-11-22 03:57:55;2026-11-22;3;Sunday;mešká do 5 minút;14;66.67 %;66
+2026-11-22 03:57:55;2026-11-22;3;Sunday;mešká 5-14 minút;2;9.52 %;9
+2026-11-22 03:57:55;2026-11-22;3;Sunday;mešká 15-29 minút;1;4.76 %;4
+2026-11-22 03:57:55;2026-11-22;3;Sunday;mešká 30-59 minút;0;0.00 %;0
+2026-11-22 03:57:55;2026-11-22;3;Sunday;mešká 60 a viac minút;4;19.05 %;19
