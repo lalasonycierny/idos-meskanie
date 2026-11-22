@@ -90009,3 +90009,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 01:27:54;2026-11-22;1;Sunday;mešká 15-29 minút;0;0.00 %;0
 2026-11-22 01:27:54;2026-11-22;1;Sunday;mešká 30-59 minút;4;30.77 %;30
 2026-11-22 01:27:54;2026-11-22;1;Sunday;mešká 60 a viac minút;7;53.85 %;53
+2026-11-22 01:37:53;2026-11-22;1;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-22 01:37:53;2026-11-22;1;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 01:37:53;2026-11-22;1;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 01:37:53;2026-11-22;1;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 01:37:53;2026-11-22;1;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 01:37:53;2026-11-22;1;Sunday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 5 min.;+ 712 minút= 11 hod, 52 min.;1372
+2026-11-22 01:37:53;2026-11-22;1;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 597 minút= 9 hod, 57 min.;1137
+2026-11-22 01:37:53;2026-11-22;1;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 477 minút= 7 hod, 57 min.;897
+2026-11-22 01:37:53;2026-11-22;1;Sunday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Spišská Nová Vesodišiel teraz;+ 157 minút= 2 hod, 37 min.;277
+2026-11-22 01:37:53;2026-11-22;1;Sunday;Os 3249smer Púchov;Púchovteraz;+ 129 minút= 2 hod, 9 min.;249
+2026-11-22 01:37:53;2026-11-22;1;Sunday;Os 7873smer Margecany;Spišské Vlachyodišiel pred 2 min.;+ 116 minút= 1 hod, 56 min.;176
+2026-11-22 01:37:53;2026-11-22;1;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Spišské Vlachyprešiel stanicou pred 8 min.;+ 62 minút= 1 hod, 2 min.;122
+2026-11-22 01:37:53;2026-11-22;1;Sunday;REx 1939smer Humenné;Humennépred 9 min.;v cieli+ 53 minút;53
+2026-11-22 01:37:53;2026-11-22;1;Sunday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Budatín odb.prešiel stanicou teraz;+ 49 minút;49
+2026-11-22 01:37:53;2026-11-22;1;Sunday;Os 8537smer Čierna nad Tisou;Čierna nad Tisoupred 6 min.;v cieli+ 40 minút;40
+2026-11-22 01:37:53;2026-11-22;1;Sunday;mešká do 5 minút;2;15.38 %;15
+2026-11-22 01:37:53;2026-11-22;1;Sunday;mešká 5-14 minút;1;7.69 %;7
+2026-11-22 01:37:53;2026-11-22;1;Sunday;mešká 15-29 minút;0;0.00 %;0
+2026-11-22 01:37:53;2026-11-22;1;Sunday;mešká 30-59 minút;3;23.08 %;23
+2026-11-22 01:37:53;2026-11-22;1;Sunday;mešká 60 a viac minút;7;53.85 %;53
