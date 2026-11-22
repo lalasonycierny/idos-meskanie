@@ -90046,3 +90046,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 01:47:55;2026-11-22;1;Sunday;mešká 15-29 minút;0;0.00 %;0
 2026-11-22 01:47:55;2026-11-22;1;Sunday;mešká 30-59 minút;1;10.00 %;10
 2026-11-22 01:47:55;2026-11-22;1;Sunday;mešká 60 a viac minút;6;60.00 %;60
+2026-11-22 01:57:54;2026-11-22;1;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-22 01:57:54;2026-11-22;1;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 01:57:54;2026-11-22;1;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 01:57:54;2026-11-22;1;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 01:57:54;2026-11-22;1;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 01:57:54;2026-11-22;1;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 617 minút= 10 hod, 17 min.;1217
+2026-11-22 01:57:54;2026-11-22;1;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 497 minút= 8 hod, 17 min.;977
+2026-11-22 01:57:54;2026-11-22;1;Sunday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Výh. Gánovceprešiel stanicou pred 7 min.;+ 158 minút= 2 hod, 38 min.;278
+2026-11-22 01:57:54;2026-11-22;1;Sunday;Os 3249smer Púchov;Púchovteraz;+ 149 minút= 2 hod, 29 min.;269
+2026-11-22 01:57:54;2026-11-22;1;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Markušovceprešiel stanicou pred 8 min.;+ 74 minút= 1 hod, 14 min.;134
+2026-11-22 01:57:54;2026-11-22;1;Sunday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Krásno nad Kysucouprešiel stanicou pred 6 min.;+ 50 minút;50
+2026-11-22 01:57:54;2026-11-22;1;Sunday;mešká do 5 minút;2;22.22 %;22
+2026-11-22 01:57:54;2026-11-22;1;Sunday;mešká 5-14 minút;1;11.11 %;11
+2026-11-22 01:57:54;2026-11-22;1;Sunday;mešká 15-29 minút;0;0.00 %;0
+2026-11-22 01:57:54;2026-11-22;1;Sunday;mešká 30-59 minút;1;11.11 %;11
+2026-11-22 01:57:54;2026-11-22;1;Sunday;mešká 60 a viac minút;5;55.56 %;55
