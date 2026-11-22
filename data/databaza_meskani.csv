@@ -90094,3 +90094,18 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 02:17:53;2026-11-22;2;Sunday;mešká 15-29 minút;0;0.00 %;0
 2026-11-22 02:17:53;2026-11-22;2;Sunday;mešká 30-59 minút;1;12.50 %;12
 2026-11-22 02:17:53;2026-11-22;2;Sunday;mešká 60 a viac minút;5;62.50 %;62
+2026-11-22 02:27:55;2026-11-22;2;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-22 02:27:55;2026-11-22;2;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 02:27:55;2026-11-22;2;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 02:27:55;2026-11-22;2;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 02:27:55;2026-11-22;2;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 02:27:55;2026-11-22;2;Sunday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 647 minút= 10 hod, 47 min.;1247
+2026-11-22 02:27:55;2026-11-22;2;Sunday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 527 minút= 8 hod, 47 min.;1007
+2026-11-22 02:27:55;2026-11-22;2;Sunday;Os 3249smer Púchov;Púchovteraz;+ 179 minút= 2 hod, 59 min.;299
+2026-11-22 02:27:55;2026-11-22;2;Sunday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Kráľova Lehotaprešiel stanicou teraz;+ 141 minút= 2 hod, 21 min.;261
+2026-11-22 02:27:55;2026-11-22;2;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Poprad-Tatryodišiel pred 2 min.;+ 78 minút= 1 hod, 18 min.;138
+2026-11-22 02:27:55;2026-11-22;2;Sunday;mešká do 5 minút;3;37.50 %;37
+2026-11-22 02:27:55;2026-11-22;2;Sunday;mešká 5-14 minút;0;0.00 %;0
+2026-11-22 02:27:55;2026-11-22;2;Sunday;mešká 15-29 minút;0;0.00 %;0
+2026-11-22 02:27:55;2026-11-22;2;Sunday;mešká 30-59 minút;0;0.00 %;0
+2026-11-22 02:27:55;2026-11-22;2;Sunday;mešká 60 a viac minút;5;62.50 %;62
