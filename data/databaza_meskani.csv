@@ -90589,3 +90589,22 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 06:57:55;2026-11-22;6;Sunday;mešká 15-29 minút;4;3.25 %;3
 2026-11-22 06:57:55;2026-11-22;6;Sunday;mešká 30-59 minút;5;4.07 %;4
 2026-11-22 06:57:55;2026-11-22;6;Sunday;mešká 60 a viac minút;1;0.81 %;0
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 23 min.;23
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 07:07:54;2026-11-22;7;Sunday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Trnavaprišiel teraz;+ 128 minút= 2 hod, 8 min.;248
+2026-11-22 07:07:54;2026-11-22;7;Sunday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Ľubochňaprešiel stanicou pred 4 min.;+ 44 minút;44
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Os 7803smer Košice;Kostoľany nad Hornádomodišiel pred 4 min.;+ 39 minút;39
+2026-11-22 07:07:54;2026-11-22;7;Sunday;EN 443 SLOVAKIAsmer Humenné;Poprad-Tatryteraz;+ 35 minút;35
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Ex 600 TATRANsmer Bratislava hlavná stanica;Ružomberokodišiel teraz;+ 28 minút;28
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Ex 604 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyteraz;+ 19 minút;19
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Os 5105smer Nové Zámky;Bánovodišiel teraz;+ 18 minút;18
+2026-11-22 07:07:54;2026-11-22;7;Sunday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 6 min.;+ 16 minút;16
+2026-11-22 07:07:54;2026-11-22;7;Sunday;R 741 BOJNICEsmer Prievidza;Bošanyteraz;+ 15 minút;15
+2026-11-22 07:07:54;2026-11-22;7;Sunday;mešká do 5 minút;100;77.52 %;77
+2026-11-22 07:07:54;2026-11-22;7;Sunday;mešká 5-14 minút;20;15.50 %;15
+2026-11-22 07:07:54;2026-11-22;7;Sunday;mešká 15-29 minút;5;3.88 %;3
+2026-11-22 07:07:54;2026-11-22;7;Sunday;mešká 30-59 minút;3;2.33 %;2
+2026-11-22 07:07:54;2026-11-22;7;Sunday;mešká 60 a viac minút;1;0.78 %;0
