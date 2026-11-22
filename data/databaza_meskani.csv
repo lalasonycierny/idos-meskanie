@@ -91530,3 +91530,35 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 13:27:55;2026-11-22;13;Sunday;mešká 15-29 minút;12;9.52 %;9
 2026-11-22 13:27:55;2026-11-22;13;Sunday;mešká 30-59 minút;9;7.14 %;7
 2026-11-22 13:27:55;2026-11-22;13;Sunday;mešká 60 a viac minút;1;0.79 %;0
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 610 TATRAN;Púchov;mešká 33 min.;33
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 621 TATRAN;Pezinok;mešká 3 min.;3
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 618 TATRAN;Margecany;mešká 6 min.;6
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 614 TATRAN;Východná;mešká 35 min.;35
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 13:37:56;2026-11-22;13;Sunday;R 961smer Košice;Veľký Horešprešiel stanicou pred 2 min.;+ 146 minút= 2 hod, 26 min.;266
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 7814smer Svit;Spišská Nová Vesteraz;+ 49 minút;49
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 7819smer Košice;Markušovceteraz;+ 43 minút;43
+2026-11-22 13:37:56;2026-11-22;13;Sunday;REx 1437smer Komárno;Lehniceodišiel teraz;+ 42 minút;42
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 4317smer Dunajská Streda;Podunajské Biskupiceodišiel pred 3 min.;+ 40 minút;40
+2026-11-22 13:37:56;2026-11-22;13;Sunday;R 963 ZAKARPATIAsmer Košice;Čierna nad Tisouteraz;+ 38 minút;38
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 614 TATRANsmer Bratislava hlavná stanica;Východnáprešiel stanicou pred 2 min.;+ 35 minút;35
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 610 TATRANsmer Bratislava hlavná stanica;Púchovodišiel pred 5 min.;+ 33 minút;33
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 616 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel pred 3 min.;+ 30 minút;30
+2026-11-22 13:37:56;2026-11-22;13;Sunday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Bratislava-Nové Mestoteraz;v cieli+ 30 minút;30
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 619 TATRANsmer Košice;Piešťanyodišiel pred 2 min.;+ 26 minút;26
+2026-11-22 13:37:56;2026-11-22;13;Sunday;R 748 BOJNICEsmer Bratislava-Nové Mesto;Topoľčanyteraz;+ 24 minút;24
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 611 TATRANsmer Košice;Markušovceodišiel pred 10 min.;+ 22 minút;22
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 7517smer Prievidza;Horná Štubňaodišiel pred 6 min.;+ 20 minút;20
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 609 TATRANsmer Košice;Košiceprišiel pred 14 min.;v cieli+ 19 minút;19
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 8517smer Čierna nad Tisou;Krásna nad Hornádomodišiel pred 2 min.;+ 18 minút;18
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 3121smer Trenčín;Myjavapred 10 min.;+ 17 minút;17
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Ex 612 TATRANsmer Bratislava hlavná stanica;Varínprešiel stanicou teraz;+ 17 minút;17
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 3117smer Trenčín;Trenčínprišiel pred 4 min.;v cieli+ 16 minút;16
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 3118smer Myjava;Čachticeodišiel pred 7 min.;+ 15 minút;15
+2026-11-22 13:37:56;2026-11-22;13;Sunday;Os 3018smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel teraz;v cieli+ 15 minút;15
+2026-11-22 13:37:56;2026-11-22;13;Sunday;R 10717 POVAŽANsmer Žilina;Trenčín-Zlatovceprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-22 13:37:56;2026-11-22;13;Sunday;mešká do 5 minút;80;65.04 %;65
+2026-11-22 13:37:56;2026-11-22;13;Sunday;mešká 5-14 minút;21;17.07 %;17
+2026-11-22 13:37:56;2026-11-22;13;Sunday;mešká 15-29 minút;12;9.76 %;9
+2026-11-22 13:37:56;2026-11-22;13;Sunday;mešká 30-59 minút;9;7.32 %;7
+2026-11-22 13:37:56;2026-11-22;13;Sunday;mešká 60 a viac minút;1;0.81 %;0
