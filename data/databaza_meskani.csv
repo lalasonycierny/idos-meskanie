@@ -91234,3 +91234,22 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-22 11:37:55;2026-11-22;11;Sunday;mešká 15-29 minút;10;8.06 %;8
 2026-11-22 11:37:55;2026-11-22;11;Sunday;mešká 30-59 minút;2;1.61 %;1
 2026-11-22 11:37:55;2026-11-22;11;Sunday;mešká 60 a viac minút;1;0.81 %;0
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 610 TATRAN;Liptovský Mikuláš;mešká 29 min.;29
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 621 TATRAN;Košice;v cieli meškal 28 min.;28
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 614 TATRAN;Krompachy;mešká 11 min.;11
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-22 11:47:56;2026-11-22;11;Sunday;R 961smer Košice;Čierna nad Tisouteraz;+ 150 minút= 2 hod, 30 min.;270
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Os 7810smer Svit;Vydrníkodišiel teraz;+ 43 minút;43
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 604 TATRANsmer Bratislava hlavná stanica;Cíferteraz;+ 35 minút;35
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 610 TATRANsmer Bratislava hlavná stanica;Liptovský Mikulášodišiel teraz;+ 29 minút;29
+2026-11-22 11:47:56;2026-11-22;11;Sunday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Topoľčanyodišiel pred 3 min.;+ 28 minút;28
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Os 7815smer Košice;Markušovceteraz;+ 26 minút;26
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 612 TATRANsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou pred 5 min.;+ 24 minút;24
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 606 TATRANsmer Bratislava hlavná stanica;Trenčianske Bohuslaviceprešiel stanicou teraz;+ 16 minút;16
+2026-11-22 11:47:56;2026-11-22;11;Sunday;Ex 607 TATRANsmer Košice;Krompachyprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-11-22 11:47:56;2026-11-22;11;Sunday;mešká do 5 minút;87;72.50 %;72
+2026-11-22 11:47:56;2026-11-22;11;Sunday;mešká 5-14 minút;24;20.00 %;20
+2026-11-22 11:47:56;2026-11-22;11;Sunday;mešká 15-29 minút;6;5.00 %;5
+2026-11-22 11:47:56;2026-11-22;11;Sunday;mešká 30-59 minút;2;1.67 %;1
+2026-11-22 11:47:56;2026-11-22;11;Sunday;mešká 60 a viac minút;1;0.83 %;0
