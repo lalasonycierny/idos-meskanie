@@ -91998,3 +91998,37 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-25 10:27:54;2026-11-25;10;Wednesday;mešká 15-29 minút;14;11.11 %;11
 2026-11-25 10:27:54;2026-11-25;10;Wednesday;mešká 30-59 minút;10;7.94 %;7
 2026-11-25 10:27:54;2026-11-25;10;Wednesday;mešká 60 a viac minút;2;1.59 %;1
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 610 TATRAN;Markušovce;mešká 44 min.;44
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 32 min.;32
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;R 961smer Košice;Čierna nad Tisouteraz;+ 80 minút= 1 hod, 20 min.;140
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Markušovceteraz;+ 44 minút;44
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Devínska Nová Vesprešiel stanicou pred 5 min.;+ 42 minút;42
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Os 7806smer Svit;Svitpred 11 min.;v cieli+ 39 minút;39
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 600 TATRANsmer Bratislava hlavná stanica;Bratislava hlavná stanicapred 14 min.;v cieli+ 38 minút;38
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Výh. Paludzaprešiel stanicou teraz;+ 38 minút;38
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 608 TATRANsmer Bratislava hlavná stanica;Východnáprešiel stanicou pred 2 min.;+ 36 minút;36
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou pred 2 min.;+ 36 minút;36
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 606 TATRANsmer Bratislava hlavná stanica;Turanyprešiel stanicou pred 5 min.;+ 32 minút;32
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;REx 1805smer Nitra;Lužiankyodišiel pred 6 min.;+ 30 minút;30
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Bratislava-Lamačprešiel stanicou pred 2 min.;+ 26 minút;26
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 603 TATRANsmer Košice;Košiceprišiel pred 11 min.;v cieli+ 23 minút;23
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Os 7811smer Košice;Malá Lodinaodišiel pred 7 min.;+ 23 minút;23
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Os 7810smer Svit;Krompachyteraz;+ 22 minút;22
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;REx 1868smer Bratislava hlavná stanica;Bratislava-Vajnoryteraz;+ 21 minút;21
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Os 9111smer Humenné;Strážskeodišiel pred 7 min.;+ 19 minút;19
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Os 7513smer Prievidza;Vrútkyteraz;+ 18 minút;18
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;EC 182 HORNÁDsmer Košice;Košiceprišiel pred 3 min.;v cieli+ 18 minút;18
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Os 2015smer Bratislava hlavná stanica;Sekuleodišiel pred 4 min.;+ 17 minút;17
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;EN 443 SLOVAKIAsmer Humenné;Strážskeodišiel pred 2 min.;+ 16 minút;16
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 611 TATRANsmer Košice;Dolný Hričovprešiel stanicou teraz;+ 16 minút;16
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Ex 1041 REGIOJETsmer Bratislava hlavná stanica;Kútyteraz;+ 15 minút;15
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;REx 1867smer Nové Zámky;Šaľaodišiel pred 2 min.;+ 15 minút;15
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;Os 3413smer Liptovský Mikuláš;Turanyodišiel pred 3 min.;+ 15 minút;15
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;mešká do 5 minút;79;59.85 %;59
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;mešká 5-14 minút;29;21.97 %;21
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;mešká 15-29 minút;14;10.61 %;10
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;mešká 30-59 minút;9;6.82 %;6
+2026-11-25 10:37:53;2026-11-25;10;Wednesday;mešká 60 a viac minút;1;0.76 %;0
