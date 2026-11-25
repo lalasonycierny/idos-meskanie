@@ -92263,3 +92263,36 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-25 11:47:53;2026-11-25;11;Wednesday;mešká 15-29 minút;16;12.80 %;12
 2026-11-25 11:47:53;2026-11-25;11;Wednesday;mešká 30-59 minút;6;4.80 %;4
 2026-11-25 11:47:53;2026-11-25;11;Wednesday;mešká 60 a viac minút;1;0.80 %;0
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 610 TATRAN;Liptovský Hrádok;mešká 42 min.;42
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 32 min.;32
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 614 TATRAN;Spišské Vlachy;mešká 17 min.;17
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 9 min.;9
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 4413smer Skalité;Skalitéteraz;+ 86 minút= 1 hod, 26 min.;146
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Strekovprešiel stanicou pred 3 min.;+ 43 minút;43
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Liptovský Hrádokprešiel stanicou pred 6 min.;+ 42 minút;42
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;RJ 1012 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Krásno nad Kysucouprešiel stanicou teraz;+ 39 minút;39
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 608 TATRANsmer Bratislava hlavná stanica;Varínprešiel stanicou teraz;+ 37 minút;37
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;R 746 BOJNICEsmer Bratislava-Nové Mesto;Ludaniceprešiel stanicou pred 3 min.;+ 31 minút;31
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 606 TATRANsmer Bratislava hlavná stanica;Trenčianske Bohuslaviceprešiel stanicou teraz;+ 27 minút;27
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;SC 241 PENDOLINO KOŠIČANsmer Košice;Ružomberokodišiel pred 2 min.;+ 23 minút;23
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 7546smer Skalité;Kysucké Nové Mestoodišiel pred 2 min.;+ 23 minút;23
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 4815smer Komárno;Komárnoprišiel pred 4 min.;v cieli+ 22 minút;22
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;R 745 BOJNICEsmer Prievidza;Zemianske Kostoľanyodišiel teraz;+ 21 minút;21
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 3117smer Trenčín;Myjavapred 7 min.;+ 20 minút;20
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 4714smer Bratislava hlavná stanica;Bernolákovoodišiel pred 3 min.;+ 20 minút;20
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;R 961smer Košice;Slovenské Nové Mestoodišiel pred 11 min.;+ 18 minút;18
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 611 TATRANsmer Košice;Výh. Paludzaodišiel pred 3 min.;+ 18 minút;18
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Ex 614 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyteraz;+ 17 minút;17
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;EC 278 METROPOLITANsmer Kúty št. hr. - Praha jih;Senecprešiel stanicou teraz;+ 17 minút;17
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 2615smer Trnava;Jablonicaodišiel teraz;+ 17 minút;17
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 3449smer Liptovský Hrádok;Ľubochňaodišiel pred 3 min.;+ 16 minút;16
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 5315smer Trenčín;Bánovce nad Bebravouodišiel pred 13 min.;+ 16 minút;16
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 7915smer Trstená;Párnicaodišiel pred 7 min.;+ 15 minút;15
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;Os 2710smer Vrbovce št. hr. - Velká nad Veličkou;Myjavapred 11 min.;+ 15 minút;15
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;REx 1870smer Bratislava hlavná stanica;Šaľaodišiel pred 4 min.;+ 15 minút;15
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;mešká do 5 minút;85;65.38 %;65
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;mešká 5-14 minút;22;16.92 %;16
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;mešká 15-29 minút;17;13.08 %;13
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;mešká 30-59 minút;5;3.85 %;3
+2026-11-25 11:58:00;2026-11-25;11;Wednesday;mešká 60 a viac minút;1;0.77 %;0
