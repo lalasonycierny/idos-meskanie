@@ -94698,3 +94698,40 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-25 21:37:53;2026-11-25;21;Wednesday;mešká 15-29 minút;13;10.32 %;10
 2026-11-25 21:37:53;2026-11-25;21;Wednesday;mešká 30-59 minút;4;3.17 %;3
 2026-11-25 21:37:53;2026-11-25;21;Wednesday;mešká 60 a viac minút;12;9.52 %;9
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 152 min.;152
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 621 TATRAN;Košice;v cieli meškal 14 min.;14
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 14 min.;14
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 487 minút= 8 hod, 7 min.;967
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 367 minút= 6 hod, 7 min.;727
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;REx 7741smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 363 minút= 6 hod, 3 min.;723
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;REx 7745smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 303 minút= 5 hod, 3 min.;603
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;REx 7747smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 273 minút= 4 hod, 33 min.;513
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 247 minút= 4 hod, 7 min.;487
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;REx 7749smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 243 minút= 4 hod, 3 min.;483
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;REx 7751smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 213 minút= 3 hod, 33 min.;393
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 525 KRIVÁŇsmer Košice;Spišské Vlachyteraz;+ 118 minút= 1 hod, 58 min.;178
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 627 TATRANsmer Košice;Východnáprešiel stanicou pred 5 min.;+ 100 minút= 1 hod, 40 min.;160
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;EC 192 HORNÁDsmer Košice;Košicepred 7 min.;v cieli+ 85 minút= 1 hod, 25 min.;145
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;ra 175 HUNGARIAsmer Štúrovo št. hr. - Budapest-Nyugati;Sládkovičovoprešiel stanicou teraz;+ 79 minút= 1 hod, 19 min.;139
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 18640 REGIOJETsmer Bratislava hlavná stanica;Kútyodišiel teraz;+ 71 minút= 1 hod, 11 min.;131
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;REx 7761smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 63 minút= 1 hod, 3 min.;123
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 629 TATRANsmer Košice;Kráľova Lehotaprešiel stanicou pred 2 min.;+ 50 minút;50
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;EN 442 SLOVAKIAsmer Čadca št. hr. - Praha jih;Košiceteraz;+ 48 minút;48
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Os 4734smer Bratislava hlavná stanica;Sládkovičovoteraz;+ 37 minút;37
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;EC 283 Metropolitan Slovenská strelasmer Nové Zámky;Kútyteraz;+ 37 minút;37
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Os 3134smer Myjava;Nové Mesto nad Váhomteraz;+ 36 minút;36
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Os 7830smer Svit;Poprad-Tatryteraz;+ 28 minút;28
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Ex 526 KRIVÁŇsmer Bratislava hlavná stanica;Trenčínodišiel teraz;+ 27 minút;27
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;R 10733 POVAŽANsmer Púchov;Výh. Nivyprešiel stanicou pred 4 min.;+ 27 minút;27
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;R 10732 POVAŽANsmer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 6 min.;v cieli+ 26 minút;26
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;R 10734 POVAŽANsmer Bratislava hlavná stanica;Leopoldovodišiel pred 3 min.;+ 25 minút;25
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Os 7835smer Košice;Markušovceteraz;+ 25 minút;25
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;rj 167 railjet xpresssmer Bratislava hlavná stanica;Bratislava-Petržalkateraz;+ 21 minút;21
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;Os 4835smer Komárno;Komárnoprišiel pred 4 min.;v cieli+ 15 minút;15
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;mešká do 5 minút;60;52.17 %;52
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;mešká 5-14 minút;28;24.35 %;24
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;mešká 15-29 minút;8;6.96 %;6
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;mešká 30-59 minút;5;4.35 %;4
+2026-11-25 21:47:51;2026-11-25;21;Wednesday;mešká 60 a viac minút;14;12.17 %;12
