@@ -92803,3 +92803,40 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-25 14:37:53;2026-11-25;14;Wednesday;mešká 15-29 minút;19;10.56 %;10
 2026-11-25 14:37:53;2026-11-25;14;Wednesday;mešká 30-59 minút;11;6.11 %;6
 2026-11-25 14:37:53;2026-11-25;14;Wednesday;mešká 60 a viac minút;1;0.56 %;0
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 610 TATRAN;Brestovany;mešká 48 min.;48
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 621 TATRAN;Dubnica nad Váhom;mešká 2 min.;2
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 618 TATRAN;Spišská Nová Ves;mešká 44 min.;44
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 614 TATRAN;Žilina predmestie;mešká 10 min.;10
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 620 TATRAN;Spišské Vlachy;mešká 7 min.;7
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 67 minút= 1 hod, 7 min.;127
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;R 10721 POVAŽANsmer Žilina;Bratislava-Račateraz;+ 53 minút;53
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;REx 2518smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 52 minút;52
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 610 TATRANsmer Bratislava hlavná stanica;Brestovanyprešiel stanicou teraz;+ 48 minút;48
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 618 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesprišiel teraz;+ 44 minút;44
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;REx 2519smer Devínska Nová Ves št. hr. - Wien Hauptbahnhof (in Wbf;Devínska Nová Vesteraz;+ 44 minút;44
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 4718smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 13 min.;v cieli+ 43 minút;43
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;R 10718 POVAŽANsmer Bratislava hlavná stanica;Bratislava-Račateraz;+ 43 minút;43
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 608 TATRANsmer Bratislava hlavná stanica;Bratislava-Račapred 4 min.;v cieli+ 37 minút;37
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 4719smer Galanta;Galantapred 14 min.;v cieli+ 36 minút;36
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 4720smer Bratislava hlavná stanica;Sládkovičovoodišiel teraz;+ 35 minút;35
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Devínska Nová Vesodišiel teraz;+ 34 minút;34
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 5518smer Topoľčany;Chynoranyprišiel teraz;+ 33 minút;33
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 4721smer Galanta;Odb. Močiarprešiel stanicou teraz;+ 32 minút;32
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 7517smer Prievidza;Prievidzaprišiel teraz;+ 30 minút;30
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 7823smer Košice;Poprad-Tatryodišiel pred 7 min.;+ 29 minút;29
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;SC 241 PENDOLINO KOŠIČANsmer Košice;Košiceprišiel pred 3 min.;v cieli+ 27 minút;27
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;R 963 ZAKARPATIAsmer Košice;Dobráprešiel stanicou teraz;+ 26 minút;26
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 623 TATRANsmer Košice;Bratislava hlavná stanicapred 6 min.;+ 25 minút;25
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 7564smer Vrútky;Diviakyodišiel pred 11 min.;+ 24 minút;24
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Senecprešiel stanicou pred 3 min.;+ 23 minút;23
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 7819smer Košice;Kostoľany nad Hornádomodišiel pred 3 min.;+ 21 minút;21
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Ex 616 TATRANsmer Bratislava hlavná stanica;Výh. Paludzaprešiel stanicou pred 2 min.;+ 20 minút;20
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;REx 1872smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel teraz;v cieli+ 20 minút;20
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 3123smer Trenčín;Myjavapred 7 min.;+ 20 minút;20
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;R 748 BOJNICEsmer Bratislava-Nové Mesto;Trnava nákladná stanicaprešiel stanicou pred 2 min.;+ 16 minút;16
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;Os 7818smer Svit;Spišské Vlachyodišiel pred 9 min.;+ 15 minút;15
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;mešká do 5 minút;110;66.67 %;66
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;mešká 5-14 minút;28;16.97 %;16
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;mešká 15-29 minút;12;7.27 %;7
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;mešká 30-59 minút;14;8.48 %;8
+2026-11-25 14:47:53;2026-11-25;14;Wednesday;mešká 60 a viac minút;1;0.61 %;0
