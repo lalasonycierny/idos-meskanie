@@ -1,6 +1,7 @@
 ﻿Stanica_Poloha;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
 Žilinateraz;5;63.0;44.0;104.0;134;40.68;100.0;100.0;100.0;20.0
-Východnáodišiel teraz;16;23.56;23.5;32.0;37;6.25;100.0;100.0;100.0;0.0
+Margecanyodišiel pred 10 min.;7;63.71;22.0;122.8;124;54.55;100.0;100.0;100.0;42.86
+Markušovceprišiel pred 2 min.;7;53.43;47.0;83.8;121;31.92;100.0;100.0;100.0;14.29
 Markušovceprešiel stanicou pred 14 min.;5;62.8;28.0;125.2;126;56.94;100.0;100.0;100.0;40.0
 Vydrníkprešiel stanicou pred 5 min.;16;38.12;27.0;83.0;129;35.95;100.0;100.0;100.0;12.5
 Markušovceprešiel stanicou pred 10 min.;10;40.7;30.5;64.3;121;30.59;100.0;100.0;100.0;10.0
@@ -13,4 +14,3 @@ Margecanyprišiel pred 2 min.;7;50.29;22.0;122.0;125;49.54;100.0;100.0;100.0;28.
 Vígľašteraz;5;29.6;30.0;37.0;37;8.29;100.0;100.0;100.0;0.0
 Margecanyprešiel stanicou pred 4 min.;7;28.29;26.0;41.0;50;11.29;100.0;100.0;100.0;0.0
 Margecanyprešiel stanicou pred 2 min.;7;27.14;22.0;37.2;51;10.88;100.0;100.0;100.0;0.0
-Margecanypred 6 min.;9;71.56;55.0;142.0;150;51.05;100.0;100.0;100.0;33.33
