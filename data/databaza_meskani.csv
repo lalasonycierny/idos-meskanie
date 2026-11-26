@@ -95489,3 +95489,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 01:27:54;2026-11-26;1;Thursday;mešká 15-29 minút;0;0.00 %;0
 2026-11-26 01:27:54;2026-11-26;1;Thursday;mešká 30-59 minút;0;0.00 %;0
 2026-11-26 01:27:54;2026-11-26;1;Thursday;mešká 60 a viac minút;4;80.00 %;80
+2026-11-26 01:37:53;2026-11-26;1;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 152 min.;152
+2026-11-26 01:37:53;2026-11-26;1;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 14 min.;14
+2026-11-26 01:37:53;2026-11-26;1;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 14 min.;14
+2026-11-26 01:37:53;2026-11-26;1;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-26 01:37:53;2026-11-26;1;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-26 01:37:53;2026-11-26;1;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 4 min.;+ 713 minút= 11 hod, 53 min.;1373
+2026-11-26 01:37:53;2026-11-26;1;Thursday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 597 minút= 9 hod, 57 min.;1137
+2026-11-26 01:37:53;2026-11-26;1;Thursday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 477 minút= 7 hod, 57 min.;897
+2026-11-26 01:37:53;2026-11-26;1;Thursday;REx 1939smer Humenné;Hriništeprešiel stanicou pred 4 min.;+ 98 minút= 1 hod, 38 min.;158
+2026-11-26 01:37:53;2026-11-26;1;Thursday;REx 1976smer Lipany;Veľký Šarišodišiel pred 10 min.;+ 93 minút= 1 hod, 33 min.;153
+2026-11-26 01:37:53;2026-11-26;1;Thursday;Os 8537smer Čierna nad Tisou;Michaľanyodišiel pred 4 min.;+ 91 minút= 1 hod, 31 min.;151
+2026-11-26 01:37:53;2026-11-26;1;Thursday;R 10739 POVAŽANsmer Trenčín;Trenčínpred 7 min.;v cieli+ 63 minút= 1 hod, 3 min.;123
+2026-11-26 01:37:53;2026-11-26;1;Thursday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel teraz;+ 52 minút;52
+2026-11-26 01:37:53;2026-11-26;1;Thursday;R 681 ZEMPLÍNsmer Humenné;Púchovprišiel pred 2 min.;+ 41 minút;41
+2026-11-26 01:37:53;2026-11-26;1;Thursday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Kysucké Nové Mestoprešiel stanicou teraz;+ 39 minút;39
+2026-11-26 01:37:53;2026-11-26;1;Thursday;mešká do 5 minút;1;8.33 %;8
+2026-11-26 01:37:53;2026-11-26;1;Thursday;mešká 5-14 minút;1;8.33 %;8
+2026-11-26 01:37:53;2026-11-26;1;Thursday;mešká 15-29 minút;0;0.00 %;0
+2026-11-26 01:37:53;2026-11-26;1;Thursday;mešká 30-59 minút;3;25.00 %;25
+2026-11-26 01:37:53;2026-11-26;1;Thursday;mešká 60 a viac minút;7;58.33 %;58
