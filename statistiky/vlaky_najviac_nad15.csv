@@ -1,7 +1,6 @@
 ﻿Vlak;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
 Os 6212smer Zvolen osobná stanica;7;18.0;18.0;19.0;19;0.82;100.0;100.0;100.0;0.0
-Os 4374smer Dunajská Streda;6;16.33;16.0;17.0;17;0.52;100.0;100.0;100.0;0.0
-Os 4370smer Dunajská Streda;50;505.0;505.0;881.0;990;292.76;100.0;100.0;100.0;92.0
+Os 4373smer Komárno;18;23.44;21.0;30.1;42;7.12;100.0;100.0;100.0;0.0
 Os 4364smer Bratislava hlavná stanica;16;22.0;19.5;31.0;31;5.39;100.0;100.0;100.0;0.0
 Os 8434smer Poprad-Tatry;5;40.2;43.0;51.0;51;12.13;100.0;100.0;100.0;0.0
 Os 4360smer Bratislava-Nové Mesto;6;25.5;26.0;33.0;33;7.64;100.0;100.0;100.0;0.0
@@ -14,3 +13,4 @@ Os 4327smer Dunajská Streda;24;26.25;28.0;31.7;34;5.14;100.0;100.0;100.0;0.0
 Os 4326smer Bratislava-Nové Mesto;8;33.88;35.5;37.3;38;4.49;100.0;100.0;100.0;0.0
 Os 8536smer Prešov;26;56.62;34.0;135.5;150;48.93;100.0;100.0;100.0;26.92
 Os 4324smer Bratislava hlavná stanica;14;25.29;26.0;30.0;32;4.95;100.0;100.0;100.0;0.0
+Os 4322smer Bratislava-Nové Mesto;11;27.36;30.0;38.0;38;7.37;100.0;100.0;100.0;0.0
