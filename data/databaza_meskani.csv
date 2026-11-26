@@ -98160,3 +98160,54 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 15:37:55;2026-11-26;15;Thursday;mešká 15-29 minút;25;13.51 %;13
 2026-11-26 15:37:55;2026-11-26;15;Thursday;mešká 30-59 minút;14;7.57 %;7
 2026-11-26 15:37:55;2026-11-26;15;Thursday;mešká 60 a viac minút;4;2.16 %;2
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 621 TATRAN;Potok odb.;mešká 8 min.;8
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 618 TATRAN;Ružomberok;mešká 5 min.;5
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 614 TATRAN;Trenčín-Zlatovce;mešká 23 min.;23
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 620 TATRAN;Vydrník;mešká 33 min.;33
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 213 minút= 3 hod, 33 min.;393
+2026-11-26 15:47:53;2026-11-26;15;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 127 minút= 2 hod, 7 min.;247
+2026-11-26 15:47:53;2026-11-26;15;Thursday;REx 7733smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 122 minút= 2 hod, 2 min.;242
+2026-11-26 15:47:53;2026-11-26;15;Thursday;REx 2521smer Devínska Nová Ves št. hr. - Wien Hauptbahnhof (in Wbf;Bratislava hlavná stanicateraz;+ 57 minút;57
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 7818smer Svit;Spišská Nová Vesodišiel pred 6 min.;+ 52 minút;52
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 2018smer Kúty;Kútypred 11 min.;v cieli+ 50 minút;50
+2026-11-26 15:47:53;2026-11-26;15;Thursday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Kúty št. hr.teraz;v cieli+ 46 minút;46
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 7823smer Košice;Markušovceodišiel pred 13 min.;+ 38 minút;38
+2026-11-26 15:47:53;2026-11-26;15;Thursday;R 10720 POVAŽANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 3 min.;+ 37 minút;37
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 4321smer Dunajská Streda;Kvetoslavovteraz;+ 36 minút;36
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 620 TATRANsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou teraz;+ 33 minút;33
+2026-11-26 15:47:53;2026-11-26;15;Thursday;RJ 1043 REGIOJETsmer Bratislava hlavná stanica;Zohorprešiel stanicou pred 8 min.;+ 33 minút;33
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 2023smer Bratislava hlavná stanica;Zohorodišiel pred 4 min.;+ 32 minút;32
+2026-11-26 15:47:53;2026-11-26;15;Thursday;R 750 BOJNICEsmer Bratislava-Nové Mesto;Bošanypred 10 min.;+ 31 minút;31
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Zr 11441smer Komárno;Dunajská Stredaodišiel pred 6 min.;+ 31 minút;31
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 622 TATRANsmer Bratislava hlavná stanica;Výh. Ružínprešiel stanicou teraz;+ 30 minút;30
+2026-11-26 15:47:53;2026-11-26;15;Thursday;R 749 BOJNICEsmer Prievidza;Veľké Bieliceodišiel pred 3 min.;+ 30 minút;30
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 616 TATRANsmer Bratislava hlavná stanica;Potok odb.prešiel stanicou teraz;+ 29 minút;29
+2026-11-26 15:47:53;2026-11-26;15;Thursday;R 10721 POVAŽANsmer Žilina;Trenčín-Zlatovceprešiel stanicou teraz;+ 26 minút;26
+2026-11-26 15:47:53;2026-11-26;15;Thursday;EC 140 OSTRAVANsmer Čadca št. hr. - Praha jih;Čadca št. hr.prišiel pred 11 min.;v cieli+ 25 minút;25
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 2025smer Bratislava hlavná stanica;Kútyodišiel teraz;+ 24 minút;24
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 3021smer Trnava;Trnavaprišiel teraz;v cieli+ 24 minút;24
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 5323smer Trenčín;Rybanyodišiel pred 2 min.;+ 24 minút;24
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Zr 11443smer Dunajská Streda;Odb. Letiskoprešiel stanicou pred 4 min.;+ 24 minút;24
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Zr 11444smer Bratislava hlavná stanica;Kvetoslavovodišiel pred 4 min.;+ 23 minút;23
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 6345smer Fiľakovo;Fiľakovoprišiel pred 3 min.;v cieli+ 23 minút;23
+2026-11-26 15:47:53;2026-11-26;15;Thursday;REx 1873smer Nové Zámky;Šaľaodišiel pred 3 min.;+ 23 minút;23
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 614 TATRANsmer Bratislava hlavná stanica;Trenčín-Zlatovceodišiel pred 2 min.;+ 23 minút;23
+2026-11-26 15:47:53;2026-11-26;15;Thursday;SC 240 PENDOLINO KOŠIČANsmer Čadca št. hr. - Praha jih;Spišské Vlachyteraz;+ 22 minút;22
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 525 KRIVÁŇsmer Košice;Bratislava hlavná stanicaodišiel pred 9 min.;+ 22 minút;22
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 4320smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel teraz;v cieli+ 21 minút;21
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 4377smer Komárno;Zlatná na Ostroveodišiel pred 12 min.;+ 20 minút;20
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Ex 615 TATRANsmer Košice;Krompachyprešiel stanicou teraz;+ 20 minút;20
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 3121smer Trenčín;Trenčínprišiel pred 14 min.;v cieli+ 18 minút;18
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 5022smer Nitra;Lužiankyteraz;+ 18 minút;18
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 5023smer Topoľčany;Lužiankyteraz;+ 18 minút;18
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 7521smer Prievidza;Sklené pri Handlovejodišiel pred 11 min.;+ 17 minút;17
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 2020smer Kúty;Malackyodišiel pred 5 min.;+ 16 minút;16
+2026-11-26 15:47:53;2026-11-26;15;Thursday;R 347 KYSUČANsmer Žilina;Žilinaprišiel pred 8 min.;v cieli+ 15 minút;15
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 6123smer Zvolen osobná stanica;Kremnické Baneodišiel pred 3 min.;+ 15 minút;15
+2026-11-26 15:47:53;2026-11-26;15;Thursday;Os 5122smer Nitra;Komjaticeodišiel pred 3 min.;+ 15 minút;15
+2026-11-26 15:47:53;2026-11-26;15;Thursday;mešká do 5 minút;85;46.70 %;46
+2026-11-26 15:47:53;2026-11-26;15;Thursday;mešká 5-14 minút;56;30.77 %;30
+2026-11-26 15:47:53;2026-11-26;15;Thursday;mešká 15-29 minút;24;13.19 %;13
+2026-11-26 15:47:53;2026-11-26;15;Thursday;mešká 30-59 minút;14;7.69 %;7
+2026-11-26 15:47:53;2026-11-26;15;Thursday;mešká 60 a viac minút;3;1.65 %;1
