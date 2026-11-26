@@ -95509,3 +95509,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 01:37:53;2026-11-26;1;Thursday;mešká 15-29 minút;0;0.00 %;0
 2026-11-26 01:37:53;2026-11-26;1;Thursday;mešká 30-59 minút;3;25.00 %;25
 2026-11-26 01:37:53;2026-11-26;1;Thursday;mešká 60 a viac minút;7;58.33 %;58
+2026-11-26 01:47:53;2026-11-26;1;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 152 min.;152
+2026-11-26 01:47:53;2026-11-26;1;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 14 min.;14
+2026-11-26 01:47:53;2026-11-26;1;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 14 min.;14
+2026-11-26 01:47:53;2026-11-26;1;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-26 01:47:53;2026-11-26;1;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-26 01:47:53;2026-11-26;1;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 14 min.;+ 713 minút= 11 hod, 53 min.;1373
+2026-11-26 01:47:53;2026-11-26;1;Thursday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 607 minút= 10 hod, 7 min.;1207
+2026-11-26 01:47:53;2026-11-26;1;Thursday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 487 minút= 8 hod, 7 min.;967
+2026-11-26 01:47:53;2026-11-26;1;Thursday;REx 1939smer Humenné;Michalovceodišiel teraz;+ 98 minút= 1 hod, 38 min.;158
+2026-11-26 01:47:53;2026-11-26;1;Thursday;Os 8537smer Čierna nad Tisou;Slovenské Nové Mestoodišiel pred 4 min.;+ 91 minút= 1 hod, 31 min.;151
+2026-11-26 01:47:53;2026-11-26;1;Thursday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Vydrníkprešiel stanicou teraz;+ 54 minút;54
+2026-11-26 01:47:53;2026-11-26;1;Thursday;R 681 ZEMPLÍNsmer Humenné;Považská Bystricaprišiel teraz;+ 43 minút;43
+2026-11-26 01:47:53;2026-11-26;1;Thursday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Krásno nad Kysucouprešiel stanicou pred 7 min.;+ 39 minút;39
+2026-11-26 01:47:53;2026-11-26;1;Thursday;mešká do 5 minút;1;10.00 %;10
+2026-11-26 01:47:53;2026-11-26;1;Thursday;mešká 5-14 minút;1;10.00 %;10
+2026-11-26 01:47:53;2026-11-26;1;Thursday;mešká 15-29 minút;0;0.00 %;0
+2026-11-26 01:47:53;2026-11-26;1;Thursday;mešká 30-59 minút;3;30.00 %;30
+2026-11-26 01:47:53;2026-11-26;1;Thursday;mešká 60 a viac minút;5;50.00 %;50
