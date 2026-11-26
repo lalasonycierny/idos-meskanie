@@ -96997,3 +96997,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 11:07:55;2026-11-26;11;Thursday;mešká 15-29 minút;20;13.70 %;13
 2026-11-26 11:07:55;2026-11-26;11;Thursday;mešká 30-59 minút;6;4.11 %;4
 2026-11-26 11:07:55;2026-11-26;11;Thursday;mešká 60 a viac minút;4;2.74 %;2
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 610 TATRAN;Kráľova Lehota;mešká 10 min.;10
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 14 min.;14
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 14 min.;14
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 614 TATRAN;Kysak;mešká 3 min.;3
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-26 11:17:52;2026-11-26;11;Thursday;REx 7717smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 93 minút= 1 hod, 33 min.;153
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 6211smer Lučenec;Lučenecpred 8 min.;v cieli+ 85 minút= 1 hod, 25 min.;145
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Cíferprešiel stanicou pred 2 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 604 TATRANsmer Bratislava hlavná stanica;Trenčianska Tepláprešiel stanicou pred 3 min.;+ 61 minút= 1 hod, 1 min.;121
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 611 TATRANsmer Košice;Žilina predmestieprešiel stanicou pred 2 min.;+ 52 minút;52
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 4310smer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;+ 52 minút;52
+2026-11-26 11:17:52;2026-11-26;11;Thursday;R 744 BOJNICEsmer Bratislava-Nové Mesto;Šenkviceprišiel teraz;+ 36 minút;36
+2026-11-26 11:17:52;2026-11-26;11;Thursday;EC 1215 LEO EXPRESSsmer Bratislava hlavná stanica;Kútyteraz;+ 26 minút;26
+2026-11-26 11:17:52;2026-11-26;11;Thursday;ra 273 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Palárikovoprešiel stanicou teraz;+ 25 minút;25
+2026-11-26 11:17:52;2026-11-26;11;Thursday;R 345 KYSUČANsmer Žilina;Čadcapred 11 min.;+ 23 minút;23
+2026-11-26 11:17:52;2026-11-26;11;Thursday;R 745 BOJNICEsmer Prievidza;Bošanypred 2 min.;+ 23 minút;23
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 1341smer Rusovce št. hr. - Hegyeshalom;Bratislava-Petržalkapred 6 min.;+ 22 minút;22
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 2013smer Bratislava hlavná stanica;Bratislava-Lamačodišiel pred 4 min.;+ 21 minút;21
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 4312smer Bratislava hlavná stanica;Kvetoslavovodišiel pred 7 min.;+ 21 minút;21
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 7546smer Skalité;Vrútkyodišiel teraz;+ 20 minút;20
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 2010smer Kúty;Kútyprišiel pred 11 min.;v cieli+ 20 minút;20
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 6212smer Zvolen osobná stanica;Kriváňodišiel pred 5 min.;+ 19 minút;19
+2026-11-26 11:17:52;2026-11-26;11;Thursday;REx 7721smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 13 min.;v cieli+ 19 minút;19
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 1041 REGIOJETsmer Bratislava hlavná stanica;Malackyprešiel stanicou pred 9 min.;+ 19 minút;19
+2026-11-26 11:17:52;2026-11-26;11;Thursday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Kútyodišiel pred 3 min.;+ 18 minút;18
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 7815smer Košice;Vydrníkodišiel pred 3 min.;+ 18 minút;18
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Ex 505 KRIVÁŇsmer Košice;Košiceprišiel pred 11 min.;v cieli+ 16 minút;16
+2026-11-26 11:17:52;2026-11-26;11;Thursday;REx 1435smer Komárno;Orechová Potôňodišiel teraz;+ 16 minút;16
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 2012smer Kúty;Devínska Nová Vesodišiel pred 10 min.;+ 16 minút;16
+2026-11-26 11:17:52;2026-11-26;11;Thursday;EC 130 BATHORYsmer Kúty št. hr. - Warszawa Grochów;Devínska Nová Vesodišiel teraz;+ 15 minút;15
+2026-11-26 11:17:52;2026-11-26;11;Thursday;R 10713 POVAŽANsmer Žilina;Výh. Potvoriceprešiel stanicou teraz;+ 15 minút;15
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 4513smer Galanta;Galantaprišiel teraz;v cieli+ 15 minút;15
+2026-11-26 11:17:52;2026-11-26;11;Thursday;Os 5315smer Trenčín;Chynoranypred 11 min.;+ 15 minút;15
+2026-11-26 11:17:52;2026-11-26;11;Thursday;mešká do 5 minút;68;45.95 %;45
+2026-11-26 11:17:52;2026-11-26;11;Thursday;mešká 5-14 minút;52;35.14 %;35
+2026-11-26 11:17:52;2026-11-26;11;Thursday;mešká 15-29 minút;21;14.19 %;14
+2026-11-26 11:17:52;2026-11-26;11;Thursday;mešká 30-59 minút;3;2.03 %;2
+2026-11-26 11:17:52;2026-11-26;11;Thursday;mešká 60 a viac minút;4;2.70 %;2
