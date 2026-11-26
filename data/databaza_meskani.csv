@@ -96322,3 +96322,42 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 08:07:52;2026-11-26;8;Thursday;mešká 15-29 minút;13;7.69 %;7
 2026-11-26 08:07:52;2026-11-26;8;Thursday;mešká 30-59 minút;5;2.96 %;2
 2026-11-26 08:07:52;2026-11-26;8;Thursday;mešká 60 a viac minút;5;2.96 %;2
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 152 min.;152
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 14 min.;14
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 14 min.;14
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 4305smer Dunajská Streda;Nové Košariskáprišiel teraz;+ 78 minút= 1 hod, 18 min.;138
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 4344smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 6 min.;v cieli+ 76 minút= 1 hod, 16 min.;136
+2026-11-26 08:17:53;2026-11-26;8;Thursday;REx 1432smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 14 min.;v cieli+ 72 minút= 1 hod, 12 min.;132
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 4304smer Bratislava hlavná stanica;Podunajské Biskupiceteraz;+ 70 minút= 1 hod, 10 min.;130
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 604 TATRANsmer Bratislava hlavná stanica;Výh. Letanovceprešiel stanicou teraz;+ 66 minút= 1 hod, 6 min.;126
+2026-11-26 08:17:53;2026-11-26;8;Thursday;REx 1434smer Bratislava hlavná stanica;Nové Košariskáteraz;+ 59 minút;59
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Zr 11431smer Komárno;Dolný Štálodišiel teraz;+ 53 minút;53
+2026-11-26 08:17:53;2026-11-26;8;Thursday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Slovenské Nové Mestoprešiel stanicou teraz;+ 41 minút;41
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 4307smer Dunajská Streda;Bratislava hlavná stanicaodišiel teraz;+ 41 minút;41
+2026-11-26 08:17:53;2026-11-26;8;Thursday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Čadca št. hr.pred 14 min.;v cieli+ 36 minút;36
+2026-11-26 08:17:53;2026-11-26;8;Thursday;REx 7709smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 32 minút;32
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 3106smer Myjava;Poriadieteraz;+ 26 minút;26
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 4507smer Galanta;Sereďodišiel teraz;+ 23 minút;23
+2026-11-26 08:17:53;2026-11-26;8;Thursday;REx 2506smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 22 minút;22
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 3107smer Trenčín;Trenčianske Bohuslaviceprišiel teraz;+ 22 minút;22
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Ružomberokprešiel stanicou pred 3 min.;+ 21 minút;21
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 611 TATRANsmer Košice;Bratislava hlavná stanicateraz;+ 20 minút;20
+2026-11-26 08:17:53;2026-11-26;8;Thursday;REx 1780smer Banská Bystrica;Dobšinská Ľadová Jaskyňaodišiel pred 10 min.;+ 19 minút;19
+2026-11-26 08:17:53;2026-11-26;8;Thursday;R 10709 POVAŽANsmer Žilina;Bratislava hlavná stanicaodišiel pred 10 min.;+ 19 minút;19
+2026-11-26 08:17:53;2026-11-26;8;Thursday;R 10706 POVAŽANsmer Bratislava hlavná stanica;Výh. Svätý Jurprešiel stanicou teraz;+ 18 minút;18
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Ex 607 TATRANsmer Košice;Púchovprišiel teraz;+ 18 minút;18
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 1336smer Bratislava-Nové Mesto;Rusovcepred 3 min.;+ 17 minút;17
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 4306smer Bratislava hlavná stanica;Nové Košariskáprišiel teraz;+ 17 minút;17
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 4706smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 7 min.;v cieli+ 17 minút;17
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 6306smer Lučenec;Lučenecprišiel teraz;v cieli+ 17 minút;17
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 3109smer Trenčín;Myjavateraz;+ 16 minút;16
+2026-11-26 08:17:53;2026-11-26;8;Thursday;REx 1907smer Humenné;Hriništeodišiel pred 5 min.;+ 15 minút;15
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 7563smer Horná Štubňa;Horná Štubňaprišiel pred 2 min.;v cieli+ 15 minút;15
+2026-11-26 08:17:53;2026-11-26;8;Thursday;Os 8505smer Čierna nad Tisou;Michaľanyprišiel teraz;+ 15 minút;15
+2026-11-26 08:17:53;2026-11-26;8;Thursday;mešká do 5 minút;85;52.80 %;52
+2026-11-26 08:17:53;2026-11-26;8;Thursday;mešká 5-14 minút;47;29.19 %;29
+2026-11-26 08:17:53;2026-11-26;8;Thursday;mešká 15-29 minút;18;11.18 %;11
+2026-11-26 08:17:53;2026-11-26;8;Thursday;mešká 30-59 minút;6;3.73 %;3
+2026-11-26 08:17:53;2026-11-26;8;Thursday;mešká 60 a viac minút;5;3.11 %;3
