@@ -95783,3 +95783,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 04:47:52;2026-11-26;4;Thursday;mešká 15-29 minút;2;1.80 %;1
 2026-11-26 04:47:52;2026-11-26;4;Thursday;mešká 30-59 minút;3;2.70 %;2
 2026-11-26 04:47:52;2026-11-26;4;Thursday;mešká 60 a viac minút;1;0.90 %;0
+2026-11-26 04:57:52;2026-11-26;4;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 152 min.;152
+2026-11-26 04:57:52;2026-11-26;4;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 14 min.;14
+2026-11-26 04:57:52;2026-11-26;4;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 14 min.;14
+2026-11-26 04:57:52;2026-11-26;4;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-26 04:57:52;2026-11-26;4;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-26 04:57:52;2026-11-26;4;Thursday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 677 minút= 11 hod, 17 min.;1337
+2026-11-26 04:57:52;2026-11-26;4;Thursday;R 681 ZEMPLÍNsmer Humenné;Krompachyprešiel stanicou pred 5 min.;+ 42 minút;42
+2026-11-26 04:57:52;2026-11-26;4;Thursday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Trenčianske Bohuslaviceprešiel stanicou teraz;+ 41 minút;41
+2026-11-26 04:57:52;2026-11-26;4;Thursday;Os 4900smer Nové Zámky;Gbelceodišiel pred 11 min.;+ 32 minút;32
+2026-11-26 04:57:52;2026-11-26;4;Thursday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Spišské Vlachyodišiel pred 6 min.;+ 20 minút;20
+2026-11-26 04:57:52;2026-11-26;4;Thursday;REx 7799smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 12 min.;v cieli+ 16 minút;16
+2026-11-26 04:57:52;2026-11-26;4;Thursday;mešká do 5 minút;103;88.03 %;88
+2026-11-26 04:57:52;2026-11-26;4;Thursday;mešká 5-14 minút;8;6.84 %;6
+2026-11-26 04:57:52;2026-11-26;4;Thursday;mešká 15-29 minút;2;1.71 %;1
+2026-11-26 04:57:52;2026-11-26;4;Thursday;mešká 30-59 minút;3;2.56 %;2
+2026-11-26 04:57:52;2026-11-26;4;Thursday;mešká 60 a viac minút;1;0.85 %;0
