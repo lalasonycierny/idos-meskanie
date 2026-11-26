@@ -1,6 +1,7 @@
 ﻿Stanica_Poloha;Zaznamov;Priemer;Median;P90;Max;Std;Meskaju_pct;Nad5_pct;Nad15_pct;Nad60_pct
 Odb. Dolná Štubňaprešiel stanicou teraz;14;21.36;18.0;33.7;43;8.34;100.0;100.0;100.0;0.0
-Púchovpred 9 min.;7;28.0;32.0;34.4;35;7.62;100.0;100.0;100.0;0.0
+Potok odb.prešiel stanicou pred 5 min.;7;71.0;59.0;127.6;133;54.06;100.0;100.0;100.0;42.86
+Prešovprišiel pred 3 min.;6;20.5;20.5;22.0;22;1.52;100.0;100.0;100.0;0.0
 Prešovpred 9 min.;5;88.8;56.0;159.8;173;63.46;100.0;100.0;100.0;40.0
 Prešovpred 8 min.;6;75.5;36.0;164.5;177;69.68;100.0;100.0;100.0;33.33
 Prešovpred 6 min.;5;55.4;39.0;91.6;120;36.64;100.0;100.0;100.0;20.0
@@ -13,4 +14,3 @@ Prešovodišiel pred 5 min.;9;52.44;24.0;155.2;164;60.29;100.0;100.0;100.0;22.22
 Prakovceodišiel pred 5 min.;5;35.6;33.0;50.8;56;14.26;100.0;100.0;100.0;0.0
 Prakovceodišiel pred 3 min.;6;22.33;23.5;24.0;24;3.14;100.0;100.0;100.0;0.0
 Považská Bystricateraz;14;40.29;32.5;53.6;146;33.16;100.0;100.0;100.0;7.14
-Považská Bystricaprišiel pred 3 min.;5;110.8;25.0;270.4;366;149.99;100.0;100.0;100.0;40.0
