@@ -96479,3 +96479,41 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 08:47:56;2026-11-26;8;Thursday;mešká 15-29 minút;15;10.49 %;10
 2026-11-26 08:47:56;2026-11-26;8;Thursday;mešká 30-59 minút;11;7.69 %;7
 2026-11-26 08:47:56;2026-11-26;8;Thursday;mešká 60 a viac minút;4;2.80 %;2
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 610 TATRAN;Košice;mešká 3 min.;3
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 14 min.;14
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 14 min.;14
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-26 08:57:55;2026-11-26;8;Thursday;REx 1434smer Bratislava hlavná stanica;Podunajské Biskupiceteraz;+ 87 minút= 1 hod, 27 min.;147
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 4305smer Dunajská Streda;Orechová Potôňprišiel teraz;+ 86 minút= 1 hod, 26 min.;146
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 4304smer Bratislava hlavná stanica;Bratislava hlavná stanicateraz;v cieli+ 85 minút= 1 hod, 25 min.;145
+2026-11-26 08:57:55;2026-11-26;8;Thursday;REx 7709smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 72 minút= 1 hod, 12 min.;132
+2026-11-26 08:57:55;2026-11-26;8;Thursday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Čierna nad Tisouteraz;+ 65 minút= 1 hod, 5 min.;125
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 4307smer Dunajská Streda;Podunajské Biskupiceodišiel pred 3 min.;+ 60 minút= 1 hod, 0 min.;120
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 604 TATRANsmer Bratislava hlavná stanica;Štrbapred 5 min.;+ 59 minút;59
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 4306smer Bratislava hlavná stanica;Podunajské Biskupiceteraz;+ 50 minút;50
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Zr 11431smer Komárno;Zlatná na Ostroveodišiel pred 8 min.;+ 48 minút;48
+2026-11-26 08:57:55;2026-11-26;8;Thursday;EN 443 SLOVAKIAsmer Humenné;Košiceteraz;+ 45 minút;45
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 1336smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 43 minút;43
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 5307smer Trenčín;Trenčínteraz;+ 43 minút;43
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 611 TATRANsmer Košice;Bratislava hlavná stanicateraz;+ 41 minút;41
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Vrútky nákladná stanicaprešiel stanicou pred 3 min.;+ 40 minút;40
+2026-11-26 08:57:55;2026-11-26;8;Thursday;REx 1436smer Bratislava hlavná stanica;Nové Košariskáteraz;+ 38 minút;38
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 4348smer Bratislava hlavná stanica;Kvetoslavovteraz;+ 38 minút;38
+2026-11-26 08:57:55;2026-11-26;8;Thursday;REx 2506smer Bratislava hlavná stanica;Bratislava hlavná stanicapred 9 min.;v cieli+ 37 minút;37
+2026-11-26 08:57:55;2026-11-26;8;Thursday;REx 1433smer Komárno;Podunajské Biskupiceprišiel teraz;+ 28 minút;28
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 1339smer Rusovce št. hr. - Hegyeshalom;Bratislava-Nové Mestoteraz;+ 27 minút;27
+2026-11-26 08:57:55;2026-11-26;8;Thursday;R 10709 POVAŽANsmer Žilina;Trnavaodišiel pred 3 min.;+ 25 minút;25
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 3109smer Trenčín;Vaďovceodišiel teraz;+ 22 minút;22
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Ex 607 TATRANsmer Košice;Varínprešiel stanicou teraz;+ 20 minút;20
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 8505smer Čierna nad Tisou;Veľký Horešodišiel pred 5 min.;+ 19 minút;19
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 2609smer Trnava;Jablonicaodišiel teraz;+ 16 minút;16
+2026-11-26 08:57:55;2026-11-26;8;Thursday;REx 1780smer Banská Bystrica;Heľpaodišiel pred 12 min.;+ 16 minút;16
+2026-11-26 08:57:55;2026-11-26;8;Thursday;REx 1907smer Humenné;Humennéprišiel pred 12 min.;v cieli+ 15 minút;15
+2026-11-26 08:57:55;2026-11-26;8;Thursday;ra 174 HUNGARIAsmer Kúty št. hr. - Hamburg-Altona;Mužlaprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-26 08:57:55;2026-11-26;8;Thursday;Os 9009smer Trebišov;Trebišovpred 14 min.;+ 15 minút;15
+2026-11-26 08:57:55;2026-11-26;8;Thursday;mešká do 5 minút;84;57.14 %;57
+2026-11-26 08:57:55;2026-11-26;8;Thursday;mešká 5-14 minút;35;23.81 %;23
+2026-11-26 08:57:55;2026-11-26;8;Thursday;mešká 15-29 minút;11;7.48 %;7
+2026-11-26 08:57:55;2026-11-26;8;Thursday;mešká 30-59 minút;11;7.48 %;7
+2026-11-26 08:57:55;2026-11-26;8;Thursday;mešká 60 a viac minút;6;4.08 %;4
