@@ -97775,3 +97775,47 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 14:17:53;2026-11-26;14;Thursday;mešká 15-29 minút;29;17.06 %;17
 2026-11-26 14:17:53;2026-11-26;14;Thursday;mešká 30-59 minút;5;2.94 %;2
 2026-11-26 14:17:53;2026-11-26;14;Thursday;mešká 60 a viac minút;4;2.35 %;2
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 610 TATRAN;Trnava nákladná stanica;mešká 13 min.;13
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 621 TATRAN;Nové Mesto nad Váhom;mešká 7 min.;7
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 618 TATRAN;Výh. Gánovce;mešká 9 min.;9
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 614 TATRAN;Vrútky nákladná stanica;mešká 21 min.;21
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 620 TATRAN;Margecany;mešká 1 min.;1
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 133 minút= 2 hod, 13 min.;253
+2026-11-26 14:27:53;2026-11-26;14;Thursday;REx 7729smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 102 minút= 1 hod, 42 min.;162
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 611 TATRANsmer Košice;Markušovceprešiel stanicou pred 7 min.;+ 71 minút= 1 hod, 11 min.;131
+2026-11-26 14:27:53;2026-11-26;14;Thursday;EC 1216 LEO EXPRESSsmer Kúty št. hr. - Praha hl.n.;Devínska Nová Vesprešiel stanicou pred 8 min.;+ 53 minút;53
+2026-11-26 14:27:53;2026-11-26;14;Thursday;EC 189 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 47 minút;47
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 7814smer Svit;Svitpred 14 min.;v cieli+ 46 minút;46
+2026-11-26 14:27:53;2026-11-26;14;Thursday;REx 7733smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 42 minút;42
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 4519smer Galanta;Sereďteraz;+ 37 minút;37
+2026-11-26 14:27:53;2026-11-26;14;Thursday;R 748 BOJNICEsmer Bratislava-Nové Mesto;Rišňovceprešiel stanicou pred 2 min.;+ 35 minút;35
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Zr 11439smer Dunajská Streda;Kvetoslavovodišiel pred 5 min.;+ 34 minút;34
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 616 TATRANsmer Bratislava hlavná stanica;Štrbapred 4 min.;+ 29 minút;29
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 2018smer Kúty;Devínska Nová Vesodišiel pred 10 min.;+ 26 minút;26
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 4318smer Bratislava hlavná stanica;Nové Košariskáodišiel teraz;+ 26 minút;26
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 4319smer Dunajská Streda;Nové Košariskáprišiel pred 5 min.;+ 24 minút;24
+2026-11-26 14:27:53;2026-11-26;14;Thursday;REx 1442smer Bratislava hlavná stanica;Bratislava hlavná stanicaprišiel pred 13 min.;v cieli+ 24 minút;24
+2026-11-26 14:27:53;2026-11-26;14;Thursday;ra 276 METROPOLITANsmer Kúty št. hr. - Praha jih;Bratislava hlavná stanicaodišiel pred 6 min.;+ 22 minút;22
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 5148smer Trnava;Trnavaprišiel pred 14 min.;v cieli+ 22 minút;22
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 9419smer Stakčín;Dlhé nad Cirochouodišiel pred 2 min.;+ 22 minút;22
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 4818smer Nové Zámky;Nové Zámkyprišiel pred 6 min.;v cieli+ 21 minút;21
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 2021smer Bratislava hlavná stanica;Zohorprišiel pred 2 min.;+ 21 minút;21
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 614 TATRANsmer Bratislava hlavná stanica;Vrútky nákladná stanicaprešiel stanicou pred 2 min.;+ 21 minút;21
+2026-11-26 14:27:53;2026-11-26;14;Thursday;REx 1919smer Humenné;Bánovce nad Ondavouodišiel pred 5 min.;+ 21 minút;21
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 1342smer Bratislava-Nové Mesto;Rusovcepred 9 min.;+ 20 minút;20
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 613 TATRANsmer Košice;Markušovceodišiel pred 2 min.;+ 19 minút;19
+2026-11-26 14:27:53;2026-11-26;14;Thursday;R 10721 POVAŽANsmer Žilina;Pezinokodišiel pred 3 min.;+ 19 minút;19
+2026-11-26 14:27:53;2026-11-26;14;Thursday;R 10717 POVAŽANsmer Žilina;Výh. Plevník-Drienovéprešiel stanicou pred 2 min.;+ 17 minút;17
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 5919smer Levice;Pohronský Ruskovodišiel pred 6 min.;+ 17 minút;17
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 3121smer Trenčín;Poriadieodišiel pred 2 min.;+ 17 minút;17
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Ex 615 TATRANsmer Košice;Východnáprešiel stanicou pred 8 min.;+ 17 minút;17
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 3118smer Myjava;Myjavaprišiel pred 11 min.;v cieli+ 16 minút;16
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 5918smer Štúrovo;Čataodišiel pred 11 min.;+ 16 minút;16
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 8517smer Čierna nad Tisou;Michaľanyodišiel pred 9 min.;+ 16 minút;16
+2026-11-26 14:27:53;2026-11-26;14;Thursday;Os 6021smer Šahy;Čataodišiel pred 10 min.;+ 15 minút;15
+2026-11-26 14:27:53;2026-11-26;14;Thursday;ra 277 METROPOLITANsmer Štúrovo št. hr. - Budapest-Nyugati;Odb. Močiarprešiel stanicou pred 2 min.;+ 15 minút;15
+2026-11-26 14:27:53;2026-11-26;14;Thursday;mešká do 5 minút;98;56.65 %;56
+2026-11-26 14:27:53;2026-11-26;14;Thursday;mešká 5-14 minút;41;23.70 %;23
+2026-11-26 14:27:53;2026-11-26;14;Thursday;mešká 15-29 minút;24;13.87 %;13
+2026-11-26 14:27:53;2026-11-26;14;Thursday;mešká 30-59 minút;7;4.05 %;4
+2026-11-26 14:27:53;2026-11-26;14;Thursday;mešká 60 a viac minút;3;1.73 %;1
