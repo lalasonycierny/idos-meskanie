@@ -95544,3 +95544,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-26 01:57:54;2026-11-26;1;Thursday;mešká 15-29 minút;0;0.00 %;0
 2026-11-26 01:57:54;2026-11-26;1;Thursday;mešká 30-59 minút;3;33.33 %;33
 2026-11-26 01:57:54;2026-11-26;1;Thursday;mešká 60 a viac minút;4;44.44 %;44
+2026-11-26 02:07:52;2026-11-26;2;Thursday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 152 min.;152
+2026-11-26 02:07:52;2026-11-26;2;Thursday;Ex 621 TATRAN;Košice;v cieli meškal 14 min.;14
+2026-11-26 02:07:52;2026-11-26;2;Thursday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 14 min.;14
+2026-11-26 02:07:52;2026-11-26;2;Thursday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 24 min.;24
+2026-11-26 02:07:52;2026-11-26;2;Thursday;Ex 620 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-26 02:07:52;2026-11-26;2;Thursday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 627 minút= 10 hod, 27 min.;1227
+2026-11-26 02:07:52;2026-11-26;2;Thursday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 507 minút= 8 hod, 27 min.;987
+2026-11-26 02:07:52;2026-11-26;2;Thursday;REx 1939smer Humenné;Humennéteraz;v cieli+ 98 minút= 1 hod, 38 min.;158
+2026-11-26 02:07:52;2026-11-26;2;Thursday;Os 8537smer Čierna nad Tisou;Pribeníkodišiel teraz;+ 87 minút= 1 hod, 27 min.;147
+2026-11-26 02:07:52;2026-11-26;2;Thursday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Svitprešiel stanicou teraz;+ 55 minút;55
+2026-11-26 02:07:52;2026-11-26;2;Thursday;R 681 ZEMPLÍNsmer Humenné;Žilina predmestieprešiel stanicou teraz;+ 45 minút;45
+2026-11-26 02:07:52;2026-11-26;2;Thursday;RJ 1020 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Čadca št. hr.pred 7 min.;v cieli+ 38 minút;38
+2026-11-26 02:07:52;2026-11-26;2;Thursday;mešká do 5 minút;1;11.11 %;11
+2026-11-26 02:07:52;2026-11-26;2;Thursday;mešká 5-14 minút;1;11.11 %;11
+2026-11-26 02:07:52;2026-11-26;2;Thursday;mešká 15-29 minút;0;0.00 %;0
+2026-11-26 02:07:52;2026-11-26;2;Thursday;mešká 30-59 minút;3;33.33 %;33
+2026-11-26 02:07:52;2026-11-26;2;Thursday;mešká 60 a viac minút;4;44.44 %;44
