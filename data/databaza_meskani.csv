@@ -101247,3 +101247,29 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 06:37:53;2026-11-27;6;Friday;mešká 15-29 minút;7;3.85 %;3
 2026-11-27 06:37:53;2026-11-27;6;Friday;mešká 30-59 minút;5;2.75 %;2
 2026-11-27 06:37:53;2026-11-27;6;Friday;mešká 60 a viac minút;3;1.65 %;1
+2026-11-27 06:47:53;2026-11-27;6;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 06:47:53;2026-11-27;6;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 06:47:53;2026-11-27;6;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 06:47:53;2026-11-27;6;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 06:47:53;2026-11-27;6;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 06:47:53;2026-11-27;6;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 1113 minút= 18 hod, 33 min.;2193
+2026-11-27 06:47:53;2026-11-27;6;Friday;RJ 1021 REGIOJETsmer Košice;Markušovceprešiel stanicou pred 10 min.;+ 90 minút= 1 hod, 30 min.;150
+2026-11-27 06:47:53;2026-11-27;6;Friday;R 681 ZEMPLÍNsmer Humenné;Barca St. 1prešiel stanicou pred 2 min.;+ 75 minút= 1 hod, 15 min.;135
+2026-11-27 06:47:53;2026-11-27;6;Friday;RJ 1044 REGIOJETsmer Kúty št. hr. - Praha-Malešice;Veľké Leváreprešiel stanicou pred 12 min.;+ 42 minút;42
+2026-11-27 06:47:53;2026-11-27;6;Friday;R 930 FATRANsmer Žilina;Čremošnéteraz;+ 41 minút;41
+2026-11-27 06:47:53;2026-11-27;6;Friday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Ružomberokodišiel teraz;+ 36 minút;36
+2026-11-27 06:47:53;2026-11-27;6;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Spišské Vlachyteraz;+ 34 minút;34
+2026-11-27 06:47:53;2026-11-27;6;Friday;Os 8502smer Prešov;Kysakodišiel pred 2 min.;+ 28 minút;28
+2026-11-27 06:47:53;2026-11-27;6;Friday;Os 7802smer Svit;Spišské Vlachyteraz;+ 25 minút;25
+2026-11-27 06:47:53;2026-11-27;6;Friday;Os 7803smer Košice;Kostoľany nad Hornádomprišiel teraz;+ 24 minút;24
+2026-11-27 06:47:53;2026-11-27;6;Friday;Os 7807smer Košice;Poprad-Tatryteraz;+ 22 minút;22
+2026-11-27 06:47:53;2026-11-27;6;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Kysakodišiel pred 4 min.;+ 22 minút;22
+2026-11-27 06:47:53;2026-11-27;6;Friday;Ex 641 TATRANsmer Košice;Poprad-Tatryodišiel teraz;+ 22 minút;22
+2026-11-27 06:47:53;2026-11-27;6;Friday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Sládkovičovoprešiel stanicou teraz;+ 17 minút;17
+2026-11-27 06:47:53;2026-11-27;6;Friday;EN 443 SLOVAKIAsmer Humenné;Poprad-Tatryteraz;+ 16 minút;16
+2026-11-27 06:47:53;2026-11-27;6;Friday;R 931 FATRANsmer Banská Bystrica;Diviakyteraz;+ 16 minút;16
+2026-11-27 06:47:53;2026-11-27;6;Friday;mešká do 5 minút;127;71.75 %;71
+2026-11-27 06:47:53;2026-11-27;6;Friday;mešká 5-14 minút;34;19.21 %;19
+2026-11-27 06:47:53;2026-11-27;6;Friday;mešká 15-29 minút;9;5.08 %;5
+2026-11-27 06:47:53;2026-11-27;6;Friday;mešká 30-59 minút;4;2.26 %;2
+2026-11-27 06:47:53;2026-11-27;6;Friday;mešká 60 a viac minút;3;1.69 %;1
