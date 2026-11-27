@@ -100996,3 +100996,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 04:37:54;2026-11-27;4;Friday;mešká 15-29 minút;2;2.11 %;2
 2026-11-27 04:37:54;2026-11-27;4;Friday;mešká 30-59 minút;1;1.05 %;1
 2026-11-27 04:37:54;2026-11-27;4;Friday;mešká 60 a viac minút;4;4.21 %;4
+2026-11-27 04:47:53;2026-11-27;4;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 04:47:53;2026-11-27;4;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 04:47:53;2026-11-27;4;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 04:47:53;2026-11-27;4;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 04:47:53;2026-11-27;4;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 04:47:53;2026-11-27;4;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 993 minút= 16 hod, 33 min.;1953
+2026-11-27 04:47:53;2026-11-27;4;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 667 minút= 11 hod, 7 min.;1327
+2026-11-27 04:47:53;2026-11-27;4;Friday;Os 3039smer Trnava;Trnavateraz;+ 267 minút= 4 hod, 27 min.;507
+2026-11-27 04:47:53;2026-11-27;4;Friday;R 681 ZEMPLÍNsmer Humenné;Poprad-Tatryodišiel teraz;+ 76 minút= 1 hod, 16 min.;136
+2026-11-27 04:47:53;2026-11-27;4;Friday;RJ 1021 REGIOJETsmer Košice;Liptovský Hrádokprešiel stanicou teraz;+ 47 minút;47
+2026-11-27 04:47:53;2026-11-27;4;Friday;REx 7799smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 21 minút;21
+2026-11-27 04:47:53;2026-11-27;4;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Výh. Horná Stredaprešiel stanicou pred 2 min.;+ 19 minút;19
+2026-11-27 04:47:53;2026-11-27;4;Friday;mešká do 5 minút;97;88.99 %;88
+2026-11-27 04:47:53;2026-11-27;4;Friday;mešká 5-14 minút;5;4.59 %;4
+2026-11-27 04:47:53;2026-11-27;4;Friday;mešká 15-29 minút;2;1.83 %;1
+2026-11-27 04:47:53;2026-11-27;4;Friday;mešká 30-59 minút;1;0.92 %;0
+2026-11-27 04:47:53;2026-11-27;4;Friday;mešká 60 a viac minút;4;3.67 %;3
