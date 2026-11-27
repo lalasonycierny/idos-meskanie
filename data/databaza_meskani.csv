@@ -101390,3 +101390,35 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 07:27:54;2026-11-27;7;Friday;mešká 15-29 minút;10;5.62 %;5
 2026-11-27 07:27:54;2026-11-27;7;Friday;mešká 30-59 minút;7;3.93 %;3
 2026-11-27 07:27:54;2026-11-27;7;Friday;mešká 60 a viac minút;4;2.25 %;2
+2026-11-27 07:37:53;2026-11-27;7;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 07:37:53;2026-11-27;7;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 07:37:53;2026-11-27;7;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 07:37:53;2026-11-27;7;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 07:37:53;2026-11-27;7;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 07:37:53;2026-11-27;7;Friday;R 681 ZEMPLÍNsmer Humenné;Trebišovteraz;+ 88 minút= 1 hod, 28 min.;148
+2026-11-27 07:37:53;2026-11-27;7;Friday;RJ 1021 REGIOJETsmer Košice;Kostoľany nad Hornádomprešiel stanicou pred 8 min.;+ 79 minút= 1 hod, 19 min.;139
+2026-11-27 07:37:53;2026-11-27;7;Friday;R 930 FATRANsmer Žilina;Diviakyprešiel stanicou teraz;+ 71 minút= 1 hod, 11 min.;131
+2026-11-27 07:37:53;2026-11-27;7;Friday;R 931 FATRANsmer Banská Bystrica;Diviakyodišiel teraz;+ 62 minút= 1 hod, 2 min.;122
+2026-11-27 07:37:53;2026-11-27;7;Friday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Výh. Gánovceprešiel stanicou teraz;+ 53 minút;53
+2026-11-27 07:37:53;2026-11-27;7;Friday;REx 2504smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 42 minút;42
+2026-11-27 07:37:53;2026-11-27;7;Friday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Košiceteraz;+ 41 minút;41
+2026-11-27 07:37:53;2026-11-27;7;Friday;Os 7802smer Svit;Spišská Nová Vesodišiel pred 10 min.;+ 39 minút;39
+2026-11-27 07:37:53;2026-11-27;7;Friday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Budatín odb.prešiel stanicou pred 4 min.;+ 37 minút;37
+2026-11-27 07:37:53;2026-11-27;7;Friday;Os 7807smer Košice;Výh. Letanovceprešiel stanicou pred 11 min.;+ 33 minút;33
+2026-11-27 07:37:53;2026-11-27;7;Friday;Ex 604 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel teraz;+ 31 minút;31
+2026-11-27 07:37:53;2026-11-27;7;Friday;Ex 641 TATRANsmer Košice;Markušovceprešiel stanicou pred 4 min.;+ 27 minút;27
+2026-11-27 07:37:53;2026-11-27;7;Friday;R 932 FATRANsmer Žilina;Čremošnéodišiel pred 7 min.;+ 25 minút;25
+2026-11-27 07:37:53;2026-11-27;7;Friday;R 960 ZAKARPATIAsmer Čierna nad Tisou št. hr. - MUKACEVO;Čierna nad Tisouprišiel pred 3 min.;+ 23 minút;23
+2026-11-27 07:37:53;2026-11-27;7;Friday;EN 443 SLOVAKIAsmer Humenné;Markušovceteraz;+ 23 minút;23
+2026-11-27 07:37:53;2026-11-27;7;Friday;Os 3965smer Žilina;Žilinaprišiel pred 8 min.;v cieli+ 18 minút;18
+2026-11-27 07:37:53;2026-11-27;7;Friday;Os 6207smer Lučenec;Kriváňodišiel pred 7 min.;+ 17 minút;17
+2026-11-27 07:37:53;2026-11-27;7;Friday;Os 6343smer Fiľakovo;Pršaodišiel teraz;+ 16 minút;16
+2026-11-27 07:37:53;2026-11-27;7;Friday;Os 1334smer Bratislava-Petržalka;Bratislava-Petržalkapred 11 min.;+ 16 minút;16
+2026-11-27 07:37:53;2026-11-27;7;Friday;Os 7843smer Poprad-Tatry;Svitodišiel pred 4 min.;+ 15 minút;15
+2026-11-27 07:37:53;2026-11-27;7;Friday;EN 477 METROPOLsmer Štúrovo št. hr. - Budapest-Nyugati;Štúrovo tranzitná skupinaprešiel stanicou teraz;+ 15 minút;15
+2026-11-27 07:37:53;2026-11-27;7;Friday;R 341 KYSUČANsmer Žilina;Kysucké Nové Mestoprešiel stanicou pred 7 min.;+ 15 minút;15
+2026-11-27 07:37:53;2026-11-27;7;Friday;mešká do 5 minút;106;61.99 %;61
+2026-11-27 07:37:53;2026-11-27;7;Friday;mešká 5-14 minút;43;25.15 %;25
+2026-11-27 07:37:53;2026-11-27;7;Friday;mešká 15-29 minút;11;6.43 %;6
+2026-11-27 07:37:53;2026-11-27;7;Friday;mešká 30-59 minút;7;4.09 %;4
+2026-11-27 07:37:53;2026-11-27;7;Friday;mešká 60 a viac minút;4;2.34 %;2
