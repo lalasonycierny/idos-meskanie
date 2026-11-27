@@ -100933,3 +100933,18 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 03:57:53;2026-11-27;3;Friday;mešká 15-29 minút;0;0.00 %;0
 2026-11-27 03:57:53;2026-11-27;3;Friday;mešká 30-59 minút;1;4.00 %;4
 2026-11-27 03:57:53;2026-11-27;3;Friday;mešká 60 a viac minút;4;16.00 %;16
+2026-11-27 04:07:53;2026-11-27;4;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 04:07:53;2026-11-27;4;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 04:07:53;2026-11-27;4;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 04:07:53;2026-11-27;4;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 04:07:53;2026-11-27;4;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 04:07:53;2026-11-27;4;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 953 minút= 15 hod, 53 min.;1853
+2026-11-27 04:07:53;2026-11-27;4;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 627 minút= 10 hod, 27 min.;1227
+2026-11-27 04:07:53;2026-11-27;4;Friday;Os 3039smer Trnava;Trnavateraz;+ 227 minút= 3 hod, 47 min.;407
+2026-11-27 04:07:53;2026-11-27;4;Friday;R 681 ZEMPLÍNsmer Humenné;Liptovský Mikulášodišiel pred 2 min.;+ 80 minút= 1 hod, 20 min.;140
+2026-11-27 04:07:53;2026-11-27;4;Friday;RJ 1021 REGIOJETsmer Košice;Ľubochňaodišiel teraz;+ 46 minút;46
+2026-11-27 04:07:53;2026-11-27;4;Friday;mešká do 5 minút;37;82.22 %;82
+2026-11-27 04:07:53;2026-11-27;4;Friday;mešká 5-14 minút;3;6.67 %;6
+2026-11-27 04:07:53;2026-11-27;4;Friday;mešká 15-29 minút;0;0.00 %;0
+2026-11-27 04:07:53;2026-11-27;4;Friday;mešká 30-59 minút;1;2.22 %;2
+2026-11-27 04:07:53;2026-11-27;4;Friday;mešká 60 a viac minút;4;8.89 %;8
