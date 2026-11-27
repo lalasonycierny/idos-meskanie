@@ -100783,3 +100783,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 02:27:52;2026-11-27;2;Friday;mešká 15-29 minút;2;25.00 %;25
 2026-11-27 02:27:52;2026-11-27;2;Friday;mešká 30-59 minút;1;12.50 %;12
 2026-11-27 02:27:52;2026-11-27;2;Friday;mešká 60 a viac minút;5;62.50 %;62
+2026-11-27 02:37:55;2026-11-27;2;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 02:37:55;2026-11-27;2;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 02:37:55;2026-11-27;2;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 02:37:55;2026-11-27;2;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 02:37:55;2026-11-27;2;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 02:37:55;2026-11-27;2;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 863 minút= 14 hod, 23 min.;1703
+2026-11-27 02:37:55;2026-11-27;2;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 657 minút= 10 hod, 57 min.;1257
+2026-11-27 02:37:55;2026-11-27;2;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 537 minút= 8 hod, 57 min.;1017
+2026-11-27 02:37:55;2026-11-27;2;Friday;Os 3039smer Trnava;Trnavateraz;+ 137 minút= 2 hod, 17 min.;257
+2026-11-27 02:37:55;2026-11-27;2;Friday;R 681 ZEMPLÍNsmer Humenné;Žilinaprišiel pred 5 min.;+ 68 minút= 1 hod, 8 min.;128
+2026-11-27 02:37:55;2026-11-27;2;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkateraz;+ 36 minút;36
+2026-11-27 02:37:55;2026-11-27;2;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Ružomberokodišiel pred 6 min.;+ 23 minút;23
+2026-11-27 02:37:55;2026-11-27;2;Friday;mešká do 5 minút;0;0.00 %;0
+2026-11-27 02:37:55;2026-11-27;2;Friday;mešká 5-14 minút;0;0.00 %;0
+2026-11-27 02:37:55;2026-11-27;2;Friday;mešká 15-29 minút;1;14.29 %;14
+2026-11-27 02:37:55;2026-11-27;2;Friday;mešká 30-59 minút;1;14.29 %;14
+2026-11-27 02:37:55;2026-11-27;2;Friday;mešká 60 a viac minút;5;71.43 %;71
