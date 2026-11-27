@@ -100800,3 +100800,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 02:37:55;2026-11-27;2;Friday;mešká 15-29 minút;1;14.29 %;14
 2026-11-27 02:37:55;2026-11-27;2;Friday;mešká 30-59 minút;1;14.29 %;14
 2026-11-27 02:37:55;2026-11-27;2;Friday;mešká 60 a viac minút;5;71.43 %;71
+2026-11-27 02:47:52;2026-11-27;2;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 02:47:52;2026-11-27;2;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 02:47:52;2026-11-27;2;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 02:47:52;2026-11-27;2;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 02:47:52;2026-11-27;2;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 02:47:52;2026-11-27;2;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 873 minút= 14 hod, 33 min.;1713
+2026-11-27 02:47:52;2026-11-27;2;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 667 minút= 11 hod, 7 min.;1327
+2026-11-27 02:47:52;2026-11-27;2;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 547 minút= 9 hod, 7 min.;1087
+2026-11-27 02:47:52;2026-11-27;2;Friday;Os 3039smer Trnava;Trnavateraz;+ 147 minút= 2 hod, 27 min.;267
+2026-11-27 02:47:52;2026-11-27;2;Friday;R 681 ZEMPLÍNsmer Humenné;Varínprešiel stanicou teraz;+ 66 minút= 1 hod, 6 min.;126
+2026-11-27 02:47:52;2026-11-27;2;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkapred 4 min.;v cieli+ 35 minút;35
+2026-11-27 02:47:52;2026-11-27;2;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Kraľovanyprišiel teraz;+ 25 minút;25
+2026-11-27 02:47:52;2026-11-27;2;Friday;mešká do 5 minút;0;0.00 %;0
+2026-11-27 02:47:52;2026-11-27;2;Friday;mešká 5-14 minút;0;0.00 %;0
+2026-11-27 02:47:52;2026-11-27;2;Friday;mešká 15-29 minút;1;14.29 %;14
+2026-11-27 02:47:52;2026-11-27;2;Friday;mešká 30-59 minút;1;14.29 %;14
+2026-11-27 02:47:52;2026-11-27;2;Friday;mešká 60 a viac minút;5;71.43 %;71
