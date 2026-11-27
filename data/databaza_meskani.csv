@@ -100886,3 +100886,19 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 03:27:53;2026-11-27;3;Friday;mešká 15-29 minút;1;10.00 %;10
 2026-11-27 03:27:53;2026-11-27;3;Friday;mešká 30-59 minút;1;10.00 %;10
 2026-11-27 03:27:53;2026-11-27;3;Friday;mešká 60 a viac minút;5;50.00 %;50
+2026-11-27 03:37:53;2026-11-27;3;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 03:37:53;2026-11-27;3;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 03:37:53;2026-11-27;3;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 03:37:53;2026-11-27;3;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 03:37:53;2026-11-27;3;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 03:37:53;2026-11-27;3;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 923 minút= 15 hod, 23 min.;1823
+2026-11-27 03:37:53;2026-11-27;3;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcapred 4 min.;+ 713 minút= 11 hod, 53 min.;1373
+2026-11-27 03:37:53;2026-11-27;3;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 597 minút= 9 hod, 57 min.;1137
+2026-11-27 03:37:53;2026-11-27;3;Friday;Os 3039smer Trnava;Trnavateraz;+ 197 minút= 3 hod, 17 min.;377
+2026-11-27 03:37:53;2026-11-27;3;Friday;R 681 ZEMPLÍNsmer Humenné;Ľubochňateraz;+ 85 minút= 1 hod, 25 min.;145
+2026-11-27 03:37:53;2026-11-27;3;Friday;RJ 1021 REGIOJETsmer Košice;Potok odb.prešiel stanicou pred 2 min.;+ 43 minút;43
+2026-11-27 03:37:53;2026-11-27;3;Friday;mešká do 5 minút;7;50.00 %;50
+2026-11-27 03:37:53;2026-11-27;3;Friday;mešká 5-14 minút;1;7.14 %;7
+2026-11-27 03:37:53;2026-11-27;3;Friday;mešká 15-29 minút;0;0.00 %;0
+2026-11-27 03:37:53;2026-11-27;3;Friday;mešká 30-59 minút;1;7.14 %;7
+2026-11-27 03:37:53;2026-11-27;3;Friday;mešká 60 a viac minút;5;35.71 %;35
