@@ -100979,3 +100979,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 04:27:53;2026-11-27;4;Friday;mešká 15-29 minút;1;1.43 %;1
 2026-11-27 04:27:53;2026-11-27;4;Friday;mešká 30-59 minút;1;1.43 %;1
 2026-11-27 04:27:53;2026-11-27;4;Friday;mešká 60 a viac minút;4;5.71 %;5
+2026-11-27 04:37:54;2026-11-27;4;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 04:37:54;2026-11-27;4;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 04:37:54;2026-11-27;4;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 04:37:54;2026-11-27;4;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 04:37:54;2026-11-27;4;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 04:37:54;2026-11-27;4;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 983 minút= 16 hod, 23 min.;1943
+2026-11-27 04:37:54;2026-11-27;4;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 657 minút= 10 hod, 57 min.;1257
+2026-11-27 04:37:54;2026-11-27;4;Friday;Os 3039smer Trnava;Trnavateraz;+ 257 minút= 4 hod, 17 min.;497
+2026-11-27 04:37:54;2026-11-27;4;Friday;R 681 ZEMPLÍNsmer Humenné;Výh. Lučivnáprešiel stanicou teraz;+ 80 minút= 1 hod, 20 min.;140
+2026-11-27 04:37:54;2026-11-27;4;Friday;RJ 1021 REGIOJETsmer Košice;Výh. Paludzaprešiel stanicou pred 6 min.;+ 46 minút;46
+2026-11-27 04:37:54;2026-11-27;4;Friday;REx 7799smer Bratislava-Petržalka;Bratislava-Petržalkapred 6 min.;+ 19 minút;19
+2026-11-27 04:37:54;2026-11-27;4;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Nové Mesto nad Váhomodišiel pred 2 min.;+ 15 minút;15
+2026-11-27 04:37:54;2026-11-27;4;Friday;mešká do 5 minút;85;89.47 %;89
+2026-11-27 04:37:54;2026-11-27;4;Friday;mešká 5-14 minút;3;3.16 %;3
+2026-11-27 04:37:54;2026-11-27;4;Friday;mešká 15-29 minút;2;2.11 %;2
+2026-11-27 04:37:54;2026-11-27;4;Friday;mešká 30-59 minút;1;1.05 %;1
+2026-11-27 04:37:54;2026-11-27;4;Friday;mešká 60 a viac minút;4;4.21 %;4
