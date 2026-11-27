@@ -100748,3 +100748,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 02:07:53;2026-11-27;2;Friday;mešká 15-29 minút;2;20.00 %;20
 2026-11-27 02:07:53;2026-11-27;2;Friday;mešká 30-59 minút;1;10.00 %;10
 2026-11-27 02:07:53;2026-11-27;2;Friday;mešká 60 a viac minút;5;50.00 %;50
+2026-11-27 02:17:53;2026-11-27;2;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 02:17:53;2026-11-27;2;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 02:17:53;2026-11-27;2;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 02:17:53;2026-11-27;2;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 02:17:53;2026-11-27;2;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 02:17:53;2026-11-27;2;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 843 minút= 14 hod, 3 min.;1683
+2026-11-27 02:17:53;2026-11-27;2;Friday;EC 191 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 637 minút= 10 hod, 37 min.;1237
+2026-11-27 02:17:53;2026-11-27;2;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 517 minút= 8 hod, 37 min.;997
+2026-11-27 02:17:53;2026-11-27;2;Friday;Os 3039smer Trnava;Trnavateraz;+ 117 minút= 1 hod, 57 min.;177
+2026-11-27 02:17:53;2026-11-27;2;Friday;R 681 ZEMPLÍNsmer Humenné;Výh. Plevník-Drienovéprešiel stanicou teraz;+ 67 minút= 1 hod, 7 min.;127
+2026-11-27 02:17:53;2026-11-27;2;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Liptovský Mikulášodišiel pred 6 min.;+ 23 minút;23
+2026-11-27 02:17:53;2026-11-27;2;Friday;REx 7781smer Bratislava-Petržalka;Bratislava-Petržalkapred 10 min.;+ 18 minút;18
+2026-11-27 02:17:53;2026-11-27;2;Friday;mešká do 5 minút;1;12.50 %;12
+2026-11-27 02:17:53;2026-11-27;2;Friday;mešká 5-14 minút;0;0.00 %;0
+2026-11-27 02:17:53;2026-11-27;2;Friday;mešká 15-29 minút;2;25.00 %;25
+2026-11-27 02:17:53;2026-11-27;2;Friday;mešká 30-59 minút;0;0.00 %;0
+2026-11-27 02:17:53;2026-11-27;2;Friday;mešká 60 a viac minút;5;62.50 %;62
