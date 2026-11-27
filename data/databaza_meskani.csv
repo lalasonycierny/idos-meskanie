@@ -101013,3 +101013,21 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-27 04:47:53;2026-11-27;4;Friday;mešká 15-29 minút;2;1.83 %;1
 2026-11-27 04:47:53;2026-11-27;4;Friday;mešká 30-59 minút;1;0.92 %;0
 2026-11-27 04:47:53;2026-11-27;4;Friday;mešká 60 a viac minút;4;3.67 %;3
+2026-11-27 04:57:53;2026-11-27;4;Friday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 8 min.;8
+2026-11-27 04:57:53;2026-11-27;4;Friday;Ex 621 TATRAN;Košice;v cieli meškal 51 min.;51
+2026-11-27 04:57:53;2026-11-27;4;Friday;Ex 618 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-27 04:57:53;2026-11-27;4;Friday;Ex 614 TATRAN;Bratislava hlavná stanica;v cieli meškal 19 min.;19
+2026-11-27 04:57:53;2026-11-27;4;Friday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-27 04:57:53;2026-11-27;4;Friday;Os 1340smer Bratislava-Nové Mesto;Bratislava ústredná nákladná stanicateraz;+ 1003 minút= 16 hod, 43 min.;1963
+2026-11-27 04:57:53;2026-11-27;4;Friday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 677 minút= 11 hod, 17 min.;1337
+2026-11-27 04:57:53;2026-11-27;4;Friday;Os 3039smer Trnava;Trnavateraz;+ 277 minút= 4 hod, 37 min.;517
+2026-11-27 04:57:53;2026-11-27;4;Friday;R 681 ZEMPLÍNsmer Humenné;Výh. Gánovceprešiel stanicou pred 3 min.;+ 77 minút= 1 hod, 17 min.;137
+2026-11-27 04:57:53;2026-11-27;4;Friday;RJ 1021 REGIOJETsmer Košice;Východnáprešiel stanicou teraz;+ 47 minút;47
+2026-11-27 04:57:53;2026-11-27;4;Friday;REx 7799smer Bratislava-Petržalka;Bratislava-Petržalkaprišiel pred 8 min.;v cieli+ 23 minút;23
+2026-11-27 04:57:53;2026-11-27;4;Friday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Veľké Kostoľanyprišiel teraz;+ 18 minút;18
+2026-11-27 04:57:53;2026-11-27;4;Friday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Markušovceprešiel stanicou pred 4 min.;+ 18 minút;18
+2026-11-27 04:57:53;2026-11-27;4;Friday;mešká do 5 minút;105;86.78 %;86
+2026-11-27 04:57:53;2026-11-27;4;Friday;mešká 5-14 minút;8;6.61 %;6
+2026-11-27 04:57:53;2026-11-27;4;Friday;mešká 15-29 minút;3;2.48 %;2
+2026-11-27 04:57:53;2026-11-27;4;Friday;mešká 30-59 minút;1;0.83 %;0
+2026-11-27 04:57:53;2026-11-27;4;Friday;mešká 60 a viac minút;4;3.31 %;3
