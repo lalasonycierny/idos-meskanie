@@ -106361,3 +106361,26 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-28 07:07:53;2026-11-28;7;Saturday;mešká 15-29 minút;5;3.94 %;3
 2026-11-28 07:07:53;2026-11-28;7;Saturday;mešká 30-59 minút;8;6.30 %;6
 2026-11-28 07:07:53;2026-11-28;7;Saturday;mešká 60 a viac minút;3;2.36 %;2
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 15 min.;15
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-28 07:17:52;2026-11-28;7;Saturday;EC 190 HORNÁDsmer Košice;Čaňateraz;+ 796 minút= 13 hod, 16 min.;1576
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Os 6102smer Horná Štubňa;Hronská Dúbravateraz;+ 92 minút= 1 hod, 32 min.;152
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Os 6107smer Zvolen osobná stanica;Horná Štubňapred 4 min.;+ 70 minút= 1 hod, 10 min.;130
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Markušovceprešiel stanicou teraz;+ 54 minút;54
+2026-11-28 07:17:52;2026-11-28;7;Saturday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Vrútky nákladná stanicaprešiel stanicou teraz;+ 42 minút;42
+2026-11-28 07:17:52;2026-11-28;7;Saturday;REx 2504smer Bratislava hlavná stanica;Devínska Nová Vespred 9 min.;+ 40 minút;40
+2026-11-28 07:17:52;2026-11-28;7;Saturday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Košicepred 14 min.;+ 39 minút;39
+2026-11-28 07:17:52;2026-11-28;7;Saturday;R 681 ZEMPLÍNsmer Humenné;Strážskeprišiel teraz;+ 34 minút;34
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Os 7803smer Košice;Košiceprišiel pred 14 min.;v cieli+ 29 minút;29
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Ex 600 TATRANsmer Bratislava hlavná stanica;Kraľovanyodišiel pred 3 min.;+ 20 minút;20
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Os 7807smer Košice;Výh. Letanovceprešiel stanicou pred 8 min.;+ 17 minút;17
+2026-11-28 07:17:52;2026-11-28;7;Saturday;R 10704 POVAŽANsmer Bratislava hlavná stanica;Výh. Svätý Jurprešiel stanicou pred 3 min.;+ 15 minút;15
+2026-11-28 07:17:52;2026-11-28;7;Saturday;Os 7802smer Svit;Vydrníkprišiel teraz;+ 15 minút;15
+2026-11-28 07:17:52;2026-11-28;7;Saturday;mešká do 5 minút;94;71.76 %;71
+2026-11-28 07:17:52;2026-11-28;7;Saturday;mešká 5-14 minút;24;18.32 %;18
+2026-11-28 07:17:52;2026-11-28;7;Saturday;mešká 15-29 minút;5;3.82 %;3
+2026-11-28 07:17:52;2026-11-28;7;Saturday;mešká 30-59 minút;5;3.82 %;3
+2026-11-28 07:17:52;2026-11-28;7;Saturday;mešká 60 a viac minút;3;2.29 %;2
