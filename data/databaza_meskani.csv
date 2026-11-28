@@ -106066,3 +106066,20 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-28 04:57:52;2026-11-28;4;Saturday;mešká 15-29 minút;3;3.53 %;3
 2026-11-28 04:57:52;2026-11-28;4;Saturday;mešká 30-59 minút;1;1.18 %;1
 2026-11-28 04:57:52;2026-11-28;4;Saturday;mešká 60 a viac minút;3;3.53 %;3
+2026-11-28 05:07:52;2026-11-28;5;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-28 05:07:52;2026-11-28;5;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 15 min.;15
+2026-11-28 05:07:52;2026-11-28;5;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-28 05:07:52;2026-11-28;5;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-28 05:07:52;2026-11-28;5;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-28 05:07:52;2026-11-28;5;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 687 minút= 11 hod, 27 min.;1347
+2026-11-28 05:07:52;2026-11-28;5;Saturday;EC 190 HORNÁDsmer Košice;Čaňateraz;+ 666 minút= 11 hod, 6 min.;1326
+2026-11-28 05:07:52;2026-11-28;5;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Trenčianska Tepláodišiel pred 5 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-28 05:07:52;2026-11-28;5;Saturday;R 681 ZEMPLÍNsmer Humenné;Margecanyodišiel pred 4 min.;+ 44 minút;44
+2026-11-28 05:07:52;2026-11-28;5;Saturday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Markušovceprešiel stanicou pred 3 min.;+ 29 minút;29
+2026-11-28 05:07:52;2026-11-28;5;Saturday;RJ 1021 REGIOJETsmer Košice;Vydrníkprešiel stanicou teraz;+ 22 minút;22
+2026-11-28 05:07:52;2026-11-28;5;Saturday;Os 7870smer Svit;Spišské Vlachyodišiel pred 12 min.;+ 17 minút;17
+2026-11-28 05:07:52;2026-11-28;5;Saturday;mešká do 5 minút;78;83.87 %;83
+2026-11-28 05:07:52;2026-11-28;5;Saturday;mešká 5-14 minút;8;8.60 %;8
+2026-11-28 05:07:52;2026-11-28;5;Saturday;mešká 15-29 minút;3;3.23 %;3
+2026-11-28 05:07:52;2026-11-28;5;Saturday;mešká 30-59 minút;1;1.08 %;1
+2026-11-28 05:07:52;2026-11-28;5;Saturday;mešká 60 a viac minút;3;3.23 %;3
