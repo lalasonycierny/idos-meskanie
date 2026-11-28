@@ -106659,3 +106659,34 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-28 09:07:52;2026-11-28;9;Saturday;mešká 15-29 minút;7;5.65 %;5
 2026-11-28 09:07:52;2026-11-28;9;Saturday;mešká 30-59 minút;4;3.23 %;3
 2026-11-28 09:07:52;2026-11-28;9;Saturday;mešká 60 a viac minút;5;4.03 %;4
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 610 TATRAN;Košice;mešká 24 min.;24
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 15 min.;15
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-28 09:17:53;2026-11-28;9;Saturday;EC 190 HORNÁDsmer Košice;Čaňateraz;+ 916 minút= 15 hod, 16 min.;1816
+2026-11-28 09:17:53;2026-11-28;9;Saturday;REx 2505smer Devínska Nová Ves št. hr. - Wien Hauptbahnhof (in Wbf;Bratislava hlavná stanicateraz;+ 147 minút= 2 hod, 27 min.;267
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 609 TATRANsmer Košice;Trnava nákladná stanicaprišiel teraz;+ 90 minút= 1 hod, 30 min.;150
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Os 6107smer Zvolen osobná stanica;Bartošova Lehôtkaodišiel pred 6 min.;+ 87 minút= 1 hod, 27 min.;147
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Kraľovanyprešiel stanicou teraz;+ 71 minút= 1 hod, 11 min.;131
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 611 TATRANsmer Košice;Odb. Vinohradyprešiel stanicou pred 4 min.;+ 48 minút;48
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 608 TATRANsmer Bratislava hlavná stanica;Spišské Vlachyprešiel stanicou pred 9 min.;+ 33 minút;33
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Os 7807smer Košice;Košicepred 9 min.;v cieli+ 31 minút;31
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 643 TATRANsmer Košice;Malá Lodinaprešiel stanicou pred 7 min.;+ 30 minút;30
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Os 7880smer Liptovský Mikuláš;Liptovský Mikulášprišiel pred 9 min.;v cieli+ 25 minút;25
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 610 TATRANsmer Bratislava hlavná stanica;Košiceteraz;+ 24 minút;24
+2026-11-28 09:17:53;2026-11-28;9;Saturday;R 912 GEMERANsmer Zvolen osobná stanica;Lenartovceodišiel pred 3 min.;+ 22 minút;22
+2026-11-28 09:17:53;2026-11-28;9;Saturday;REx 2508smer Bratislava hlavná stanica;Devínska Nová Vesteraz;+ 22 minút;22
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Os 7806smer Svit;Spišské Vlachyodišiel pred 13 min.;+ 21 minút;21
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Os 4808smer Nové Zámky;Nové Zámkyteraz;+ 19 minút;19
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Os 8508smer Prešov;Košiceteraz;+ 19 minút;19
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Os 8509smer Čierna nad Tisou;Košiceteraz;+ 18 minút;18
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Ex 604 TATRANsmer Bratislava hlavná stanica;Kraľovanyodišiel pred 4 min.;+ 18 minút;18
+2026-11-28 09:17:53;2026-11-28;9;Saturday;R 10711 POVAŽANsmer Púchov;Výh. Svätý Jurprešiel stanicou teraz;+ 16 minút;16
+2026-11-28 09:17:53;2026-11-28;9;Saturday;REx 1948smer Lipany;Kysakodišiel teraz;+ 16 minút;16
+2026-11-28 09:17:53;2026-11-28;9;Saturday;Os 4811smer Komárno;Nové Zámkypred 5 min.;+ 15 minút;15
+2026-11-28 09:17:53;2026-11-28;9;Saturday;mešká do 5 minút;79;62.20 %;62
+2026-11-28 09:17:53;2026-11-28;9;Saturday;mešká 5-14 minút;27;21.26 %;21
+2026-11-28 09:17:53;2026-11-28;9;Saturday;mešká 15-29 minút;12;9.45 %;9
+2026-11-28 09:17:53;2026-11-28;9;Saturday;mešká 30-59 minút;4;3.15 %;3
+2026-11-28 09:17:53;2026-11-28;9;Saturday;mešká 60 a viac minút;5;3.94 %;3
