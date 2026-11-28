@@ -106215,3 +106215,28 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-28 06:07:52;2026-11-28;6;Saturday;mešká 15-29 minút;11;9.82 %;9
 2026-11-28 06:07:52;2026-11-28;6;Saturday;mešká 30-59 minút;3;2.68 %;2
 2026-11-28 06:07:52;2026-11-28;6;Saturday;mešká 60 a viac minút;2;1.79 %;1
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 15 min.;15
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-28 06:17:52;2026-11-28;6;Saturday;EC 190 HORNÁDsmer Košice;Čaňateraz;+ 736 minút= 12 hod, 16 min.;1456
+2026-11-28 06:17:52;2026-11-28;6;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Trnava nákladná stanicaprešiel stanicou pred 2 min.;+ 74 minút= 1 hod, 14 min.;134
+2026-11-28 06:17:52;2026-11-28;6;Saturday;REx 7784smer Bratislava-Petržalka št. - Wien Hauptbahnhof (in Wbf;Bratislava-Petržalkateraz;+ 61 minút= 1 hod, 1 min.;121
+2026-11-28 06:17:52;2026-11-28;6;Saturday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Východnáprešiel stanicou pred 4 min.;+ 39 minút;39
+2026-11-28 06:17:52;2026-11-28;6;Saturday;RJ 1044 REGIOJETsmer Kúty št. hr. - Praha-Malešice;Zohorprešiel stanicou pred 7 min.;+ 32 minút;32
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Os 6102smer Horná Štubňa;Hronská Dúbravateraz;+ 32 minút;32
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Os 3241smer Púchov;Púchovteraz;+ 31 minút;31
+2026-11-28 06:17:52;2026-11-28;6;Saturday;R 681 ZEMPLÍNsmer Humenné;Slanecprešiel stanicou teraz;+ 29 minút;29
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Kysakteraz;+ 28 minút;28
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Os 7803smer Košice;Krompachyodišiel pred 6 min.;+ 26 minút;26
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Os 8580smer Prešov;Košiceprišiel pred 2 min.;+ 26 minút;26
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Os 7870smer Svit;Svitprišiel pred 7 min.;v cieli+ 23 minút;23
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Ex 600 TATRANsmer Bratislava hlavná stanica;Štrbapred 9 min.;+ 18 minút;18
+2026-11-28 06:17:52;2026-11-28;6;Saturday;REx 1780smer Banská Bystrica;Margecanypred 11 min.;+ 15 minút;15
+2026-11-28 06:17:52;2026-11-28;6;Saturday;Os 5405smer Trenčianska Teplá;Trenčianska Tepláprišiel pred 4 min.;v cieli+ 15 minút;15
+2026-11-28 06:17:52;2026-11-28;6;Saturday;mešká do 5 minút;84;71.19 %;71
+2026-11-28 06:17:52;2026-11-28;6;Saturday;mešká 5-14 minút;19;16.10 %;16
+2026-11-28 06:17:52;2026-11-28;6;Saturday;mešká 15-29 minút;8;6.78 %;6
+2026-11-28 06:17:52;2026-11-28;6;Saturday;mešká 30-59 minút;4;3.39 %;3
+2026-11-28 06:17:52;2026-11-28;6;Saturday;mešká 60 a viac minút;3;2.54 %;2
