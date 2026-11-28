@@ -106102,3 +106102,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-28 05:17:54;2026-11-28;5;Saturday;mešká 15-29 minút;6;5.94 %;5
 2026-11-28 05:17:54;2026-11-28;5;Saturday;mešká 30-59 minút;1;0.99 %;0
 2026-11-28 05:17:54;2026-11-28;5;Saturday;mešká 60 a viac minút;3;2.97 %;2
+2026-11-28 05:27:52;2026-11-28;5;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-28 05:27:52;2026-11-28;5;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 15 min.;15
+2026-11-28 05:27:52;2026-11-28;5;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-28 05:27:52;2026-11-28;5;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-28 05:27:52;2026-11-28;5;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-28 05:27:52;2026-11-28;5;Saturday;EC 193 HORNÁDsmer Čaňa št. hr. - Budapest-Keleti;Barcateraz;+ 707 minút= 11 hod, 47 min.;1367
+2026-11-28 05:27:52;2026-11-28;5;Saturday;EC 190 HORNÁDsmer Košice;Čaňateraz;+ 686 minút= 11 hod, 26 min.;1346
+2026-11-28 05:27:52;2026-11-28;5;Saturday;R 680 ZEMPLÍNsmer Bratislava hlavná stanica;Nové Mesto nad Váhomprišiel pred 2 min.;+ 66 minút= 1 hod, 6 min.;126
+2026-11-28 05:27:52;2026-11-28;5;Saturday;R 681 ZEMPLÍNsmer Humenné;Kysakodišiel pred 3 min.;+ 42 minút;42
+2026-11-28 05:27:52;2026-11-28;5;Saturday;REx 2501smer Devínska Nová Ves št. hr. - Wien Hauptbahnhof (in Wbf;Bratislava-Lamačteraz;+ 31 minút;31
+2026-11-28 05:27:52;2026-11-28;5;Saturday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Vydrníkprešiel stanicou pred 5 min.;+ 27 minút;27
+2026-11-28 05:27:52;2026-11-28;5;Saturday;Os 7870smer Svit;Spišská Nová Vesteraz;+ 26 minút;26
+2026-11-28 05:27:52;2026-11-28;5;Saturday;Ex 600 TATRANsmer Bratislava hlavná stanica;Spišská Nová Vesodišiel teraz;+ 21 minút;21
+2026-11-28 05:27:52;2026-11-28;5;Saturday;RJ 1021 REGIOJETsmer Košice;Spišská Nová Vesodišiel pred 10 min.;+ 19 minút;19
+2026-11-28 05:27:52;2026-11-28;5;Saturday;R 10700 POVAŽANsmer Bratislava hlavná stanica;Výh. Svätý Jurprešiel stanicou pred 4 min.;+ 16 minút;16
+2026-11-28 05:27:52;2026-11-28;5;Saturday;mešká do 5 minút;77;79.38 %;79
+2026-11-28 05:27:52;2026-11-28;5;Saturday;mešká 5-14 minút;10;10.31 %;10
+2026-11-28 05:27:52;2026-11-28;5;Saturday;mešká 15-29 minút;5;5.15 %;5
+2026-11-28 05:27:52;2026-11-28;5;Saturday;mešká 30-59 minút;2;2.06 %;2
+2026-11-28 05:27:52;2026-11-28;5;Saturday;mešká 60 a viac minút;3;3.09 %;3
