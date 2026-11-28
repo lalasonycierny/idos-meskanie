@@ -106384,3 +106384,23 @@ Timestamp;Datum;Hodina;Den_V_Tyzdnu;Vlak;Stanica_Poloha;Meskanie_Text;Meskanie_M
 2026-11-28 07:17:52;2026-11-28;7;Saturday;mešká 15-29 minút;5;3.82 %;3
 2026-11-28 07:17:52;2026-11-28;7;Saturday;mešká 30-59 minút;5;3.82 %;3
 2026-11-28 07:17:52;2026-11-28;7;Saturday;mešká 60 a viac minút;3;2.29 %;2
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Ex 610 TATRAN;Bratislava hlavná stanica;v cieli meškal 21 min.;21
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Ex 621 TATRAN;Košice;v cieli meškal 15 min.;15
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Ex 618 TATRAN;Bratislava hlavná stanica;v cieli meškal 6 min.;6
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Ex 614 TATRAN;Bratislava hlavná stanica;prišiel načas;0
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Ex 620 TATRAN;Bratislava hlavná stanica;v cieli meškal 1 min.;1
+2026-11-28 07:27:53;2026-11-28;7;Saturday;EC 190 HORNÁDsmer Košice;Čaňateraz;+ 806 minút= 13 hod, 26 min.;1586
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Os 6102smer Horná Štubňa;Hronská Dúbravaodišiel teraz;+ 100 minút= 1 hod, 40 min.;160
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Os 6107smer Zvolen osobná stanica;Horná Štubňapred 14 min.;+ 70 minút= 1 hod, 10 min.;130
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Ex 502 KRIVÁŇsmer Bratislava hlavná stanica;Spišská Nová Vesteraz;+ 60 minút= 1 hod, 0 min.;120
+2026-11-28 07:27:53;2026-11-28;7;Saturday;RJ 1008 REGIOJETsmer Čadca št. hr. - Praha-Malešice;Potok odb.prešiel stanicou teraz;+ 42 minút;42
+2026-11-28 07:27:53;2026-11-28;7;Saturday;R 681 ZEMPLÍNsmer Humenné;Humennéprišiel pred 2 min.;v cieli+ 26 minút;26
+2026-11-28 07:27:53;2026-11-28;7;Saturday;RJ 1222 REGIOJETsmer Čierna nad Tisou št. hr.;Krásna nad Hornádomprešiel stanicou teraz;+ 24 minút;24
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Ex 600 TATRANsmer Bratislava hlavná stanica;Vrútkyprišiel teraz;+ 20 minút;20
+2026-11-28 07:27:53;2026-11-28;7;Saturday;Os 7802smer Svit;Vydrníkprišiel pred 11 min.;+ 15 minút;15
+2026-11-28 07:27:53;2026-11-28;7;Saturday;R 10704 POVAŽANsmer Bratislava hlavná stanica;Odb. Vinohradyprešiel stanicou pred 6 min.;+ 15 minút;15
+2026-11-28 07:27:53;2026-11-28;7;Saturday;mešká do 5 minút;97;75.78 %;75
+2026-11-28 07:27:53;2026-11-28;7;Saturday;mešká 5-14 minút;21;16.41 %;16
+2026-11-28 07:27:53;2026-11-28;7;Saturday;mešká 15-29 minút;5;3.91 %;3
+2026-11-28 07:27:53;2026-11-28;7;Saturday;mešká 30-59 minút;1;0.78 %;0
+2026-11-28 07:27:53;2026-11-28;7;Saturday;mešká 60 a viac minút;4;3.13 %;3
